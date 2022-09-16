@@ -1,13 +1,13 @@
-### [Structure](CStructure)
+### [Structure](CStructure.md)
 
-### [Structure Array](CStructureArray)
+### [Structure Array](CStructureArray.md)
 
-### [Structure Function](CStructureFunction)
+### [Structure Function](CStructureFunction.md)
 
-### [Structure Pointers](CStructurePointers)
+### [Structure Pointers](CStructurePointers.md)
 
-### [Structure Reference](CStructureReference)
+### [Structure Reference](CStructureReference.md)
 
-### [Structure Return](CStructureReturn)
+### [Structure Return](CStructureReturn.md)
 
-### [Structure Malloc](CStructureMalloc)
+### [Structure Malloc](CStructureMalloc.md)

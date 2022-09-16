@@ -1,11 +1,11 @@
 #C #Cmacros #Cstrings 
 
 ### Predefined Macros
-- **[date](CMacrodate)**
-- **[file](CMacrofile)**
-- **[line](CMacroline)**
-- **[stdc](CMacrostdc)**
-- **[time](CMacrotime)**
+- **[date](CMacrodate.md)**
+- **[file](CMacrofile.md)**
+- **[line](CMacroline.md)**
+- **[stdc](CMacrostdc.md)**
+- **[time](CMacrotime.md)**
 
 ### `Cenum`
 #CdataType

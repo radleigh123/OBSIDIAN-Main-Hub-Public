@@ -1,7 +1,7 @@
-### [Pointers](CPointers)
+### [Pointers](CPointers.md)
 
-### [Address Pointers](CAddressPointers)
+### [Address Pointers](CAddressPointers.md)
 
-### [Pointer to Pointer](CPointertoPointer)
+### [Pointer to Pointer](CPointertoPointer.md)
 
-### [Array Pointers](CArrayPointers)
+### [Array Pointers](CArrayPointers.md)

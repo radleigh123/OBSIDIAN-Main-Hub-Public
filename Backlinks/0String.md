@@ -1,13 +1,13 @@
 ### [Strings](CStrings)
 
-### [String Pointers](CStringPointers)
+### [String Pointers](CStringPointers.md)
 
-### [String Functions](CStringFunctions)
+### [String Functions](CStringFunctions.md)
 
-### [String Concatenate](Cstrcar)
+### [String Concatenate](Cstrcar.md)
 
-### [String Compare](CSstrcmp)
+### [String Compare](CSstrcmp.md)
 
-### [String Copy](Cstrcpy)
+### [String Copy](Cstrcpy.md)
 
-### [String Calculate Length](Cstrlen)
+### [String Calculate Length](Cstrlen.md)

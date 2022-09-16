@@ -1,10 +1,10 @@
 ### Binary File
-- **[Read Binary](CReadBinary)**
-- **[Write Binary](CWriteBinary)**
+- **[Read Binary](CReadBinary.md)**
+- **[Write Binary](CWriteBinary.md)**
 
 ### Text File
-- **[Read Text](CReadText)**
-- **[Write Text](CWriteText)**
+- **[Read Text](CReadText.md)**
+- **[Write Text](CWriteText.md)**
 
 ### Seek
 #C #CFileHandling 

@@ -6,23 +6,13 @@
       {
         "id": "f919b8761bf4ae88",
         "type": "leaf",
-        "dimension": 38.701298701298704,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backlinks/PSYCHPrelimCh1.md",
+            "file": "Backlinks/CAddressPointers.md",
             "mode": "preview",
             "source": false
           }
-        }
-      },
-      {
-        "id": "83d12949831f0e24",
-        "type": "leaf",
-        "dimension": 61.298701298701296,
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -71,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/PSYCHPrelimCh1.md",
+                "file": "Backlinks/CAddressPointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/PSYCHPrelimCh1.md",
+                "file": "Backlinks/CAddressPointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/PSYCHPrelimCh1.md"
+                "file": "Backlinks/CAddressPointers.md"
               }
             }
           },
@@ -148,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f919b8761bf4ae88",
+  "active": "24b24a765d577cb1",
   "lastOpenFiles": [
-    "0BSIT/Subjects/PSYCH101.md",
-    "Backlinks/PSYCHJOHARI.md",
+    "Backlinks/CConstantVariable.md",
+    "Backlinks/CBreak&Continue.md",
+    "Backlinks/CArray.md",
+    "Backlinks/CArrayPointers.md",
+    "Backlinks/CAddressPointers.md",
     "0BSIT/MAINBSIT.md",
-    "0BSIT/Subjects/COMPROG11LEC.md",
-    "0CODE/Languages/C Course/Updated cProgram/Control Flow/RootsQuadratic.md",
-    "0CODE/Languages/C Course/Updated cProgram/Control Flow/LeapYear.md",
-    "0CODE/Languages/C Course/Updated cProgram/Control Flow/FindLCM.md",
-    "0CODE/Languages/C Course/Updated cProgram/Control Flow/FindGCD.md",
-    "0CODE/Languages/C Course/Updated cProgram/Control Flow/Fibonacci.md",
-    "0CODE/Languages/C Course/Updated cProgram/Control Flow/FactorialNumber.md"
+    "0BSIT/Subjects/PSYCH101.md",
+    "Backlinks/PSYCHPrelimCh1.md",
+    "Backlinks/PSYCHJOHARI.md",
+    "0BSIT/Subjects/COMPROG11LEC.md"
   ]
 }

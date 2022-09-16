@@ -1,11 +1,11 @@
-### [Arrays](CArray)
+### [Arrays](CArray.md)
 
-### [Ternary Operation](CTernaryOperation)
+### [Ternary Operation](CTernaryOperation.md)
 
-### [Constant Variable](CConstantVariable)
+### [Constant Variable](CConstantVariable.md)
 
-### [Recursion](CRecursion)
+### [Recursion](CRecursion.md)
 
-### [User Defined Function](CFunction)
+### [User Defined Function](CFunction.md)
 
-### [Void Function](CFunctionVoid)
+### [Void Function](CFunctionVoid.md)
