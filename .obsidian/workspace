@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5b2de244b80f4ccf",
+        "id": "92d2fe8abe0ef769",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
@@ -134,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b2de244b80f4ccf",
+  "active": "92d2fe8abe0ef769",
   "lastOpenFiles": [
-    "0NOTES.md",
-    "0HEADQUARTERS.md",
-    "0CODE/MAINCODE.md",
     "0BSIT/MAINBSIT.md",
-    "0CODE/Languages/C.md",
-    "Backlinks/Cstrings.md",
-    "Backlinks/CSTRINGstoringstring.md",
-    "Backlinks/CSTRINGoperationstring.md",
-    "Backlinks/CSTRINGbasic.md",
-    "0BSIT/Subjects/ST101.md"
+    "0BSIT/Subjects/WEBDEV11LEC.md",
+    "Backlinks/HTML.md",
+    "0BSIT/Subjects/HUM101.md",
+    "0BSIT/Subjects/COMPROG11LEC.md",
+    "Backlinks/HUMintro.md",
+    "0HEADQUARTERS.md",
+    "0NOTES.md",
+    "0CODE/MAINCODE.md",
+    "Excalidraw/Drawing 09-16-22.excalidraw.md"
   ]
 }
