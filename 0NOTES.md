@@ -18,6 +18,6 @@ Em Beihold - Numb Little Bug
 - [ ] Your notes from cellphone
 - [ ] Read it later app
 
-## [College Notes](main)
+## [College Notes](main.md)
 
-## [C Language](mainC)
+## [C Language](C.md)

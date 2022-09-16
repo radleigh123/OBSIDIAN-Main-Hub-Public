@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8deb72fb0f89d5",
+        "id": "a224298be1c2bb5b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TEST123/TESTTTTTTT.md",
-            "mode": "source",
+            "file": "0NOTES.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#subjectHUB",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEST123/TESTTTTTTT.md",
+                "file": "0NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEST123/TESTTTTTTT.md",
+                "file": "0NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEST123/TESTTTTTTT.md"
+                "file": "0NOTES.md"
               }
             }
           },
@@ -136,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24b24a765d577cb1",
+  "active": "a224298be1c2bb5b",
   "lastOpenFiles": [
+    "Backlinks/pictureprogramming.md",
     "0NOTES.md",
-    "1BSIT-1I/main.md",
-    "COMPROG11LEC.md",
-    "COMPROGPrelimCh2.md",
-    "FlowchartDiamond.md",
-    "PSYCH101.md",
-    "COMPROGPrelimCh1.md",
-    "ST101.md",
-    "1BSIT-1I/SUBJECTS/ST101/STintro.md",
-    "IT.md"
+    "0CODE/C.md",
+    "0BSIT-1I/COMPROG11LAB.md",
+    "0BSIT-1I/INTCOM11.md",
+    "0BSIT-1I/WEBDEV11LAB.md",
+    "0BSIT-1I/WEBDEV11LEC.md",
+    "0BSIT-1I/COMPROG11LEC.md",
+    "Backlinks/COMPROG11LAB.md",
+    "Backlinks/COMPROG11LEC.md"
   ]
 }

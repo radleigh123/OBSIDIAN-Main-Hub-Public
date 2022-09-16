@@ -1,4 +1,0 @@
-
-
----
-**[Back](COMPROGPrelimCh2)**
