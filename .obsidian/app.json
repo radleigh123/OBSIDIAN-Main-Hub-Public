@@ -4,5 +4,6 @@
   "communityPluginSortOrder": "download",
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "attachmentFolderPath": "Backlinks"
 }

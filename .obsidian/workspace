@@ -4,15 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "df39563ab7913181",
+        "id": "f919b8761bf4ae88",
         "type": "leaf",
+        "dimension": 38.701298701298704,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md",
+            "file": "Backlinks/PSYCHPrelimCh1.md",
             "mode": "preview",
             "source": false
           }
+        }
+      },
+      {
+        "id": "83d12949831f0e24",
+        "type": "leaf",
+        "dimension": 61.298701298701296,
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "tag:#Cmemoryallocation",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md",
+                "file": "Backlinks/PSYCHPrelimCh1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md",
+                "file": "Backlinks/PSYCHPrelimCh1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md"
+                "file": "Backlinks/PSYCHPrelimCh1.md"
               }
             }
           },
@@ -129,24 +140,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "df39563ab7913181",
+  "active": "f919b8761bf4ae88",
   "lastOpenFiles": [
-    "0CODE/Languages/C Course/C Learn/Pointers/PointertoPointer.md",
-    "0CODE/Languages/C Course/C Learn/Pointers/FunctionPointers.md",
-    "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md",
-    "0CODE/Languages/C Course/C Learn/Pointers/ArrayPointers.md",
-    "0CODE/Languages/C Course/C Learn/Pointers/AddressPointers.md",
-    "0CODE/Languages/C Course/C Learn.md",
-    "Backlinks/WEBDEVintro.md",
-    "Backlinks/URL.md",
-    "0CODE/Languages/C.md",
-    "0CODE/MAINCODE.md"
+    "0BSIT/Subjects/PSYCH101.md",
+    "Backlinks/PSYCHJOHARI.md",
+    "0BSIT/MAINBSIT.md",
+    "0BSIT/Subjects/COMPROG11LEC.md",
+    "0CODE/Languages/C Course/Updated cProgram/Control Flow/RootsQuadratic.md",
+    "0CODE/Languages/C Course/Updated cProgram/Control Flow/LeapYear.md",
+    "0CODE/Languages/C Course/Updated cProgram/Control Flow/FindLCM.md",
+    "0CODE/Languages/C Course/Updated cProgram/Control Flow/FindGCD.md",
+    "0CODE/Languages/C Course/Updated cProgram/Control Flow/Fibonacci.md",
+    "0CODE/Languages/C Course/Updated cProgram/Control Flow/FactorialNumber.md"
   ]
 }

@@ -1,5 +1,5 @@
 ## Malloc
-#Cmemoryallocation #Cmalloc
+#C #Cmemoryallocation #Cmalloc
 
 ```C
 #include<stdio.h>

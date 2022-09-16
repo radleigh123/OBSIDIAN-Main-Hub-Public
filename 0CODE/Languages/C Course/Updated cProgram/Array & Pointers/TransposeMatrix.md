@@ -1,3 +1,5 @@
+#C #Carrays #Carray2D #Cloop 
+
 ```C
 // Program to find the transpose of a matrix
 #include<stdio.h>

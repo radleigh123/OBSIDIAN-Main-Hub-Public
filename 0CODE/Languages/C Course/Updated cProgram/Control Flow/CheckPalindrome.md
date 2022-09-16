@@ -1,3 +1,5 @@
+#C #Cloop 
+
 ```C
 // An integer is a palindrome if the reverse of that number is equal to the original number.
 #include<stdio.h>

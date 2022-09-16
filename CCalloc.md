@@ -1,5 +1,5 @@
 ## Calloc
-#Cmemoryallocation #Cpointers #Cconversion #Ccalloc
+#C #Cmemoryallocation #Cpointers #Cconversion #Ccalloc
 
 ```C
 #include<stdio.h>

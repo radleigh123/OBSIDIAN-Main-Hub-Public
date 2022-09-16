@@ -1,4 +1,4 @@
-#Cmacros #Cstrings 
+#C #Cmacros #Cstrings 
 
 ```C
 #include<stdio.h>

@@ -1,3 +1,5 @@
+#C #Carrays #Carraypointer 
+
 ```C
 #include<stdio.h>
 int main(){

@@ -1,5 +1,5 @@
 ## Realloc
-#Cmemoryallocation #Crealloc #Cconversion #Cpointers 
+#C #Cmemoryallocation #Crealloc #Cconversion #Cpointers 
 
 ```C
 #include<stdio.h>

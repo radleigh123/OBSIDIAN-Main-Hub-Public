@@ -1,3 +1,5 @@
+#C #Cloop #Cmath 
+
 ```C
 // Power using pow() function
 #include <math.h>

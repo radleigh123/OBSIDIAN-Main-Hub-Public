@@ -1,3 +1,5 @@
+#C #Cloop 
+
 ```C
 // Program to calculate LCM using GCD
 #include <stdio.h>

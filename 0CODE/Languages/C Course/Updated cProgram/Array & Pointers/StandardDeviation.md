@@ -1,3 +1,5 @@
+#C #Carrays #Cmath #Carrayfunctions 
+
 ```C
 // Population standard deviation
 #include <math.h>

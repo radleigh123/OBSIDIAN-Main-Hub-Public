@@ -1,3 +1,5 @@
+#C #Cloop 
+
 ```C
 // Armstrong number... abc = a^n + b^n + c^n
 #include <math.h>

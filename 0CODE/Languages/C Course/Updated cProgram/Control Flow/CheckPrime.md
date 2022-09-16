@@ -1,3 +1,5 @@
+#C #Cloop #Cbreak 
+
 ```C
 // Program to check Prime number
 #include <stdio.h>

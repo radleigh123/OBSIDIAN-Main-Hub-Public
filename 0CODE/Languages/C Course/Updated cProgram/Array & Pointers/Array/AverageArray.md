@@ -1,3 +1,5 @@
+#C #Carrays 
+
 ```C
 // Program to store numbers and calculate average using arrays
 #include<stdio.h>

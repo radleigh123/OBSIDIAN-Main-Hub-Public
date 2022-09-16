@@ -1,5 +1,5 @@
 # String Literal (or String Constants)
-#strings
+#C #Cstrings
 
 > a<mark class="hltr-blue"> sequence of characters</mark> enclosed within <mark class="hltr-blue">double quotes</mark>.
 

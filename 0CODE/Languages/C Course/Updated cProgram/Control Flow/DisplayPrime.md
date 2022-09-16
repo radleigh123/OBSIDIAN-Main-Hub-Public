@@ -1,3 +1,5 @@
+#C #Cloop 
+
 ```C
 // Display Prime numbers when larger number is entered first
 #include <stdio.h>

@@ -1,3 +1,5 @@
+#C #Carrays #Carray2D #Carrayfunctions
+
 ```C
 // Updated 
 // Multiply matrices by passing it to a function

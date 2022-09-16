@@ -1,4 +1,4 @@
-#Cmacros 
+#C #Cmacros 
 
 ```C
 // used to confirm the compiler standard. Generally it holds the value 1 

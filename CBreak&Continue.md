@@ -1,4 +1,4 @@
-#Cbreak #Ccontinue #Cloop 
+#C #Cbreak #Ccontinue #Cloop 
 
 ```C
 #include<stdio.h>
