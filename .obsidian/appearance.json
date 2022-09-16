@@ -1,0 +1,14 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Fira Code",
+  "textFontFamily": "",
+  "baseFontSize": 14,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "obsidian",
+    "red_tag",
+    "Dashboard"
+  ]
+}

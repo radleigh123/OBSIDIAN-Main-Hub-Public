@@ -1,0 +1,5 @@
+## Simplicity
+- uncomplicated
+
+---
+**[Back](PSYCHPrelimSOCRATES)**
