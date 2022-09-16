@@ -1,4 +1,3 @@
-#programming 
 - It is the job of preprocessor (not compiler) to <mark class="hltr-blue">replace Macros with their corresponding values.</mark>
 ```C
 #define STRING "%s \n"

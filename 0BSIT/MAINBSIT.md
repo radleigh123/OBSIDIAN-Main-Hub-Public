@@ -2,7 +2,8 @@
 banner: "![[Mainhub.jpg]]"
 banner_y: 0.444
 ---
-# Headquarters BSIT-1
+# HEADQUARTERS BSIT *(Bachelor of Science in Information Technology)*
+#main
 
 | Subject                      | EDP Code | Schedule          |
 | ---------------------------- | -------- | ----------------- |

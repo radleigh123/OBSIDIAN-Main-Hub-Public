@@ -29,4 +29,4 @@ banner_icon: 🖥️
 	19. [Chapter Summary](INTCOMPrelimCh19.md)
 
 ---
-**[MAIN HUB](main.md)**
+**[MAIN HUB](MAINBSIT.md)**

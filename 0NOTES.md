@@ -1,23 +1,39 @@
 ## Interesting words to use
 
-Repurcussions
+💚  Repercussions
 
 ## Songs MOFO
 
-Blackbear - @ my worst
-Blackbear - Hot Bummer Girl
-Ashe- Moral of the story
-Blackbear - me & ur ghost
-Em Beihold - Numb Little Bug
+🎵  Blackbear - @ my worst
+🎵  Blackbear - Hot Bummer Girl
+🎵  Ashe- Moral of the story
+🎵  Blackbear - me & ur ghost
+🎵  Em Beihold - Numb Little Bug
+
+## Book Quotes
+
+> We know what conditioner works best for our hair. We know what food we need to stay away from. Bu we don't know how to feed our soul.
+\- **(pg.10 middle right)**
+
+> Hopeless Romantic who sought approval and validation and tried to fill a void in myself by being with women.
+\- **(pg.13 lower left)**
+
+> That feeling back when the world was big and open for adventure.
+\- **(pg. 40 middle left)**
+
+> Maybe you always began to lose yourself in these relationships, but stayed in them.
+\- **(pg. 114 middle left)**
+
+>A couple of kids who were way over their heads 
+
+> No smoking within 50 feet, trucks
+
+> Why is everyone is staring... Oh believe me I know why they are staring here
 
 ## For productivity
 
 - [x] Make a **calendar**
-- [ ] Make a smart filter for **email** ARRANGE
-- [ ] Add another option might to **list**
-- [ ] Your notes from cellphone
-- [ ] Read it later app
-
-## [College Notes](main.md)
-
-## [C Language](C.md)
+- [x] Make a smart filter for **email** ARRANGE
+- [x] Add another option might to **list**
+- [x] Your notes from cellphone
+- [x] Read it later app
