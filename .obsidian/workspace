@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "92d2fe8abe0ef769",
+        "id": "df39563ab7913181",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "0HEADQUARTERS.md"
+            "file": "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#subjectHUB",
+                "query": "tag:#programming",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0HEADQUARTERS.md",
+                "file": "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0HEADQUARTERS.md",
+                "file": "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0HEADQUARTERS.md"
+                "file": "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md"
               }
             }
           },
@@ -134,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92d2fe8abe0ef769",
+  "active": "df39563ab7913181",
   "lastOpenFiles": [
-    "0BSIT/MAINBSIT.md",
-    "0BSIT/Subjects/WEBDEV11LEC.md",
-    "Backlinks/HTML.md",
-    "0BSIT/Subjects/HUM101.md",
-    "0BSIT/Subjects/COMPROG11LEC.md",
-    "Backlinks/HUMintro.md",
-    "0HEADQUARTERS.md",
-    "0NOTES.md",
-    "0CODE/MAINCODE.md",
-    "Excalidraw/Drawing 09-16-22.excalidraw.md"
+    "0CODE/Languages/C Course/C Learn/Pointers/PointertoPointer.md",
+    "0CODE/Languages/C Course/C Learn/Pointers/FunctionPointers.md",
+    "0CODE/Languages/C Course/C Learn/Pointers/Pointers.md",
+    "0CODE/Languages/C Course/C Learn/Pointers/ArrayPointers.md",
+    "0CODE/Languages/C Course/C Learn/Pointers/AddressPointers.md",
+    "0CODE/Languages/C Course/C Learn.md",
+    "Backlinks/WEBDEVintro.md",
+    "Backlinks/URL.md",
+    "0CODE/Languages/C.md",
+    "0CODE/MAINCODE.md"
   ]
 }
