@@ -1,4 +1,4 @@
-![galaxy picture|600](galaxy.jpg)
+![galaxy picture|600](Backlinks/galaxy.jpg)
 
 # Main Hub
 
