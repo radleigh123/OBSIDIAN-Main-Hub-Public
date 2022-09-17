@@ -1,0 +1,1 @@
+> some insist that the self is predominantly a product of natural processes to which people are inherently predisposed

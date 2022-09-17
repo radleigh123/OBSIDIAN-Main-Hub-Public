@@ -2,4 +2,4 @@
 - body and soul are “in love
 
 ---
-**[Back](PSYCHPrelimARIST.md)**
+**[Back](Aristotle.md)**

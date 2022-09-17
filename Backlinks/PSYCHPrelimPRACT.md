@@ -3,4 +3,4 @@
 - choose
 
 ---
-**[Back](PSYCHPrelimARIST.md)**
+**[Back](Aristotle.md)**

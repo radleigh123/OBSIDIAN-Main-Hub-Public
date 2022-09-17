@@ -2,4 +2,4 @@
 - uncomplicated
 
 ---
-**[Back](PSYCHPrelimSOCRATES.md)**
+**[Back](Socrates.md)**

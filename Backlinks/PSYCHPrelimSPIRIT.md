@@ -2,4 +2,4 @@
 - emotions should be kept at bay
 
 ---
-**[Back](PSYCHPrelimPLATO.md)**
+**[Back](Plato.md)**

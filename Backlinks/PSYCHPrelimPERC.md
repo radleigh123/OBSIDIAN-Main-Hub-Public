@@ -4,4 +4,4 @@
 - helps discriminate
 
 ---
-**[Back](PSYCHPrelimARIST.md)**
+**[Back](Aristotle.md)**

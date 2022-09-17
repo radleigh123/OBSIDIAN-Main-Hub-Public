@@ -2,4 +2,4 @@
 - life is a movement
 
 ---
-**[Back](PSYCHPrelimARIST.md)**
+**[Back](Aristotle.md)**

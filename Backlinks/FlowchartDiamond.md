@@ -1,4 +1,4 @@
-# Diamond
+# Decision / Diamond
 - used in a process flow to ask a question
 ![[decision.png]]
 

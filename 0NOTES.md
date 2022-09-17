@@ -37,3 +37,4 @@
 - [x] Add another option might to **list**
 - [x] Your notes from cellphone
 - [x] Read it later app
+- [ ] CS50

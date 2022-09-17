@@ -2,4 +2,4 @@
 - autonomic biological systems = life = begins/generates & corrupts (dies)
 
 ---
-**[Back](PSYCHPrelimARIST.md)**
+**[Back](Aristotle.md)**

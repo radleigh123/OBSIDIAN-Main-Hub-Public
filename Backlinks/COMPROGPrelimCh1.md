@@ -16,7 +16,7 @@
 
 - Think about the consequences for each of them. Start by excluding those that are unrealistic to do or not helpful in any way.
 ### Implement the solution
-- It’s time to put everything from the paper into action. However, keep in mind that <mark class="hltr-blue">execution follows only after planning</mark>. If a problem applies to other people as well, establish these key things:
+- It’s <mark class="hltr-blue">time to put everything from the paper into action</mark>. However, keep in mind that <mark class="hltr-blue">execution follows only after planning</mark>. If a problem applies to other people as well, establish these key things:
 	- Who is responsible for implementation?
 	- Who else is involved in the process?
 	- What is the time frame for implementation?

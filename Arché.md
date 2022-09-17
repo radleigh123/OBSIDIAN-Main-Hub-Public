@@ -1,0 +1,3 @@
+- Origin or source/the “soul”/<mark class="hltr-blue">the primal matter</mark>
+- Has no origin outside itself and cannot be destroyed
+	- <mark class="hltr-blue">explains the multiplicity of things</mark> in the world

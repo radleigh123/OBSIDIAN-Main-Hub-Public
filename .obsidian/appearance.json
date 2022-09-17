@@ -4,11 +4,13 @@
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Fira Code",
   "textFontFamily": "",
-  "baseFontSize": 14,
+  "baseFontSize": 12,
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian",
     "red_tag",
-    "Center Table"
+    "Center Image",
+    "Center Table",
+    "Clutter Free Headings"
   ]
 }

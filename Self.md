@@ -1,0 +1,1 @@
+> refers to the entire person of an individual.

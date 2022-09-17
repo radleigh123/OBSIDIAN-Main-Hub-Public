@@ -1,0 +1,1 @@
+> is the quality, beliefs that make a particular person different from others.

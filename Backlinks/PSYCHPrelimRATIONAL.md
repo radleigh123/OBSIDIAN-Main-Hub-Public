@@ -2,4 +2,4 @@
 - reason & intellect to govern affairs
 
 ---
-**[Back](PSYCHPrelimPLATO.md)**
+**[Back](Plato.md)**

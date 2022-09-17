@@ -1,0 +1,1 @@
+> the other side, meanwhile, argues that the self should be principally viewed as an outcome of various nurturing factors in the context of one's life.

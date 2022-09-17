@@ -1,9 +1,10 @@
 # HTML (Hypertext Markup Language)
 #webdev #html
-- describes the structure of a Web page. It is a Markup language, **not a programming language**. [Copyediting Markup sample by editors.](CopyMarkup.md)
+- describes the structure of a Web page. It is a Markup language, **not a programming language**.
 	- Markup Languages:
 		1. [**XML** (Extensible Markup Language)](XML.md)
 		2. [**GML** (Generalized Markup Language)](GML.md)
+- ex: [Copyediting Markup sample by editors.](CopyMarkup.md)
 
 ---
 __               |               __

@@ -2,4 +2,4 @@
 - what makes you, you.
 
 ---
-**[Back](PSYCHPrelimARIST.md)**
+**[Back](Aristotle.md)**
