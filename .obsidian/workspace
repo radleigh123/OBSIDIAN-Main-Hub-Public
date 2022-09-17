@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "f4a78051b631a25a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Backlinks/CdoWhile.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/CdoWhile.md",
+                "file": "0CODE/C CODES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/CdoWhile.md",
+                "file": "0CODE/C CODES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/CdoWhile.md"
+                "file": "0CODE/C CODES.md"
               }
             }
           },
@@ -149,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4a78051b631a25a",
+  "active": "f919b8761bf4ae88",
   "lastOpenFiles": [
+    "Backlinks/CdoWhile.md",
+    "0CODE/C CODES.md",
     "Backlinks/0Control Flow.md",
     "Backlinks/CBreak&Continue.md",
-    "0CODE/C CODES.md",
     "Backlinks/0Additional Topics.md",
     "0CODE/MAINCODE.md",
     "0CODE/Languages/C Course/Updated cProgram/Array & Pointers/TransposeMatrix.md",
     "0BSIT/MAINBSIT.md",
     "README.md",
-    "Backlinks/galaxy.jpg",
-    "Backlinks/CAddressPointers.md"
+    "Backlinks/galaxy.jpg"
   ]
 }
