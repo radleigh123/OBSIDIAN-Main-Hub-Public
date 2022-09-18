@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "14fe5cec08a10266",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Backlinks/0BetterGuessingGame.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "05504171d732c95c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backlinks/0BetterGuessingGame.md",
+            "file": "0NOTES.md",
             "mode": "preview",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#main",
+                "query": "READ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/0BetterGuessingGame.md",
+                "file": "0NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/0BetterGuessingGame.md",
+                "file": "0NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/0BetterGuessingGame.md"
+                "file": "0NOTES.md"
               }
             }
           },
@@ -149,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24b24a765d577cb1",
+  "active": "05504171d732c95c",
   "lastOpenFiles": [
-    "Backlinks/0BetterCalculator.md",
+    "README.md",
     "Backlinks/0BetterGuessingGame.md",
+    "Backlinks/README.md",
+    "Backlinks/0BetterCalculator.md",
     "Backlinks/CVowelConsonant.md",
     "Backlinks/1ControlFlow.md",
     "0CODE/MAINCODE.md",
     "0CODE/C CODES.md",
     "0CODE/Languages/C Course/Untitled.md",
-    "0CODE/Languages/C Course/Updated cProgram/betterGuessingGame.md",
-    "0CODE/Languages/C Course/Updated cProgram/BetterCalculator.md",
-    "0CODE/Languages/C Course/Updated cProgram/C Files/CFileExample3.md"
+    "0CODE/Languages/C Course/Updated cProgram/betterGuessingGame.md"
   ]
 }
