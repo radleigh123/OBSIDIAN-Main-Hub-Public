@@ -1,7 +1,7 @@
 # The Computer and Its Operation
 ## Computers
 + is ==an electronic device==, operating under the control of instructions stored in its own memory, that can **accept data** (input), **process the data** according to specified rules, **produce information** (output), and **store the information** for future use.
-+ [Hardware](INTCOMPrelimCh5.md)  |  [Software](software.md)
++ [Hardware](INTCOMPrelimCh6.md)  |  [Software](software.md)
 
 ## 4 Primary Operations of a Computer
 1. **Input** - entering data into the computer

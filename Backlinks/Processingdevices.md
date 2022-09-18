@@ -1,0 +1,3 @@
+- Central Processing Unit (CPU)
+- Graphics Processing Unit (GPU)
+- Sound Card

@@ -1,5 +1,5 @@
 ## Declaring and Initializing variables
-#array #pointers
+#Carrays #Cpointers
 
 > **String variable**
 > is a one dimensional [array](CArray.md) of characters that is capable of holding a string at a time.

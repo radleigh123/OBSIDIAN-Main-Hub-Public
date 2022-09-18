@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "116c6e1caceb7e54",
+        "id": "14fe5cec08a10266",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "tag:#main",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
+    "width": 279.5036334991455,
     "collapsed": true
   },
   "right": {
@@ -130,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "116c6e1caceb7e54",
+  "active": "14fe5cec08a10266",
   "lastOpenFiles": [
-    "Backlinks/PSYCHPrelimJOHARIEX.md",
-    "Backlinks/PSYCHJOHARI.md",
-    "0BSIT/Subjects/PSYCH101.md",
-    "Backlinks/PSYCHPrelimCh1.md",
-    "Backlinks/Aristotle.md",
-    "0BSIT/MAINBSIT.md",
-    "0BSIT/Subjects/WEBDEV11LEC.md",
-    "Backlinks/HTML.md",
-    "Backlinks/WEBDEVintro.md",
-    "Backlinks/Socrates.md"
+    "1ControlFlow.md",
+    "0CODE/MAINCODE.md",
+    "0CODE/C CODES.md",
+    "0CODE/Languages/C Course/Untitled.md",
+    "0BetterGuessingGame.md",
+    "0CODE/Languages/C Course/Updated cProgram/betterGuessingGame.md",
+    "0BetterCalculator.md",
+    "0CODE/Languages/C Course/Updated cProgram/BetterCalculator.md",
+    "0CODE/Languages/C Course/Updated cProgram/C Files/CFileExample3.md",
+    "1CFiles.md"
   ]
 }

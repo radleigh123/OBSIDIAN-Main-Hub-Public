@@ -1,0 +1,1 @@
+is an extremely fast computer that can perform millions of instructions per second. Below is a picture of NASA's Pleiades supercomputer that has 245,536 CPU cores and a total memory of 935 TB

@@ -1,0 +1,1 @@
+his blog is all about his adventures and his journey. he also posts photos of his travels

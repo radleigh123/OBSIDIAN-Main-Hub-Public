@@ -1,0 +1,1 @@
+is a multi-user computer capable of supporting from 10 to hundreds of users simultaneously

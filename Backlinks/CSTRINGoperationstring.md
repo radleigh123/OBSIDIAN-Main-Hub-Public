@@ -1,5 +1,5 @@
 ## Performing operations on String Literals
-#pointers
+#Cpointers
  
  
  ![[Pasted image 20220915211155.png|]]

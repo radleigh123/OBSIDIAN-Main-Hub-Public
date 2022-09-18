@@ -1,5 +1,4 @@
 # The Web
-#webdev
 
 | **[Web](WEB.md)** | [**Webpage**](WEBPAGE.md) | **[Website](WEBSITE.md)** | **[Webserver](WEBSERVER.md)** | **[Link](LINK.md)** | **[Downloading](downloading.md)** |
 | -------------- | ---------------------- | ---------------------- | -------------------------- | ---------------- | ------------------------------ |

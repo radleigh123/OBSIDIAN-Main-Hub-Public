@@ -4,12 +4,10 @@ banner_y: 0.196
 banner_icon: 🖥️
 ---
 # C Language
-#subjectHUB  #programming
+#subjectHUB 
 
 ## General
-| **[C_IMPORTANT](C_IMPORTANT.md)** | 
-| ------------------------------ |
+- **[C_IMPORTANT](C_IMPORTANT.md)**
 
 ## Basics
-| **[C String](Cstrings.md)** | 
-| --------------------------- |
+- **[C String](Cstrings.md)**

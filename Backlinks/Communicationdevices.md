@@ -1,0 +1,4 @@
+- Smartphone
+- Bluetooth devices
+- Modem
+- Network Interface Card

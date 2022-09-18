@@ -1,0 +1,1 @@
+her blog is all about fashion and how creative she is in the fashion industry

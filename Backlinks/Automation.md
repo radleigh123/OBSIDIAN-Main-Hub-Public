@@ -1,0 +1,3 @@
+As we can see today there are lots of advanced technologies that we've seen. New technology is always our life very much and takes it to a new level. In an article from Forbes, they identified seven major trends in the year 2017 and one of these is Automation. 
+
+Through this advanced technology, it is now possible to automate previously human exclusive tasks. One of the examples is wearable devices or commonly known as Smartwatches and Bands. There are many features and benefits of these devices and Fitness health tracking is one of them

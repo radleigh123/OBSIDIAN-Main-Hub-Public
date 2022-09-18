@@ -1,5 +1,4 @@
 # HTML (Hypertext Markup Language)
-#webdev #html
 - describes the structure of a Web page. It is a Markup language, **not a programming language**.
 	- Markup Languages:
 		1. [**XML** (Extensible Markup Language)](XML.md)

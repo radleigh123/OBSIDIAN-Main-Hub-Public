@@ -37,4 +37,9 @@
 - [x] Add another option might to **list**
 - [x] Your notes from cellphone
 - [x] Read it later app
-- [ ] CS50
+- [x] CS50
+- [ ] Obsidian [tracker](obsidian://open?vault=Main%20Hub&file=0outputMP4.mp4) 
+
+## Random bullshits
+- Bahalag <font style="color: red">BOGO</font> naningkamot btaw
+- Why are those that work hard never ask for help while those that fool around are the ones that keep asking

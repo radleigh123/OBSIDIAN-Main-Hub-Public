@@ -1,0 +1,1 @@
+is a virtual environment that can be similar to or different from the real world. Augmented reality is the seamless, real-time digital data integration with the user’s environment

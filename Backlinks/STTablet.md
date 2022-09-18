@@ -1,0 +1,1 @@
+are hand-held computers with touch- sensitive screen for typing and navigation

@@ -1,0 +1,3 @@
+- Flash Disk Drive
+- Hard Disk Drive (non-volatile memory) permanent
+- Compact Disk (non-volatile memory)

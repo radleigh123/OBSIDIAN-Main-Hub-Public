@@ -1,0 +1,7 @@
+- keyboard
+-   mouse
+-   trackball
+-   touchpad/trackpad
+-   scanner (flatbed scanner)
+-   handheld/portable scanners
+-   PC video camera

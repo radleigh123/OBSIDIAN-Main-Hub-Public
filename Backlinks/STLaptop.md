@@ -1,0 +1,1 @@
+are battery powered computer devices whose portability makes them possible to use almost anytime, anywhere

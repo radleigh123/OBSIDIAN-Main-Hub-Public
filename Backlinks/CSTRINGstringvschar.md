@@ -1,5 +1,5 @@
 ## String Literal vs Character Constant
-#character
+#Ccharacter
 
 > Characters are equal to the ASCII Code numbers
 

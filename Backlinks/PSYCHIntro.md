@@ -1,11 +1,11 @@
 # Understanding the Self
 The terms "self" and "identity" have been loosely interchanged in various literature.
-- **[Identity](Identity)**
-- **[Self](Self)**
+- **[Identity](Identity.md)**
+- **[Self](Self.md)**
 
 ### Nature VS Nurture
-- **[Nature](Nature)**
-- **[Nurture](Nurture)**
+- **[Nature](Nature.md)**
+- **[Nurture](Nurture.md)**
 
 # 
 ---

@@ -1,0 +1,1 @@
+include fitness trackers and smartwatches that can be worn throughout the day

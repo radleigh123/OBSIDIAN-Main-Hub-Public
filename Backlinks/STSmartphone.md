@@ -1,0 +1,1 @@
+are hand-held telephones which can do things that computers can do, including browsing and searching the internet and even playing console games

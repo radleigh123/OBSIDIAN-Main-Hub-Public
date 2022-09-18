@@ -1,0 +1,1 @@
+Because of virtual communication, ironically, people are less likely to talk to or meet each other in person. And because of the comfort of working from home and the entertainment that the internet offers, physical activity is reduced leading to health Issues such as obesity and heart disease

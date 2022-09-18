@@ -28,36 +28,15 @@ The evolution of technology has always depended on one thing: the **Human Ration
 5. [5th Generation Computer (**1980**-onwards)](5thGen.md)
 
 ## Computer Hardware
-> any part of the computer that can be seen and touched
-> 
-### System Unit
-> the enclosure composed of the main elements of a computer that are used to administer data
-> 
-- Input
-	- keyboard
-	-   mouse
-	-   trackball
-	-   touchpad/trackpad
-	-   scanner (flatbed scanner)
-	-   handheld/portable scanners
-	-   PC video camera
-- Output
-	- Printer
-	- Monitor
-	- Speaker
-- Storage
-	- Flash Disk Drive
-	- Hard Disk Drive (non-volatile memory) permanent
-	- Compact Disk (non-volatile memory)
-- Processing
-	- Central Processing Unit (CPU)
-	- Graphics Processing Unit (GPU)
-	- Sound Card
-- Communication
-	- Smartphone
-	- Bluetooth devices
-	- Modem
-	- Network Interface Card
+- any part of the computer that can be seen and touched 
+	- **[Input](Inputdevices.md)**
+	- **[Output](Outputdevices.md)**
+	- **[Storage](Storagedevices.md)**
+	- **[Processing](Processingdevices.md)**
+	- **[Communication](Communicationdevices.md)**
+
+>**System Unit**
+>- the enclosure composed of the main elements of a computer that are used to administer data
 
 
 # 

@@ -1,0 +1,1 @@
+are the latest television sets that include applications present in computers. For example, videos can be streamed from the internet directly onto the TV. The TV can also be used as a computer monitor and gaming monitor

@@ -1,0 +1,1 @@
+Due to the prevalence of network connectivity, it is possible to have information on demand. Music, movies, and even drivers (e.g.,**Grab**) are made available through apps in a smartphone

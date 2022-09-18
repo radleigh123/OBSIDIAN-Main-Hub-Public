@@ -1,0 +1,1 @@
+are computers designed to be placed on a desk, and are normally made up of a few different parts, including the computer case, central processing unit (CPU), monitor, keyboard, and mouse

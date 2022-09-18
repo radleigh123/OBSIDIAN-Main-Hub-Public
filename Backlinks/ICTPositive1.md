@@ -1,0 +1,1 @@
+There are new ways of learning such as the use of **learning management system (LMS)** which implements educational enhancements such as distance learning and online tutorials, virtual reality, and interactive multimedia

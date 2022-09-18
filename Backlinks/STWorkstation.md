@@ -1,0 +1,1 @@
+is a powerful, single-user computer. A workstation is like a personal computer, but it has a more powerful microprocessor and a higher-quality monitor

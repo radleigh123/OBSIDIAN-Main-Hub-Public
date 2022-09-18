@@ -5,7 +5,7 @@ The Pre-Socratics philosophers were <mark class="hltr-blue">Thales</mark>, <mark
 - What explains the changes that happen around us?
 ### The Pre-Socratics
 - [Arché](Arché.md)
-- [Soul’s movement](SoulMovement)
+- [Soul’s movement](SoulMovement.md)
 
 
 # 
