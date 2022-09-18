@@ -7,8 +7,24 @@
         "id": "14fe5cec08a10266",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Backlinks/0BetterGuessingGame.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "05504171d732c95c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Backlinks/0BetterGuessingGame.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -57,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5036334991455,
-    "collapsed": true
+    "width": 279.5036334991455
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -74,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backlinks/0BetterGuessingGame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backlinks/0BetterGuessingGame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backlinks/0BetterGuessingGame.md"
+              }
             }
           },
           {
@@ -130,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14fe5cec08a10266",
+  "active": "24b24a765d577cb1",
   "lastOpenFiles": [
-    "1ControlFlow.md",
+    "Backlinks/0BetterCalculator.md",
+    "Backlinks/0BetterGuessingGame.md",
+    "Backlinks/CVowelConsonant.md",
+    "Backlinks/1ControlFlow.md",
     "0CODE/MAINCODE.md",
     "0CODE/C CODES.md",
     "0CODE/Languages/C Course/Untitled.md",
-    "0BetterGuessingGame.md",
     "0CODE/Languages/C Course/Updated cProgram/betterGuessingGame.md",
-    "0BetterCalculator.md",
     "0CODE/Languages/C Course/Updated cProgram/BetterCalculator.md",
-    "0CODE/Languages/C Course/Updated cProgram/C Files/CFileExample3.md",
-    "1CFiles.md"
+    "0CODE/Languages/C Course/Updated cProgram/C Files/CFileExample3.md"
   ]
 }

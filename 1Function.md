@@ -1,8 +1,0 @@
-- **[Check Prime Armstrong](CCheckPrimeArmstrong)**
-- **[Decimal to Binary](CDecimaltoBinary)**
-- **[Display Prime Intervals](CDisplayPrimeIntervals)**
-- **[Exponent](CExponent)**
-- **[Factorial Number](CFactorialNumber)**
-- **[Reverse Sentence](CReverseSentence)**
-- **[Sum Natural Numbers](CSumNaturalNumbers)**
-- **[Sum Prime](CSumPrime)**

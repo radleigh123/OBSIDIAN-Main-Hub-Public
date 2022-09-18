@@ -1,7 +1,0 @@
-- **[Concatenate Strings](CConcatenateStrings)**
-- **[Copy Strings](CCopyStrings)**
-- **[Frequency Character](CFrequencyCharacter)**
-- **[Remove Characters](CRemoveCharacters)**
-- **[Reversed Sentence](CReversedSentence)**
-- **[Sort Strings](CSortStrings)**
-- **[Vowel Consonant](CVowelConsonant)**
