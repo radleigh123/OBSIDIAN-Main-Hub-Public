@@ -2,7 +2,7 @@
  >technology provides access to the digital world around you.
 
 - **Technology** ([tech savvy](savvy.md))
-	- can enable you to more efficiently and effectively access and search for information;
+	- can <mark class="hltr-lightblue">enable you to more efficiently</mark> and <mark class="hltr-lightblue">effectively access and search for information</mark>;
 	- share personal ideas, photos, and videos with friends, family, and others;
 	- communicate with and meet other people;
 	- manage finances;
