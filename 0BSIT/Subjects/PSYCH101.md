@@ -8,7 +8,7 @@ banner_icon: 🌠
 - [The Johari Window Model](PSYCHJOHARI.md)
 ### The Self from various perspective
 1. [Philosophy](PSYCHPrelimCh1.md)
-2. Sociology
+2. [Sociology](Sociology)
 3. Anthropology
 4. Psychology
 ### Unpacking the Self

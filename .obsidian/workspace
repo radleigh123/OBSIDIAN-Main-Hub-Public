@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b596b948b545da70",
+        "id": "9c8c0ee03e892c85",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backlinks/HTML.md",
-            "mode": "source",
+            "file": "PrincipleArtisticComposition.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#subjectHUB",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +57,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 279.5036334991455
+    "width": 279.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/HTML.md",
+                "file": "PrincipleArtisticComposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/HTML.md",
+                "file": "PrincipleArtisticComposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/HTML.md"
+                "file": "PrincipleArtisticComposition.md"
               }
             }
           },
@@ -137,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b596b948b545da70",
+  "active": "9c8c0ee03e892c85",
   "lastOpenFiles": [
-    "0CODE/MAINCODE.md",
-    "Backlinks/HTML.md",
-    "0HEADQUARTERS.md",
-    "Backlinks/CSTRINGoperationstring.md",
-    "0BSIT/Subjects/INTCOM11.md",
-    "Backlinks/INTCOMPrelimCh8.md",
-    "Backlinks/INTCOMPrelimCh7.md",
-    "Backlinks/INTCOMPrelimCh6.md",
-    "Backlinks/0Structure.md",
-    "Backlinks/INTCOMPrelimCh5.md"
+    "VarietyArt.md",
+    "PrincipleArtisticComposition.md",
+    "EmphasisArt.md",
+    "ProportionArt.md",
+    "HarmonyArt.md",
+    "BalanceArt.md",
+    "RhythmArt.md",
+    "PhysicalFunctionArt.md",
+    "SocialFunctionArt.md",
+    "PersonalFunctionArt.md"
   ]
 }
