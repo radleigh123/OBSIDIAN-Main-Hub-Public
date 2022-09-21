@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PrincipleArtisticComposition.md",
+            "file": "0BSIT/Subjects/HUM101.md",
             "mode": "preview",
             "source": false
           }
@@ -57,13 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5036334991455,
-    "collapsed": true
+    "width": 279.5036334991455
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -79,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PrincipleArtisticComposition.md",
+                "file": "0BSIT/Subjects/HUM101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PrincipleArtisticComposition.md",
+                "file": "0BSIT/Subjects/HUM101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PrincipleArtisticComposition.md"
+                "file": "0BSIT/Subjects/HUM101.md"
               }
             }
           },
@@ -141,8 +139,8 @@
   },
   "active": "9c8c0ee03e892c85",
   "lastOpenFiles": [
-    "VarietyArt.md",
     "PrincipleArtisticComposition.md",
+    "VarietyArt.md",
     "EmphasisArt.md",
     "ProportionArt.md",
     "HarmonyArt.md",
