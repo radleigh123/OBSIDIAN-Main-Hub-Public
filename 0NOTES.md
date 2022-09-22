@@ -43,3 +43,4 @@
 ## Random bullshits
 - Bahalag <font style="color: red">BOGO</font> naningkamot btaw
 - Why are those that work hard never ask for help while those that fool around are the ones that keep asking
+- When the smart kid(girl) genuinely doesn't know and you have more knowledge about it

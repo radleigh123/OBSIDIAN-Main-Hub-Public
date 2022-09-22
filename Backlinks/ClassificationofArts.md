@@ -1,11 +1,11 @@
 # Classification of Arts
 
 ### Visual Arts
-- **[Graphic Arts](GraphicArts)**
-- **[Plastic Arts](PlasticArts)**
+- **[Graphic Arts](GraphicArts.md)**
+- **[Plastic Arts](PlasticArts.md)**
 
 ### Performing Arts
-- [Performing Arts](PerformingArts)
+- [Performing Arts](PerformingArts.md)
 - Dance
 
 ### Literary Arts

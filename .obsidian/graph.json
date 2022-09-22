@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "file:main",
+      "query": "tag:#C",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 13009235
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0534979423868314,
+  "scale": 0.22920135941749312,
   "close": true
 }
