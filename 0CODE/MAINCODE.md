@@ -5,7 +5,11 @@ banner_y: 0.596
 ---
 # HEADQUARTERS PROGRAMMING
 
-|   Language    |
-|:-------------:|
-| [**C**](C.md) |
-| **[HTML](HTML)**              |
+|     Language     |
+|:----------------:|
+|  [**C**](C.md)   |
+| **[HTML](HTML)** |
+
+# 
+---
+**[[0HEADQUARTERS]]**

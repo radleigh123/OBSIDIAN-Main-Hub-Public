@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b04bfa24828131a9",
+        "id": "6ac1ddfee4be6b60",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0NOTES.md",
-            "mode": "source",
+            "file": "Backlinks/C_IMPORTANT.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "04fc45384c8f00c6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Export-dc517f5a-7302-438e-8285-a15ab53f462a/IMPORTANT 530aba9be5884a8bba29a2ad3d4bebca.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#subjectHUB",
+                "query": "tag:#define",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +69,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 279.5036334991455
+    "width": 279.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0NOTES.md",
+                "file": "Backlinks/C_IMPORTANT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0NOTES.md",
+                "file": "Backlinks/C_IMPORTANT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0NOTES.md"
+                "file": "Backlinks/C_IMPORTANT.md"
               }
             }
           },
@@ -129,25 +143,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "b04bfa24828131a9",
+  "active": "6ac1ddfee4be6b60",
   "lastOpenFiles": [
-    "0HEADQUARTERS.md",
-    "Backlinks/IntroPE.md",
-    "Backlinks/Fitness.md",
-    "Backlinks/PE102.md",
-    "0BSIT/MAINBSIT.md",
-    "0NOTES.md",
-    "README.md",
-    "PSYCH101 SELF.md",
-    "Backlinks/Aristotle.md",
-    "Backlinks/PSYCHPrelimCh1.md"
+    "Ccompilerdependent.md",
+    "Export-dc517f5a-7302-438e-8285-a15ab53f462a/IMPORTANT 530aba9be5884a8bba29a2ad3d4bebca.md",
+    "Backlinks/C_IMPORTANT.md",
+    "Backlinks/CFunction.md",
+    "Backlinks/1ETCCODES.md",
+    "Backlinks/Cprintftoprintf.md",
+    "Cassignmentoutside.md",
+    "Backlinks/Cdefinesimplified.md",
+    "Hexavariables.md",
+    "Octalvariables.md"
   ]
 }

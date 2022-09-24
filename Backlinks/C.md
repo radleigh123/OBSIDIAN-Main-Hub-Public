@@ -10,4 +10,8 @@ banner_icon: 🖥️
 - **[C_IMPORTANT](C_IMPORTANT.md)**
 
 ## Basics
-- **[C String](Cstrings.md)**
+- **[Strings](Cstrings.md)**
+
+# 
+---
+**[[MAINCODE]]**

@@ -1,0 +1,16 @@
+#C #Clecture #Cmacros #Cdefine
+
+It is the job of preprocessor (not compiler) to <mark class="hltr-blue">replace Macros with their corresponding values.</mark>
+
+```C
+#define STRING "%s \n"
+#define NESO "Hello World!"
+int main()
+{
+	printf(STRING, NESO); // Hello World!
+	return 0;
+}
+```
+
+---
+**[[C_IMPORTANT]]**

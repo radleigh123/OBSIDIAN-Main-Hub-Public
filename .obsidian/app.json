@@ -5,5 +5,11 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "readableLineLength": false,
-  "attachmentFolderPath": "Backlinks"
+  "attachmentFolderPath": "Backlinks",
+  "pdfExportSettings": {
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
