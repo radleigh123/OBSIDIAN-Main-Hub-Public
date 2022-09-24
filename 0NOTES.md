@@ -1,6 +1,7 @@
 ## Interesting words to use
 
 💚  Repercussions
+💚  Exasperated
 
 ## Songs MOFO
 
@@ -9,6 +10,7 @@
 🎵  Ashe- Moral of the story
 🎵  Blackbear - me & ur ghost
 🎵  Em Beihold - Numb Little Bug
+🎵  Slime S2 Ending OP
 
 ## Book Quotes
 

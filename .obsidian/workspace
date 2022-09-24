@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "98fc306aef844ca7",
+        "id": "b04bfa24828131a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What is self.md",
-            "mode": "preview",
+            "file": "0NOTES.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5036334991455,
-    "collapsed": true
+    "width": 279.5036334991455
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is self.md",
+                "file": "0NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is self.md",
+                "file": "0NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is self.md"
+                "file": "0NOTES.md"
               }
             }
           },
@@ -138,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98fc306aef844ca7",
+  "active": "b04bfa24828131a9",
   "lastOpenFiles": [
-    "Backlinks/Aristotle.md",
-    "What is self.md",
-    "Backlinks/PSYCHPrelimCh1.md",
-    "Backlinks/Plato.md",
-    "Backlinks/Socrates.md",
-    "0BSIT/Subjects/PSYCH101.md",
-    "0BSIT/MAINBSIT.md",
     "0HEADQUARTERS.md",
-    "Backlinks/PSYCHIntro.md",
-    "Backlinks/BalanceArt.md"
+    "Backlinks/IntroPE.md",
+    "Backlinks/Fitness.md",
+    "Backlinks/PE102.md",
+    "0BSIT/MAINBSIT.md",
+    "0NOTES.md",
+    "README.md",
+    "PSYCH101 SELF.md",
+    "Backlinks/Aristotle.md",
+    "Backlinks/PSYCHPrelimCh1.md"
   ]
 }
