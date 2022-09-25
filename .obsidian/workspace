@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backlinks/C_IMPORTANT.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "04fc45384c8f00c6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Export-dc517f5a-7302-438e-8285-a15ab53f462a/IMPORTANT 530aba9be5884a8bba29a2ad3d4bebca.md",
+            "file": "0BSIT/MAINBSIT.md",
             "mode": "preview",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#define",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/C_IMPORTANT.md",
+                "file": "0BSIT/MAINBSIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/C_IMPORTANT.md",
+                "file": "0BSIT/MAINBSIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/C_IMPORTANT.md"
+                "file": "0BSIT/MAINBSIT.md"
               }
             }
           },
@@ -152,15 +139,15 @@
   },
   "active": "6ac1ddfee4be6b60",
   "lastOpenFiles": [
-    "Ccompilerdependent.md",
-    "Export-dc517f5a-7302-438e-8285-a15ab53f462a/IMPORTANT 530aba9be5884a8bba29a2ad3d4bebca.md",
-    "Backlinks/C_IMPORTANT.md",
-    "Backlinks/CFunction.md",
-    "Backlinks/1ETCCODES.md",
-    "Backlinks/Cprintftoprintf.md",
-    "Cassignmentoutside.md",
-    "Backlinks/Cdefinesimplified.md",
-    "Hexavariables.md",
-    "Octalvariables.md"
+    "0BSIT/Subjects/INTCOM11.md",
+    "Backlinks/INTCOMPrelimCh19.md",
+    "Backlinks/INTCOMPrelimCh18.md",
+    "Backlinks/INTCOMPrelimCh17.md",
+    "Backlinks/INTCOMPrelimCh16.md",
+    "Backlinks/INTCOMPrelimCh15.md",
+    "Backlinks/INTCOMPrelimCh14.md",
+    "Backlinks/INTCOMPrelimCh13.md",
+    "Backlinks/INTCOMCh13Manu.md",
+    "Backlinks/INTCOMCh13Pub.md"
   ]
 }

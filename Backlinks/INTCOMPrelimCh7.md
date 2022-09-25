@@ -1,5 +1,5 @@
 # Data and Information
-> A user inputs **data** into a computer, and then the computer processes it. Almost any kind of fact or set of facts can become computer data
+> A user inputs **data** into a computer, and then the computer processes it. <mark class="hltr-lightblue">Almost any kind of fact or set of facts can become computer data</mark>
 
 ## Data
 - ==is a collection of unprocessed items==, which can include text, numbers, images, audio, and video. When data is processed into a meaningful form, it becomes **information**.

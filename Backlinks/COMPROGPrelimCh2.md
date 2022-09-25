@@ -5,7 +5,7 @@
 ### Flowchart Symbols
 - The most common symbol used in a flowchart is the **[rectangle](FlowchartRectangle.md)**.
 - The next most common symbol is the **[diamond](FlowchartDiamond.md)**.
-![[flowchart.jpg | 500]]
+![[flowchart.jpg | 450]]
 ### Flowchart Symbol Definitions
 - [Terminal/Terminator](FlowchartTerminal.md)
 - [Process/Rectangle](FlowchartRectangle.md)
