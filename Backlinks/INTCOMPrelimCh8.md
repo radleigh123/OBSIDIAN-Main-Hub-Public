@@ -1,6 +1,6 @@
 # The Web
 
-| **[Internet](Internet)** | **[Web](WEB.md)** | **[Webserver](WEBSERVER.md)** | **[Website](WEBSITE.md)** | [**Webpage**](WEBPAGE.md) | **[Link](LINK.md)** | **[Downloading](downloading.md)** |
+| **[Internet](Internet.md)** | **[Web](WEB.md)** | **[Webserver](WEBSERVER.md)** | **[Website](WEBSITE.md)** | [**Webpage**](WEBPAGE.md) | **[Link](LINK.md)** | **[Downloading](downloading.md)** |
 | ----------------- | ------------------------- | ------------------------- | ----------------------------- | ------------------- | --------------------------------- | ------------------------ |
 
 ## How Do I Access the Internet

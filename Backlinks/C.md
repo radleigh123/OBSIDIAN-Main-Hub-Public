@@ -6,11 +6,14 @@ banner_icon: 🖥️
 # C Language
 #subjectHUB 
 
-## General
-- **[C_IMPORTANT](C_IMPORTANT.md)**
+| **[C_IMPORTANT](C_IMPORTANT.md)** | 
+| --------------------------------- |
 
-## Basics
-- **[Strings](Cstrings.md)**
+## Introduction
+- **[Input / Output](Cinputoutput.md)**
+
+## Strings
+- **[Initializing a String](Cstrings.md)**
 
 # 
 ---

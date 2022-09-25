@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ac1ddfee4be6b60",
+        "id": "67dba972173205d0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0BSIT/MAINBSIT.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0BSIT/MAINBSIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0BSIT/MAINBSIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0BSIT/MAINBSIT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ac1ddfee4be6b60",
+  "active": "67dba972173205d0",
   "lastOpenFiles": [
-    "0BSIT/Subjects/INTCOM11.md",
-    "Backlinks/INTCOMPrelimCh19.md",
-    "Backlinks/INTCOMPrelimCh18.md",
-    "Backlinks/INTCOMPrelimCh17.md",
-    "Backlinks/INTCOMPrelimCh16.md",
-    "Backlinks/INTCOMPrelimCh15.md",
-    "Backlinks/INTCOMPrelimCh14.md",
-    "Backlinks/INTCOMPrelimCh13.md",
-    "Backlinks/INTCOMCh13Manu.md",
-    "Backlinks/INTCOMCh13Pub.md"
+    "Backlinks/PEExerciseProgram.md",
+    "Backlinks/C_IMPORTANT.md",
+    "Backlinks/Ccountingarrayelements.md",
+    "Backlinks/Untitled.png",
+    "Export-dc517f5a-7302-438e-8285-a15ab53f462a/IMPORTANT 530aba9be5884a8bba29a2ad3d4bebca.md",
+    "Backlinks/Chalfadderlogic.md",
+    "Backlinks/Cscanf&getslimit.md",
+    "Backlinks/Cprintftoprintf.md",
+    "Backlinks/Cprintfconditionalreturn.md",
+    "Backlinks/Cforloopinitialization.md"
   ]
 }
