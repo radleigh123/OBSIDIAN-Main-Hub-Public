@@ -12,3 +12,7 @@ It can either be an insult, slur, or slander. Either written or spoken or even t
 
 ## Software Piracy
 It refers to an act of installing or copying software into the computer in the absence of an end-user licensing agreement(EULA), and producing a copy disregarding the copyrights.
+
+# 
+---
+**[HOME [ST]](ST101)**

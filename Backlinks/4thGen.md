@@ -1,5 +1,5 @@
 # 4th Generation Computer (1971-1980)
-## Very Large-Scale Integration (VLSI) circuits
+## Very Large-Scale Integrated (VLSI) circuits
 > From 1971-1980, it was used to build computers
 
 - Microprocessor

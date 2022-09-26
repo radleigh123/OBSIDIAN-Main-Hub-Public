@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
+        "id": "c5786b2cd221caa3",
+        "type": "leaf",
+        "dimension": 32.73155416012558,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0BSIT/Subjects/INTCOM11.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "67dba972173205d0",
         "type": "leaf",
+        "dimension": 67.26844583987442,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0BSIT/Subjects/INTCOM11.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5036334991455,
+    "width": 197.5,
     "collapsed": true
   },
   "right": {
@@ -74,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0BSIT/Subjects/INTCOM11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0BSIT/Subjects/INTCOM11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0BSIT/Subjects/INTCOM11.md"
+              }
             }
           },
           {
@@ -131,15 +153,15 @@
   },
   "active": "67dba972173205d0",
   "lastOpenFiles": [
-    "Backlinks/PEExerciseProgram.md",
-    "Backlinks/C_IMPORTANT.md",
-    "Backlinks/Ccountingarrayelements.md",
-    "Backlinks/Untitled.png",
-    "Export-dc517f5a-7302-438e-8285-a15ab53f462a/IMPORTANT 530aba9be5884a8bba29a2ad3d4bebca.md",
-    "Backlinks/Chalfadderlogic.md",
-    "Backlinks/Cscanf&getslimit.md",
-    "Backlinks/Cprintftoprintf.md",
-    "Backlinks/Cprintfconditionalreturn.md",
-    "Backlinks/Cforloopinitialization.md"
+    "Backlinks/INTCOMPrelimCh14.md",
+    "0BSIT/Subjects/INTCOM11.md",
+    "Backlinks/INTCOMPrelimCh13.md",
+    "Backlinks/INTCOMPrelimCh12.md",
+    "Backlinks/INTCOMPrelimCh11.md",
+    "Backlinks/INTCOMPrelimCh10.md",
+    "Backlinks/INTCOMPrelimCh9.md",
+    "Backlinks/INTCOMPrelimCh8.md",
+    "Backlinks/INTCOMPrelimCh7.md",
+    "Backlinks/INTCOMPrelimCh6.md"
   ]
 }
