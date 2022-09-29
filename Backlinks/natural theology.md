@@ -1,0 +1,1 @@
+which emphasized the purposeful nature of the natural world in all human endeavors including ethics, natural law, metaphysics, and political theory.

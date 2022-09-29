@@ -6,8 +6,8 @@ banner_icon: 🖥️
 # C Language
 #subjectHUB 
 
-| **[C_IMPORTANT](C_IMPORTANT.md)** | 
-| --------------------------------- |
+| **[C_IMPORTANT](C_IMPORTANT.md)** | **[C CODES](CCODES)** | 
+| --------------------------------- | --------------------- |
 
 ## Introduction
 - **[Input / Output](Cinputoutput.md)**

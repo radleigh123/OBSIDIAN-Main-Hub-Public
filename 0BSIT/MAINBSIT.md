@@ -7,7 +7,7 @@ banner_icon: 🪦
 
 | Subject                              | EDP Code | Schedule          |
 | ------------------------------------ | -------- | ----------------- |
-| ENTREP101                            | 85661    | 3:00-4:30PM TTH   |
+| **[ENTREP101](ENTREP101.md)**                            | 85661    | 3:00-4:30PM TTH   |
 | **[ST101](ST101.md)**                | 94432    | 9:00-10:30AM TTH  |
 | **[COMPROG11 LEC](COMPROG11LEC.md)** | 94342    | 8:00-9:00AM  MW   |
 | **[COMPROG11 LAB](COMPROG11LAB.md)** | 94355    | 9:00-10:30AM MW   |
