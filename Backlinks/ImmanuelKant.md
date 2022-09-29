@@ -1,0 +1,5 @@
+# Immanuel Kant
+
+# 
+---
+**[BACK](ModernPhilosophy)**

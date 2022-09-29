@@ -1,0 +1,5 @@
+# David Hume
+
+# 
+---
+**[BACK](ModernPhilosophy)**

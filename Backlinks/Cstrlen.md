@@ -1,4 +1,5 @@
-#C #Cstrings 
+#C #Cstrings #Cstrlen
+# String Length function
 
 ```C
 #include<stdio.h>
@@ -14,3 +15,8 @@ int main(){
     return 0;
 }
 ```
+
+# 
+---
+**[[C]]**
+**[[Cstringh]]**

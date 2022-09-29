@@ -26,5 +26,5 @@
 
 # 
 ---
-**[HOME [HUM]](hum101)**
+**[HOME [HUM]](HUM101.md)**
 **[RESOURCE LIST](AsiaDancelinks.md)**

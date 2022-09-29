@@ -15,4 +15,4 @@ It refers to an act of installing or copying software into the computer in the a
 
 # 
 ---
-**[HOME [ST]](ST101)**
+**[HOME [ST]](ST101.md)**

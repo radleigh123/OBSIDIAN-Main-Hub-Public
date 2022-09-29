@@ -22,4 +22,4 @@
 
 # 
 ---
-**[HOME [HUM]](HUM101)**
+**[HOME [HUM]](HUM101.md)**

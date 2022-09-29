@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5ea22bbc215c42b9",
+        "id": "8071d4f24870b50f",
         "type": "leaf",
         "state": {
-          "type": "ledger",
+          "type": "markdown",
           "state": {
-            "file": "transactions.ledger"
+            "file": "Backlinks/Cstrncpy.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transactions.ledger",
+                "file": "Backlinks/Cstrncpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transactions.ledger",
+                "file": "Backlinks/Cstrncpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transactions.ledger"
+                "file": "Backlinks/Cstrncpy.md"
               }
             }
           },
@@ -136,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ea22bbc215c42b9",
+  "active": "24b24a765d577cb1",
   "lastOpenFiles": [
-    "README.md",
-    "transactions.ledger",
-    "ledger.md",
-    "Backlinks/Cputchar.md",
-    "Backlinks/CINPUTdesigngetchar.md",
-    "Backlinks/Cinputoutput.md",
+    "Backlinks/Cstrlen.md",
+    "Backlinks/Cstringh.md",
+    "Backlinks/Cstrncpy.md",
+    "Backlinks/Cstrcpy.md",
     "Backlinks/C.md",
-    "Backlinks/Cgetchar.md",
-    "Backlinks/1Introduction.md",
-    "0CODE/CCODES.md"
+    "Backlinks/Clibrary.md",
+    "Backlinks/CCODES.md",
+    "Backlinks/Cstrings.md",
+    "transactions.ledger",
+    "Backlinks/MedievalPhilosophicalPerspectiveofSelf.md"
   ]
 }

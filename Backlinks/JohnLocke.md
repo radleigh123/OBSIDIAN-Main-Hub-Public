@@ -1,0 +1,5 @@
+# John Locke
+
+# 
+---
+**[BACK](ModernPhilosophy)**

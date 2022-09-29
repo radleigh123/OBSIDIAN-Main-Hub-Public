@@ -1,10 +1,10 @@
 [
-  "obsidian-discordrpc",
   "highlightr-plugin",
   "table-editor-obsidian",
   "obsidian-emoji-toolbar",
   "obsidian-banners",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "ledger-obsidian"
+  "ledger-obsidian",
+  "obsidian-discordrpc"
 ]

@@ -42,12 +42,15 @@
 - [x] Your notes from cellphone
 - [x] Read it later app
 - [x] CS50
-- [ ] Obsidian [tracker](obsidian://open?vault=Main%20Hub&file=0outputMP4.mp4) 
+- [x] Obsidian [tracker](obsidian://open?vault=Main%20Hub&file=0outputMP4.mp4) 
 
 ## Random bullshits
-- Bahalag <font style="color: red">BOGO</font> naningkamot btaw
+- Bahalag <font style="color: red"><u>BOGO</u></font> naningkamot btaw / Padayon <font style="color: red"><u>BOGO</u></font> Padayon <font style="color: green"><u>MANINGKAMOT</u></font>
 - Why are those that work hard never ask for help while those that fool around are the ones that keep asking
 - When the smart kid(girl) genuinely doesn't know and you have more knowledge about it
+- powerofFriendship - When you thought you beat Natsu, then background music starts playing
+- Biggest Achievement never once admitted to the hospital
+- 
 
 # 
 ---

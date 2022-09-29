@@ -1,0 +1,5 @@
+# Gilbert Ryle
+
+# 
+---
+**[BACK](ModernPhilosophy)**

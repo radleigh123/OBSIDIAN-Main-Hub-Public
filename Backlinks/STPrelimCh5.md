@@ -10,4 +10,4 @@ ICT brings both positive and negative effects to individuals, organizations, and
 
 # 
 ---
-**[Home [ST]](ST101)**
+**[Home [ST]](ST101.md)**

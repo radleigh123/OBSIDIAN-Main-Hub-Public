@@ -12,5 +12,5 @@
 
 # 
 ---
-**[BACK](Cinputoutput.md)**
+**[BACK](Cinput.md)**
 **[LINK](Cinputgetcharlink.md)**

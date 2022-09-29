@@ -17,12 +17,16 @@
 ## Static & Dynamic scoping
 - [Assignment outside Function](Cassignmentoutside.md)
 
-## [printf()](Cprintf)
+## printf()
 - **Basic**
 	- [Printf inside printf](Cprintftoprintf)
 	- [Printf conditional return](Cprintfconditionalreturn.md)
 - **Strings**
 	- [Scanf() and gets() limitation](Cscanf&getslimit)
+
+## scanf()
+- [Accept strings with space](CSCANFstringwspace.md)
+
 
 ## [Define directive](Cdefine)
 - [Define w/ string](Cdefinesimplified)

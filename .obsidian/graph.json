@@ -8,30 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#subjectHUB",
-      "color": {
-        "a": 1,
-        "rgb": 7315134
-      }
-    },
-    {
       "query": "tag:#C",
       "color": {
         "a": 1,
-        "rgb": 13009235
+        "rgb": 16743168
+      }
+    },
+    {
+      "query": "tag:#subjectHUB",
+      "color": {
+        "a": 1,
+        "rgb": 8049663
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.1,
+  "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.498887157801024,
+  "repelStrength": 9.26329846427777,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4505081176757823,
+  "scale": 0.4505081176757821,
   "close": true
 }

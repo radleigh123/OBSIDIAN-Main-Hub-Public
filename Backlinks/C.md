@@ -6,14 +6,17 @@ banner_icon: 🖥️
 # C Language
 #subjectHUB 
 
-| **[C_IMPORTANT](C_IMPORTANT.md)** | **[C CODES](CCODES)** | 
+| **[C_IMPORTANT](C_IMPORTANT.md)** | **[C CODES](CCODES.md)** | 
 | --------------------------------- | --------------------- |
 
 ## Introduction
-- **[Input / Output](Cinputoutput.md)**
+- **[C Library](Clibrary.md)**
+- **[Input](Cinput.md)**
+- **[Output](Coutput.md)**
 
-## Strings
-- **[Initializing a String](Cstrings.md)**
+## [Strings](Cstrings)
+- [strcpy()](Cstrcpy.md) | [strncpy()](Cstrncpy.md)
+- [strlen()](Cstrlen)
 
 # 
 ---
