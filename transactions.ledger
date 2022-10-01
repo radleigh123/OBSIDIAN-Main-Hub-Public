@@ -19,7 +19,7 @@ alias i=Income
 
 2022-09-26 Starting Balances
     ; Add a line for each bank account or credit card
-    a:Checking           $300
+    a:CheckingAccount           $164
     StartingBalance      ; Leave this line alone
 
 ; I highly recommend reading through the Ledger documentation about the basics
@@ -40,7 +40,3 @@ alias i=Income
 ; If you encounter issues, please search the existing Github issues,
 ; and create a new one if your issue has not already been solved.
 ;     https://github.com/tgrosinger/ledger-obsidian/issues
-
-2022/09/27 Angel's Burger
-    e:Food:Burger    $3.00    ;From this account
-    Assets:Checking               ;To this account

@@ -17,10 +17,11 @@
 ## Static & Dynamic scoping
 - [Assignment outside Function](Cassignmentoutside.md)
 
-## printf()
-- **Basic**
-	- [Printf inside printf](Cprintftoprintf)
-	- [Printf conditional return](Cprintfconditionalreturn.md)
+## Output
+- **printf()**
+	- [Printf inside printf](Cprintftoprintf) | [Printf conditional return](Cprintfconditionalreturn.md)
+	- [Printf before NULL](CPRINTFbeforenull.md)
+### Input
 - **Strings**
 	- [Scanf() and gets() limitation](Cscanf&getslimit)
 

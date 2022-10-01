@@ -13,10 +13,13 @@ banner_icon: 🖥️
 - **[C Library](Clibrary.md)**
 - **[Input](Cinput.md)**
 - **[Output](Coutput.md)**
+- **[ASCII Character set](CASCIIcharacter.md)**
 
 ## [Strings](Cstrings)
 - [strcpy()](Cstrcpy.md) | [strncpy()](Cstrncpy.md)
 - [strlen()](Cstrlen)
+- [strcat()](Cstrcat.md) | [strncat()](Cstrncat.md)
+- [strcmp()](Cstrcmp.md)
 
 # 
 ---

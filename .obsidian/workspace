@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8071d4f24870b50f",
+        "id": "c4d562c1aa6c4cd8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backlinks/Cstrncpy.md",
+            "file": "Backlinks/C.md",
             "mode": "preview",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/Cstrncpy.md",
+                "file": "Backlinks/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/Cstrncpy.md",
+                "file": "Backlinks/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/Cstrncpy.md"
+                "file": "Backlinks/C.md"
               }
             }
           },
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24b24a765d577cb1",
+  "active": "c4d562c1aa6c4cd8",
   "lastOpenFiles": [
-    "Backlinks/Cstrlen.md",
-    "Backlinks/Cstringh.md",
-    "Backlinks/Cstrncpy.md",
-    "Backlinks/Cstrcpy.md",
+    "Backlinks/Cstrncat.md",
+    "Backlinks/CSTRINGarray.md",
+    "Backlinks/CSTRCMPex1.md",
+    "Backlinks/Cstrcmp.md",
+    "Backlinks/Cstrcat.md",
+    "Backlinks/CPRINTFbeforenull.md",
+    "Backlinks/CASCIIcharacter.md",
+    "Backlinks/C_IMPORTANT.md",
     "Backlinks/C.md",
-    "Backlinks/Clibrary.md",
-    "Backlinks/CCODES.md",
-    "Backlinks/Cstrings.md",
-    "transactions.ledger",
-    "Backlinks/MedievalPhilosophicalPerspectiveofSelf.md"
+    "Backlinks/Coutput.md"
   ]
 }

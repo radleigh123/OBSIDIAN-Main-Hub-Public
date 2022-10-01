@@ -10,6 +10,7 @@
 5. [Declaring and Initializing String variables](CSTRINGdeclaring&initializingVAR.md)
 6. [Writing Strings printf and puts)](CSTRINGwritingstring.md)
 7. [Reading Strings scanf and gets](CSTRINGreadingstring.md)
+8. [Array of strings](CSTRINGarray.md)
 
 <br>
 
