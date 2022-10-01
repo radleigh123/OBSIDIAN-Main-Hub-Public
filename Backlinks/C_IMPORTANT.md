@@ -1,12 +1,12 @@
 #C #Clecture 
 # IMPORTANT
 ---
-## [Variables](Cvariables)
+## Variables
 - [`Sizeof()` operator](Csizeofoperatorincrement.md)
 - [[Octalvariables]]
 - [[Hexavariables]]
 
-## [Operators](Coperators)
+## Operator
 - [Logical short circuit notes](Clogicalshort.md)
 - [Increment Operators](Cincrementdecrement.md)
 - [Half adder Logic](Chalfadderlogic.md)
@@ -18,27 +18,23 @@
 - [Assignment outside Function](Cassignmentoutside.md)
 
 ## Output
-- **printf()**
-	- [Printf inside printf](Cprintftoprintf) | [Printf conditional return](Cprintfconditionalreturn.md)
-	- [Printf before NULL](CPRINTFbeforenull.md)
-### Input
-- **Strings**
-	- [Scanf() and gets() limitation](Cscanf&getslimit)
-
-## scanf()
+- [Printf inside printf](Cprintftoprintf) | [Printf conditional return](Cprintfconditionalreturn.md)
+- [Printf before NULL](CPRINTFbeforenull.md)
+## Input
+- [Scanf() and gets() limitation](Cscanf&getslimit)
 - [Accept strings with space](CSCANFstringwspace.md)
 
-
-## [Define directive](Cdefine)
-- [Define w/ string](Cdefinesimplified)
-
-## [Function](Cfunction)
-- **Recursion**
-	- [Compiler dependent](Ccompilerdependent.md)
+## Function
+- [Compiler dependent](Ccompilerdependent.md)
 
 ## Array
 - [Counting array elements](Ccountingarrayelements.md)
 
+## Other
+- [Define w/ string](Cdefinesimplified)
 
+<br>
+
+# 
 ---
-**[MAINHUB C](C.md)**
+**[[C]]**
