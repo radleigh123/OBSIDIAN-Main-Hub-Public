@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c4d562c1aa6c4cd8",
+        "id": "87f73184e44f94c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BackOffice/MAINBSIT.md",
-            "mode": "preview",
+            "file": "CPOINTERfunction.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/MAINBSIT.md",
+                "file": "CPOINTERfunction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/MAINBSIT.md",
+                "file": "CPOINTERfunction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/MAINBSIT.md"
+                "file": "CPOINTERfunction.md"
               }
             }
           },
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4d562c1aa6c4cd8",
+  "active": "87f73184e44f94c0",
   "lastOpenFiles": [
-    "0HEADQUARTERS.md",
-    "BackOffice/MAINCODE.md",
+    "CPOINTERfunction.md",
     "Backlinks/C.md",
-    "BackOffice/MAINBSIT.md",
-    "transactions.ledger",
-    "README.md",
-    "Backlinks/AsianClassicalDance.md",
-    "Backlinks/TheatricalDance.md",
-    "BackOffice/Subjects/HUM101.md",
-    "Backlinks/C_IMPORTANT.md"
+    "BackOffice/MAINCODE.md",
+    "0HEADQUARTERS.md",
+    "Backlinks/PSYCHPrelimCh1.md",
+    "Backlinks/MedievalPhilosophy.md",
+    "Backlinks/ModernPhilosophy.md",
+    "Backlinks/ImmanuelKant.md",
+    "Backlinks/EasternPhilosophy.md",
+    "Backlinks/PSYCHPOSTMODPHILO.md"
   ]
 }
