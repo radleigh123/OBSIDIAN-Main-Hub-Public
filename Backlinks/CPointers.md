@@ -1,4 +1,5 @@
 #C #Cpointers 
+# Pointers
 
 ```C
 #include<stdio.h>
@@ -11,8 +12,6 @@ int main(){
     printf("Size of integer is %d bytes!\n", sizeof(int));
 
     printf("Address = %p || Value: %d\n", ptr, *ptr); // dereferencing pointer by using '*'
-    printf("Address = %p || Value: %d\n", ptr + 1, *(ptr + 1));
-
 
     char *charptr;
     charptr = (char*)ptr; // typecasting
@@ -21,10 +20,18 @@ int main(){
     printf("Size of character is %d byte!\n", sizeof(char));
     
     printf("Address = %p || Value: %d", charptr, *charptr);
-    // 00000000 00000000 00000100 00000001
+    // 00000000 00000000 00000100 00000001 = every 8bit is 1byte
     // Decimal in Binary/two's complement - explains why value of charptr is 1
-    printf("\nAddress = %p || Value: %d", charptr + 1, *(charptr + 1));
 
     return 0;
 }
 ```
+
+**See also:**
+- [Pointer Functions](CPOINTERSfunction.md)
+
+<br>
+
+# 
+---
+**[[C]]**

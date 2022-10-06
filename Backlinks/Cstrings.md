@@ -11,6 +11,18 @@
 6. [Writing Strings printf and puts)](CSTRINGwritingstring.md)
 7. [Reading Strings scanf and gets](CSTRINGreadingstring.md)
 8. [Array of strings](CSTRINGarray.md)
+---
+| String functions       |                          |
+| ---------------------- | ------------------------ |
+| [strcpy()](Cstrcpy.md) | [strncpy()](Cstrncpy.md) |
+| [strlen()](Cstrlen)    |                          |
+| [strcat()](Cstrcat.md) | [strncat()](Cstrncat.md) |
+| [strcmp()](Cstrcmp.md)                       |                          |
+
+
+
+
+
 
 <br>
 

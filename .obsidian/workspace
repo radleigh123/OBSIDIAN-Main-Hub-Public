@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CPOINTERfunction.md",
+            "file": "CSTRUCTUREpadding.md",
             "mode": "source",
             "source": false
           }
@@ -23,8 +23,24 @@
     "type": "split",
     "children": [
       {
+        "id": "316764eb094dcdac",
+        "type": "tabs",
+        "dimension": 33.00613496932515,
+        "children": [
+          {
+            "id": "b8379e435049c906",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "5bb6c566ee3bb86c",
         "type": "tabs",
+        "dimension": 66.99386503067485,
         "children": [
           {
             "id": "24b24a765d577cb1",
@@ -61,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 173.5,
+    "width": 240.5,
     "collapsed": true
   },
   "right": {
@@ -78,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPOINTERfunction.md",
+                "file": "CSTRUCTUREpadding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPOINTERfunction.md",
+                "file": "CSTRUCTUREpadding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPOINTERfunction.md"
+                "file": "CSTRUCTUREpadding.md"
               }
             }
           },
@@ -140,15 +156,15 @@
   },
   "active": "87f73184e44f94c0",
   "lastOpenFiles": [
-    "CPOINTERfunction.md",
+    "ToDo.md",
+    "CSTRUCTUREpadding.md",
+    "Backlinks/Cstructures.md",
+    "CSTRUCTURESpointerstructure.md",
+    "CSTRUCTURESarraystructure.md",
+    "CSTRUCTURESdesignateinitial.md",
+    "CSTRUCTUREStypedef.md",
     "Backlinks/C.md",
     "BackOffice/MAINCODE.md",
-    "0HEADQUARTERS.md",
-    "Backlinks/PSYCHPrelimCh1.md",
-    "Backlinks/MedievalPhilosophy.md",
-    "Backlinks/ModernPhilosophy.md",
-    "Backlinks/ImmanuelKant.md",
-    "Backlinks/EasternPhilosophy.md",
-    "Backlinks/PSYCHPOSTMODPHILO.md"
+    "0HEADQUARTERS.md"
   ]
 }

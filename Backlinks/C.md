@@ -9,20 +9,18 @@ banner_icon: 🖥️
 | **[C_IMPORTANT](C_IMPORTANT.md)** | **[C CODES](CCODES.md)** | 
 | --------------------------------- | --------------------- |
 
-### Introduction
-- **[C Library](Clibrary.md)**
-- **[Input](Cinput.md)**
-- **[Output](Coutput.md)**
-- **[ASCII Character set](CASCIIcharacter.md)**
+**[C Library](Clibrary.md)**
+**[ASCII Character set](CASCIIcharacter.md)**
 
-### [Strings](Cstrings)
-- [strcpy()](Cstrcpy.md) | [strncpy()](Cstrncpy.md)
-- [strlen()](Cstrlen)
-- [strcat()](Cstrcat.md) | [strncat()](Cstrncat.md)
-- [strcmp()](Cstrcmp.md)
+**[Input](Cinput.md)**
+**[Output](Coutput.md)**
 
-### Pointers
-- [Pointer Functions](CPOINTERfunction)
+**[Strings](Cstrings)**
+**[Pointers](Cpointers)**
+**[Structures](Cstructures.md)**
+
+
+<br>
 
 # 
 ---
