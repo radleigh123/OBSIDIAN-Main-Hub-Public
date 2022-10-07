@@ -1,7 +1,7 @@
 #C #Clecture #Cstructures #Cstructuretags #Cstructurepacking
 # Structure Packing
 > Because of structure padding, size of the structure becomes more than the size of the actual structure. Due to this some memory will get wasted.
-> > We can avoid the wastage of memory by simply writing [**`#pragma pack(1)`**](Cpragma)
+> > We can avoid the wastage of memory by simply writing [**`#pragma pack(1)`**](Cpragma.md)
 
 ```C
 #pragma pack(1)

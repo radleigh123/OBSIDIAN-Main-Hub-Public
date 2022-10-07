@@ -1,7 +1,7 @@
 #C #Clecture #Cpreprocessordirective 
 # Preprocessor Directives
 - `#include`
-- [`#pragma`](Cpragma)
+- [`#pragma`](Cpragma.md)
 
 <br>
 

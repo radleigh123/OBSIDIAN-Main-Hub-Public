@@ -27,7 +27,7 @@ int main(){
 4.  [Declare an array of structures](CSTRUCTURESarraystructure.md)
 5. [Accessing members of structure using structure pointer](CSTRUCTURESpointerstructure.md)
 6. [Structure Padding](CSTRUCTUREpadding.md)
-7. [Structure Packing](CSTRUCTUREpacking)
+7. [Structure Packing](CSTRUCTUREpacking.md)
 
 <br>
 

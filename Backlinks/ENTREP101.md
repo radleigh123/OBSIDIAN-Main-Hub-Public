@@ -9,9 +9,9 @@ banner_icon: 💸
 ## Prelim
 
 ## Midterm
-- [Unit 1: Introduction](Unit1-Introduction)
-- [Unit 2: Creativity and Ideas](Unit2-CreativityandIdeas)
-- [Unit 3: Trends and Opportunities](Unit3-TrendsandOpportunities)
+- [Unit 1: Introduction](Unit1-Introduction.md)
+- [Unit 2: Creativity and Ideas](Unit2-CreativityandIdeas.md)
+- [Unit 3: Trends and Opportunities](Unit3-TrendsandOpportunities.md)
 - [Unit 4: Customers and Meaning](Unit4-CustomersandMeaning.md)
 - [Unit 5: Design Thinking and the Lean Startup](Unit5-DesignThinkingandtheLeanStartup.md)
 - [Unit 6: Innovation Methods](Unit6-InnovationMethods.md)

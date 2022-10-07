@@ -7,11 +7,9 @@
         "id": "3f4747bb04d8ca67",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Backlinks/CSTRUCTUREStypedef.md",
-            "mode": "preview",
-            "source": false
+            "file": "0HEADQUARTERS.md"
           }
         }
       }
@@ -33,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backlinks/CSTRUCTUREStypedef.md",
+                "file": "0HEADQUARTERS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,13 +113,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 232.51218795776367,
-    "collapsed": true
+    "width": 232.51218795776367
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -137,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/CSTRUCTUREStypedef.md",
+                "file": "0HEADQUARTERS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/CSTRUCTUREStypedef.md",
+                "file": "0HEADQUARTERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/CSTRUCTUREStypedef.md"
+                "file": "0HEADQUARTERS.md"
               }
             }
           },
@@ -199,15 +195,15 @@
   },
   "active": "3f4747bb04d8ca67",
   "lastOpenFiles": [
-    "Backlinks/Cstructures.md",
-    "Backlinks/C.md",
-    "Cunions.md",
-    "Cpreprocessordirective.md",
-    "Cpragma.md",
+    "README.md",
+    "ToDo.md",
+    "Backlinks/Unit1-Introduction.md",
+    "Backlinks/contiguous.md",
+    "0HEADQUARTERS.svg",
+    "0HEADQUARTERS.md",
+    "Backlinks/Cpreprocessordirective.md",
+    "Backlinks/Cpragma.md",
     "Backlinks/CSTRUCTUREStypedef.md",
-    "CSTRUCTUREpacking.md",
-    "Backlinks/C_IMPORTANT.md",
-    "Backlinks/Cdefinesimplified.md",
-    "Backlinks/CSTRUCTUREpadding.md"
+    "Backlinks/Cstructures.md"
   ]
 }
