@@ -22,7 +22,7 @@ int main(){
     return 0;
 }
 ```
-> **Attention:** [ASCII Character set](CASCIIcharacter.md)
+> **Attention:** [ASCII Character set](ASCIICODES.md)
 
 ### Caution
 `strcmp()` considers s1 < s2 if either one of the following conditions is satisfied:

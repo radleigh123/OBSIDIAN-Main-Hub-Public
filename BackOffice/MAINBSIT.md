@@ -13,7 +13,7 @@ banner_icon: 🪦
 | **[COMPROG11 LAB](COMPROG11LAB.md)** | 94355    | 9:00-10:30AM MW   |
 | **[INTCOM11](INTCOM11.md)**          | 94406    | 10:30-12:00PM TTH |
 | **[PSYCH101](PSYCH101.md)**          | 94394    | 5:00-6:30PM MW    |
-| NSTP102                              | 61757    | 7:30-10:30AM SAT  |
+| **[NSTP102](NSTP102.md)**                              | 61757    | 7:30-10:30AM SAT  |
 | **[PE102](PE102.md)**                | 62015    | 1:30-2:30PM MW    |
 | **[WEBDEV11 LEC](WEBDEV11LEC.md)**   | 64371    | 12:00-1:30PM MW   |
 | **[WEBDEV11 LAB](WEBDEV11LAB.md)**   | 94383    | 12:00-1:30PM MW   |

@@ -3,7 +3,7 @@
 > is a user defined data type that can be used to group elements of different types into a single type.
 
 ```C
-struct {
+struct{
 	char *engine;
 } car1, car2;
 
@@ -20,16 +20,14 @@ int main(){
 | ![[Pasted image 20221006171554.png]] | ![[Pasted image 20221006171620.png]] |
 | ------------------------------------ | ------------------------------------ |
 
-### Accessing Structure members
-![[Pasted image 20221006172201.png|450]]
-
 **See also:**
 1.  [Structure Tags](CSTRUCTUREStypes.md)
-2.  [Typedef Keyword](CSTRUCTUREStypedef)
-3.  [Designated Initialization](CSTRUCTURESdesignateinitial)
-4.  [Declare an array of structures](CSTRUCTURESarraystructure)
-5. [Accessing members of structure using structure pointer](CSTRUCTURESpointerstructure)
-6. [Structure Padding](CSTRUCTUREpadding)
+2.  [Typedef Keyword](CSTRUCTUREStypedef.md)
+3.  [Designated Initialization](CSTRUCTURESdesignateinitial.md)
+4.  [Declare an array of structures](CSTRUCTURESarraystructure.md)
+5. [Accessing members of structure using structure pointer](CSTRUCTURESpointerstructure.md)
+6. [Structure Padding](CSTRUCTUREpadding.md)
+7. [Structure Packing](CSTRUCTUREpacking)
 
 <br>
 

@@ -1,0 +1,1 @@
+sharing a common border; touching.

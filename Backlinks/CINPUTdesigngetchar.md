@@ -13,4 +13,5 @@
 # 
 ---
 **[BACK](Cinput.md)**
-**[LINK](Cinputgetcharlink.md)**
+**Source:**
+- [Designing The Input Function using getchar() - YouTube](https://www.youtube.com/watch?v=jGRI7Au7f2c)

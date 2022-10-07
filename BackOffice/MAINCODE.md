@@ -4,10 +4,14 @@ banner: "![[Cut-burger2.jpg]]"
 banner_y: 0.596
 ---
 # HEADQUARTERS PROGRAMMING
+**[[C]]**
 
-|     Language     | Other sources |
-|:----------------:| ------------- |
-|  [**C**](C.md)   | **[CS Harvard](CS50)**              |
+**[[HTML]]**
+**[[CSS]]**
+
+### Global
+**[[CS50]]**
+**[[ASCIICODES]]**
 
 <br>
 

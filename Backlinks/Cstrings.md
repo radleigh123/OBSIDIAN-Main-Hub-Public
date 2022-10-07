@@ -1,6 +1,5 @@
-# String Literal (or String Constants)
 #C #Cstrings
-
+# String Literal (or String Constants)
 > a <mark class="hltr-blue">sequence of characters</mark> enclosed within <mark class="hltr-blue">double quotes</mark>.
 
 1. [Basics of String Literals](CSTRINGbasic.md)

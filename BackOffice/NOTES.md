@@ -1,12 +1,20 @@
-## Interesting words to use
+## For productivity
+- [x] Make a **calendar**
+- [x] Make a smart filter for **email** ARRANGE
+- [x] Add another option might to **list**
+- [x] Your notes from cellphone
+- [x] Read it later app
+- [x] CS50
+- [x] Obsidian [tracker](obsidian://open?vault=Main%20Hub&file=0outputMP4.mp4) 
+- [ ] Look this up [How to Take Smart Notes in Obsidian - by Josh Duffney (substack.com)](https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian)
 
+## Interesting words to use
 💚  Repercussions
 💚  Exasperated
 💚  Temerity
 💚  Voracious
 
 ## Songs MOFO
-
 🎵  Blackbear - @ my worst
 🎵  Blackbear - Hot Bummer Girl
 🎵  Ashe- Moral of the story
@@ -33,16 +41,6 @@
 > No smoking within 50 feet, trucks
 
 > Why is everyone is staring... Oh believe me I know why they are staring here
-
-## For productivity
-
-- [x] Make a **calendar**
-- [x] Make a smart filter for **email** ARRANGE
-- [x] Add another option might to **list**
-- [x] Your notes from cellphone
-- [x] Read it later app
-- [x] CS50
-- [x] Obsidian [tracker](obsidian://open?vault=Main%20Hub&file=0outputMP4.mp4) 
 
 ## Random bullshits
 - Bahalag <font style="color: red"><u>BOGO</u></font> naningkamot btaw / Padayon <font style="color: red"><u>BOGO</u></font> Padayon <font style="color: green"><u>MANINGKAMOT</u></font>

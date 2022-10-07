@@ -20,15 +20,21 @@
 ## Output
 - [Printf inside printf](Cprintftoprintf) | [Printf conditional return](Cprintfconditionalreturn.md)
 - [Printf before NULL](CPRINTFbeforenull.md)
+- [Splicing](Csplicing.md)
 ## Input
 - [Scanf() and gets() limitation](Cscanf&getslimit)
 - [Accept strings with space](CSCANFstringwspace.md)
 
+## Array
+- [Counting array elements](Ccountingarrayelements.md)
+- [Passing array as an argument to a function](Cpassingarrayfunction.md)
+- [Assigning new address to array](Cassigningnewaddress.md)
+
 ## Function
 - [Compiler dependent](Ccompilerdependent.md)
 
-## Array
-- [Counting array elements](Ccountingarrayelements.md)
+## Pointer
+- [Segmentation Fault](Csegmentationfault.md)
 
 ## Other
 - [Define w/ string](Cdefinesimplified)

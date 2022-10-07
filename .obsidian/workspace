@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "87f73184e44f94c0",
+        "id": "3f4747bb04d8ca67",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSTRUCTUREpadding.md",
-            "mode": "source",
+            "file": "Backlinks/CSTRUCTUREStypedef.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -23,16 +23,58 @@
     "type": "split",
     "children": [
       {
-        "id": "316764eb094dcdac",
+        "id": "ecfbd55f31d3ab6d",
         "type": "tabs",
-        "dimension": 33.00613496932515,
+        "dimension": 27.870680044593087,
         "children": [
           {
-            "id": "b8379e435049c906",
+            "id": "92b657e0909e192b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "Backlinks/CSTRUCTUREStypedef.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#subjectHUB",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6074838
+                      }
+                    },
+                    {
+                      "query": "tag:#C",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2.2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2588386562181629,
+                  "close": true
+                }
+              }
             }
           }
         ]
@@ -40,7 +82,7 @@
       {
         "id": "5bb6c566ee3bb86c",
         "type": "tabs",
-        "dimension": 66.99386503067485,
+        "dimension": 72.12931995540691,
         "children": [
           {
             "id": "24b24a765d577cb1",
@@ -56,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Cstructures",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +115,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
+    "width": 232.51218795776367,
     "collapsed": true
   },
   "right": {
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSTRUCTUREpadding.md",
+                "file": "Backlinks/CSTRUCTUREStypedef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSTRUCTUREpadding.md",
+                "file": "Backlinks/CSTRUCTUREStypedef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSTRUCTUREpadding.md"
+                "file": "Backlinks/CSTRUCTUREStypedef.md"
               }
             }
           },
@@ -147,24 +190,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "87f73184e44f94c0",
+  "active": "3f4747bb04d8ca67",
   "lastOpenFiles": [
-    "ToDo.md",
-    "CSTRUCTUREpadding.md",
     "Backlinks/Cstructures.md",
-    "CSTRUCTURESpointerstructure.md",
-    "CSTRUCTURESarraystructure.md",
-    "CSTRUCTURESdesignateinitial.md",
-    "CSTRUCTUREStypedef.md",
     "Backlinks/C.md",
-    "BackOffice/MAINCODE.md",
-    "0HEADQUARTERS.md"
+    "Cunions.md",
+    "Cpreprocessordirective.md",
+    "Cpragma.md",
+    "Backlinks/CSTRUCTUREStypedef.md",
+    "CSTRUCTUREpacking.md",
+    "Backlinks/C_IMPORTANT.md",
+    "Backlinks/Cdefinesimplified.md",
+    "Backlinks/CSTRUCTUREpadding.md"
   ]
 }

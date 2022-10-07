@@ -8,7 +8,11 @@ banner_icon: 🌏
 
 ## Prelim
 - [Introduction: How the Web Works](WEBDEVintro.md)
-- [Introduction: HTML (Elements & Attributes)](HTML.md)
+- [Introduction: HTML (Elements & Attributes)](WEBDEVHTML.md)
+
+### Midterm
+
+<br>
 
 ---
 **[MAIN HUB](MAINBSIT.md)**

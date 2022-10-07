@@ -18,4 +18,4 @@
 `<img src="">`
 - **src** attribute is required and contains the path to the image to be embedded.
 
-**[Back](HTML.md)**
+**[Back](WEBDEVHTML.md)**
