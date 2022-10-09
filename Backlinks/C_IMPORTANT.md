@@ -20,7 +20,6 @@
 ## Output
 - [Printf inside printf](Cprintftoprintf) | [Printf conditional return](Cprintfconditionalreturn.md)
 - [Printf before NULL](CPRINTFbeforenull.md)
-- [Splicing](Csplicing.md)
 ## Input
 - [Scanf() and gets() limitation](Cscanf&getslimit)
 - [Accept strings with space](CSCANFstringwspace.md)
@@ -35,6 +34,9 @@
 
 ## Pointer
 - [Segmentation Fault](Csegmentationfault.md)
+
+## Strings
+- [Splicing](Csplicing.md)
 
 ## Other
 - [Define w/ string](Cdefinesimplified)

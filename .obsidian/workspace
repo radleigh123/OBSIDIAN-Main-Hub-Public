@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4747bb04d8ca67",
+        "id": "b8280c24ecc1e2cf",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "0HEADQUARTERS.md"
+            "file": "BackOffice/External.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -31,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0HEADQUARTERS.md",
+                "file": "BackOffice/External.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.51218795776367
+    "width": 232.51218795776367,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0HEADQUARTERS.md",
+                "file": "BackOffice/External.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0HEADQUARTERS.md",
+                "file": "BackOffice/External.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0HEADQUARTERS.md"
+                "file": "BackOffice/External.md"
               }
             }
           },
@@ -193,17 +196,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f4747bb04d8ca67",
+  "active": "b8280c24ecc1e2cf",
   "lastOpenFiles": [
-    "README.md",
-    "ToDo.md",
-    "Backlinks/Unit1-Introduction.md",
-    "Backlinks/contiguous.md",
-    "0HEADQUARTERS.svg",
     "0HEADQUARTERS.md",
-    "Backlinks/Cpreprocessordirective.md",
-    "Backlinks/Cpragma.md",
-    "Backlinks/CSTRUCTUREStypedef.md",
-    "Backlinks/Cstructures.md"
+    "BackOffice/MAINCODE.md",
+    "ToDo.md",
+    "README.md",
+    "NSTPPROJECT.md",
+    "BackOffice/External.md",
+    "Untitled.md",
+    "Backlinks/C.md",
+    "Backlinks/Cunions.md",
+    "Excalidraw/PROTODRAWING.md"
   ]
 }
