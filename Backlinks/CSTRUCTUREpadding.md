@@ -1,9 +1,11 @@
 #C #Clecture #Cstructures #Cstructuretags #Cstructurepadding
 
-> How memory is allocated to structure members
+>[!TIP] How memory is allocated to structure members
 > - When an object of some structure is declared then some [contiguous](contiguous.md) block of memory will be allocated to structure members.
 > 
-> **Note:** Processor <mark class="hltr-lightred">doesn't read 1byte</mark> at a time from memory. It reads 1word at a time.
+>>[!FAIL] Processor doesn't read 1byte at a time from memory. It reads 1word at a time.
+
+
 # Structure Padding
 ![[Pasted image 20221007201400.png|550]]![[Pasted image 20221007201451.png|550]]
 - <mark class="hltr-lightred">It's an unnecessary wastage of CPU cycles</mark>

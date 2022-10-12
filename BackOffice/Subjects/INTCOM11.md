@@ -32,14 +32,13 @@ banner_icon: 🖥️
 
 ## Midterm: Hardware
 [Introduction](INTCOMMidtermINTRO.md)
-1. [Buying the correct Hardware](INTCOMMidtermCh1.md) ^38cbd9
-2. [Input devices](INTCOMMidtermCh2)
-3. [Storage devices](INTCOMMidtermCh3)
-4. [Processing devices](INTCOMMidtermCh4)
-5. [Output and Communication devices](INTCOMMidtermCh5)
-6. [Troubleshooting](INTCOMMidtermCh6)
-7. [New Technologies](INTCOMMidtermCh7)
-
+1. [Buying the correct Hardware](INTCOMMidtermCh1.md) ^MIDCH1
+2. [Input devices](INTCOMMidtermCh2.md) ^MIDCH2
+3. [Storage devices](INTCOMMidtermCh3.md) ^MIDCH3
+4. [Processing devices](INTCOMMidtermCh4.md) ^MIDCH4
+5. [Output and Communication devices](INTCOMMidtermCh5.md) ^MIDCH5
+6. [Troubleshooting](INTCOMMidtermCh6.md) ^MIDCH6
+7. [New Technologies](INTCOMMidtermCh7.md) ^MIDCH7
 
 ---
 **[MAIN HUB](MAINBSIT.md)**

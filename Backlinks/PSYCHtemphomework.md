@@ -48,3 +48,5 @@ Types of STI include:
 
 ---
 **Source:** [What is contraception? - NHS (www.nhs.uk)](https://www.nhs.uk/conditions/contraception/what-is-contraception/#:~:text=Methods%20of%20contraception,Female%20sterilisation%20Vasectomy%20(male%20sterilisation))
+
+**[[PSYCHtempnotes]]**

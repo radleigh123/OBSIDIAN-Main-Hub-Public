@@ -1,7 +1,6 @@
 #C #Clecture #Cstructures 
 # Structures
-> is a user defined data type that can be used to group elements of different types into a single type.
-
+- is a user defined data type that can be used to group elements of different types into a single type.
 ```C
 struct{
 	char *engine;
@@ -15,25 +14,25 @@ int main(){
 	return 0;
 }
 ```
-### Initializing Structure members
 
+>[!INFO]- ### Initializing Structure members
 | ![[Pasted image 20221006171554.png]] | ![[Pasted image 20221006171620.png]] |
 | ------------------------------------ | ------------------------------------ |
 
-**See also:**
-1.  [Structure Tags](CSTRUCTUREStypes.md)
-2.  [Typedef Keyword](CSTRUCTUREStypedef.md)
-3.  [Designated Initialization](CSTRUCTURESdesignateinitial.md)
-4.  [Declare an array of structures](CSTRUCTURESarraystructure.md)
-5. [Accessing members of structure using structure pointer](CSTRUCTURESpointerstructure.md)
-6. [Structure Padding](CSTRUCTUREpadding.md)
-7. [Structure Packing](CSTRUCTUREpacking.md)
+>[!CITE] **See also:**
+>1.  [Structure Tags](CSTRUCTUREStypes.md)
+>2.  [Typedef Keyword](CSTRUCTUREStypedef.md)
+>3.  [Designated Initialization](CSTRUCTURESdesignateinitial.md)
+>4.  [Declare an array of structures](CSTRUCTURESarraystructure.md)
+>5. [Accessing members of structure using structure pointer](CSTRUCTURESpointerstructure.md)
+>6. [Structure Padding](CSTRUCTUREpadding.md)
+>7. [Structure Packing](CSTRUCTUREpacking.md)
 
 <br>
 
 # 
 ---
-**[[C]]**
+**[C](C#^b07713)**
 **Sources:**
 - [Declaring Structure Variables - YouTube](https://www.youtube.com/watch?v=3pFSbSVIwKU&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=151)
 - [Initializing & Accessing the Structure Members - YouTube](https://www.youtube.com/watch?v=2DidKZmwNMo&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=154)

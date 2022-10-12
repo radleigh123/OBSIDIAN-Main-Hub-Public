@@ -37,3 +37,5 @@ Ritual
 ## Physical self
 ## Sexual self
 ## Material self
+
+**[[PSYCHtemphomework]]**
