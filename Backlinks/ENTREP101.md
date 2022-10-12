@@ -6,6 +6,9 @@ banner_icon: 💸
 # The Entrepreneurial Mind
 #subjectHUB 
 
+**Instructor:** Mrs. Marijoy M. Yaun
+**EDP Code:** 85661
+
 ## Prelim
 
 ## Midterm

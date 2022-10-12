@@ -5,6 +5,10 @@ banner_icon: 🌠
 ---
 # [Understanding the Self](PSYCHIntro.md)
 #subjectHUB 
+
+**Instructor:** Mr. Clint Eduard Fuentes
+**EDP Code:** 94394
+
 - [The Johari Window Model](PSYCHJOHARI.md)
 ### The Self from various perspective
 1. [Philosophy](PSYCHPrelimCh1.md)

@@ -6,6 +6,9 @@ banner_icon: 🌏
 # Web Design & Development
 #subjectHUB 
 
+**Instructor:** Mr. Carl Cabahug
+**EDP Code:** 94371
+
 ## Prelim
 - [Introduction: How the Web Works](WEBDEVintro.md)
 - [Introduction: HTML (Elements & Attributes)](WEBDEVHTML.md)

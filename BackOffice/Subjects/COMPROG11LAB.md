@@ -6,6 +6,8 @@ banner_icon: ⌨️
 # [Computer Programming 1](COMPROG11LEC.md) LAB
 #subjectHUB
 
+**Instructor:** Jess C. Cordero
+
 # 
 ---
 **[MAIN HUB](MAINBSIT.md)**

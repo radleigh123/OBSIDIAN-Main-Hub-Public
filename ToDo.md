@@ -7,3 +7,7 @@
 
 
 [LaTeX Math Symbols Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
+
+
+ST - 1.2
+INTCOM - 1.1

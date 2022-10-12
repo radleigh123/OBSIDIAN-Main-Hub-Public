@@ -5,6 +5,10 @@ banner_icon: ✏️
 ---
 # Computer Programming 1
 #subjectHUB
+
+**Instructor:** Mrs. Jess C. Cordero
+**EDP Code:** 94342
+
 > This course deals with problem solving techniques, computer programming and coding standards using a structured programming language such as C, C++, or Java. Emphasis is on pseudo-coding and flowcharting, syntax, semantics, and simple programming techniques such as sequential, conditional, repetition and modular structures. Topics include programming fundamentals, data types, expressions, statements, I/O operations, functions and libraries.
 
 ## PRELIM - MIDTERM

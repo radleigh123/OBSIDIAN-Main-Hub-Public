@@ -6,6 +6,8 @@ banner_icon: 📱
 # Web Design & Development LAB
 #subjectHUB 
 
+**Instructor:** Mr. Carl Cabahug
+
 
 # 
 ---
