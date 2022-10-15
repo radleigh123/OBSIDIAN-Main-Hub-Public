@@ -1,3 +1,5 @@
+**[C](C#^LOOPS)**
+
 #C #Clecture #Cloop 
 # Loop
 - **do... while()** loop
@@ -31,6 +33,5 @@ for(initialization; condition; increment) {
 
 # 
 ---
-**[[C]]**
 **Sources:**
 - [for and while Loops - YouTube](https://www.youtube.com/watch?v=qUPXsPtWGoY&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=42)

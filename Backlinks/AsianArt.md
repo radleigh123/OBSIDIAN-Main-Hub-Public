@@ -1,3 +1,6 @@
+| **[[WesternArt]]** | **[[PreArt12.jpg]]** | **[[PreArt13.jpg]]** | **[[PreArt14.jpg]]** | 
+| ------------------ | -------------------- | -------------------- | -------------------- |
+
 # Asian Art
 > early Asian arts feature human civilization in the countries of this continent, there are 3 countries highlighted in this ear: China, India, and Japan.
 >> Asian art is useful as it shows the culture and history of the country where it is from
@@ -20,9 +23,3 @@
 ### Japanese Art
 - are the **traditional paintings** unique to these Oriental artists. Looking at the works of Kawanabe Kyosai, halled as one of the the virtuosos of traditional Japanese paintings.
 	- It is characterized by interest in music showing individuals in their old clothing and Japanese writings/characters (Kaniji).
-
-<br>
-
-# 
----
-**[HOME [HUM]](HUM101)**

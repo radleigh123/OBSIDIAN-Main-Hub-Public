@@ -1,3 +1,5 @@
+**[C](C#^ARRAYS)**
+
 #C #Clecture #Carrays #Carray2D 
 # Arrays
 
@@ -5,8 +7,6 @@
 
 # 
 ---
-**[[C]]**
-
 **Relations:**
 - [Counting array elements](Ccountingarrayelements.md)
 - [Passing array as an argument to a function](Cpassingarrayfunction.md)

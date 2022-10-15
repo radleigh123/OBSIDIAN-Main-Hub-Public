@@ -1,3 +1,6 @@
+| **[[WesternArt]]** | **[[PreArt7.jpg]]** | **[[PreArt8.jpg]]** | **[[PreArt9.jpg]]** | 
+| ------------------ | ------------------- | ------------------- | ------------------- |
+
 ## Medieval Art
 - covers a vast scope of time and place, over many years of art history in Europe, the Middle East, and North Africa which include Early Christian, Byzantine, Romanesque and Gothic Art.
 - includes major art movements and periods, national and regional art, genres, revivals, the artists crafts.
@@ -27,9 +30,3 @@
 - It has a unique combination of existing technologies established the emergence of a new building style. These technologies were the ogival or pointed arch, the ribbed vault, and the flying buttress.
 - The earliest Gothic art was monumental sculpture, on the walls of Cathedrals and abbeys.
 - Illuminated manuscripts represent the most complete record of Gothic painting
-
-<br>
-
-# 
----
-**[[WesternArt]]**

@@ -1,4 +1,4 @@
->[!INFO] By the end of this chapter, you will be able to:
+>[!INFO] #### By the end of this chapter, you will be able to:
 >- Evaluate hardware devices
 >- Suggest input, output, storage and communication devices, as well as CPU and RAM; including specifying basic specifications in terms of processor, memory and storage for:
 >	- home users

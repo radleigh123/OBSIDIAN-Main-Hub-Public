@@ -1,3 +1,5 @@
+**[[C]]**
+
 #C #Clecture 
 # Left & Right Value
 
@@ -9,8 +11,3 @@
 **rvalue** (right value) - simple means an object that has no identifiable location in memory
 - anyting which is capable of returning a constant expression or value.
 - expressions like `a+b` will return some constant value.
-
-<br>
-
----
-**[[C]]**

@@ -1,3 +1,6 @@
+| **[[WesternArt]]** | **[[PreArt11.jpg]]** | **[[PreArt12.jpg]]** | 
+| ------------------ | -------------------- | -------------------- |
+
 # Modern Art
 > refers to artistic works produced during the period extending roughly from the 1860s to the 1970s, and denotes the style and philosophy of the art produced during that era
 
@@ -14,9 +17,3 @@
 	- **Minimalism**
 	- **Installation art**
 	- **Suprematism**
-
-<br>
-
-# 
----
-**[HOME [HUM]](HUM101)**

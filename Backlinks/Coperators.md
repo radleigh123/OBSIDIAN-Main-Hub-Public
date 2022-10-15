@@ -1,3 +1,5 @@
+**[[C]]**
+
 #C #Clecture 
 # Operators
 ### Increment & Decrement Operators
@@ -15,6 +17,5 @@
 
 # 
 ---
-**[[C]]**
 **Source:**
 - [Increment and Decrement Operators in C (Part 1) - YouTube](https://www.youtube.com/watch?v=Lpo1QYsuAmM&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=25)

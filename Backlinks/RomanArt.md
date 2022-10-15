@@ -1,3 +1,6 @@
+| **[HOME [HUM]](HUM101#^HUMART4)** | **[[PreArt4.jpg]]** | **[[PreArt5.jpg]]** | 
+| --------------------------------- | ------------------- | ------------------- |
+
 # Roman Art
 > "The Glory that was Greece, the Grandeur that was Rome" is the best way to describe the similarities of the artworks between Greece and Rome.
 > The Romans however, <mark class="hltr-lightblue">broadened the scope and made it more appealing</mark>.
@@ -11,9 +14,3 @@
 - A Roman bust defines the individual characteristics of the subject.
 ![[Pasted image 20221011184840.png|450]]
 ![[Pasted image 20221011184922.png|450]]
-
-<br>
-
-# 
----
-**[HOME [HUM]](HUM101)**

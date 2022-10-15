@@ -1,0 +1,1 @@
+is a concept where the reincarnated life will depend on how the past life was spent.

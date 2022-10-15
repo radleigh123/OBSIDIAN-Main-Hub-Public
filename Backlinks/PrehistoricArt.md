@@ -1,3 +1,6 @@
+| **[HOME [HUM]](HUM101#^HUMART1)** | **[[PreArt1.jpg]]** | **[[PreArt2.jpg]]** | 
+| --------------------------------- | ------------------- | ------------------- |
+
 # Prehistoric Art (35,000 BC - Early centuries of AD)
 > is all art produced in preliterate, pre-historical cultures beginning somewhere in very late geological history, and generally continuing until that culture either develops writing or other methods of record-keeping, or it makes significant contact with another culture that has.
 
@@ -22,10 +25,4 @@
 ![[Pasted image 20221011181843.png|450]]
 
 
-- Prehistoric art shows us clearly how art changes as people's lifestyles change. It also shows that the most realistic art is not necessarily the most skillful. 
-
-<br>
-
-# 
----
-**[HOME [HUM]](HUM101)**
+- Prehistoric art shows us clearly how art changes as people's lifestyles change. It also shows that the most realistic art is not necessarily the most skillful.

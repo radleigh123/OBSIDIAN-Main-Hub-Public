@@ -1,3 +1,6 @@
+| **[HOME [HUM]](HUM101#^HUMART2)** | **[[PreArt3.jpg]]** | 
+| --------------------------------- | ------------------- |
+
 # Egyptian Art
 > represented that dominant high culture in the Mediterranean art. Egypt was a civilization with very strong traditions of architecture and sculpture.
 
@@ -7,9 +10,3 @@
 	- has close connection with its written language, called **Egyptian hieroglyphs**
 
 ![[Pasted image 20221011182951.png|450]]
-
-<br>
-
-# 
----
-**[HOME [HUM]](HUM101)**

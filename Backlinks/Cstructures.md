@@ -1,3 +1,5 @@
+**[C](C#^STRUCT)**
+
 #C #Clecture #Cstructures 
 # Structures
 - is a user defined data type that can be used to group elements of different types into a single type.
@@ -32,7 +34,6 @@ int main(){
 
 # 
 ---
-**[C](C#^b07713)**
 **Sources:**
 - [Declaring Structure Variables - YouTube](https://www.youtube.com/watch?v=3pFSbSVIwKU&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=151)
 - [Initializing & Accessing the Structure Members - YouTube](https://www.youtube.com/watch?v=2DidKZmwNMo&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=154)

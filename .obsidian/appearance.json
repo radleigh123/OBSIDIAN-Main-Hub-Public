@@ -3,8 +3,8 @@
   "cssTheme": "",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Fira Code",
-  "textFontFamily": "",
-  "baseFontSize": 15,
+  "textFontFamily": "Karla,Roboto Slab",
+  "baseFontSize": 19,
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian",
@@ -12,6 +12,9 @@
     "Center Image",
     "Center Table",
     "Clutter Free Headings",
-    "Image Floats"
-  ]
+    "Image Floats",
+    "CalloutFix"
+  ],
+  "accentColor": "#604aa5",
+  "showViewHeader": true
 }

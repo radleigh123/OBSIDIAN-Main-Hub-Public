@@ -14,9 +14,9 @@ banner_icon: ✏️
 ## PRELIM - MIDTERM
 - [Module 1: Problem Solving Process](COMPROGPrelimCh1.md)
 - [Module 2: Flowcharting](COMPROGPrelimCh2.md)
-- Module 3: Pseudocode
-- Module 4: Sequential Structures
-- Module 5: Selection Structures
+- [Module 3: Pseudocode](COMPROGMidtermCh3.md) ^COMPROGMIDCH3
+- [Module 4: Sequential Structures](COMPROGMidtermCh4)
+- [Module 5: Selection Structures](COMPROGMidtermCh5)
 
 # 
 ---

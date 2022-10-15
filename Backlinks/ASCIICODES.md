@@ -1,3 +1,5 @@
+**[[MAINCODE]]**
+
 #C #HTML
 # ASCII Character Set
 >- Spaces are less than all printing characters (<mark class="hltr-lightgreen">Space character has the value 32</mark> in ASCII set)
@@ -10,7 +12,6 @@
 
 # 
 ---
-**[[MAINCODE]]**
 **Source:**
 - [ASCII Table - ASCII Character Codes, HTML, Octal, Hex, Decimal](https://www.asciitable.com/)
 

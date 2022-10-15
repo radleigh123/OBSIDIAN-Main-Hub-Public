@@ -1,3 +1,6 @@
+| **[HOME [HUM]](HUM101#^HUMART3)** | **[[PreArt4.jpg]]** | 
+| --------------------------------- | ------------------- |
+
 # Greek Art
 > began in the prehistoric Cycladic and Minoan civilizations. Ancient Greece had great painters, great sculptors, and great architects. 
 
@@ -8,9 +11,3 @@
 
 - Black-figure vase painting and Red-figure vase painting gives many surviving examples of what Greek painting was.
 ![[Pasted image 20221011185021.png|450]]
-
-<br>
-
-# 
----
-**[HOME [HUM]](HUM101)**

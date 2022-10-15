@@ -1,3 +1,5 @@
+**[C](C#^POINTERS)**
+
 #C #Cpointers 
 # Pointers
 
@@ -27,11 +29,9 @@ int main(){
 }
 ```
 
-**See also:**
-- [Pointer Functions](CPOINTERSfunction.md)
-
 <br>
 
 # 
 ---
-**[[C]]**
+**See also:**
+- [Pointer Functions](CPOINTERSfunction.md)

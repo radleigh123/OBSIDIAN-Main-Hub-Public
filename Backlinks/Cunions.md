@@ -1,3 +1,5 @@
+**[C](C#^UNION)**
+
 #C #Clecture #Cunions 
 # Unions
 is a user defined data type but unlike structures, union members share same memory location.
@@ -25,10 +27,5 @@ is a user defined data type but unlike structures, union members share same memo
 >>![[Pasted image 20221012210138.png]]
 
 >[!CITE] **See also**
->1. [Application of Unions](CUNIONSapplications)
-
-<br>
-
-# 
----
-**[C](C#^b07713)**
+>1. [Application of Unions](CUNIONSapplications.md)
+>2. [Application of Unions 2](CUNIONSapplications2.md)

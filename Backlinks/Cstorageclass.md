@@ -1,3 +1,5 @@
+**[[C]]**
+
 #C #Clecture #Cstorageclass
 
 > A storage class defines the scope (visibility) and life-time of variables and functions within a C Program. These features basically include the scope, visibility and life-time which help us to trace the existence of a particular variable during the runtime of a program.
@@ -80,7 +82,6 @@ i is 10 and count is 0 */
 
 # 
 ---
-**[[C]]**
 **Sources:**
 - [Storage Classes](https://www.tutorialspoint.com/cprogramming/c_storage_classes.htm)
 - [Storage GeeksforGeeks](https://www.geeksforgeeks.org/storage-classes-in-c/)

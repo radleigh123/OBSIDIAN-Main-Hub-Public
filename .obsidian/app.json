@@ -1,16 +1,17 @@
 {
   "promptDelete": false,
-  "spellcheck": true,
+  "spellcheck": false,
   "communityPluginSortOrder": "download",
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "readableLineLength": false,
   "attachmentFolderPath": "Backlinks",
   "pdfExportSettings": {
-    "pageSize": "A4",
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   },
-  "livePreview": false
+  "livePreview": false,
+  "showInlineTitle": false
 }

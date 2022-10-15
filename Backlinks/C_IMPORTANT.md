@@ -1,3 +1,5 @@
+**[[C]]**
+
 #C #Clecture 
 # IMPORTANT
 ---
@@ -40,9 +42,3 @@
 
 ## Other
 - [Define w/ string](Cdefinesimplified)
-
-<br>
-
-# 
----
-**[[C]]**

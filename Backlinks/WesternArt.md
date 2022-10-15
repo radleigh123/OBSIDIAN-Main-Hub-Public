@@ -1,3 +1,7 @@
+| **[HOME [HUM]](HUM101#^HUMART5)** |                     |
+| --------------------------------- | ------------------- |
+| **[[PreArt5.jpg]]**               | **[[PreArt6.jpg]]** |
+
 # Western Art
 > It is generally the art of European countries, and art created in the forms accepted by those countries.
 
@@ -12,9 +16,3 @@
 	- [Baroque Art](BaroqueArt.md)
 	- [Modern Art](ModernArt.md)
 	- [Asian Art](AsianArt.md)
-
-<br>
-
-# 
----
-**[HOME [HUM]](HUM101)**
