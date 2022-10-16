@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh2.md)**
+
 ## Mouse
 - second most common input device to use with a computer is the mouse. A mouse is a pointing device. It allows the user to move the cursor on the computer screen, as well as point, click and select various programs and items.
 
@@ -15,6 +17,3 @@
 -   Do not use a wrist rest, as that doubles the pressure inside the carpal tunnel.
 -   Do not click too hard; rather use a soft touch to manipulate the mouse.
 -   Adjust the speed at which your mouse moves, the time required between double-clicks, and the size of the cursor if you have problems controlling the mouse.
-
----
-**[BACK](INTCOMMidtermCh2.md)**

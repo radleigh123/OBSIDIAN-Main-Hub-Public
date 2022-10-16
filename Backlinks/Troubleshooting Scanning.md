@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh6.md)**
+
 ## Scanning
 - Scanning a document does not always produce the expected result. 
 	>[!EXAMPLE] **A skew or cut-off scanned document:**
@@ -10,6 +12,3 @@
 	
 	>[!EXAMPLE] **Connection errors:** 
 	>This is most likely caused due to a poorly attached connection. Make sure to properly connect the scanner to fix the issue.
-
----
-**[BACK](INTCOMMidtermCh6.md)**

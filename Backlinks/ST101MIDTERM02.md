@@ -1,4 +1,6 @@
-## How computers interpret data
+**[HOME [ST]](ST101#^STMIDTERMch2)**
+
+# How computers interpret data
 Depending on the standard used, computer systems convert characters from the keyboard and later display them on the monitor. Refer to the following steps:
 1. From the keyboard, pressure pads are typically found underneath each key. Upon typing a letter, the pressure pad sends information to the CPU for processing.
 2. The information is then transmitted in the form of 0s and 1s using the ASCII code.
@@ -16,6 +18,3 @@ Depending on the standard used, computer systems convert characters from the key
 **Codes** - another term for a *program*.
 
 To make it easier, machine codes are made "**more human**" by making them readable and similar to the human language.
-
----
-**[HOME [ST]](ST101)**

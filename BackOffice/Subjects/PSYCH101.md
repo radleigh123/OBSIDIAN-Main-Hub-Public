@@ -12,11 +12,11 @@ banner_icon: 🌠
 > The terms "self" and "identity" have been loosely interchanged in various literature.
 > - **[Identity](Identity.md)**
 > - **[Self](Self.md)**
->>[!INFO] #### Nature VS Nurture
+>> **Nature VS Nurture**
 >>- **[Nature](Nature.md)**
 >>- **[Nurture](Nurture.md)**
 >
->- [**The Johari Window Model**](PSYCHJOHARI.md)
+>> [**The Johari Window Model**](PSYCHJOHARI.md)
 
 ### The Self from various perspective
 1. [**Philosophy**](PSYCHPrelimCh1.md)
@@ -24,12 +24,11 @@ banner_icon: 🌠
 3. Anthropology
 4. Psychology
 ### Unpacking the Self
-1. The physical self: Heredity and Environment
-2. Sexual self
-3. Material/Economic self
-4. [**Spiritual self**](Spiritual%20Self.md)
-5. Political self
-6. Digital self: Self and other in Cyberspace
+1. **[Physical & Sexual self](Sexual%20Self.md)** ^PSYCHMIDTERMch1
+2. **[Material/Economic self](Material%20Self.md)** ^PSYCHMIDTERMch2
+3. [**Spiritual self**](Spiritual%20Self.md) ^PSYCHMIDTERMch3
+4. Political self
+5. Digital self: Self and other in Cyberspace
 ### Managing and Caring for the Self
 1. Goal Setting
 2. Well-being/Less Study/More Care

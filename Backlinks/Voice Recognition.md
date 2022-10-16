@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh2.md)**
+
 ## Voice Recognition (or voice-activation)
 - software enables the computer to take verbal commands given by the user, and translate and interpret them.
 >[!TIP]- #### Voice Recognition for Marketing
@@ -7,6 +9,3 @@
 
 >[!EXAMPLE] ### Advantages and Limitations of voice-recognition software
 >![[Pasted image 20221012160426.png]]
-
----
-**[BACK](INTCOMMidtermCh2.md)**

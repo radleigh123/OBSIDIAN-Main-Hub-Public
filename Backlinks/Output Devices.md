@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh5.md)**
+
 >[!TIP] ## Output Devices
 >- is any device that takes the data that has been stored on a computer and makes it available to the user.
 >
@@ -5,7 +7,7 @@
 >>- or **monitor** is the most important output device of any computer. It makes it possible for the user to visually interact with data and programs in a quick and easy manner.
 >>> [!EXAMPLE] #### Evaluating a computer screen
 >>> When looking to buy a new computer screen, there are three main things to look at:
->>>- **Pixels:** A good number of pixels is 1 920 pixels across the width of the monitor and 1 080 pixels across the height of the monitor. <mark class="hltr-lightblue">The higher the number of pixels, the better the screen.</mark>
+>>>- **Pixels:** A good number of pixels is 1 920 pixels across the width of the monitor and 1 080 pixels across the height of the monitor. <u>The higher the number of pixels, the better the screen.</u>
 >>>- **Screen size:** The size of a computer screen is measured diagonally from the bottom of the screen to the top right.
 >>>- **Refresh rate:** This refers to the amount of time it takes for the screen to be updated with the newest information.
 >>
@@ -38,8 +40,3 @@
 >>>- **Memory:** All printers come with a limited amount of memory. Having more memory increases the speed at which printing takes place. This will only be noticeable if you are planning on printing pages with large images or tables on a regular basis.
 >>>- **Wireless capabilities:** Most modern printers come with Wi-Fi capabilities. This makes it possible for the user to print documents without the need to be physically connected to the printer.
 >>>- **Ink cartridges:** Make sure that ink cartridges are available for when you have to replace them.
-
-<br>
-
----
-**[BACK](INTCOMMidtermCh5.md)**

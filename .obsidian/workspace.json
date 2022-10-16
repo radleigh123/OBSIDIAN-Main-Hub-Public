@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d9808ecd911443e2",
+        "id": "0b428954006da4f3",
         "type": "tabs",
         "children": [
           {
-            "id": "cb4097907c1e14d4",
+            "id": "1b862153564e9413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlinks/CUNIONSapplications2.md",
+                "file": "Backlinks/CSS.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -31,7 +32,7 @@
       {
         "id": "135a0f42e4bbe7b9",
         "type": "tabs",
-        "dimension": 26.241134751773053,
+        "dimension": 28.267182962245883,
         "children": [
           {
             "id": "1e99836e1cbe037f",
@@ -46,7 +47,7 @@
       {
         "id": "5bb6c566ee3bb86c",
         "type": "tabs",
-        "dimension": 73.75886524822695,
+        "dimension": 27.202323330106488,
         "children": [
           {
             "id": "24b24a765d577cb1",
@@ -81,11 +82,31 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "72038ce18fc340ca",
+        "type": "tabs",
+        "dimension": 44.53049370764763,
+        "children": [
+          {
+            "id": "7f672a6c074fc304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/NOTES.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.0124969482422,
+    "width": 303.0124969482422,
     "collapsed": true
   },
   "right": {
@@ -103,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backlinks/CUNIONSapplications2.md",
+                "file": "Backlinks/CSS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/CUNIONSapplications2.md",
+                "file": "Backlinks/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/CUNIONSapplications2.md",
+                "file": "Backlinks/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/CUNIONSapplications2.md"
+                "file": "Backlinks/CSS.md"
               }
             }
           },
@@ -222,17 +243,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cb4097907c1e14d4",
+  "active": "1b862153564e9413",
   "lastOpenFiles": [
-    "Backlinks/Cunions.md",
-    "Backlinks/C.md",
-    "Backlinks/Cenumerations.md",
+    "BackOffice/NOTES.md",
+    "Backlinks/CSS.md",
     "BackOffice/MAINCODE.md",
-    "0HEADQUARTERS.md",
-    "Backlinks/Carrays.md",
-    "Backlinks/Cconstants.md",
-    "Untitled.md",
-    "Backlinks/CUNIONSapplications2.md",
-    "Backlinks/Cloops.md"
+    "Backlinks/HTML.md",
+    "Backlinks/C.md",
+    "Backlinks/Cstructures.md",
+    "Excalidraw/0HEADQUARTERS.md",
+    "Backlinks/HTMLBASICS.md",
+    "BackOffice/External.md",
+    "Backlinks/Material Self.md"
   ]
 }

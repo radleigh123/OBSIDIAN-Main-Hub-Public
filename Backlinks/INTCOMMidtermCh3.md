@@ -1,3 +1,5 @@
+**[HOME [INTCOM]](INTCOM11#^MIDCH3)**
+
 >[!FAQ] # Unit 2.3 Storage devices
 > refer to hardware that has a very specific purpose and function, i.e. to store data.
 > - [Internal Hard Drives](Internal%20Hard%20Drives.md)
@@ -20,9 +22,3 @@ When deciding to buy a new storage device, there are certain things that you mus
 > is a type of storage service provided to users that allow them to store information on the internet. The two best known services is Apple’s iCloud and Google’s Google Drive.
 > 
 > ![[Pasted image 20221012164335.png]]
-
-<br>
-
-# 
----
-**[HOME [INTCOM]](INTCOM11#^MIDCH3)**

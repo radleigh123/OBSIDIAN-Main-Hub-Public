@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh6.md)**
+
 ## Printing Problems
 - is one of those things that every person will suffer through at least one point in their lives.
 - Most common printing problems and their possible solutions:
@@ -18,7 +20,3 @@
 	
 	>[!EXAMPLE] **Printer does not print:**
 	>This might be caused by a bad connection, the printer running out of ink or toner, or the printer driver not being installed on your computer.
-	
----
-
-**[BACK](INTCOMMidtermCh6.md)**

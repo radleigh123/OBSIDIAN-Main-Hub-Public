@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh3.md)**
+
 ## Flash Drives
 - is a very small (physically) portable storage device. You can connect it to your computer via a USB port.
 
@@ -8,6 +10,3 @@
 >
 >>[!INFO]-
 >>CDs have a storage capacity of 700 Mb, DVDs have a capacity of 4.7 Gb and Blu-ray discs have a capacity of 50 Gb.
-
----
-**[BACK](INTCOMMidtermCh3.md)**

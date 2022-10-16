@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh6.md)**
+
 ## Resolution
 - resolution refers to the number of pixels on the computer screen and plays an important role in determining image quality.
 >[!ERROR] Black screen
@@ -12,7 +14,3 @@
 >>3. Scroll down to the resolution section and select an appropriate resolution from the drop-down menu. (There should be a recommended resolution that you can use.)
 >>4. Click to keep these changes and close the _Display Settings_ window.
 >>5. If you encounter a black screen when changing the resolution, do not worry as Windows 10 has a built-in feature that allows you to return to your previous resolution 15 seconds after you have selected a new one.
-
----
-
-**[BACK](INTCOMMidtermCh6.md)**

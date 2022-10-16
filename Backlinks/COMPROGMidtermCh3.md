@@ -16,9 +16,7 @@
 >> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pause so the user can see the answer**
 
 ## Writing your first C program
->[!NOTE] ![[Pasted image 20221013195804.png]]
-
-<br>
+>[!NOTE] ![[Pasted image 20221013195804.png|350]]
 
 ## Comments in C Programming
 >[!NOTE]- **Single Line Comment**
@@ -29,8 +27,6 @@
 > Multi-line comments start with **/*** and ends with ***/** Any text between **/*** and ***/** will be ignored by the compiler.
 >>[!EXAMPLE] **/*** This is for the multi line comment ***/**
 
-<br>
-
 ## Variable Name Rules
 >[!ATTENTION] 
 >- Should not be a reserved word like int, double, printf, scanf etc.
@@ -39,15 +35,13 @@
 >- No other special characters are allowed  including space
 >- Variable names are case sensitive
 
-<br>
-
 ## Input and Output
 >[!NOTE] ### **Output in C programming:**
 > To output values or print text in C, you can use the `printf()` function. Example:
-> ![[Pasted image 20221013195804.png]]
+> ![[Pasted image 20221013195804.png|500]]
 > 
 >>[!EXAMPLE]- In order to have a new line of your output you must use **\n** inside the printf function.
->> ![[Pasted image 20221013200657.png|50%]]
+>> ![[Pasted image 20221013200657.png|500]]
 
 >[!NOTE] ### **Input in C programming**
 > You have already learned that `printf()` is used to **output values** in C. To get **user input**, you can use the `scanf()` function.
@@ -58,8 +52,6 @@
 >>- **%d** - 3 **|** 5000 **|** 654 **|** 69
 >>- **%f** -  3.15 **|** 5000.88 **|** 654.312 **|** 69.56843
 >>- **%c** - 'a' **|** 'A' **|** 'C' **|** 'h' **|** 'Z'
-
-<br>
 
 ## Operators
 >[!NOTE] ### Arithmetic Operators
@@ -85,7 +77,7 @@
 >- Use else to specify a block of code to be executed, if the same condition is false
 >- Use else if to specify a new condition to test, if the first condition is false
 >
->>[!EXAMPLE] #### Syntax
+>>[!EXAMPLE] **Syntax**
 >> if (condition) {
 >> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *// block of code to be executed if the condition is true*
 >> } else {

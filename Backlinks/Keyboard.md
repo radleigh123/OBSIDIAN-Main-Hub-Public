@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh2.md)**
+
 ## Keyboard
 - is the most common and important input device for desktop computers. It consists of various keys that the user presses to give commands or type letters.
 
@@ -17,6 +19,3 @@
 
 >[!INFO]-
 >Even though there are many types of mice available on the market, a standard two-button optical mouse will be more than sufficient for the average computer user.
-
----
-**[BACK](INTCOMMidtermCh2.md)**

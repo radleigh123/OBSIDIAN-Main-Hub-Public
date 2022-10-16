@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh6.md)**
+
 ## Disk Errors (Defragging)
 - Hard drives are prone to wear and tear, which can lead to a variety of problems, such as disk errors caused by **disk fragmentation**.
 
@@ -20,7 +22,3 @@
 >
 >>[!INFO]-
 >>SSDs should never be optimised or defragmented. By default, Windows 10 will not attempt to optimise these drives.
-
----
-
-**[BACK](INTCOMMidtermCh6.md)**

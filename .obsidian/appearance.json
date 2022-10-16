@@ -9,11 +9,11 @@
   "enabledCssSnippets": [
     "obsidian",
     "red_tag",
-    "Center Image",
     "Center Table",
     "Clutter Free Headings",
     "Image Floats",
-    "CalloutFix"
+    "CalloutFix",
+    "Center Image"
   ],
   "accentColor": "#604aa5",
   "showViewHeader": true

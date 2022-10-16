@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh4.md)**
+
 ## Random Access Memory (RAM)
 - s a piece of hardware (chip) responsible for temporarily storing data. It also enables the computer to work with a vast amount of information at the same time.
 >[!INFO]-
@@ -16,6 +18,3 @@
 >>- **DDR4 SDRAM:** This RAM is found in most modern computers.
 >>
 >> The best advice is to do some research on the internet to find out which RAM will work best with your motherboard.
-
----
-**[BACK](INTCOMMidtermCh4.md)**

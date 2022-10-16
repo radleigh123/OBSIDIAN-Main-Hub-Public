@@ -1,3 +1,5 @@
+**[HOME [INTCOM]](INTCOM11#^MIDCH7)**
+
 >[!FAQ] # New Technologies
 >Computer technology is an ever-changing field. Each day, new technologies are developed to replace or improve existing technologies. <mark class="hltr-lightgreen">The most powerful computing device today will not be the most powerful device tomorrow.</mark>
 >
@@ -10,6 +12,3 @@
 >
 >>[!INFO] Blockchain Technology
 >>Blockchain technology has been around for several years, with the best known user of this technology being Bitcoin. However, it should be noted that this technology has the potential to change the ways in which we process and store data.
-
----
-**[HOME [INTCOM]](INTCOM11#^MIDCH7)**

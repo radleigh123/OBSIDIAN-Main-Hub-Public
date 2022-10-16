@@ -1,7 +1,6 @@
 ---
 banner: "![[WEBDEV.jpg]]"
 banner_y: 0.444
-banner_icon: 🌏
 ---
 # Web Design & Development
 #subjectHUB 
@@ -13,7 +12,8 @@ banner_icon: 🌏
 - [Introduction: How the Web Works](WEBDEVintro.md)
 - [Introduction: HTML (Elements & Attributes)](WEBDEVHTML.md)
 
-### Midterm
+## Midterm
+- 
 
 <br>
 

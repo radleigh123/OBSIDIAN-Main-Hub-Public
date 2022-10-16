@@ -1,6 +1,6 @@
 **[[0HEADQUARTERS]]**
 
-## For productivity
+## NOTES
 - [x] Make a **calendar**
 - [x] Make a smart filter for **email** ARRANGE
 - [x] Add another option might to **list**
@@ -9,6 +9,7 @@
 - [x] CS50
 - [x] Obsidian [tracker](obsidian://open?vault=Main%20Hub&file=0outputMP4.mp4) 
 - [ ] Look this up [How to Take Smart Notes in Obsidian - by Josh Duffney (substack.com)](https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian)
+- [ ] Learn Obsidian dataview
 
 ## Interesting words to use
 💚  Repercussions
@@ -37,17 +38,14 @@
 >>[!CITE] *Maybe you always began to lose yourself in these relationships, but stayed in them.*
 >>\- (pg. 114 middle left)
 >
->>[!CITE] A couple of kids who were way over their heads 
->
->>[!CITE] No smoking within 50 feet, trucks
->
->>[!CITE] Why is everyone is staring... Oh believe me I know why they are staring here
+>>[!CITE] A couple of kids who were way over their heads
 
 ## Random bullshits
+- No smoking within 50 feet, trucks
 - Bahalag <font style="color: red"><u>BOGO</u></font> naningkamot btaw / Padayon <font style="color: red"><u>BOGO</u></font> Padayon <font style="color: green"><u>MANINGKAMOT</u></font>
 - Why are those that work hard never ask for help while those that fool around are the ones that keep asking
-- When the smart kid(girl) genuinely doesn't know and you have more knowledge about it
-- powerofFriendship - When you thought you beat Natsu, then background music starts playing
+- When the smart kid(girl) genuinely doesn't know and you have more knowledge about it (internal happiness)
+- **power**of**Friendship** - When you thought you beat MC, then background music starts playing (like fairytail)
 - Biggest Achievement never once admitted to the hospital
 
 >[!WARNING] ## Needed

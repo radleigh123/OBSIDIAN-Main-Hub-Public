@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh4.md)**
+
 ## Graphics Processing Unit (GPU)
 - is a specialized processing unit responsible for display functions. Like the CPU, the GPU is responsible for making calculations and following instructions.
 - the GPU’s instructions are limited to the calculations needed to render and display images on the screen.
@@ -11,6 +13,3 @@
 >With these model numbers, the X is replaced by a number that refers to the generation of the graphics card. For example, the GTX 980 was released in March 2015; while the GTX 1080 was released one year later in May 2016. This model was followed by the RTX 2080 that was released in September 2018.
 >>[!INFO]-
 >>The GPU is also referred to as the display adapter, graphics card, video adapter, video card, video controller or even gaming card.
-
----
-**[BACK](INTCOMMidtermCh4.md)**

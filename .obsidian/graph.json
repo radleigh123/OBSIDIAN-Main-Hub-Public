@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:subjectHUB",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 8.8758839307486,
   "linkStrength": 1,
   "linkDistance": 154,
-  "scale": 1.3339466542135567,
-  "close": false
+  "scale": 0.1756637569334726,
+  "close": true
 }

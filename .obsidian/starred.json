@@ -3,7 +3,17 @@
     {
       "type": "file",
       "title": "0HEADQUARTERS",
-      "path": "0HEADQUARTERS.md"
+      "path": "Excalidraw/0HEADQUARTERS.md"
+    },
+    {
+      "type": "file",
+      "title": "NOTES",
+      "path": "BackOffice/NOTES.md"
+    },
+    {
+      "type": "file",
+      "title": "ToDo",
+      "path": "BackOffice/ToDo.md"
     }
   ]
 }

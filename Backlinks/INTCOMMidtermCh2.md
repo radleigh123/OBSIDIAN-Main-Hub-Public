@@ -1,3 +1,5 @@
+**[HOME [ST]](INTCOM11#^MIDCH2)**
+
 >[!FAQ] # Unit 2.2 Input devices
 >An **input device** is a piece of hardware that enables a user to enter data into a computer, or interact with a computer. These devices allow you to interact directly with your computer and devices where the data is saved or transmitted to your computer.
 >- **[Keyboard](Keyboard.md)**
@@ -37,9 +39,3 @@ The integration of input devices is a good way to enhance productivity and effic
 >It is not only the integration of input devices that enhances productivity and efficiency, but also the integration of, for example:
 >-   **Input/output devices:** A four-in-one printer, which you can use to print, copy, fax and scan using just the one hardware device, is a good example of increasing productivity and efficiency with the integration of devices.
 >-   **Custom integrated software and input devices:** Integrating an input device, such as a barcode reader and OCR scanner with an administration system (software), will save time, accuracy and provide comprehensive data during stocktaking or auditing and surveying.
-
-<br>
-
-# 
----
-**[HOME [ST]](INTCOM11#^MIDCH2)**

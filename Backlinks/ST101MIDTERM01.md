@@ -1,4 +1,6 @@
-## How computers work
+**[HOME [ST]](ST101#^STMIDTERMch1)**
+
+# How computers work
 
 | Human Language                 | Machine Language                                                    |
 | ------------------------------ | ------------------------------------------------------------------- |
@@ -10,6 +12,3 @@ Binary number system (Bi - 2)
 Decimal number system (Deci - 10)
 Octal number system (Octa - 8)
 Hexadecimal number system (Hexa - 6, Deci - 10)
-
----
-**[HOME [ST]](ST101)**

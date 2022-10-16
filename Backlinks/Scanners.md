@@ -1,3 +1,5 @@
+**[BACK](INTCOMMidtermCh2.md)**
+
 ## Scanners
 - is an input device that works a lot like a photocopy machine. However, unlike a photocopy machine, a scanner does not produce a printed copy of the scanned document;<mark class="hltr-lightblue"> it produces a digital copy</mark> that you can save on your computer.
 >[!INFO]-
@@ -7,6 +9,3 @@
 
 >[!EXAMPLE] ### Advantages and limitations of scanners
 >![[Pasted image 20221012160606.png]]
-
----
-**[BACK](INTCOMMidtermCh2.md)**
