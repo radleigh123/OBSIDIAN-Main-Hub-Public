@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0b428954006da4f3",
+        "id": "eff3cfae4cb8aac9",
         "type": "tabs",
         "children": [
           {
-            "id": "1b862153564e9413",
+            "id": "32b01776ccb2f594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlinks/CSS.md",
+                "file": "Backlinks/cheatsheet.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,25 +105,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.0124969482422,
-    "collapsed": true
+    "width": 303.0124969482422
   },
   "right": {
     "id": "e7ea3a4c0956803b",
     "type": "split",
     "children": [
       {
-        "id": "fd6656cf38f7aa8f",
+        "id": "7520c0fb52b091d2",
         "type": "tabs",
-        "dimension": 21.255060728744937,
+        "dimension": 28.58527131782946,
         "children": [
           {
-            "id": "92b657e0909e192b",
+            "id": "feb14c518a8e5d4e",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backlinks/CSS.md",
+                "file": "Backlinks/cheatsheet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,26 +133,11 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#subjectHUB",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6074838
-                      }
-                    },
-                    {
-                      "query": "tag:#C",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    }
-                  ],
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": -2.2,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -162,7 +145,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.25883865621816293,
+                  "scale": 0.25883865621816265,
                   "close": true
                 }
               }
@@ -173,7 +156,7 @@
       {
         "id": "981765448f968352",
         "type": "tabs",
-        "dimension": 78.74493927125506,
+        "dimension": 71.41472868217055,
         "children": [
           {
             "id": "12d29e5973f307d8",
@@ -181,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/CSS.md",
+                "file": "Backlinks/cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/CSS.md",
+                "file": "Backlinks/cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/CSS.md"
+                "file": "Backlinks/cheatsheet.md"
               }
             }
           },
@@ -237,23 +220,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241,
-    "collapsed": true
+    "width": 241
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1b862153564e9413",
+  "active": "a5e793d9a66a5563",
   "lastOpenFiles": [
-    "BackOffice/NOTES.md",
-    "Backlinks/CSS.md",
     "BackOffice/MAINCODE.md",
+    "Backlinks/cheatsheet.md",
     "Backlinks/HTML.md",
-    "Backlinks/C.md",
-    "Backlinks/Cstructures.md",
-    "Excalidraw/0HEADQUARTERS.md",
-    "Backlinks/HTMLBASICS.md",
-    "BackOffice/External.md",
-    "Backlinks/Material Self.md"
+    "Backlinks/HTMLfavicon.md",
+    "Untitled.md",
+    "Backlinks/CSSsyntax.md",
+    "Backlinks/CSS.md",
+    "Backlinks/CSShowto.md",
+    "Backlinks/CSSinline.md",
+    "Backlinks/CSSinternal.md"
   ]
 }

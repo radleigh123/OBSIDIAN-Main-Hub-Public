@@ -1,0 +1,28 @@
+**[BACK](CSShowto.md)**
+
+#CSS 
+## Internal CSS
+- An internal style sheet may be used if one single HTML page has a unique style.
+```HTML
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```

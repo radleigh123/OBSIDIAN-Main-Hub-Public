@@ -35,7 +35,7 @@
 - CSS ^HTMLcss
 - Links ^HTMLlinks
 - Images ^HTMLimages
-- Favicon ^HTMLfavicon
+- **[Favicon](HTMLfavicon.md)** ^HTMLfavicon
 - Tables ^HTMLtables
 - Lists ^HTMLlists
 - Block & Inline ^HTMLblockinline

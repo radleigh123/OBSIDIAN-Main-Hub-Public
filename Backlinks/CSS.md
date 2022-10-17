@@ -20,76 +20,55 @@
 > }
 > ```
 
-| **Tutorial**       | **Advanced**         | **Responsive** | **Grid** | **SASS** | Examples | References |
-| -------------- | ---------------- | ---------- | ---- | ---- | -------- | ---------- |
-| Introduction   | Rounded Corners  |            |      |      |          |            |
-| Syntax         | Border Images    |            |      |      |          |            |
-| Selectors      | Backgrounds      |            |      |      |          |            |
-| How to         | Colors           |            |      |      |          |            |
-| Comments       | Color Keywords   |            |      |      |          |            |
-| Colors         | Gradients        |            |      |      |          |            |
-| Backgrounds    | Shadows          |            |      |      |          |            |
-| Borders        | Text Effects     |            |      |      |          |            |
-| Margins        | Web Fonts        |            |      |      |          |            |
-| Padding        | 2D Transforms    |            |      |      |          |            |
-| Height/Width   | 3D Transforms    |            |      |      |          |            |
-| Box Model      | Transitions      |            |      |      |          |            |
-| Outline        | Animations       |            |      |      |          |            |
-| Text           | Tooltips         |            |      |      |          |            |
-| Fonts          | Style Images     |            |      |      |          |            |
-| Icons          | Image Reflection |            |      |      |          |            |
-| Links          | object-fit       |            |      |      |          |            |
-| Lists          | object-position  |            |      |      |          |            |
-| Tables         | Masking          |            |      |      |          |            |
-| Display        | Buttons          |            |      |      |          |            |
-| Max-width      | Pagination       |            |      |      |          |            |
-| Position       | Multiple Columns |            |      |      |          |            |
-| Z-index        | User Interfance  |            |      |      |          |            |
-| Overflow       | Variables        |            |      |      |          |            |
-| Float          | Box Sizing       |            |      |      |          |            |
-| Inline-Block   | Media Queries    |            |      |      |          |            |
-| Align          | MQ Examples      |            |      |      |          |            |
-| Combinators    | Flexboc                 |            |      |      |          |            |
-| Pseudo-class   |                  |            |      |      |          |            |
-| Pseudo-element |                  |            |      |      |          |            |
-| Opacity        |                  |            |      |      |          |            |
-| Navigation Bar |                  |            |      |      |          |            |
-| Dropdowns      |                  |            |      |      |          |            |
-| Image Gallery  |                  |            |      |      |          |            |
-| Image Sprites  |                  |            |      |      |          |            |
-| Attr Selectors |                  |            |      |      |          |            |
-| Forms          |                  |            |      |      |          |            |
-| Counters       |                  |            |      |      |          |            |
-| Website Layout |                  |            |      |      |          |            |
-| Units          |                  |            |      |      |          |            |
-| Specificity    |                  |            |      |      |          |            |
-| !important     |                  |            |      |      |          |            |
-| Math Functions |                  |            |      |      |          |            |
-
-	- Introduction
-	- Syntax
-	- Selectors
-	- How to
-	- Comments
-	- Colors
-	- Backgrounds
-	- Borders
-	- Margins
-	- Padding
-	- Height/Width
-	- Box Model
-	- Outline
-	- Text
-	- Fonts
-	- Icons
-	- Links
-	- Tables
-	- Display
-	- Max-width
+| **Tutorial**        | **Advanced**     | **Responsive**    | **Grid**  | **SASS** | Examples    | References      |
+| ------------------- | ---------------- | ----------------- | --------- | -------- | ----------- | --------------- |
+| Introduction        | Rounded Corners  | RWD Intro         | Intro     | SASS     | Templates   | Reference       |
+| [Syntax](CSSsyntax.md) | Border Images    | RWD Viewport      | Container |          | Examples    | Selectors       |
+| [Selectors](CSSselectors.md)           | Backgrounds      | RWD Grid View     | Item      |          | Snippets    | Functions       |
+| [How to](CSShowto.md)              | Colors           | RWD Media Queries |           |          | Quiz        | Reference Aural |
+| Comments            | Color Keywords   | RWD Images        |           |          | Exercises   | Web Safe Fonts  |
+| Colors              | Gradients        | RWD Videos        |           |          | Certificate | Animatable      |
+| Backgrounds         | Shadows          | RWD Frameworks    |           |          |             | Units           |
+| Borders             | Text Effects     | RWD Templates     |           |          |             | PX-EM Converter |
+| Margins             | Web Fonts        |                   |           |          |             | Colors          |
+| Padding             | 2D Transforms    |                   |           |          |             | Color Values    |
+| Height/Width        | 3D Transforms    |                   |           |          |             | Default Values  |
+| Box Model           | Transitions      |                   |           |          |             | Browser Support                |
+| Outline             | Animations       |                   |           |          |             |                 |
+| Text                | Tooltips         |                   |           |          |             |                 |
+| Fonts               | Style Images     |                   |           |          |             |                 |
+| Icons               | Image Reflection |                   |           |          |             |                 |
+| Links               | object-fit       |                   |           |          |             |                 |
+| Lists               | object-position  |                   |           |          |             |                 |
+| Tables              | Masking          |                   |           |          |             |                 |
+| Display             | Buttons          |                   |           |          |             |                 |
+| Max-width           | Pagination       |                   |           |          |             |                 |
+| Position            | Multiple Columns |                   |           |          |             |                 |
+| Z-index             | User Interfance  |                   |           |          |             |                 |
+| Overflow            | Variables        |                   |           |          |             |                 |
+| Float               | Box Sizing       |                   |           |          |             |                 |
+| Inline-Block        | Media Queries    |                   |           |          |             |                 |
+| Align               | MQ Examples      |                   |           |          |             |                 |
+| Combinators         | Flexboc          |                   |           |          |             |                 |
+| Pseudo-class        |                  |                   |           |          |             |                 |
+| Pseudo-element      |                  |                   |           |          |             |                 |
+| Opacity             |                  |                   |           |          |             |                 |
+| Navigation Bar      |                  |                   |           |          |             |                 |
+| Dropdowns           |                  |                   |           |          |             |                 |
+| Image Gallery       |                  |                   |           |          |             |                 |
+| Image Sprites       |                  |                   |           |          |             |                 |
+| Attr Selectors      |                  |                   |           |          |             |                 |
+| Forms               |                  |                   |           |          |             |                 |
+| Counters            |                  |                   |           |          |             |                 |
+| Website Layout      |                  |                   |           |          |             |                 |
+| Units               |                  |                   |           |          |             |                 |
+| Specificity         |                  |                   |           |          |             |                 |
+| !important          |                  |                   |           |          |             |                 |
+| Math Functions      |                  |                   |           |          |             |                 |
 
 <br>
 
 # 
 ---
 **Sources:**
-- [CSS for DUMMIES (w3schools.com)](https://www.w3schools.com/css/default.asp)
+- [**CSS for DUMMIES** (w3schools.com)](https://www.w3schools.com/css/default.asp)

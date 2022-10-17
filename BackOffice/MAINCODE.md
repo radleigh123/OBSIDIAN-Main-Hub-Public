@@ -8,6 +8,7 @@ banner_y: 0.596
 
 **[[HTML]]**
 **[[CSS]]**
+[[cheatsheet]]
 
 <br>
 
