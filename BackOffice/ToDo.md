@@ -11,3 +11,5 @@
 
 ST - 1.2
 INTCOM - 1.1
+
+for **INTCOM** - [Computer Applications Technology Grade 12 Table of Contents | Siyavula](https://intl.siyavula.com/read/cat/grade-12-cat)

@@ -1,3 +1,5 @@
+**[BACK](COMPROG11LEC#^COMPROGMIDCH3)**
+
 >[!TIP] # Pseudocode
 >- is an informal high-level description of the operating principle of a computer program or other algorithm.
 >- is one method of designing or planning a program.
@@ -96,9 +98,3 @@
 >>![[Pasted image 20221013211233.png]]
 
 ## Nested If Example
-
-<br>
-
-# 
----
-**[BACK](COMPROG11LEC#^COMPROGMIDCH3)**

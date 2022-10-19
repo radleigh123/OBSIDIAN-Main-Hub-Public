@@ -14,26 +14,6 @@
       "type": "file",
       "title": "NOTES",
       "path": "BackOffice/NOTES.md"
-    },
-    {
-      "type": "file",
-      "title": "CSShowto",
-      "path": "Backlinks/CSShowto.md"
-    },
-    {
-      "type": "file",
-      "title": "CSSsyntax",
-      "path": "Backlinks/CSSsyntax.md"
-    },
-    {
-      "type": "file",
-      "title": "CSSselectors",
-      "path": "Backlinks/CSSselectors.md"
-    },
-    {
-      "type": "file",
-      "title": "HTMLfavicon",
-      "path": "Backlinks/HTMLfavicon.md"
     }
   ]
 }

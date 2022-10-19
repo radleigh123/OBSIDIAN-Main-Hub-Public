@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#C",
@@ -32,6 +32,6 @@
   "repelStrength": 8.8758839307486,
   "linkStrength": 1,
   "linkDistance": 154,
-  "scale": 0.6786612150598332,
-  "close": false
+  "scale": 0.04546857079089404,
+  "close": true
 }

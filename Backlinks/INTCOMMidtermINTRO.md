@@ -1,16 +1,5 @@
 **[[INTCOM11]]**
 
->[!INFO] #### By the end of this chapter, you will be able to:
->- Evaluate hardware devices
->- Suggest input, output, storage and communication devices, as well as CPU and RAM; including specifying basic specifications in terms of processor, memory and storage for:
->	- home users
->	- SOHO users
->	- mobile users
->	- power users
->	- disabled users.
->
->- Fix ordinary hardware problems.
-
 ## Introduction
 Computers and technology have come a very long way since the first computers were used to make advancements in space travel and landing on the moon. They no longer take up entire buildings and cost millions of Rands. Users do not special training either!
 

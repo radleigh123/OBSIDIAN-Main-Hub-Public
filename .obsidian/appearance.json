@@ -3,8 +3,8 @@
   "cssTheme": "",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Fira Code",
-  "textFontFamily": "Karla,Roboto Slab",
-  "baseFontSize": 19,
+  "textFontFamily": "Karla",
+  "baseFontSize": 21,
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian",

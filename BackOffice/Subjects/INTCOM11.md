@@ -30,8 +30,19 @@ banner_icon: 🖥️
 18. [Environment Issues](INTCOMPrelimCh18.md)
 19. [Chapter Summary](INTCOMPrelimCh19.md)
 
-## Midterm: Hardware
-[Introduction](INTCOMMidtermINTRO.md)
+## Midterm: Hardware & Software
+### Hardware
+>[!DONE]- By the end of this chapter, you will be able to:
+>- Evaluate hardware devices
+>- Suggest input, output, storage and communication devices, as well as CPU and RAM; including specifying basic specifications in terms of processor, memory and storage for:
+>	- home users
+>	- SOHO users
+>	- mobile users
+>	- power users
+>	- disabled users.
+>- Fix ordinary hardware problems.
+
+0. [Introduction](INTCOMMidtermINTRO.md) ^MIDCHINTRO
 1. [Buying the correct Hardware](INTCOMMidtermCh1.md) ^MIDCH1
 2. [Input devices](INTCOMMidtermCh2.md) ^MIDCH2
 3. [Storage devices](INTCOMMidtermCh3.md) ^MIDCH3
@@ -39,6 +50,25 @@ banner_icon: 🖥️
 5. [Output and Communication devices](INTCOMMidtermCh5.md) ^MIDCH5
 6. [Troubleshooting](INTCOMMidtermCh6.md) ^MIDCH6
 7. [New Technologies](INTCOMMidtermCh7.md) ^MIDCH7
+
+### Software
+>[!DONE]- By the end of this chapter, you will be able to:
+>- Explain why software is important.
+>- Identify some of the most commonly used software applications.
+>- Describe how software can enhance accessibility, efficiency and productivity.
+>- Understand the difference between web-based and installed applications.
+>- Interpret software system requirements.
+>- Describe some of the most common software problems.
+>- Explain the risk of using flawed software.
+>- Discuss user-centred design.
+>- Understand the social implication of software design.
+
+0. [Introduction](INTCOMMidtermINTRO2.md) ^MIDCHINTRO2
+1. [Uses of common applications](INTCOMMidtermCh10.md) ^MIDCH10
+2. [Software enchancing accessibility, efficiency and productivity](INTCOMMidtermCh11.md) ^MIDCH11
+3. [Interpreting system requirements](INTCOMMidtermCh12.md) ^MIDCH12
+4. [Common software problems](INTCOMMidtermCh13.md) ^MIDCH13
+5. [Social implications: User-centred design](INTCOMMidtermCh14.md) ^MIDCH14
 
 ---
 **[MAIN HUB](MAINBSIT.md)**
