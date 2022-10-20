@@ -1,5 +1,5 @@
 ## C FileExample1
-#C #CFileHandling 
+#C #Cfilehandling 
 
 ```C
 // C program to read name and marks of n number of students and store them in a file.
@@ -37,7 +37,7 @@ int main(){
 ```
 
 ## C FileExample2
-#C #CFileHandling #Cstructures 
+#C #Cfilehandling #Cstructures 
 
 ```C
 // C program to write all the members of an array of structures to a file using fwrite(). Read the array from the file and display on the screen.
@@ -81,7 +81,7 @@ int main(){
 ```
 
 ## C FileExample3
-#C #CFileHandling #Cputchar
+#C #Cfilehandling #Cputchar
 
 ```C
 #include<stdio.h>

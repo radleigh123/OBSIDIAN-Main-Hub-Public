@@ -1,4 +1,5 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH12)**
+| **[HOME [INTCOM]](INTCOM11#^MIDCH12)** | **[NEXT CHAPTER](INTCOMMidtermCh13.md)** | 
+| -------------------------------------- | ---------------------------------------- |
 
 # Interpreting System Requirements
 >[!FAQ]- Something to know

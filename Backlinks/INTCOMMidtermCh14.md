@@ -1,4 +1,5 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH14)**
+| **[HOME [INTCOM]](INTCOM11#^MIDCH14)** | 
+| -------------------------------------- |
 
 # Social Implications: User-centred design
 

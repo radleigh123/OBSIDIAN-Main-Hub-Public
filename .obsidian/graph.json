@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "tag:#CFileHandling",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#C",
@@ -32,6 +32,6 @@
   "repelStrength": 8.8758839307486,
   "linkStrength": 1,
   "linkDistance": 154,
-  "scale": 0.04546857079089404,
+  "scale": 0.6786612150598339,
   "close": true
 }

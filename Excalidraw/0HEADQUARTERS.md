@@ -14,7 +14,7 @@ tags: [excalidraw]
 
 [[MAINBSIT]] ^5ZJf06dS
 
-[[External]] ^VE2vBUHr
+[[EXTERNAL]] ^VE2vBUHr
 
 %%
 # Drawing

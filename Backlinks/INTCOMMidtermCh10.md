@@ -1,4 +1,5 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH10)**
+| **[HOME [INTCOM]](INTCOM11#^MIDCH10)** | **[NEXT CHAPTER](INTCOMMidtermCh11.md)** | 
+| -------------------------------------- | ---------------------------------------- |
 
 # Uses of Common Applications
 
@@ -43,7 +44,7 @@ is a type of software that allows the user to perform a specific personal educat
 - is designed to create and manage **[databases](Database.md)**. Let’s look at some of the other features of database software:
 	- **Security**
 	- **Permanent storage**
-![[Pasted image 20221018213539.png]]
+![[Pasted image 20221018213539.png]] ^database
 
 ### Presentation Software
 - is specifically designed to help the user create and edit presentations in the form of a slide show.

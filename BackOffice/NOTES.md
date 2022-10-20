@@ -47,6 +47,7 @@
 - When the smart kid(girl) genuinely doesn't know and you have more knowledge about it (internal happiness)
 - **power**of**Friendship** - When you thought you beat MC, then background music starts playing (like fairytail)
 - Biggest Achievement never once admitted to the hospital
+- He never clicks "Skip" on yourube ads
 
 >[!WARNING] ## Needed
 >- monitor

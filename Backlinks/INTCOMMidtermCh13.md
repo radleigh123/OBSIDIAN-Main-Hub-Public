@@ -1,4 +1,5 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH13)**
+| **[HOME [INTCOM]](INTCOM11#^MIDCH13)** | **[NEXT CHAPTER](INTCOMMidtermCh14.md)** | 
+| -------------------------------------- | ---------------------------------------- |
 
 # Common Software Problems
 >[!FAQ]- Something to know
@@ -7,7 +8,7 @@
 
 ## Updating Software
 - Developers are aware that you might not always be able to download every update as they come out.
-	- To help with this, they might bundle together a number of update patches into a service pack.
+	- To help with this, they might bundle together a <mark class="hltr-blue">number of update patches</mark> into a <mark class="hltr-blue">service pack</mark>.
 	- Downloading this service pack will then update your software with all the missed patches.
 
 ## Read-only Files

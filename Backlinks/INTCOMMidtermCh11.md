@@ -1,4 +1,5 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH11)**
+| **[HOME [INTCOM]](INTCOM11#^MIDCH11)** | **[NEXT CHAPTER](INTCOMMidtermCh12.md)** | 
+| -------------------------------------- | ---------------------------------------- |
 
 # Software Enchancing Accessibility, Efficiency and Productivity
 >[!DONE]- We will look at the following examples of software that make our lives easier:
@@ -33,20 +34,20 @@
 
 ## Cloud Applications
 - is a new technology that allows the user to store information, or use applications on the internet, instead of being on his or her own computer.
+
+| **Email services** | **Cloud storage** |
+| ------------------ | ----------------- |
+| Gmail              | OneDrive          |
+|                    | Dropbox           |
+
 >[!INFO]- Advantages of cloud computing:
 >- It saves the cost of maintaining your own IT equipment.
 >- It is available 24/7.
 >- It offers backup and recovery functions.
 >- It uses automatic software integration.
 
-- 
 >[!FAIL]- Disadvantages of cloud computing:
 >- Sometimes users experience technical issues.
 >- Security concerns in the cloud.
 >- It could be prone to attacks.
 >- Need internet connection.
-
-| **Email services** | **Cloud storage** |
-| ------------------ | ----------------- |
-| Gmail              | OneDrive          |
-|                    | Dropbox                  |

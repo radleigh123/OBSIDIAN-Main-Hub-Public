@@ -7,13 +7,18 @@
     },
     {
       "type": "file",
-      "title": "ToDo",
-      "path": "BackOffice/ToDo.md"
+      "title": "NOTES",
+      "path": "BackOffice/NOTES.md"
     },
     {
       "type": "file",
-      "title": "NOTES",
-      "path": "BackOffice/NOTES.md"
+      "title": "External",
+      "path": "BackOffice/EXTERNAL.md"
+    },
+    {
+      "type": "file",
+      "title": "ToDo",
+      "path": "BackOffice/EXTERNAL 1.md"
     }
   ]
 }

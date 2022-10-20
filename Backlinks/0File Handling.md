@@ -7,7 +7,7 @@
 - **[Write Text](CWriteText.md)**
 
 ### Seek
-#C #CFileHandling 
+#C #Cfilehandling
 
 ```C
 #include<stdio.h>

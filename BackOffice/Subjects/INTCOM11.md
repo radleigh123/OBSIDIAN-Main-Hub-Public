@@ -70,5 +70,12 @@ banner_icon: 🖥️
 4. [Common software problems](INTCOMMidtermCh13.md) ^MIDCH13
 5. [Social implications: User-centred design](INTCOMMidtermCh14.md) ^MIDCH14
 
+# 
+
+<br>
+
 ---
 **[MAIN HUB](MAINBSIT.md)**
+
+**Sources:**
+- **MIDTERM: Software** - [Computer Applications Technology Grade 12 Table of Contents | Siyavula](https://intl.siyavula.com/read/cat/grade-12-cat)
