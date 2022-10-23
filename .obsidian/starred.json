@@ -12,13 +12,8 @@
     },
     {
       "type": "file",
-      "title": "External",
-      "path": "BackOffice/EXTERNAL.md"
-    },
-    {
-      "type": "file",
       "title": "ToDo",
-      "path": "BackOffice/EXTERNAL 1.md"
+      "path": "BackOffice/EXTERNAL.md"
     }
   ]
 }

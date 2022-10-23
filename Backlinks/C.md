@@ -3,36 +3,45 @@ banner: "![[Pasted image 20220916025929.png]]"
 banner_y: 0.196
 banner_icon: 🖥️
 ---
-# C
-#subjectHUB 
+# C language
+**[[MAINCODE]]**
 
-| **[C_IMPORTANT](C_IMPORTANT.md)** | **[C CODES](CCODES.md)** | 
-| --------------------------------- | --------------------- |
+---
+## C standard library
+- **[input](Cinput.md)** & **[output](Coutput.md)**
+- **[<string.h>](Cstringh)**
 
-- **[ASCII Codes](ASCIICODES.md)**
-- **[Libraries](Clibrary.md)**
+## Basic Concepts
+- **[ASCII chart](ASCIICODES.md)**
 - **[Storage Classes](Cstorageclass.md)**
-- **[Operators](Coperators.md)**
 - **[Precedence & Associativity](Cprecedenceassociativity.md)**
 - **[lvalue & rvalue](Cleftrightvalue.md)**
-- **[Preprocessor Directives](Cpreprocessordirective.md)**
 - **[Constants](Cconstants.md)** ^CONST
 
-**[Input](Cinput.md)**
-**[Output](Coutput.md)**
+## Keywords
+## Preprocessor
+- **[Preprocessor Directives](Cpreprocessordirective.md)**
 
+## Statements
 - **[Loops](Cloops.md)** ^LOOPS
-- **[Arrays](Carrays.md)** ^ARRAYS
+
+## Expressions
+- **[Operators](Coperators.md)**
 - **[Strings](Cstrings)** ^STRINGS
-- **[Pointers](Cpointers)** ^POINTERS
+
+## Initialization
 - **[Structures](Cstructures.md)** ^STRUCT
 - **[Unions](Cunions.md)** ^UNION
+- **[Arrays](Carrays.md)** ^ARRAYS
+
+## Declarations
 - **[Enumeration](Cenumerations.md)** ^ENUM
-- **[File Handling](CFileHandling)** ^FILE
+- **[Pointers](Cpointers)** ^POINTERS
 
+## Functions
+- **[Functions](CFunctions.md)** ^FUNC
 
-<br>
-
-# 
----
-**[[MAINCODE]]**
+## Miscellaneous
+- **[C_IMPORTANT](C_IMPORTANT.md)**
+- **[C CODES](CCODES.md)**
+- **[File Handling](CFileHandling.md)** ^FILE

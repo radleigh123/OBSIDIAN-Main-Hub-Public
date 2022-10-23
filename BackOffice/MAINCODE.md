@@ -3,19 +3,21 @@ banner_icon: 😼
 banner: "![[Cut-burger2.jpg]]"
 banner_y: 0.596
 ---
-# HEADQUARTERS PROGRAMMING
-**[[C]]**
-
-**[[HTML]]**
-**[[CSS]]**
-[[cheatsheet]]
+# MAIN CODE
+- **[[C]]**
+- **[[CSS]]**
+- **[[HTML]]**
 
 <br>
 
-### Global
-**[[CS50]]**
-**[[ASCIICODES]]**
+## Miscellaneous
+- **[[CS50]]**
+- **[[ASCIICODES]]**
 
 # 
+
+<br>
+
 ---
+
 **[[0HEADQUARTERS]]**

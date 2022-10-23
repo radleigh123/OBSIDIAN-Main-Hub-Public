@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b32c6a6b2a8653",
+        "id": "e717f1c86ed094c0",
         "type": "tabs",
         "children": [
           {
-            "id": "145705fac0f35a32",
+            "id": "b81b4227d46455a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/EXTERNAL 1.md",
+                "file": "Backlinks/C.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5110321044922
+    "width": 261.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -103,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/EXTERNAL 1.md",
+                "file": "Backlinks/C.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +127,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2588386562181627,
+                  "scale": 0.25883865621816277,
                   "close": true
                 }
               }
@@ -140,30 +141,30 @@
         "dimension": 71.41472868217055,
         "children": [
           {
-            "id": "12d29e5973f307d8",
+            "id": "9a1b64615b3af468",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backlinks/C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e436c688a49c20a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/EXTERNAL 1.md",
+                "file": "Backlinks/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "73eef7f36fe51b3c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "BackOffice/EXTERNAL 1.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/EXTERNAL 1.md"
+                "file": "Backlinks/C.md"
               }
             }
           },
@@ -197,7 +198,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,17 +208,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "145705fac0f35a32",
+  "active": "b81b4227d46455a1",
   "lastOpenFiles": [
-    "BackOffice/EXTERNAL.md",
-    "LuhmannZettelkasten.md",
-    "BackOffice/EXTERNAL 1.md",
-    "Backlinks/attachments/Zettelkasten-Method-768x545.webp",
-    "Backlinks/attachments/Illustration.png",
-    "Backlinks/attachments/Pasted image 20221020093054.png",
-    "Backlinks/attachments/Screenshot.png",
+    "Backlinks/Cstringh.md",
     "Backlinks/C.md",
+    "Backlinks/Clibrary.md",
     "BackOffice/MAINCODE.md",
-    "Excalidraw/0HEADQUARTERS.md"
+    "Excalidraw/0HEADQUARTERS.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Backlinks/1CFiles.md",
+    "Backlinks/CCODES.md",
+    "Backlinks/0File Handling.md"
   ]
 }

@@ -1,3 +1,5 @@
+**[WEBDEV11LEC](BackOffice/Subjects/WEBDEV11LEC.md)**
+
 # HTML (Hypertext Markup Language)
 > describes the structure of a Web page. It is a Markup language, **not a programming language**.
 - Markup Languages:
@@ -7,16 +9,16 @@
 
 ### Important takeaways
 [HTML Boilerplate](HTMLBoil.md)
-[HTML Elements](HTMLElements.md)
+[HTML Elements](WEBDEVelements.md)
 [HTML Attributes](HTMLAttrib.md)
 [HTML Tag](HTMLTag.md)
 
+# 
+
 <br>
 
-# 
 ---
-**[WEBDEV11LEC](WEBDEV11LEC.md)**
-**Resource list**
+**Sources: **
 - [IntroPDF](https://drive.google.com/file/d/1dvDs5SzDasugQaIA1afCobvmSF2IYE2Z/view)
 - [GMLdefintion](https://www.techtarget.com/whatis/definition/GML-Generalized-Markup-Language#:~:text=GML%20frees%20document%20creators%20from,IBM%27s%20set%20of%20GML%20tags.)
 - [IBMdefinition](https://techmonitor.ai/what-is/what-is-ibm-4950406)

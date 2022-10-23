@@ -1,5 +1,5 @@
-| **[[WesternArt]]** | **[[PreArt6.jpg]]** | 
-| ------------------ | ------------------- |
+| **[[WesternArt]]** | **[[PreArt6.jpg]]** | **[[MedievalArt]]** | 
+| ------------------ | ------------------- | ------------------- |
 
 ## Classical Art
 - refers to the Hellenic Period (Greek art) with its complex of aesthetic and philosophical ideals in the 5th century BC

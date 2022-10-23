@@ -9,11 +9,16 @@ banner_y: 0.444
 **EDP Code:** 94371
 
 ## Prelim
-- [Introduction: How the Web Works](WEBDEVintro.md)
-- [Introduction: HTML (Elements & Attributes)](WEBDEVHTML.md)
+- [How the Web Works](WEBDEVPRELIM1.md)
+- [HTML (Elements & Attributes)](WEBDEVPRELIM2.md)
 
 ## Midterm
-- 
+- [Basic CSS Syntax](WEBDEVMIDTERM1.md) ^MIDCH1
+- [CSS Selectors](WEBDEVMIDTERM2.md) ^MIDCH2
+- [Applying CSS](WEBDEVMIDTERM3.md) ^MIDCH3
+- [Manipulating Fonts and Text](WEBDEVMIDTERM4.md) ^MIDCH4
+- [Working with images](WEBDEVMIDTERM5.md) ^MIDCH5
+- [Formatting Tables](WEBDEVMIDTERM6.md) ^MIDCH6
 
 <br>
 

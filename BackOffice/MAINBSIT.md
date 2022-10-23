@@ -15,7 +15,7 @@ banner_icon: 🪦
 | **[PSYCH101](PSYCH101.md)**          | 94394    | 5:00-6:30PM MW    |
 | **[NSTP102](NSTP102.md)**                              | 61757    | 7:30-10:30AM SAT  |
 | **[PE102](PE102.md)**                | 62015    | 1:30-2:30PM MW    |
-| **[WEBDEV11 LEC](WEBDEV11LEC.md)**   | 64371    | 12:00-1:30PM MW   |
+| **[WEBDEV11 LEC](BackOffice/Subjects/WEBDEV11LEC.md)**   | 64371    | 12:00-1:30PM MW   |
 | **[WEBDEV11 LAB](WEBDEV11LAB.md)**   | 94383    | 12:00-1:30PM MW   |
 | **[HUM101](HUM101.md)**              | 66122    | 3:00-4:30PM MW    |
  

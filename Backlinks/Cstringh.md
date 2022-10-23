@@ -7,6 +7,4 @@
 - [strcat()](Cstrcat.md) | [strncat()](Cstrncat.md)
 - [strcmp()](Cstrcmp.md)
 
-# 
----
-**[[Clibrary]]**
+**[[C]]**

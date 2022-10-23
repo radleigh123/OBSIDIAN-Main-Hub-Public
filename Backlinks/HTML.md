@@ -23,8 +23,8 @@
 ## HTML Tutorial
 
 - **[Basics](HTMLBASICS.md)** ^HTMLbasics
-- Elements ^HTMLelements
-- Attributes ^HTMLattributes
+- **[Elements](HTMLELEMENTS.md)** ^HTMLelements
+- **[Attributes](HTMLattributes.md)** ^HTMLattributes
 - Headings ^HTMLheadings
 - Paragraphs ^HTMLparagraphs
 - Styles ^HTMLstyles

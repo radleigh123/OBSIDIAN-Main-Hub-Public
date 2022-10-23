@@ -27,7 +27,7 @@ int main(){
 }
 ```
 
-### Union Access
+### Accessing Unions
 #Cunions
 
 ```C
