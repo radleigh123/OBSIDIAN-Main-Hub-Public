@@ -8,8 +8,8 @@
 - [x] Read it later app
 - [x] CS50
 - [x] Obsidian [tracker](obsidian://open?vault=Main%20Hub&file=0outputMP4.mp4) 
-- [ ] Look this up [How to Take Smart Notes in Obsidian - by Josh Duffney (substack.com)](https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian)
-- [ ] Learn Obsidian dataview
+- [x] Look this up [How to Take Smart Notes in Obsidian - by Josh Duffney (substack.com)](https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian)
+- [x] Learn Obsidian dataview
 
 ## Interesting words to use
 💚  Repercussions

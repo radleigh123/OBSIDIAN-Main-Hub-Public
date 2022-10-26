@@ -1,4 +1,4 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH1)**
+**[HOME [INTCOM]](INTCOM11.md#^MIDCH1)**
 
 > [!faq] # Unit 2.1 Buying the correct hardware
 > When you want to buy a new computer, the most important thing to consider is _how_ you will be using the computer. Each computer has different specifications, advantages and limitations, which are linked to each of the components that you will use. A person who uses a computer exclusively for games will have different requirements to a person who needs a computer to browse the internet and do word processing.

@@ -1,4 +1,4 @@
-**[HOME [ST]](ST101#^STMIDTERMch6)**
+**[HOME [ST]](ST101.md#^STMIDTERMch6)**
 
 # How Computers Impact Everyday Life
 - **Education**

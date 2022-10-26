@@ -15,4 +15,4 @@ Second, people are afraid of change and a new idea requires change.
 Third, creativity tends to be undervalued. A creative person is very often viewed as irrational or even stupid.
 
 ---
-**[HOME [ENTREP]](ENTREP101)**
+**[HOME [ENTREP]](ENTREP101.md)**

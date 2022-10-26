@@ -3,6 +3,7 @@ banner: "![[Plato.png]]"
 banner_y: 0.188
 banner_icon: ❤️‍🔥
 ---
+
 ## Plato (427-347 BC)
 #### 3 Components to the Soul
 [1. Rational soul](PSYCHPrelimRATIONAL.md)

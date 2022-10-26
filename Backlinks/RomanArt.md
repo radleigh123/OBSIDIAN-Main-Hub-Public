@@ -1,4 +1,4 @@
-| **[HOME [HUM]](HUM101#^HUMART4)** | **[[PreArt4.jpg]]** | **[[PreArt5.jpg]]** | 
+| **[HOME [HUM]](HUM101.md#^HUMART4)** | **[[PreArt4.jpg]]** | **[[PreArt5.jpg]]** | 
 | --------------------------------- | ------------------- | ------------------- |
 
 # Roman Art

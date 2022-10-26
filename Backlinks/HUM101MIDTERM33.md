@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID33)**
+**[HOME [HUM]](HUM101.md#^MID33)**
 
 # Arts Related to Painting
 

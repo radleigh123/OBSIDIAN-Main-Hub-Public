@@ -1,4 +1,4 @@
-| **[HOME [INTCOM]](INTCOM11#^MIDCH13)** | **[NEXT CHAPTER](INTCOMMidtermCh14.md)** | 
+| **[HOME [INTCOM]](INTCOM11.md#^MIDCH13)** | **[NEXT CHAPTER](INTCOMMidtermCh14.md)** | 
 | -------------------------------------- | ---------------------------------------- |
 
 # Common Software Problems

@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID2CH7)**
+**[HOME [HUM]](HUM101.md#^MID2CH7)**
 
 ## House
 - Houses were <mark class="hltr-blue">single-room constructions</mark> with walls of bamboo and roofs of palm leaves.

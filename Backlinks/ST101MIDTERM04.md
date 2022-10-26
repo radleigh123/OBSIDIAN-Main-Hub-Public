@@ -1,4 +1,4 @@
-**[HOME [ST]](ST101#^STMIDTERMch4)**
+**[HOME [ST]](ST101.md#^STMIDTERMch4)**
 
 # How Computers Connect to Other Computers
 

@@ -1,4 +1,4 @@
-| **[HOME [HUM]](HUM101#^HUMART2)** | **[[PreArt3.jpg]]** | 
+| **[HOME [HUM]](HUM101.md#^HUMART2)** | **[[PreArt3.jpg]]** | 
 | --------------------------------- | ------------------- |
 
 # Egyptian Art

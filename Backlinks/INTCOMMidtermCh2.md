@@ -1,4 +1,4 @@
-**[HOME [ST]](INTCOM11#^MIDCH2)**
+**[HOME [ST]](INTCOM11.md#^MIDCH2)**
 
 >[!FAQ] # Unit 2.2 Input devices
 >An **input device** is a piece of hardware that enables a user to enter data into a computer, or interact with a computer. These devices allow you to interact directly with your computer and devices where the data is saved or transmitted to your computer.

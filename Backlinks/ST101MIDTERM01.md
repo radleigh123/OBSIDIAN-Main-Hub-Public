@@ -1,4 +1,4 @@
-**[HOME [ST]](ST101#^STMIDTERMch1)**
+**[HOME [ST]](ST101.md#^STMIDTERMch1)**
 
 # How computers work
 

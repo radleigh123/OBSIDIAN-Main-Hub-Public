@@ -1,4 +1,4 @@
-| **[HOME [HUM]](HUM101#^HUMART3)** | **[[PreArt4.jpg]]** | 
+| **[HOME [HUM]](HUM101.md#^HUMART3)** | **[[PreArt4.jpg]]** | 
 | --------------------------------- | ------------------- |
 
 # Greek Art

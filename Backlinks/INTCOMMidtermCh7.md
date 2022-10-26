@@ -1,4 +1,4 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH7)**
+**[HOME [INTCOM]](INTCOM11.md#^MIDCH7)**
 
 >[!FAQ] # New Technologies
 >Computer technology is an ever-changing field. Each day, new technologies are developed to replace or improve existing technologies. <mark class="hltr-lightgreen">The most powerful computing device today will not be the most powerful device tomorrow.</mark>

@@ -1,4 +1,4 @@
-**[HUM101](HUM101#^HUMART6)**
+**[HUM101](HUM101.md#^HUMART6)**
 
 # Famous works of art from 30 countries
 Unlike nations, art knows no boundaries. It can be forged in a vacuum, inspired solely by a burning, inner conflict, or created by wistful expatriates wishing to bridge a long-lost past with an uncertain future. It can emerge organically, in harmony with the natural landscape, or as a carefully crafted response to cultural or political touchstones. 

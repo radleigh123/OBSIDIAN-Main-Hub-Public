@@ -1,4 +1,4 @@
-**[HOME [ST]](ST101#^STMIDTERMch3)**
+**[HOME [ST]](ST101.md#^STMIDTERMch3)**
 
 # How computers communicate with one another
 ![[Pasted image 20221018174850.png|500]]

@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID36)**
+**[HOME [HUM]](HUM101.md#^MID36)**
 
 ## 19th Century Painting
 ### Realism

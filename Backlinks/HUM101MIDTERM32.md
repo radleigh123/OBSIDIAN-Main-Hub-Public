@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID32)**
+**[HOME [HUM]](HUM101.md#^MID32)**
 
 # Painting and their Media
 

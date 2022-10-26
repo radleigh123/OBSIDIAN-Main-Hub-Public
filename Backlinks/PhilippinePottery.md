@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID2CH6)**
+**[HOME [HUM]](HUM101.md#^MID2CH6)**
 
 ## Pottery
 - the most convenient approach to the pre-hispanic pottery is to classify them by shape, method of decoration, and type of design used in the surface.

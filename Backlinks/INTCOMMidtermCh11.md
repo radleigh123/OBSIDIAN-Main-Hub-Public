@@ -1,4 +1,4 @@
-| **[HOME [INTCOM]](INTCOM11#^MIDCH11)** | **[NEXT CHAPTER](INTCOMMidtermCh12.md)** | 
+| **[HOME [INTCOM]](INTCOM11.md#^MIDCH11)** | **[NEXT CHAPTER](INTCOMMidtermCh12.md)** | 
 | -------------------------------------- | ---------------------------------------- |
 
 # Software Enchancing Accessibility, Efficiency and Productivity

@@ -1,6 +1,6 @@
 ---
 banner: "![[davidhume.png]]"
-banner_y: 0.196
+banner_y: 0.224
 ---
 # David Hume
 > Scottish Philosopher, an avid Empiricist

@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID35)**
+**[HOME [HUM]](HUM101.md#^MID35)**
 
 # Painting and the Famous Painters
 

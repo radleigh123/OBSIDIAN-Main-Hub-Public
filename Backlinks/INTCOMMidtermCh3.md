@@ -1,4 +1,4 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH3)**
+**[HOME [INTCOM]](INTCOM11.md#^MIDCH3)**
 
 >[!FAQ] # Unit 2.3 Storage devices
 > refer to hardware that has a very specific purpose and function, i.e. to store data.

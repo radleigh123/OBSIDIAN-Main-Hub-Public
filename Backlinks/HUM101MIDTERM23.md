@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID23)**
+**[HOME [HUM]](HUM101.md#^MID23)**
 
 # Art during the American Regime
 >[!FAQ] *The Treaty of Paris in 1898 turned over the rule of the Philippines to the Americans from the Spaniards*

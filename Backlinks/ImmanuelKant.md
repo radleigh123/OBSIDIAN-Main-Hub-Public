@@ -1,3 +1,7 @@
+---
+banner: "![[ImmanuelKant.png]]"
+banner_y: 0.344
+---
 # Immanuel Kant
 > He worked to synthesize what seemingly were different perspectives in the acquisition of knowledge: **experience** and **reason**.
 

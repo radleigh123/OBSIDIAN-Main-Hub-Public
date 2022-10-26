@@ -1,4 +1,4 @@
-| **[HOME [INTCOM]](INTCOM11#^MIDCH12)** | **[NEXT CHAPTER](INTCOMMidtermCh13.md)** | 
+| **[HOME [INTCOM]](INTCOM11.md#^MIDCH12)** | **[NEXT CHAPTER](INTCOMMidtermCh13.md)** | 
 | -------------------------------------- | ---------------------------------------- |
 
 # Interpreting System Requirements

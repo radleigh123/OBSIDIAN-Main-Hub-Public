@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID31)**
+**[HOME [HUM]](HUM101.md#^MID31)**
 
 # Media, Techniques, and Styles
 

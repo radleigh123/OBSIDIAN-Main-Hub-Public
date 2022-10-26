@@ -1,4 +1,4 @@
-| **[HOME [INTCOM]](INTCOM11#^MIDCHINTRO2)** | **[NEXT CHAPTER](INTCOMMidtermCh10.md)** |
+| **[HOME [INTCOM]](INTCOM11.md#^MIDCHINTRO2)** | **[NEXT CHAPTER](INTCOMMidtermCh10.md)** |
 | ------------------------------------------ | ---------------------------------------- |
 
 # Introduction

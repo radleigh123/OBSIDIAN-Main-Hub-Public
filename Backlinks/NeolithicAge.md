@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID2CH2)**
+**[HOME [HUM]](HUM101.md#^MID2CH2)**
 
 ## Neolithic Age
 

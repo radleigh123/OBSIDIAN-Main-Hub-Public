@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID21)**
+**[HOME [HUM]](HUM101.md#^MID21)**
 
 >[!DONE] Introduction
 >- Lively cultural interchange between the Philippines and other Asian countries

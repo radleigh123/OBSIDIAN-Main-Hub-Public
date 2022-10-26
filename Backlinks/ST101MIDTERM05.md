@@ -1,4 +1,4 @@
-**[HOME [ST]](ST101#^STMIDTERMch5)**
+**[HOME [ST]](ST101.md#^STMIDTERMch5)**
 
 # How Humans Communicate with Computer
 ## Computer Softwares

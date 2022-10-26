@@ -1,7 +1,7 @@
 ---
 banner_icon: 😼
 banner: "![[Cut-burger2.jpg]]"
-banner_y: 0.596
+banner_y: 0.644
 ---
 # MAIN CODE
 - **[[C]]**

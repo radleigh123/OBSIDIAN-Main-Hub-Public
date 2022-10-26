@@ -1,4 +1,4 @@
-**[PSYCH101](PSYCH101#^PSYCHMIDTERMch2)**
+**[PSYCH101](PSYCH101.md#^PSYCHMIDTERMch2)**
 
 <center><h3>To Buy or Not to Buy? That is the Question!</h3></center>
 

@@ -1,4 +1,4 @@
-| **[PSYCH101](PSYCH101#^PSYCHMIDTERMch3)** | [**PDF Version**](PDFSpiritual%20Self.pdf) |
+| **[PSYCH101](PSYCH101.md#^PSYCHMIDTERMch3)** | [**PDF Version**](PDFSpiritual%20Self.pdf) |
 | ---------------- | ------------------------------------------ |
 
 >[!NOTE]- # Spiritual Self

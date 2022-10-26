@@ -1,6 +1,6 @@
 ---
 banner: "![[Aristotle.png]]"
-banner_y: 0.104
+banner_y: 0.516
 banner_icon: 👀
 ---
 ## Aristotle (427-347 BC)

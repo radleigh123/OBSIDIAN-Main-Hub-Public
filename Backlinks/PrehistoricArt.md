@@ -1,4 +1,4 @@
-| **[HOME [HUM]](HUM101#^HUMART1)** | **[[PreArt1.jpg]]** | **[[PreArt2.jpg]]** | 
+| **[HOME [HUM]](HUM101.md#^HUMART1)** | **[[PreArt1.jpg]]** | **[[PreArt2.jpg]]** | 
 | --------------------------------- | ------------------- | ------------------- |
 
 # Prehistoric Art (35,000 BC - Early centuries of AD)

@@ -1,4 +1,4 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH6)**
+**[HOME [INTCOM]](INTCOM11.md#^MIDCH6)**
 
 >[!FAQ] # Troubleshooting Hardware Devices
 >As hardware gets older, wear and tear sets in, leading to a variety of potential issues.

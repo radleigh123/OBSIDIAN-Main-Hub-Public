@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID2CH4)**
+**[HOME [HUM]](HUM101.md#^MID2CH4)**
 
 ## Late Mesolithic Age
 >[!FAQ]-

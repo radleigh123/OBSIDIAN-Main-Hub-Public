@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID2CH5)**
+**[HOME [HUM]](HUM101.md#^MID2CH5)**
 
 ## Metal Age
 >[!FAQ] 500 B.C.

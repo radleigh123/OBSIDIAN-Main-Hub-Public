@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID34)**
+**[HOME [HUM]](HUM101.md#^MID34)**
 
 # Elements of Painting
 

@@ -1,4 +1,4 @@
-**[HOME [ST]](ST101#^STMIDTERMch0)**
+**[HOME [ST]](ST101.md#^STMIDTERMch0)**
 
 # Learning Objectives
 - Familiarize the computer number systems;

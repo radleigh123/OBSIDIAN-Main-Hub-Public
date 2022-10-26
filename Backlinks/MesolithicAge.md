@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID2CH3)**
+**[HOME [HUM]](HUM101.md#^MID2CH3)**
 
 ## Mesolithic Age
 >[!FAQ] originated in Mainland Southeast Asia

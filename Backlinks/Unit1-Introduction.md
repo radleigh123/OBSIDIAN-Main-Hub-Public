@@ -5,4 +5,4 @@ There are all kinds of models of entrepreneurship out there, but I like to think
 Entrepreneurship isn‘t necessarily for everyone, but even if you don‘t become and entrepreneur, you are very likely to benefit from adopting an entrepreneurial mindset.
 
 ---
-**[HOME [ENTREP]](ENTREP101)**
+**[HOME [ENTREP]](ENTREP101.md)**

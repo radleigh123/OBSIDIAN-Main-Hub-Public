@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID24)**
+**[HOME [HUM]](HUM101.md#^MID24)**
 
 # Present Philippine Arts
 

@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID2CH1)**
+**[HOME [HUM]](HUM101.md#^MID2CH1)**
 
 ## Early Paleothic Age
 

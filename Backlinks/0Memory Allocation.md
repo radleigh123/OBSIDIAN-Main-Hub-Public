@@ -1,5 +1,0 @@
-### [[CCalloc]]
-
-### [[CMalloc]]
-
-### [[CRealloc]]

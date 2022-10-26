@@ -1,4 +1,4 @@
-**[HOME [ST]](ST101#^STMIDTERMch2)**
+**[HOME [ST]](ST101.md#^STMIDTERMch2)**
 
 # How computers interpret data
 Depending on the standard used, computer systems convert characters from the keyboard and later display them on the monitor. Refer to the following steps:

@@ -1,4 +1,4 @@
-**[HOME [INTCOM]](INTCOM11#^MIDCH5)**
+**[HOME [INTCOM]](INTCOM11.md#^MIDCH5)**
 
 >[!FAQ] # Unit 2.5 Output and Communication Devices
 >The most common devices that are used to present the processed data to the user, or to other computers and networks.

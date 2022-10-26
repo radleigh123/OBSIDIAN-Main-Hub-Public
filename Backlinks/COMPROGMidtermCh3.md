@@ -1,4 +1,4 @@
-**[BACK](COMPROG11LEC#^COMPROGMIDCH3)**
+**[BACK](COMPROG11LEC.md#^COMPROGMIDCH3)**
 
 >[!TIP] # Pseudocode
 >- is an informal high-level description of the operating principle of a computer program or other algorithm.

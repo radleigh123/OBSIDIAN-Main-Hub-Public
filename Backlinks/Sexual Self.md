@@ -1,4 +1,4 @@
-**[PSYCH101](PSYCH101#^PSYCHMIDTERMch1)**
+**[PSYCH101](PSYCH101.md#^PSYCHMIDTERMch1)**
 
 <center><h1>Physical and Sexual Self</h1></center>
 

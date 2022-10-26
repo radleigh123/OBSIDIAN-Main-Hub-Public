@@ -1,6 +1,0 @@
-- **[Add Two Complex](CAddTwoComplex.md)**
-- **[Add Two Distances](CAddTwoDistances.md)**
-- **[Difference Time Period](CDifferenceTimePeriod.md)**
-- **[Store Information](CStoreInfo.md)**
-- **[Store Information 10](CStoreInfo10.md)**
-- **[Structure Malloc](CStructureMalloc)**

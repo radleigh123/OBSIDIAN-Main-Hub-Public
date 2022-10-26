@@ -1,4 +1,4 @@
-**[HOME [HUM]](HUM101#^MID22)**
+**[HOME [HUM]](HUM101.md#^MID22)**
 
 # Spanish Influences
 

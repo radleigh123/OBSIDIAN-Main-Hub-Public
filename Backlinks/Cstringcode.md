@@ -1,4 +1,0 @@
-
-
----
-**[Back](Cstrings.md)**

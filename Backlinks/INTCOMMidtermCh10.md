@@ -1,4 +1,4 @@
-| **[HOME [INTCOM]](INTCOM11#^MIDCH10)** | **[NEXT CHAPTER](INTCOMMidtermCh11.md)** | 
+| **[HOME [INTCOM]](INTCOM11.md#^MIDCH10)** | **[NEXT CHAPTER](INTCOMMidtermCh11.md)** | 
 | -------------------------------------- | ---------------------------------------- |
 
 # Uses of Common Applications
