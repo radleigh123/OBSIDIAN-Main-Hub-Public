@@ -3,12 +3,9 @@ title: Attributes
 creation-date: 2022-10-26
 aliases:
 tags:
-- HTML/Tags
-- HTML/href
-- HTML/anchor
-- HTML/src
+- HTML/Basics
 ---
-**[[HTML#^HTMLattributes|HOME [HTML]]]**
+**[[HTML#^HTMLparts|HOME [HTML]]]**
 
 ---
 # Attributes
@@ -18,7 +15,7 @@ tags:
 **`name="value"`**
 
 ## `href` Attribute
-The **[`<a>`](HTMLlinks)** tag defines a hyperlink. The **[`href`](HTMLlinks)** attribute specifies the URL of the page the link goes to:
+The **[`<a>`](HTMLlinks.md)** tag defines a hyperlink. The **[`href`](HTMLlinks.md)** attribute specifies the URL of the page the link goes to:
 ```HTML
 <a href="https://www.google.com">Google</a>
 ```
@@ -45,7 +42,7 @@ The required **`alt`** attribute for the **[`<img>`](HTMLimages)** tag specifies
 ```
 
 ## `style` Attribute
-The **[`style`](HTMLstyles)** attribute is used to add styles to an element, such as color, font, size, and more.
+The **[`style`](HTMLstyles.md)** attribute is used to add styles to an element, such as color, font, size, and more.
 ```HTML
 <p style="color: red;">A red paragraph</p>
 ```

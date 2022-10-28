@@ -1,3 +1,6 @@
+**[[PE102]]**
+
+---
 # Exercise Program
 > Exercise is one of the basic needs of an individual to attain fitness. Physical activity or exercises can improve your health and reduce the risk of developing several diseases. It can have immediate and long -term health benefits.
 > - It improved condition of the heart and lungs.
@@ -33,7 +36,3 @@
 > **Frequency**- refers to the number of sessions per given amount of time.
 > **Duration** – refers to how long a specific activity/ exercise session will last.
 > **Intensity** – refers to the degree of difficulty of an exercise session. Intensity range from 60 % -90 %.
-
-# 
----
-**[HOME [PE]](PE102)**

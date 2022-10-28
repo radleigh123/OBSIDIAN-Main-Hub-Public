@@ -1,8 +1,16 @@
-| **[[CSS]]** | **[[CSSselectors]]** | 
-| ------- | ---------------- |
+---
+aliases: [selector]
+tags:
+- CSS/Selectors/Combinator/descendent
+- CSS/Selectors/Combinator/child
+- CSS/Selectors/Combinator/adjacent_sibling
+- CSS/Selectors/Combinator/general_sibling
+---
+**[[CSS]]** | **[[CSSselectors]]**
 
-#CSS #CSS/Lecture  #CSS/Selectors 
-## Combinator Selectors
+---
+## Combinator selectors
+
 >[!INFO] A <u>combinator</u> is something that explains the relationship between the selectors.
 
 A CSS selector can contain more than one simple selector. Between the simple selectors, we can include a combinator. There are 4 different combinators in CSS:
@@ -38,3 +46,11 @@ A CSS selector can contain more than one simple selector. Between the simple sel
 > 	background-color: yellow;
 > }
 > ```
+
+# 
+
+<br>
+
+---
+**Source:**
+- [CSS Combinators (w3schools.com)](https://www.w3schools.com/css/css_combinators.asp)

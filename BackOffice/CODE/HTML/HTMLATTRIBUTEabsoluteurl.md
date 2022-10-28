@@ -1,5 +1,5 @@
 **[BACK](HTMLattributes.md#^ABSOLUTEURL)**
-Tags: #HTML/src 
+Tags: #HTML
 
 ## Absolute URL
 links to an external image that is hosted on another website.

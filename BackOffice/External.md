@@ -12,7 +12,7 @@
 **Nested Tags** - `#tag/sub_tag`
 **Slide separator** - `---`
 **Image resize** - `200 x 440`
-**Query Blocks** - "tag: `#tag`"
+**Query Blocks** - query - tag: tag/sub_tag
 
 ---
 # Luhmann Zettelkasten

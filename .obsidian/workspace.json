@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2de63152a99407ba",
+        "id": "e41ef0a423ff4eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "5d25e844f62412c7",
+            "id": "d293a217ebc04ba6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/HTML/HTML.md",
+                "file": "BackOffice/CODE/C/Cstrings.md",
                 "mode": "preview",
                 "source": true
               },
@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "2c4d0165f9b61bc0",
+            "id": "a8a89ffefa33094d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/HTML/HTMLparagraphs.md",
-                "mode": "source",
+                "file": "BackOffice/CODE/C/CSTRINGbasic.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,7 +69,7 @@
       {
         "id": "5bb6c566ee3bb86c",
         "type": "tabs",
-        "dimension": 75.58386411889597,
+        "dimension": 37.79193205944799,
         "children": [
           {
             "id": "24b24a765d577cb1",
@@ -77,7 +77,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#C/Lecture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,11 +115,33 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c1f5343f2ac027a6",
+        "type": "tabs",
+        "dimension": 37.79193205944799,
+        "children": [
+          {
+            "id": "5d25e844f62412c7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/CODE/HTML/20221027-0535.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.0124969482422,
+    "width": 275.0124969482422,
     "collapsed": true
   },
   "right": {
@@ -137,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/HTML/HTMLparagraphs.md",
+                "file": "BackOffice/CODE/C/CSTRINGbasic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/HTML/HTMLparagraphs.md",
+                "file": "BackOffice/CODE/C/CSTRINGbasic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/HTML/HTMLparagraphs.md",
+                "file": "BackOffice/CODE/C/CSTRINGbasic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/HTML/HTMLparagraphs.md"
+                "file": "BackOffice/CODE/C/CSTRINGbasic.md"
               }
             }
           },
@@ -241,17 +263,17 @@
     "width": 236,
     "collapsed": true
   },
-  "active": "24b24a765d577cb1",
+  "active": "a8a89ffefa33094d",
   "lastOpenFiles": [
-    "BackOffice/CODE/HTML/HTML.md",
-    "BackOffice/CODE/HTML/HTMLheadings.md",
-    "BackOffice/CODE/HTML/HTMLparagraphs.md",
-    "BackOffice/CODE/HTML/HTMLattributes.md",
-    "BackOffice/CODE/HTML/HTMLelements.md",
-    "BackOffice/CODE/HTML/HTMLbasics.md",
-    "BackOffice/MAINCODE.md",
-    "Excalidraw/0HEADQUARTERS.md",
-    "BackOffice/EXTERNAL.md",
-    "BackOffice/NOTES.md"
+    "BackOffice/CODE/C/Cstrings.md",
+    "BackOffice/CODE/C/Cstrncpy.md",
+    "BackOffice/CODE/C/Cstrcpy.md",
+    "BackOffice/CODE/C/CSTRINGarray.md",
+    "BackOffice/CODE/C/CSTRINGdeclaring&initializingVAR.md",
+    "BackOffice/CODE/C/CSTRINGoperationstring.md",
+    "BackOffice/CODE/C/CSTRINGstoringstring.md",
+    "BackOffice/CODE/C/CSTRINGbasic.md",
+    "BackOffice/CODE/C/C.md",
+    "BackOffice/MAINCODE.md"
   ]
 }

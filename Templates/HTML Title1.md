@@ -1,7 +1,8 @@
 ---
 aliases:
+tags:
+- HTML
 ---
-**tags:** #HTML 
 **BACK**
 
 ---

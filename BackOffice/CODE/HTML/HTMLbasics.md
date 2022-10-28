@@ -3,7 +3,7 @@ title: The Basics
 creation-date: 2022-10-26
 aliases:
 tags:
-- HTML
+- HTML/Basics
 ---
 **[[HTML#^HTMLbasics|HOME [HTML]]]**
 
@@ -39,9 +39,17 @@ tags:
 > The source file (`src`), alternative text (`alt`), `width`, and `height` are provided as attributes:
 > ![[Pasted image 20221013222753.png]]
 
->[!INFO] How to view HTML Source
+>[!INFO]- ### How to view HTML Source
 >>[!EXAMPLE] #### View HTML Source Code
 >> Right-click in an HTML page and select "View Page Source" (in Chrome) or "View Source" (in Edge), or similar in other browsers. This will open a window containing the HTML source code of the page.
 >
 >>[!EXAMPLE] Inspect HTML Element
 >> Right-click on an element (or a blank area), and choose "Inspect" or "Inspect Element" to see what elements are made up of (you will see both the HTML and the CSS). You can also edit the HTML or CSS on-the-fly in the Elements or Styles panel that opens.
+
+# 
+
+<br>
+
+---
+**Sources:**
+- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics

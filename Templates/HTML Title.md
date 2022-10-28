@@ -2,8 +2,9 @@
 title: {{title}}
 creation-date: {{date}}
 aliases:
+tags:
+- HTML
 ---
-**tags:** #HTML 
 **BACK**
 
 ---

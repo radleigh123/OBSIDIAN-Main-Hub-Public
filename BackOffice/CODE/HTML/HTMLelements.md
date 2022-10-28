@@ -3,9 +3,9 @@ title: Elements
 creation-date: 2022-10-26
 aliases:
 tags:
-- HTML/Tags
+- HTML/Basics
 ---
-**[[HTML#^HTMLelements|HOME [HTML]]]**
+**[[HTML#^HTMLparts|HOME [HTML]]]**
 
 ---
 # Elements

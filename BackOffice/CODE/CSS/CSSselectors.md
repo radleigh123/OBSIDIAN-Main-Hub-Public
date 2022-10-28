@@ -3,8 +3,10 @@ title: Selectors
 creation-date: 2022-10-26
 aliases:
 tags:
-- CSS/lec
-- CSS/Selectors
+- CSS/Selectors/id
+- CSS/Selectors/class
+- CSS/Selectors/universal
+- CSS/Selectors/grouping
 ---
 **[[CSS|HOME [CSS]]]**
 

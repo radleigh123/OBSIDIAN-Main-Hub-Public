@@ -1,7 +1,8 @@
 ---
 aliases:
+tags:
+- CSS
 ---
-**tags:** #CSS 
 **BACK**
 
 ---

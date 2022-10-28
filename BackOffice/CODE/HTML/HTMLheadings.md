@@ -1,12 +1,14 @@
 ---
 title: HTMLheadings
 creation-date: 2022-10-27
+tags:
+- HTML/Elements
+- HTML/Content/Flow
 ---
-**tags:** #HTML #HTML/Tags 
 **[[HTML#^HTMLheadings|HOME [HTML]]]**
 
 ---
-# Headings
+# `<h1>`-`<h6>` section heading elements
 > are titles/subtitles that you want to display on a webpage.
 
 ```HTML
@@ -32,3 +34,11 @@ You can specify the size for any heading with **`style`** attribute, using the C
 ```HTML
 <h1 style="font-size: 60px;">Heading 1</h1>
 ```
+
+# 
+
+<br>
+
+---
+**Sources:**
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p

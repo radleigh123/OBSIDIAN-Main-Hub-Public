@@ -26,8 +26,8 @@
 | [Syntax](CSSsyntax.md) | Border Images    | RWD Viewport      | Container |          | Examples    | Selectors       |
 | [Selectors](CSSselectors.md)           | Backgrounds      | RWD Grid View     | Item      |          | Snippets    | Functions       |
 | [How to](CSShowto.md)              | Colors           | RWD Media Queries |           |          | Quiz        | Reference Aural |
-| Comments            | Color Keywords   | RWD Images        |           |          | Exercises   | Web Safe Fonts  |
-| Colors              | Gradients        | RWD Videos        |           |          | Certificate | Animatable      |
+| [[CSScomments\|Comments]]            | Color Keywords   | RWD Images        |           |          | Exercises   | Web Safe Fonts  |
+| [[CSScolors\|Colors]]              | Gradients        | RWD Videos        |           |          | Certificate | Animatable      |
 | Backgrounds         | Shadows          | RWD Frameworks    |           |          |             | Units           |
 | Borders             | Text Effects     | RWD Templates     |           |          |             | PX-EM Converter |
 | Margins             | Web Fonts        |                   |           |          |             | Colors          |

@@ -30,17 +30,24 @@ tags:
 ## HTML Tutorial
 
 - [Basics](HTMLbasics.md) ^HTMLbasics
-- [Elements](HTMLelements.md) ^HTMLelements
-- [Attributes](HTMLattributes.md) ^HTMLattributes
+- [Elements](HTMLelements.md) | [[HTMLtags|Tags]] | [Attributes](HTMLattributes.md) ^HTMLparts
 - [[HTMLheadings|Headings]] ^HTMLheadings
 - [[HTMLparagraphs|Paragraphs]] ^HTMLparagraphs
-- Styles ^HTMLstyles
-- Formatting ^HTMLformatting
-- Quotations ^HTMLquotations
-- Comments ^HTMLcomments
-- Colors ^HTMLcolors
-- CSS ^HTMLcss
-- Links ^HTMLlinks
+	- [[HTMLhorizontal|Horizontal Rules]] ^HTMLhorizontal
+	- [[HTMLlinebreaks|Line Breaks]] ^HTMLlinebreaks
+	- [[HTMLpreformattedtext|Preformatted Text]] ^HTMLpreformattedtext
+- [[HTMLstyles|Styles]] ^HTMLstyles
+- [[HTMLformatting|Formatting]] ^HTMLformatting
+- Quotations & Citation ^HTMLquotation
+	- [[HTMLblockquotation|Block Quotation]]
+	- [[HTMLshortquotation|Short Quotation]]
+	- [[HTMLabbreviation|Abbreviation]]
+	- [[HTMLaddress|Contact Address]]
+	- [[HTMLcite|Citation]]
+	- [[HTMLbidirectionaltextoverride|Bidirectional Text Override]]
+- [[HTMLcomments|Comments]] ^HTMLcomments
+- [[HTMLcolors|Colors]] ^HTMLcolors
+- [[HTMLlinks|Links]] ^HTMLlinks
 - Images ^HTMLimages
 - [Favicon](HTMLfavicon.md) ^HTMLfavicon
 - Tables ^HTMLtables

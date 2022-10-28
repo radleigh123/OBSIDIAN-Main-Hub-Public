@@ -1,5 +1,5 @@
 **[BACK](HTMLattributes.md#^RELATIVEURL)**
-Tags: #HTML/src
+Tags: #HTML
 
 ## Relative URL
 Links to an image that is hosted within the website. Here, the URL does not include the domain name.

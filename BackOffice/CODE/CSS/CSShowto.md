@@ -3,7 +3,7 @@ title: How to add CSS
 creation-date: 2022-10-26
 aliases:
 tags:
-- CSS/lec
+- CSS
 ---
 **[[CSS|HOME [CSS]]]**
 

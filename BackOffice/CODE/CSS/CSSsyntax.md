@@ -1,9 +1,10 @@
 ---
 title: Syntax
 creation-date: 2022-10-26
-aliases: [cascading]
+aliases:
 tags:
-- CSS/lec
+- CSS/Basics/Selectors
+- CSS/Basics/Declaration_Blocks
 ---
 **[[CSS|HOME [CSS]]]**
 

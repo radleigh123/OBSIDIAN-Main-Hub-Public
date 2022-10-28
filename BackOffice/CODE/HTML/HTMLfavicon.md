@@ -3,7 +3,7 @@ title: Favicon
 creation-date: 2022-10-26
 aliases:
 tags:
-- HTML/lec
+- HTML
 ---
 **[[HTML#^HTMLfavicon|HOME [HTML]]]**
 

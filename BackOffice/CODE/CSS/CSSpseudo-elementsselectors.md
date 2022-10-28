@@ -1,8 +1,13 @@
-| **[[CSS]]** | **[[CSSselectors]]** | 
-| ------- | ---------------- |
+---
+aliases: [pseudo]
+tags:
+- CSS/Basics/Selectors/Pseudo-elements
+- 
+---
+**[[CSSselectors|BACK]]** | **[[CSS|HOME [HOME]]]**
 
-#CSS #CSS/Lecture #CSS/Selectors 
-## CSS Pseduo-elements
+---
+## CSS Pseudo-elements
 >[!INFO]- A CSS pseudo-element is used to style specified parts of an element.
 >For example, it can be used to:
 >- Style the first letter, or line, of an element
@@ -53,3 +58,11 @@ p::first-letter {
 ```
 >[!NOTE] Note:
 > The **::first-letter** pseudo-element can only be applied to block-level elements.
+
+# 
+
+<br>
+
+---
+**Sources:**
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
