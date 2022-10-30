@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases: [precedence, associativity]
 ---
 **tags:** #C #C/Lecture  
-**[[C#^f72192|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # C Precedence & Associativity

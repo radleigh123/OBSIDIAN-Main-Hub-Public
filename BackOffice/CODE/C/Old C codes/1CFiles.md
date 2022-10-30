@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-**tags:** #C/File_Handling #C/Structures/File_Handling #C/stdio/putchar  
+**tags:** #C/File_Handling #C/Structures/File_Handling #C/stdio/putchar  #C/stdlib
 **[[CCODES|BACK]]**
 
 ---

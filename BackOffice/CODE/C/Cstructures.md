@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases:
 ---
 **tags:** #C/Structures #C/Lecture 
-**[[C#^ad023d|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # Structures

@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases:
 ---
 **tags:** #C/Unions #C/Lecture 
-**[[C#^1c094a|BACK]]**
+**[[C|BACK]]**
 
 ---
 # Unions

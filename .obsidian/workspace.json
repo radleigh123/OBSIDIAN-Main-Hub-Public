@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e41ef0a423ff4eb8",
+        "id": "96a1284fd3a6b721",
         "type": "tabs",
         "children": [
           {
-            "id": "d293a217ebc04ba6",
+            "id": "e4b37cbab60c641d",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/CODE/C/Cstrings.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "graph",
+              "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "a8a89ffefa33094d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/CODE/C/CSTRINGbasic.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,22 +29,16 @@
       {
         "id": "135a0f42e4bbe7b9",
         "type": "tabs",
-        "dimension": 24.416135881104033,
+        "dimension": 33.15649867374005,
         "children": [
           {
-            "id": "1e99836e1cbe037f",
+            "id": "18d69e50a79e8195",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8be17b13c5c2b97e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -69,7 +46,7 @@
       {
         "id": "5bb6c566ee3bb86c",
         "type": "tabs",
-        "dimension": 37.79193205944799,
+        "dimension": 66.84350132625994,
         "children": [
           {
             "id": "24b24a765d577cb1",
@@ -87,10 +64,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C/Lecture",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -115,34 +92,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "c1f5343f2ac027a6",
-        "type": "tabs",
-        "dimension": 37.79193205944799,
-        "children": [
-          {
-            "id": "5d25e844f62412c7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/CODE/HTML/20221027-0535.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.0124969482422,
-    "collapsed": true
+    "width": 306.0124969482422
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -159,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/C/CSTRINGbasic.md",
+                "file": "BackOffice/NOTES.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/C/CSTRINGbasic.md",
+                "file": "BackOffice/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/C/CSTRINGbasic.md",
+                "file": "BackOffice/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/C/CSTRINGbasic.md"
+                "file": "BackOffice/NOTES.md"
               }
             }
           },
@@ -256,24 +210,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 236,
-    "collapsed": true
+    "width": 289
   },
-  "active": "a8a89ffefa33094d",
+  "active": "4d9f4a7f2daf7e74",
   "lastOpenFiles": [
-    "BackOffice/CODE/C/Cstrings.md",
-    "BackOffice/CODE/C/Cstrncpy.md",
-    "BackOffice/CODE/C/Cstrcpy.md",
-    "BackOffice/CODE/C/CSTRINGarray.md",
-    "BackOffice/CODE/C/CSTRINGdeclaring&initializingVAR.md",
-    "BackOffice/CODE/C/CSTRINGoperationstring.md",
-    "BackOffice/CODE/C/CSTRINGstoringstring.md",
-    "BackOffice/CODE/C/CSTRINGbasic.md",
+    "20221030-0238.md",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/CODE/C/CINPUTdesigngetchar.md",
+    "BackOffice/CODE/C/Cstdioh.md",
     "BackOffice/CODE/C/C.md",
-    "BackOffice/MAINCODE.md"
+    "BackOffice/CODE/CSS/CSS.md",
+    "BackOffice/CODE/CSS/CSSselectors.md",
+    "BackOffice/CODE/CS50/CS50.md",
+    "BackOffice/CODE/HTML/HTML.md",
+    "Excalidraw/0HEADQUARTERS.md"
   ]
 }

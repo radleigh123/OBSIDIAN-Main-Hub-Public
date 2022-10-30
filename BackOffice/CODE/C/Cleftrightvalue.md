@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases:
 ---
 **tags:** #C #C/Lecture
-**[[C#^1a52a5|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # Left & Right Value

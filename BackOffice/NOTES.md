@@ -12,18 +12,18 @@
 - [x] Learn Obsidian dataview
 
 ## Interesting words to use
-💚  Repercussions
-💚  Exasperated
-💚  Temerity
-💚  Voracious
+- [b] Repercussions
+- [b] Exasperated
+- [b] Temerity
+- [b] Voracious
 
 ## Songs MOFO
-🎵  Blackbear - @ my worst
-🎵  Blackbear - Hot Bummer Girl
-🎵  Ashe- Moral of the story
-🎵  Blackbear - me & ur ghost
-🎵  Em Beihold - Numb Little Bug
-🎵  Slime S2 Ending OP
+- [O] Blackbear - @ my worst
+- [O] Blackbear - Hot Bummer Girl
+- [O] Ashe- Moral of the story
+- [O] Blackbear - me & ur ghost
+- [O] Em Beihold - Numb Little Bug
+- [O] Slime S2 Ending OP
 
 >[!ABSTRACT] ## Book Quotes
 >>[!CITE] *We know what conditioner works best for our hair. We know what food we need to stay away from. Bu we don't know how to feed our soul.*
@@ -47,9 +47,9 @@
 - When the smart kid(girl) genuinely doesn't know and you have more knowledge about it (internal happiness)
 - **power**of**Friendship** - When you thought you beat MC, then background music starts playing (like fairytail)
 - Biggest Achievement never once admitted to the hospital
-- He never clicks "Skip" on yourube ads
+- He never clicks "Skip" on YouTube ads
 
->[!WARNING] ## Needed
+>[!WARNING] Needed
 >- monitor
 >- electric fan FOR COMPUTER
 >- phone stand

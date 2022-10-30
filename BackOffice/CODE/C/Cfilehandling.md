@@ -1,19 +1,14 @@
 ---
-title: Cfilehandling
-creation-date: 2022-10-26
-aliases:
+title: File Handling
+creation-date: 2022-10-29
+aliases: [fprintf, fscanf, fwrite, fclose, fread]
 ---
-**tags:** #C/File_Handling  
-**[[C#^c4be75|HOME [C]]]**
+**tags:** #C/File_Handling #C/Pointers/File_Handling  
+**[[C|HOME [C]]]**
 
 ---
 # File Handling
-- refers to the method of storing data in the C program.
-	- **Text Files**
-	- **Binary Files**
-
->[!INFO]- What is a File in C?
->- a file refers to a source in which a program stores the information/data in the form of bytes of sequence on a disk(permanently).
+> A files is a container in computer storage devices used for storing data.
 
 >[!INFO]- Why do we need File Handling in C?
 >- There are times when the output generated out of a program after its compilation and running do not serve our intended purpose.
@@ -31,21 +26,59 @@ aliases:
 >>[!EXAMPLE] Portability
 >>- The contents available in any file can be transferred to another one without any data loss in the computer system. This saves a lot of effort and minimizes the risk of flawed coding.
 
-## Operators/Functions used for File Handling in C
+**Types of Files**
+- [[CFILE_HANDLINGtext|Text Files]]
+- [[CFILE_HANDLINGbinary|Binary Files]]
 
-| **Function in Use** | **Description of Function**                                  |
+## Prerequisites of file handling
+### 1. Declaration of file pointer
+When working with files, you need to declare a <mark class="hltr-blue">pointer of type file</mark>. This declaration is needed for communication between the file and the program.
+>[!EXAMPLE] **Syntax:** `FILE *fptr;`
+
+---
+### 2. Opening a file
+Using the **`fopen()`** function defined in the **`<stdio.h>`** header file.
+>[!EXAMPLE] **Syntax** `fptr = fopen("filename", "mode");`
+
+---
+### 3. Closing a File
+Closing a file is performed using the `fclose()` function
+>[!EXAMPLE] **Syntax:** `fclose(fptr);`
+
+---
+## Opening Modes in `standard I/O`
+
+| **<center>Mode</center>**      | **<center>Meaning of Mode</center>**   |                   |
+| --------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **`r`**   | Open for reading                                      | If the file does not exist, `fopen()` returns NULL                                               |
+| **`rb`**  | Open for reading in binary mode                       | If the file does not exist, `fopen()` returns NULL                                               |
+| **`w`**   | Open for writing                                      | IF the file exists, its contents are overwritten. If the file does not exist, it will be created |
+| **`wb`**  | Open for writing in binary mode                       | IF the file exists, its contents are overwritten. If the file does not exist, it will be created |
+| **`a`**   | Open for append, Data is added to the end of the file | IF the does not exist, it will be created                                                        |
+| **`ab`**  | Open for append, Data is added to the end of the file | IF the does not exist, it will be created                                                        |
+|           |                                                       |                                                                                                  |
+| **`r+`**  | Open for both reading and writing                     | If the file does not exist, `fopen()` returns NULL                                               |
+| **`rb+`** | Open for both reading and writing in binary mode      | If the file does not exist, `fopen()` returns NULL                                               |
+| **`w+`**  | Open for both reading and writing                     | IF the file exists, its contents are overwritten. If the file does not exist, it will be created |
+| **`wb+`** | Open for both reading and writing in binary mode      | IF the file exists, its contents are overwritten. If the file does not exist, it will be created |
+| **`a+`**  | Open for both reading and appending                   | IF the does not exist, it will be created                                                        |
+| **`ab+`** | Open for both reading and appending in binary mode.   | If the file does not exist, it will be created.                                                  |
+
+## Operators/Functions for file handling
+
+| **<center>Function in Use</center>** | **<center>Description of Function</center>**                                  |
 | ------------------- | ------------------------------------------------------------ |
-| fopen()             | used to open an existing file or a new file                  |
-| fprintf()           | writing data into an available file                          |
-| fscanf()            | reading the data available in a file                         |
-| fputc()             | writing any character into the program file                  |
-| fgetc()             | reading the character from an available file                 |
-| fclose()            | used to close the program file                               |
-| fseek()             | used to set the file pointer to the intended file position   |
-| fputw()             | writing an integer into an available file                    |
-| fgetw()             | used to read an integer from the given file                  |
-| ftell()             | used for reading the current position of a file              |
-| rewind()            | sets an intended file pointer to the file’s beginning itself |
+| **`fopen()`**             | used to open an existing file or a new file                  |
+| **[[CFILE_HANDLINGfprintf\|fprintf()]]**           | writing data into an available file                          |
+| **[[CFILE_HANDLINGfscanf\|fscanf()]]**            | reading the data available in a file                         |
+| **`fputc()`**             | writing any character into the program file                  |
+| **`fgetc()`**             | reading the character from an available file                 |
+| **`fclose()`**            | used to close the program file                               |
+| **[[CFILE_HANDLINGfseek\|fseek()]]**             | used to set the file pointer to the intended file position   |
+| **`fputw()`**             | writing an integer into an available file                    |
+| **`fgetw()`**             | used to read an integer from the given file                  |
+| **`ftell()`**             | used for reading the current position of a file              |
+| **`rewind()`**            | sets an intended file pointer to the file’s beginning itself |
 
 # 
 
@@ -53,5 +86,7 @@ aliases:
 
 ---
 **Sources:**
-- [File Handling in C | GATE Notes (byjus.com)](https://byjus.com/gate/file-handling-in-c/#what-is-file-handling-in-c)
-- [Basics of File Handling in C - GeeksforGeeks](https://www.geeksforgeeks.org/basics-file-handling-c/?id=discuss)
+- [Youtube - Sanjay Gupta](https://www.youtube.com/watch?v=lJPFWdVkPfk&list=PL-gW8Fj5TGrpVCun29h8HqtysUq6OPq3X)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/basics-file-handling-c/)
+- [Programiz](https://www.programiz.com/c-programming/c-file-input-output)
+- [C | GATE Notes](https://byjus.com/gate/file-handling-in-c/#what-is-file-handling-in-c)

@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases:
 ---
 **tags:** #C #C/Lecture
-**[[C#^4ead0c|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 >[!CHECK] # IMPORTANT

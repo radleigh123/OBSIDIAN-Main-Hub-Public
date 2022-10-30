@@ -6,11 +6,10 @@ tags:
 - C/Functions/Return_Function
 - C/Lecture
 ---
-**[[C#^a17b7c|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # Functions
->[!INFO]
 >- is a block of code which only runs when it is called.
 >- You can pass data, known as parameters, into a function.
 

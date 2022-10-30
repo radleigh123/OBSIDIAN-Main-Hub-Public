@@ -1,21 +1,30 @@
 {
   "theme": "moonstone",
-  "cssTheme": "",
+  "cssTheme": "ITS Theme",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Fira Code",
-  "textFontFamily": "Karla",
-  "baseFontSize": 19,
+  "textFontFamily": "",
+  "baseFontSize": 20,
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian",
     "red_tag",
-    "Center Table",
     "Clutter Free Headings",
     "Image Floats",
-    "Center Image",
     "CalloutFix",
-    "Center Table - Copy"
+    "Center Table - Copy",
+    "Encoded Icons",
+    "ITS Theme - Alternive checkbox",
+    "Color Nodes",
+    "ITS Checkboxes",
+    "Alternate Checkboxes",
+    "ITS Alternate Checkboxes",
+    "ITS Alternate Themes",
+    "ITS Callouts",
+    "ITS Embed Adjustment",
+    "ITS Theme Encoded Icons",
+    "ITS Image Adjustment"
   ],
-  "accentColor": "#604aa5",
+  "accentColor": "",
   "showViewHeader": true
 }

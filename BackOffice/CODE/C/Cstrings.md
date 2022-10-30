@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases: [string constants]
 ---
 **tags:** #C/Strings 
-**[[C#^5aa07e|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # Strings Literal (or String Constants)

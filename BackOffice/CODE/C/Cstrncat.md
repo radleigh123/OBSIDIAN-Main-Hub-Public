@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases:
 ---
 **tags:** #C/Strings/strncat #C/Lecture  
-**[[Cstrings|BACK]]** | **[[Cstringh|<stdio.h>]]**
+**[[Cstrings|BACK]]** | **[[Cstringh|<string.h>]]**
 
 ---
 # `strncat()` function

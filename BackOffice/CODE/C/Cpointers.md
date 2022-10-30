@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases:
 ---
 **tags:** #C/Pointers 
-**[[C#^3a2894|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # Pointers

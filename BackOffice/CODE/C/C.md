@@ -1,71 +1,42 @@
 ---
 title: C
 creation-date: 2022-10-25
-aliases: [c]
 tags:
 - C
 ---
 **[[MAINCODE]]**
 
 # C language
-#### Introduction
-- [[Cexecutionflow|Execution Flow]] ^FLOW
-- [[Coperators|Operators]]
-- [[Cconstants|Constants]]
-- [[Cprintfscanf|Basic printf() & scanf()]]
-- [[Cvariables|Variables]]
-
-#### Control Statements
-- [[Cloops|Loops]] ^52bc02
-
-#### Functions
-- [[Cfunctions]] ^a17b7c
-- [[Cstorageclass|Storage Classes]] ^2faad6
-
-#### Arrays
-- [[Carrays]] ^5768f0
-
-#### Pointers
-- [[Cpointers]] ^3a2894
-
-#### Dynamic Memory
-
-#### Strings
-- [[Cstrings]] ^5aa07e
-
-#### Structures
-- [[Cstructures]] ^ad023d
-
-#### Unions
-^1c094a
-
-- [[Cunions]]
-
-#### Enumeration
-^a03ce9
-- [[Cenumerations]]
-
->[!TIP]- More on enum
->- [Enum in C - javatpoint](https://www.javatpoint.com/enum-in-c)
-
-#### File Handling
-- [[Cfilehandling]] ^c4be75
-
-#### Miscellaneous
-- [[Cprecedenceassociativity|Associativity & Precedency]] ^f72192
-- [[Cleftrightvalue|Left value & Right value]] ^1a52a5
-- [[ASCIICODES|Character Set]]
-
-##### Preprocessor ^preprocess
-- [[Cpragma|#pragma]] ^842827
-
 ##### Library
-- [[Cstdioh]] ^55d48f
-- [[Cstringh]] ^c2c42c
+- [[Cstdioh|<stdio.h>]] ^55d48f
+- [[Cstringh|<string.h>]] ^c2c42c
+- [[Cstdlibh|<stdlib.h>]]
 
-| **[[C_IMPORTANT\|Tips]]** | **[[CCODES]]** | 
-| ------------------- | -------------- |
-^4ead0c
+| **<center>Introduction</center>**          | **<center>Control Statements</center>** | **<center>Functions</center>**     | **<center>Arrays</center>** |
+| ------------------------------------------ | --------------------------------------- | ---------------------------------- | --------------------------- |
+| [[Cexecutionflow\|Execution Flow]]         | [[Cloops\|Loops]]                       | [[Cfunctions\|Functions]]          | [[Carrays\|Arrays]]         |
+| [[Coperators\|Operators]]                  |                                         | [[Cstorageclass\|Storage Classes]] |                             |
+| [[Cconstants\|Constants]]                  |                                         |                                    |                             |
+| [[Cprintfscanf\|Basic printf() & scanf()]] |                                         |                                    |                             |
+| [[Cvariables\|Variables]]                  |                                         |                                    |                             |
+
+| **<center>Pointers</center>** | **<center>Dynamic Memory</center>** | **<center>Strings</center>** |
+| ----------------------------- | ----------------------------------- | ---------------------------- |
+| [[Cpointers\|Pointers]]       |                                     | [[Cstrings\|Strings]]        |
+
+| **<center>Structures</center>** | **<center>Unions</center>** | **<center>Enumeration</center>** |
+| ------------------------------- | --------------------------- | -------------------------------- |
+| [[Cstructures\|Structure]]      | [[Cunions\|Unions]]         | [[Cenumerations\|Enumerations]]  |
+
+| **<center><font style="color:darkred;">File Handling</font></center>** |
+| --------------------------------------------- |
+| [[Cfilehandling\| File Handling]]       |
+
+| **<center>Miscellaneous</center>**                       | **<center>Preprocessor</center>** | **[[C_IMPORTANT\|IMPORTANT]]** | **[[CCODES]]** |
+| -------------------------------------------------------- | --------------------------------- | ------------------------------ | -------------- |
+| [[Cprecedenceassociativity\|Associativity & Precedency]] | [[Cpragma\|#pragma]]              |                                |                |
+| [[Cleftrightvalue\|Left value & Right value]]            |                                   |                                |                |
+| [[ASCIICODES\|Character Set]]                            |                                   |                                |                |
 
 # 
 

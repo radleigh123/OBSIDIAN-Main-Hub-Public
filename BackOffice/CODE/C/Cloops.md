@@ -6,7 +6,7 @@ tags:
 - C/Loop
 - C/Lecture
 ---
-**[[C#^52bc02|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # Loops

@@ -12,9 +12,7 @@ tags:
 ## `<br>` line break element
 The HTML **`<br>`** element defines a line break.
 Use **`<br>`** if you want a **line break** (a new line) without starting a new paragraph:
-```HTML
-<p>This is<br>a paragraph<br>with line breaks.</p>
-```
+**Example:** `<p>This is<br>a paragraph<br>with line breaks.</p>`
 >[!INFO] The `<br>` tag is an empty tag, which means that it has no end tag.
 
 # 

@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases:
 ---
 **tags:** #C/Enumeration #C/Lecture  
-**[[C#^a03ce9|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # Enumerations
@@ -42,3 +42,6 @@ aliases:
 ---
 **Sources:**
 - [Enumerations in C - YouTube](https://www.youtube.com/watch?v=9QdJExC2AVg&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=167)
+
+**More:**
+- [Enum in C - javatpoint](https://www.javatpoint.com/enum-in-c)

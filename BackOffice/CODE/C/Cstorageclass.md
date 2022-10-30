@@ -6,7 +6,7 @@ tags:
 - C/Storage_Class
 - C/Lecture
 ---
-**[[C#^2faad6|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # Storage Class

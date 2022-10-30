@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases:
 ---
 **tags:** #C/stringh #C/Strings  #C/Lecture 
-**[[C#^c2c42c|BACK]]**
+**[[C#^c2c42c|HOME [C]]]**
 
 ---
 # `<string.h>`

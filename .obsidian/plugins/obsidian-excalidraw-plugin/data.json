@@ -463,8 +463,8 @@
             "y": 43.87471925139607,
             "strokeColor": "#364fc7",
             "backgroundColor": "#364fc7",
-            "width": 172.3887577794587,
-            "height": 56.67575598228776,
+            "width": 168,
+            "height": 56,
             "seed": 362912126,
             "groupIds": [
               "EdT1VYEswLMwENVgX1Q2V"
@@ -478,7 +478,7 @@
             "fontFamily": 3,
             "text": "Python",
             "rawText": "Python",
-            "baseline": 45.67575598228776,
+            "baseline": 45,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
@@ -3781,8 +3781,8 @@
             "y": 288.12259641744123,
             "strokeColor": "#000000",
             "backgroundColor": "transparent",
-            "width": 211.62522794903276,
-            "height": 121.55333340874198,
+            "width": 205,
+            "height": 97,
             "seed": 1535340117,
             "groupIds": [
               "UAS1INkqhG2QisOWtNuLP"
@@ -3796,7 +3796,7 @@
             "fontFamily": 1,
             "text": "JSON",
             "rawText": "",
-            "baseline": 87.55333340874198,
+            "baseline": 68,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
@@ -10221,8 +10221,8 @@
             "y": 70.33778282659915,
             "strokeColor": "#000000",
             "backgroundColor": "transparent",
-            "width": 162.10492028502594,
-            "height": 115.7892287750186,
+            "width": 152,
+            "height": 92,
             "seed": 264898785,
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
@@ -10236,7 +10236,7 @@
             "fontFamily": 1,
             "text": "DNS",
             "rawText": "",
-            "baseline": 83.7892287750186,
+            "baseline": 65,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
@@ -10633,7 +10633,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "1.7.25",
+  "previousRelease": "1.7.26",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"

@@ -4,7 +4,7 @@ creation-date: 2022-10-26
 aliases:
 ---
 **tags:** #C/Preprocessor_Directive #C/Lecture
-**[[C#^842827|HOME [C]]]**
+**[[C|HOME [C]]]**
 
 ---
 # `#pragma`
