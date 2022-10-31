@@ -5,7 +5,7 @@ tags:
 - HTML/Content/Flow
 - HTML/Content/Phrasing
 ---
-**[[HTML#^HTMLquotation|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## `<cite>` citation element

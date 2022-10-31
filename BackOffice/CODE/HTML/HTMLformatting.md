@@ -5,7 +5,7 @@ tags:
 - HTML/Content/Flow
 - HTML/Content/Phrasing
 ---
-**[[HTML#^HTMLformatting|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## Formatting Elements

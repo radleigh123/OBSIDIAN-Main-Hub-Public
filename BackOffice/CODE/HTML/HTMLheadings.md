@@ -5,7 +5,7 @@ tags:
 - HTML/Elements
 - HTML/Content/Flow
 ---
-**[[HTML#^HTMLheadings|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 # `<h1>`-`<h6>` section heading elements

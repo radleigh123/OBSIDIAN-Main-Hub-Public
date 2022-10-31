@@ -3,7 +3,7 @@ aliases: [empty_tags, void_elements]
 tags:
 - HTML/Tags/empty_tags
 ---
-**[[HTML#^HTMLcomments|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## Comment

@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "96a1284fd3a6b721",
+        "id": "dadcea6dea22267c",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b37cbab60c641d",
+            "id": "dc9011975cc5619d",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/MAINBSIT.md",
+                "mode": "preview",
+                "source": true
+              },
               "pinned": true
             }
+          },
+          {
+            "id": "c6e2be93aa77d999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20221101_0219.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.0124969482422
+    "width": 306.0124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -113,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/NOTES.md",
+                "file": "20221101_0219.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/NOTES.md",
+                "file": "20221101_0219.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/NOTES.md",
+                "file": "20221101_0219.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/NOTES.md"
+                "file": "20221101_0219.md"
               }
             }
           },
@@ -215,19 +233,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
-  "active": "4d9f4a7f2daf7e74",
+  "active": "c6e2be93aa77d999",
   "lastOpenFiles": [
-    "20221030-0238.md",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/CODE/C/CINPUTdesigngetchar.md",
-    "BackOffice/CODE/C/Cstdioh.md",
-    "BackOffice/CODE/C/C.md",
-    "BackOffice/CODE/CSS/CSS.md",
-    "BackOffice/CODE/CSS/CSSselectors.md",
-    "BackOffice/CODE/CS50/CS50.md",
+    "20221101_1216.md",
+    "20221101_1224.md",
+    "20221101_1232.md",
+    "20221101_0219.md",
+    "BackOffice/MAINBSIT.md",
+    "BackOffice/CODE/HTML/HTMLtarget.md",
+    "BackOffice/CODE/HTML/HTMLanchor.md",
+    "BackOffice/CODE/HTML/HTMLfile_paths.md",
     "BackOffice/CODE/HTML/HTML.md",
-    "Excalidraw/0HEADQUARTERS.md"
+    "BackOffice/CODE/HTML/HTMLlinks.md"
   ]
 }

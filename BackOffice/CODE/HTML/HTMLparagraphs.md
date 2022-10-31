@@ -6,7 +6,7 @@ tags:
 - HTML/Elements/Block-level
 - HTML/Content/Flow 
 ---
-**[[HTML#^HTMLparagraphs|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 # Paragraphs

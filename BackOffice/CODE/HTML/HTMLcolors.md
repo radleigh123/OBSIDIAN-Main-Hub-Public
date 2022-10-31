@@ -4,7 +4,7 @@ tags:
 - HTML/Reference
 - CSS/Values
 ---
-**[[HTML#^HTMLcolors|HOME {HTML}]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## HTML Colors

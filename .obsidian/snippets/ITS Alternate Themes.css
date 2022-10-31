@@ -1617,7 +1617,7 @@ body .wotc-beyond.theme-dark .HyperMD-hr-bg {
 .theme-dark.slrvb-g,
 .theme-light.slrvb-g,
 .slrvb-g {
-    --font: "Inter";
+    --font: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif;
     --font-monospace: "Fira Code";
     --hr-sym: "🏴";
     background: var(--note);

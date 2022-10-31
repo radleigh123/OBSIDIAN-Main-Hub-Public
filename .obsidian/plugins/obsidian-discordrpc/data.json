@@ -2,9 +2,9 @@
   "showVaultName": true,
   "showCurrentFileName": false,
   "showPopups": true,
-  "customVaultName": "Main_Hub",
+  "customVaultName": "Vault",
   "showFileExtension": true,
   "useLoadedTime": true,
   "connectOnStart": true,
-  "autoHideStatusBar": false
+  "autoHideStatusBar": true
 }

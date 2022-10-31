@@ -1,4 +1,5 @@
 ---
+cssclass: no-m
 title: HTML
 creation-date: 2022-10-26
 aliases: [hypertext, markup]
@@ -27,49 +28,107 @@ tags:
 > </html>
 > ```
 
-## HTML Tutorial
+>[!column|flex no-i no-t]
+>>[!note|clean no-i no-t] Column 1
+>>- [[HTMLbasics|Basics]]
+>>	- [[HTMLelements|Elements]]
+>>	- [[HTMLtags|Tags]]
+>>	- [[HTMLattributes|Attributes]]
+>>- [[HTMLheadings|Headings]]
+>>- [[HTMLparagraphs|Paragraphs]]
+>>	- [[HTMLhorizontal|Horizontal Rules]]
+>>	- [[HTMLlinebreaks|Line Breaks]]
+>>	- [[HTMLpreformattedtext|Preformatted Text]]
+>>- [[HTMLstyles|Styles]]
+>>- [[HTMLformatting|Formatting]]
+>>- Quotations & Citation
+>>	- [[HTMLblockquotation|Block Quotation]]
+>>	- [[HTMLshortquotation|Short Quotation]]
+>>	- [[HTMLabbreviation|Abbreviation]]
+>>	- [[HTMLaddress|Contact Address]]
+>>	- [[HTMLcite|Citation]]
+>>	- [[HTMLbidirectionaltextoverride|Bidirectional Text Override]]
+>>- [[HTMLcomments|Comments]]
+>
+>>[!note|clean no-i no-t] Column 2
+>>- [[HTMLcolors|Colors]]
+>>- [[HTMLlinks|Links]]
+>>- [[HTMLimages|Images]]
+>>- [[HTMLfavicon|Favicon]]
+>>- [[HTMLtables|Tables]]
+>>- [[HTMLlists|Lists]]
+>>- Block & Inline
+>>- Classes
+>>- ID
+>>- Iframes
+>>- JavaScript
+>>- File Paths
+>>- Head
+>>- Layout
+>>- Responsive
+>>- Computercode
+>>- Semantics
+>>- Style Guide
+>
+>>[!note|clean no-i no-t] Column 3
+>>- Entities
+>>- Symbols
+>>- Emojis
+>>- Charset
+>>- URL Encode
+>>- HTML vs XHTML
 
-- [Basics](HTMLbasics.md) ^HTMLbasics
-- [Elements](HTMLelements.md) | [[HTMLtags|Tags]] | [Attributes](HTMLattributes.md) ^HTMLparts
-- [[HTMLheadings|Headings]] ^HTMLheadings
-- [[HTMLparagraphs|Paragraphs]] ^HTMLparagraphs
-	- [[HTMLhorizontal|Horizontal Rules]] ^HTMLhorizontal
-	- [[HTMLlinebreaks|Line Breaks]] ^HTMLlinebreaks
-	- [[HTMLpreformattedtext|Preformatted Text]] ^HTMLpreformattedtext
-- [[HTMLstyles|Styles]] ^HTMLstyles
-- [[HTMLformatting|Formatting]] ^HTMLformatting
-- Quotations & Citation ^HTMLquotation
-	- [[HTMLblockquotation|Block Quotation]]
-	- [[HTMLshortquotation|Short Quotation]]
-	- [[HTMLabbreviation|Abbreviation]]
-	- [[HTMLaddress|Contact Address]]
-	- [[HTMLcite|Citation]]
-	- [[HTMLbidirectionaltextoverride|Bidirectional Text Override]]
-- [[HTMLcomments|Comments]] ^HTMLcomments
-- [[HTMLcolors|Colors]] ^HTMLcolors
-- [[HTMLlinks|Links]] ^HTMLlinks
-- Images ^HTMLimages
-- [Favicon](HTMLfavicon.md) ^HTMLfavicon
-- Tables ^HTMLtables
-- Lists ^HTMLlists
-- Block & Inline ^HTMLblockinline
-- Classes ^HTMLclasses
-- ID ^HTMLid
-- Iframes ^HTMLiframes
-- JavaScript ^HTMLjavascript
-- File Paths ^HTMLfilepath
-- Head ^HTMLhead
-- Layout ^HTMLlayout
-- Responsive ^HTMLresponsive
-- Computercode ^HTMLcomputercode
-- Semantics ^HTMLsemantics
-- Style Guide ^HTMLstyleguide
-- Entities ^HTMLentities
-- Symbols ^HTMLsymbols
-- Emojis ^HTMLemojis
-- Charset ^HTMLcharset
-- URL Encode ^HTMLurlencode
-- HTML vs XHTML ^HTMLvsxhtml
+>[!column|flex no-t]
+>>[!info|no-i clean] Forms
+>>- Forms
+>>- Attributes
+>>- Elements
+>>- Input Types
+>>- Input Attributes
+>>- Input Form Attributes
+>
+>>[!bug|no-i clean] Graphics
+>>- Canvas
+>>- SVG
+>
+>>[!tip|no-i clean] Media
+>>- Media
+>>- Video
+>>- Audio
+>>- Plug-ins
+>>- Youtube
+>
+>>[!tip|no-i clean] APIs
+>>- Geolocation
+>>- Drag/Drop
+>>- Web Storage
+>>- Web Workers
+>>- SSE
+
+>[!column|no-i no-t]
+>>[!NOTE|clean no-i] References
+>>- Tag List
+>>- Attributes
+>>- Global Attributes
+>>- Browser Support
+>>- Events
+>>- Colors
+>>- Canvas
+>>- Audio/Video
+>>- Doctypes
+>>- Character Sets
+>>- URL Encode
+>>- Lang Codes
+>>- Messages
+>>- Methods
+>>- PX to EM converter
+>
+>>[!NOTE|clean no-i] Examples
+>>- Examples
+>>- Quiz
+>>- Exercises
+>>- Summary
+>>- Accessibility
 
 <br>
 

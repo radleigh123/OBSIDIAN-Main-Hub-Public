@@ -2,6 +2,7 @@
 title: File Handling
 creation-date: 2022-10-29
 aliases: [fprintf, fscanf, fwrite, fclose, fread]
+cssclass: no-m, t-c, t-w
 ---
 **tags:** #C/File_Handling #C/Pointers/File_Handling  
 **[[C|HOME [C]]]**
@@ -10,7 +11,7 @@ aliases: [fprintf, fscanf, fwrite, fclose, fread]
 # File Handling
 > A files is a container in computer storage devices used for storing data.
 
->[!INFO]- Why do we need File Handling in C?
+>[!INFO|ttl-c no-i]- Why do we need File Handling in C?
 >- There are times when the output generated out of a program after its compilation and running do not serve our intended purpose.
 >-  In such cases, we might want to check the program’s output various times. Now, compiling and running the very same program multiple times becomes a tedious task for any programmer.
 >
@@ -26,24 +27,33 @@ aliases: [fprintf, fscanf, fwrite, fclose, fread]
 >>[!EXAMPLE] Portability
 >>- The contents available in any file can be transferred to another one without any data loss in the computer system. This saves a lot of effort and minimizes the risk of flawed coding.
 
+>[!aside|bg-purple right]+ 
+>- [[CFILE_HANDLINGexample1|Getting the Factorial number]]
+>- [[CFILE_HANDLINGexample2|Compare console & text]]
+>- [[CFILE_HANDLINGexample3|Print table of numbers]]
+>- [[CFILE_HANDLINGexample4|Read multiple numbers]]
+^a6b496
+
 **Types of Files**
 - [[CFILE_HANDLINGtext|Text Files]]
 - [[CFILE_HANDLINGbinary|Binary Files]]
 
+<br>
+
 ## Prerequisites of file handling
 ### 1. Declaration of file pointer
 When working with files, you need to declare a <mark class="hltr-blue">pointer of type file</mark>. This declaration is needed for communication between the file and the program.
->[!EXAMPLE] **Syntax:** `FILE *fptr;`
+>[!EXAMPLE|alt-co no-i] **Syntax:** `FILE *fptr;`
 
 ---
 ### 2. Opening a file
 Using the **`fopen()`** function defined in the **`<stdio.h>`** header file.
->[!EXAMPLE] **Syntax** `fptr = fopen("filename", "mode");`
+>[!EXAMPLE|alt-co no-i] **Syntax** `fptr = fopen("filename", "mode");`
 
 ---
 ### 3. Closing a File
 Closing a file is performed using the `fclose()` function
->[!EXAMPLE] **Syntax:** `fclose(fptr);`
+>[!EXAMPLE|alt-co no-i] **Syntax:** `fclose(fptr);`
 
 ---
 ## Opening Modes in `standard I/O`
@@ -72,7 +82,7 @@ Closing a file is performed using the `fclose()` function
 | **[[CFILE_HANDLINGfprintf\|fprintf()]]**           | writing data into an available file                          |
 | **[[CFILE_HANDLINGfscanf\|fscanf()]]**            | reading the data available in a file                         |
 | **`fputc()`**             | writing any character into the program file                  |
-| **`fgetc()`**             | reading the character from an available file                 |
+| **[[CFILE_HANDLINGfgetc\|fgetc()]]**             | reading the character from an available file                 |
 | **`fclose()`**            | used to close the program file                               |
 | **[[CFILE_HANDLINGfseek\|fseek()]]**             | used to set the file pointer to the intended file position   |
 | **`fputw()`**             | writing an integer into an available file                    |

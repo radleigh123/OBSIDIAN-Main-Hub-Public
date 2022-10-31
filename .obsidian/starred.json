@@ -2,8 +2,13 @@
   "items": [
     {
       "type": "file",
-      "title": "0HEADQUARTERS",
-      "path": "Excalidraw/0HEADQUARTERS.md"
+      "title": "MAINBSIT",
+      "path": "BackOffice/MAINBSIT.md"
+    },
+    {
+      "type": "file",
+      "title": "MAINCODE",
+      "path": "BackOffice/MAINCODE.md"
     },
     {
       "type": "file",

@@ -5,7 +5,7 @@ tags:
 - HTML/Elements
 - HTML/Content/Flow 
 ---
-**[[HTML#^HTMLhorizontal|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## Horizontal Rules

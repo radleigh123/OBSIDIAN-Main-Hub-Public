@@ -5,7 +5,7 @@ aliases:
 tags:
 - HTML/Basics
 ---
-**[[HTML#^HTMLparts|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 # Attributes

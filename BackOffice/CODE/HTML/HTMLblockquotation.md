@@ -4,7 +4,7 @@ tags:
 - HTML/Content/Flow
 - HTML/Attributes/Global_Attributes/cite
 ---
-**[[HTML#^HTMLquotation|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## `<blockquote>` The Block Quotation

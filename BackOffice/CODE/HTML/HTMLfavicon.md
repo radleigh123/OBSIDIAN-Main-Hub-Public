@@ -5,7 +5,7 @@ aliases:
 tags:
 - HTML
 ---
-**[[HTML#^HTMLfavicon|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 # Favicon

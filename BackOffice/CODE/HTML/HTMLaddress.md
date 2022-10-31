@@ -4,7 +4,7 @@ tags:
 - HTML/Elements
 - HTML/Content/Flow
 ---
-**[[HTML#^HTMLquotation|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## `<address>` contact address element

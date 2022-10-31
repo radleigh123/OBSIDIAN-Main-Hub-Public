@@ -5,7 +5,7 @@ tags:
 - HTML/Content/Phrasing
 - HTML/Attributes/Global_Attributes/cite
 ---
-**[[HTML#^HTMLquotation|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## `<q>` inline quotation element

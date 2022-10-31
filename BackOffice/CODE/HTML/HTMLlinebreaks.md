@@ -6,7 +6,7 @@ tags:
 - HTML/Content/Flow 
 - HTML/Content/Phrasing
 ---
-**[[HTML#^HTMLlinebreaks|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## `<br>` line break element

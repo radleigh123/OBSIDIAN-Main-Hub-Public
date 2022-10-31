@@ -6,7 +6,7 @@ tags:
 - HTML/Content/Phrasing
 - #HTML/Attributes/Global_Attributes/dir
 ---
-**[[HTML#^HTMLquotation|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## `<bdo>` bidirectional text override element

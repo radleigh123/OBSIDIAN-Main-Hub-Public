@@ -10,7 +10,7 @@
 ### Important takeaways
 [HTML Boilerplate](HTMLBoil.md)
 [HTML Elements](WEBDEVelements.md)
-[HTML Attributes](HTMLAttrib.md)
+[HTML Attributes](WEBDEVHTMLattributes.md)
 [HTML Tag](WEBDEVhtmltags.md)
 
 # 

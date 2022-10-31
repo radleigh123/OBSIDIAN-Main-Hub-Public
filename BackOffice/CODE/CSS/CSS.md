@@ -1,4 +1,5 @@
 ---
+cssclass: t-c, no-m, t-w, hc, tbl-nalt
 title: CSS
 creation-date: 2022-10-29
 aliases:

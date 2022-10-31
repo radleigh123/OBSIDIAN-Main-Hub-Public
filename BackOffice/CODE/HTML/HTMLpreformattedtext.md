@@ -4,7 +4,7 @@ tags:
 - HTML/Elements
 - HTML/Content/Flow
 ---
-**[[HTML#^HTMLpreformattedtext|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## `<pre>` preformatted text element

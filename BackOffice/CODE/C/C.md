@@ -1,4 +1,5 @@
 ---
+cssclass: t-c, tag-bubble, no-m, tbl-nalt
 title: C
 creation-date: 2022-10-25
 tags:

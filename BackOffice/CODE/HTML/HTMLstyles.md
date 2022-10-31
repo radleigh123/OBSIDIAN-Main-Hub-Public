@@ -6,7 +6,7 @@ tags:
 - HTML/Attributes/Global_Attributes/title
 - HTML/Content/Metadata
 ---
-**[[HTML#^HTMLstyles|HOME [HTML]]]**
+**[[HTML|HOME [HTML]]]**
 
 ---
 ## `<style>` style information element

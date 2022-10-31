@@ -2,6 +2,7 @@
 banner: "![[Mainhub.jpg]]"
 banner_y: 0.484
 banner_icon: 🪦
+cssclass: t-c, t-w
 ---
 # HEADQUARTERS BSIT *(Bachelor of Science in Information Technology)*
 

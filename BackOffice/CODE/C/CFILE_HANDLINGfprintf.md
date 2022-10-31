@@ -7,7 +7,7 @@ aliases:
 ---
 ## `fprintf()`
 
->[!EXAMPLE] Syntax: `fprintf(FILE * stream, const char *format, ...);`
+>[!EXAMPLE|no-i] Syntax: `fprintf(FILE * stream, const char *format, ...);`
 
 ```C
 #include <stdio.h>
