@@ -9,7 +9,7 @@ cssclass: no-m, t-c, t-w
 
 ---
 # File Handling
-> A files is a container in computer storage devices used for storing data.
+A file is a container in computer storage devices used for storing data.
 
 >[!INFO|ttl-c no-i]- Why do we need File Handling in C?
 >- There are times when the output generated out of a program after its compilation and running do not serve our intended purpose.
@@ -32,6 +32,10 @@ cssclass: no-m, t-c, t-w
 >- [[CFILE_HANDLINGexample2|Compare console & text]]
 >- [[CFILE_HANDLINGexample3|Print table of numbers]]
 >- [[CFILE_HANDLINGexample4|Read multiple numbers]]
+>- [[CFILE_HANDLINGexample5|Count number of characters using fgetc]]
+>- [[CFILE_HANDLINGexample6|Count characters and words from file]]
+>- [[CFILE_HANDLINGexample7|Copy contents of file to another]]
+>- [[CFILE_HANDLINGexample8|Display source code as output on screen]]
 ^a6b496
 
 **Types of Files**
@@ -76,19 +80,20 @@ Closing a file is performed using the `fclose()` function
 
 ## Operators/Functions for file handling
 
-| **<center>Function in Use</center>** | **<center>Description of Function</center>**                                  |
-| ------------------- | ------------------------------------------------------------ |
-| **`fopen()`**             | used to open an existing file or a new file                  |
-| **[[CFILE_HANDLINGfprintf\|fprintf()]]**           | writing data into an available file                          |
-| **[[CFILE_HANDLINGfscanf\|fscanf()]]**            | reading the data available in a file                         |
-| **`fputc()`**             | writing any character into the program file                  |
-| **[[CFILE_HANDLINGfgetc\|fgetc()]]**             | reading the character from an available file                 |
-| **`fclose()`**            | used to close the program file                               |
-| **[[CFILE_HANDLINGfseek\|fseek()]]**             | used to set the file pointer to the intended file position   |
-| **`fputw()`**             | writing an integer into an available file                    |
-| **`fgetw()`**             | used to read an integer from the given file                  |
-| **`ftell()`**             | used for reading the current position of a file              |
-| **`rewind()`**            | sets an intended file pointer to the file’s beginning itself |
+| **<center>Function in Use</center>**     | **<center>Description of Function</center>**                 |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| **`fopen()`**                            | used to open an existing file or a new file                  |
+| **[[CFILE_HANDLINGfprintf\|fprintf()]]** | writing data into an available file                          |
+| **[[CFILE_HANDLINGfscanf\|fscanf()]]**   | reading the data available in a file                         |
+| **[[CFILE_HANDLINGfputc\|fputc()]]**     | writing any character into the program file                  |
+| **[[CFILE_HANDLINGfgetc\|fgetc()]]**     | reading the character from an available file                 |
+| **`fclose()`**                           | used to close the program file                               |
+| **[[CFILE_HANDLINGfseek\|fseek()]]**     | used to set the file pointer to the intended file position   |
+| **`fputw()`**                            | writing an integer into an available file                    |
+| **`fgetw()`**                            | used to read an integer from the given file                  |
+| **`ftell()`**                            | used for reading the current position of a file              |
+| **`rewind()`**                           | sets an intended file pointer to the file’s beginning itself |
+| **fgets()**                                         |                                                              |
 
 # 
 

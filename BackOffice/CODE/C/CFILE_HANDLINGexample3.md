@@ -2,8 +2,8 @@
 cssclass: no-m
 aliases:
 ---
-**tags:** #C/File_Handling 
-**[[Cfilehandling#^a6b496|BACK]]**
+**tags:** #C/File_Handling #C/stdio/printf 
+**[[Cfilehandling|BACK]]**
 
 ---
 >[!recite|no-i] Print table of a number on output screen as well as in file using file handling in C programming

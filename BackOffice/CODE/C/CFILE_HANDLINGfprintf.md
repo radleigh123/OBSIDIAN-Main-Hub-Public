@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-**tags:** #C/File_Handling 
+**tags:** #C/File_Handling #C/stdio/fprintf
 **[[Cfilehandling#Operators/Functions for file handling|BACK]]**
 
 ---

@@ -2,8 +2,8 @@
 cssclass: no-m, co-ttl-ctr
 aliases:
 ---
-**tags:** #C/File_Handling 
-**[[Cfilehandling#^a6b496|BACK]]**
+**tags:** #C/File_Handling #C/stdio/printf 
+**[[Cfilehandling|BACK]]**
 
 ---
 >[!recite|no-i] Read a number, Calculate its factorial and store the result into a file using a file handling in C programming

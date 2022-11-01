@@ -2,8 +2,8 @@
 cssclass: no-m
 aliases:
 ---
-**tags:** #C/File_Handling 
-**[[Cfilehandling#^a6b496|BACK]]**
+**tags:** #C/File_Handling #C/stdio/fscanf 
+**[[Cfilehandling|BACK]]**
 
 ---
 >[!recite|no-i] Read a number from user and another number from file, Now compare them using file handling in c programming

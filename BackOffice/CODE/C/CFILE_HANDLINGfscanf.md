@@ -2,7 +2,7 @@
 aliases:
 cssclass: 
 ---
-**tags:** #C/File_Handling 
+**tags:** #C/File_Handling #C/stdio/fscanf 
 **[[Cfilehandling#Operators/Functions for file handling|BACK]]**
 
 ---

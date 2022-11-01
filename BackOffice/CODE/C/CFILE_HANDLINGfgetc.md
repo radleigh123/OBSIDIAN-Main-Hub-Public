@@ -2,7 +2,7 @@
 cssclass: no-m
 aliases:
 ---
-**tags:** #C/File_Handling 
+**tags:** #C/File_Handling #C/stdio/fgetc 
 **[[Cfilehandling|BACK]]**
 
 ---
@@ -11,7 +11,7 @@ is used to obtain input from a file single character a time. This function retur
 
 >[!EXAMPLE|no-i alt-co] Syntax: `fgetc(FILE *pointer);`
 
->[!aside|show-title]- File Text
+>[!aside|show-title]+ File Text
 > Hello World
 ```C
 #include <stdio.h>
