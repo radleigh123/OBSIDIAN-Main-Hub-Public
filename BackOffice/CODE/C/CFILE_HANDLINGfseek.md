@@ -9,10 +9,13 @@ aliases:
 - If you have many records inside a file and <mark class="hltr-blue">need to access a record at a specific position</mark>, you need to loop through all the records before it to get the record.
 	- This will waste a lot of memory and operation time. An easier way to get to the required data can be achieved using **`fseek()`**.
 
->[!EXAMPLE] Syntax: `fseek(FILE * stream, long int offset, int whence);`
->- First parameter stream is the pointer to the file
->- Second parameter is the position of the record to be found
->- Third parameter specifies the location where the offset starts.
+>[!EXAMPLE|collapse no-i alt-co] **Syntax:**
+> `fseek(FILE * stream, long int offset, int whence);`
+
+>[!EXAMPLE|collapse no-i alt-co] **Parameters**
+>- **stream** - the pointer to the file
+>- **2nd parameter** - the position of the record to be found
+>- **3rd parameter** - specifies the location where the offset starts.
 
 **<center>Different `whence` in fseek()</center>**
 

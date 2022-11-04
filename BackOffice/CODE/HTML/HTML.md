@@ -78,8 +78,8 @@ tags:
 >>- URL Encode
 >>- HTML vs XHTML
 
->[!column|flex no-t]
->>[!info|no-i clean] Forms
+>[!column|flex no-t collapse]
+>>[!info|no-i clean] #### 📂 Forms
 >>- Forms
 >>- Attributes
 >>- Elements
@@ -87,26 +87,26 @@ tags:
 >>- Input Attributes
 >>- Input Form Attributes
 >
->>[!bug|no-i clean] Graphics
+>>[!bug|no-i clean] #### 🖥Graphics
 >>- Canvas
 >>- SVG
 >
->>[!tip|no-i clean] Media
+>>[!tip|no-i clean] #### 📺 Media
 >>- Media
 >>- Video
 >>- Audio
 >>- Plug-ins
 >>- Youtube
 >
->>[!tip|no-i clean] APIs
+>>[!tip|no-i clean] #### 📖 APIs
 >>- Geolocation
 >>- Drag/Drop
 >>- Web Storage
 >>- Web Workers
 >>- SSE
 
->[!column|no-i no-t]
->>[!NOTE|clean no-i] References
+>[!column|flex no-i no-t collapse]
+>>[!NOTE|clean no-i] #### 📝 References
 >>- Tag List
 >>- Attributes
 >>- Global Attributes
@@ -116,6 +116,8 @@ tags:
 >>- Canvas
 >>- Audio/Video
 >>- Doctypes
+>
+>>[!NOTE|clean no-i no-t]
 >>- Character Sets
 >>- URL Encode
 >>- Lang Codes
@@ -123,7 +125,7 @@ tags:
 >>- Methods
 >>- PX to EM converter
 >
->>[!NOTE|clean no-i] Examples
+>>[!NOTE|clean no-i] #### 🍱 Examples
 >>- Examples
 >>- Quiz
 >>- Exercises

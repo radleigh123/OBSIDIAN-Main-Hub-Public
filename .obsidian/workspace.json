@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "dadcea6dea22267c",
+        "id": "e94cef5695cc2cce",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9011975cc5619d",
+            "id": "5cdae14de5baade1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/CODE/C/C.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "75929565af9a721b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/C/Cfilehandling.md",
+                "file": "BackOffice/MAINCODE.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C/stdio/fgets",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +109,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.0124969482422,
-    "collapsed": true
+    "width": 306.0124969482422
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -117,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/C/Cfilehandling.md",
+                "file": "BackOffice/MAINCODE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/C/Cfilehandling.md",
+                "file": "BackOffice/MAINCODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,9 +189,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/C/Cfilehandling.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "file": "BackOffice/MAINCODE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -202,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/C/Cfilehandling.md"
+                "file": "BackOffice/MAINCODE.md"
               }
             }
           },
@@ -218,20 +231,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289,
-    "collapsed": true
+    "width": 289
   },
-  "active": "dc9011975cc5619d",
+  "active": "75929565af9a721b",
   "lastOpenFiles": [
+    "BackOffice/CODE/HTML/HTML.md",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/CODE/CSS/CSS.md",
     "BackOffice/CODE/C/C.md",
+    "Ctypecasting.md",
+    "Cgoto.md",
+    "BackOffice/CODE/HTML/HTMLdataview.md",
+    "BackOffice/CODE/C/CFILE_HANDLINGexample10.md",
     "BackOffice/CODE/C/Cfilehandling.md",
-    "CFILE_HANDLINGexample6.md",
-    "CFILE_HANDLINGexample5.md",
-    "BackOffice/CODE/C/CFILE_HANDLINGexample4.md",
-    "BackOffice/CODE/C/CFILE_HANDLINGexample3.md",
-    "BackOffice/CODE/C/CFILE_HANDLINGexample2.md",
-    "BackOffice/CODE/C/CFILE_HANDLINGexample1.md",
-    "CFILE_HANDLINGexample8.md",
-    "CFILE_HANDLINGexample7.md"
+    "BackOffice/CODE/C/CFILE_HANDLINGexample15.md"
   ]
 }

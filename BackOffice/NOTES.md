@@ -25,20 +25,23 @@
 - [O] Em Beihold - Numb Little Bug
 - [O] Slime S2 Ending OP
 
->[!ABSTRACT] ## Book Quotes
->>[!CITE] *We know what conditioner works best for our hair. We know what food we need to stay away from. Bu we don't know how to feed our soul.*
+>[!EXAMPLE|ngm] Book Quotes
+>>[!CITE|collapse] *We know what conditioner works best for our hair. We know what food we need to stay away from. Bu we don't know how to feed our soul.*
 >>\- (pg.10 middle right)
 >
->>[!CITE] *Hopeless Romantic who sought approval and validation and tried to fill a void in myself by being with women.*
+>>[!CITE|collapse] *Hopeless Romantic who sought approval and validation and tried to fill a void in myself by being with women.*
 >>\- (pg.13 lower left)
 >
->>[!CITE] *That feeling back when the world was big and open for adventure.*
+>>[!CITE|collapse] *That feeling back when the world was big and open for adventure.*
 >>\- (pg. 40 middle left)
 >
->>[!CITE] *Maybe you always began to lose yourself in these relationships, but stayed in them.*
+>>[!CITE|collapse] *Maybe you always began to lose yourself in these relationships, but stayed in them.*
 >>\- (pg. 114 middle left)
 >
 >>[!CITE] A couple of kids who were way over their heads
+>
+>>[!CITE|collapse] We see stars are near to each other but really they are far apart
+>>\- Toradora, ep15
 
 ## Random bullshits
 - No smoking within 50 feet, trucks

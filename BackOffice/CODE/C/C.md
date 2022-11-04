@@ -13,32 +13,55 @@ tags:
 - [[Cstringh|<string.h>]] ^c2c42c
 - [[Cstdlibh|<stdlib.h>]]
 
-| **<center>Introduction</center>**          | **<center>Control Statements</center>** | **<center>Functions</center>**     | **<center>Arrays</center>** |
-| ------------------------------------------ | --------------------------------------- | ---------------------------------- | --------------------------- |
-| [[Cexecutionflow\|Execution Flow]]         | [[Cloops\|Loops]]                       | [[Cfunctions\|Functions]]          | [[Carrays\|Arrays]]         |
-| [[Coperators\|Operators]]                  |                                         | [[Cstorageclass\|Storage Classes]] |                             |
-| [[Cconstants\|Constants]]                  |                                         |                                    |                             |
-| [[Cprintfscanf\|Basic printf() & scanf()]] |                                         |                                    |                             |
-| [[Cvariables\|Variables]]                  |                                         |                                    |                             |
+>[!column|flex no-i no-t]
+>>[!note|clean collapse no-i] #### 📙 Introduction
+>>- [[Cexecutionflow|Execution Flow]]
+>>- [[Cfunctions|Functions]]
+>>- [[Coperators|Operators]]
+>>- [[Cstorageclass|Storage Classes]]
+>>- [[Cconstants|Constants]]
+>>- [[Cprintfscanf|Basic printf() & scanf()]]
+>>- [[Cvariables|Variables]]
+>
+>>[!note|clean collapse no-i] #### 🎮 Control Statements
+>>- [[Cloops|Loops]]
+>>- 
+>>- [[Ctypecasting|Typecasting]]
+>>- [`goto`](Cgoto) (*depreciated*)
+>
+>>[!note|clean collapse no-i] #### 👷‍♂️ Functions
+>>- [[Cfunctions|Functions]]
+>
+>>[!note|clean collapse no-i] #### 🔢 Arrays
+>>- [[Carrays|Arrays]]
+>
+>>[!note|clean collapse no-i] #### 🆎 Strings
+>>- [[Cstrings|Strings]]
+>
+>>[!note|clean collapse no-i] #### 🎯 Pointers
+>>- [[Cpointers|Pointers]]
+>
+>>[!note|clean collapse no-i] #### 🏨 🏦 🏡
+>>- [[Cstructures|Structures]]
+>>- [[Cunions|Unions]]
+>>- [[Cenumerations|Enumerations]]
+>
+>>[!note|clean collapse no-i] #### 📂 File Handling
+>>- [[Cfilehandling|File Handling]]
 
-| **<center>Pointers</center>** | **<center>Dynamic Memory</center>** | **<center>Strings</center>** |
-| ----------------------------- | ----------------------------------- | ---------------------------- |
-| [[Cpointers\|Pointers]]       |                                     | [[Cstrings\|Strings]]        |
-
-| **<center>Structures</center>** | **<center>Unions</center>** | **<center>Enumeration</center>** |
-| ------------------------------- | --------------------------- | -------------------------------- |
-| [[Cstructures\|Structure]]      | [[Cunions\|Unions]]         | [[Cenumerations\|Enumerations]]  |
-
-| **<center><font style="color:darkred;">File Handling</font></center>** |
-| --------------------------------------------- |
-| [[Cfilehandling\| File Handling]]       |
-
-| **<center>Miscellaneous</center>**                       | **<center>Preprocessor</center>** | **[[C_IMPORTANT\|IMPORTANT]]** | **[[CCODES]]** |
-| -------------------------------------------------------- | --------------------------------- | ------------------------------ | -------------- |
-| [[Cprecedenceassociativity\|Associativity & Precedency]] | [[Cpragma\|#pragma]]              |                                |                |
-| [[Cleftrightvalue\|Left value & Right value]]            |                                   |                                |                |
-| [[ASCIICODES\|Character Set]]                            |                                   |                                |                |
-
+>[!column|flex no-i no-t]
+>>[!note|clean collapse no-i] #### 🌌 Miscellaneous
+>>- [[Cprecedenceassociativity|Associativity & Precedency]]
+>>- [[Cleftrightvalue|Left value and Right value]]
+>>- [[ASCIICODES|Character Set]]
+>>- Dynamic Memory
+>
+>>[!note|clean collapse no-i] #### Preprocessor
+>>- [[Cpragma|#pragma]]
+>
+>>[!note|clean collapse no-i] #### [[C_IMPORTANT|IMPORTANT]]
+>
+>>[!note|clean collapse no-i] #### [[CCODES|SAMPLE CODES]]
 # 
 
 <br>

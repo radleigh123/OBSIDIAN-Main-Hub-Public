@@ -1,5 +1,4 @@
 ---
-cssclass: 
 aliases:
 tags:
 - HTML

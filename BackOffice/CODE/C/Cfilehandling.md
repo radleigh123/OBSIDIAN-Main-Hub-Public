@@ -2,7 +2,7 @@
 title: File Handling
 creation-date: 2022-10-29
 aliases: [fprintf, fscanf, fwrite, fclose, fread]
-cssclass: no-m, t-c, t-w
+cssclass: no-m, t-c, t-w, tbl-nalt
 ---
 **tags:** #C/File_Handling #C/Pointers/File_Handling  
 **[[C|HOME [C]]]**
@@ -36,6 +36,13 @@ A file is a container in computer storage devices used for storing data.
 >- [[CFILE_HANDLINGexample6|Count characters and words from file]]
 >- [[CFILE_HANDLINGexample7|Copy contents of file to another]]
 >- [[CFILE_HANDLINGexample8|Display source code as output on screen]]
+>- [[CFILE_HANDLINGexample9|Store strings into file using fputs()]]
+>- [[CFILE_HANDLINGexample10|Store 5 lines of text in file using fputs()]]
+>- [[CFILE_HANDLINGexample11|Merge contents of two files]]
+>- [[CFILE_HANDLINGexample12|Deleting or Renaming a file]]
+>- [[CFILE_HANDLINGexample13|Reading & Writing Structure into File]]
+>- [[CFILE_HANDLINGexample14|Reading & Writing Array of structure into File]]
+>- [[CFILE_HANDLINGexample15|Find out size of file]]
 ^a6b496
 
 **Types of Files**
@@ -80,20 +87,24 @@ Closing a file is performed using the `fclose()` function
 
 ## Operators/Functions for file handling
 
-| **<center>Function in Use</center>**     | **<center>Description of Function</center>**                 |
-| ---------------------------------------- | ------------------------------------------------------------ |
-| **`fopen()`**                            | used to open an existing file or a new file                  |
-| **[[CFILE_HANDLINGfprintf\|fprintf()]]** | writing data into an available file                          |
-| **[[CFILE_HANDLINGfscanf\|fscanf()]]**   | reading the data available in a file                         |
-| **[[CFILE_HANDLINGfputc\|fputc()]]**     | writing any character into the program file                  |
-| **[[CFILE_HANDLINGfgetc\|fgetc()]]**     | reading the character from an available file                 |
-| **`fclose()`**                           | used to close the program file                               |
-| **[[CFILE_HANDLINGfseek\|fseek()]]**     | used to set the file pointer to the intended file position   |
-| **`fputw()`**                            | writing an integer into an available file                    |
-| **`fgetw()`**                            | used to read an integer from the given file                  |
-| **`ftell()`**                            | used for reading the current position of a file              |
-| **`rewind()`**                           | sets an intended file pointer to the file’s beginning itself |
-| **fgets()**                                         |                                                              |
+| **<center>Function in Use</center>**                                  | **<center>Description of Function</center>**                          |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **<center>`fopen()`</center>**                                        | used to open an existing file or a new file                           |
+| **<center>[[CFILE_HANDLINGfprintf\|fprintf()]]</center>**             | writing data into an available file                                   |
+| **<center>[[CFILE_HANDLINGfscanf\|fscanf()]]</center>**               | reading the data available in a file                                  |
+| **<center>[[CFILE_HANDLINGfputc\|fputc()]]</center>**                 | writing any character into the program file                           |
+| **<center>[[CFILE_HANDLINGfgetc\|fgetc()]]</center>**                 | reading the character from an available file                          |
+| **<center>`fclose()`</center>**                                       | used to close the program file                                        |
+| **<center>[[CFILE_HANDLINGfseek\|fseek()]]</center>**                 | used to set the file pointer to the intended file position            |
+| **<center>[[CFILE_HANDLINGputwgetw\|putw()]] (depreciated)</center>** | writing an integer into an available file                             |
+| **<center>[[CFILE_HANDLINGputwgetw\|getw()]] (depreciated)</center>** | used to read an integer from the given file                           |
+| **<center>[[CFILE_HANDLINGftell\|ftell()]]</center>**                                        | used for reading the current position of a file                       |
+| **<center>[[CFILE_HANDLINGrewind\|rewind()]]</center>**               | sets an intended file pointer to the file’s beginning itself          |
+| **<center>[[CFILE_HANDLINGfeof\|feof()]]</center>**                   | tests the end-of-file indicator for the given stream.                 |
+| **<center>[[CFILE_HANDLINGfgets\|fgets()]]</center>**                 | reads a line of characters from file. It gets string from a stream.   |
+| **<center>[[CFILE_HANDLINGfputs\|fputs()]]</center>**                 | writes a line of characters into file. It outputs string to a stream. |
+| **<center>[[CFILE_HANDLINGfread\|fread()]]</center>**                 | reads data from the given stream into the array pointed to, by ptr.   | 
+| **<center>[[CFILE_HANDLINGfwrite\|fwrite()]]</center>**               | writes data from the array pointed to, by ptr to the given stream.    |
 
 # 
 
