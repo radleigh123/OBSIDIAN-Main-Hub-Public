@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e94cef5695cc2cce",
+        "id": "70e0ff35a41de653",
         "type": "tabs",
         "children": [
           {
-            "id": "5cdae14de5baade1",
+            "id": "352a3dcc5b3ad072",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "BackOffice/CODE/C/C.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "75929565af9a721b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/MAINCODE.md",
-                "mode": "preview",
-                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/MAINCODE.md",
+                "file": "BackOffice/CODE/C/C.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/MAINCODE.md",
+                "file": "BackOffice/CODE/C/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/MAINCODE.md",
+                "file": "BackOffice/CODE/C/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/MAINCODE.md"
+                "file": "BackOffice/CODE/C/C.md"
               }
             }
           },
@@ -227,23 +213,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 289
   },
-  "active": "75929565af9a721b",
+  "active": "352a3dcc5b3ad072",
   "lastOpenFiles": [
-    "BackOffice/CODE/HTML/HTML.md",
     "BackOffice/MAINCODE.md",
-    "BackOffice/CODE/CSS/CSS.md",
-    "BackOffice/CODE/C/C.md",
-    "Ctypecasting.md",
-    "Cgoto.md",
-    "BackOffice/CODE/HTML/HTMLdataview.md",
-    "BackOffice/CODE/C/CFILE_HANDLINGexample10.md",
-    "BackOffice/CODE/C/Cfilehandling.md",
-    "BackOffice/CODE/C/CFILE_HANDLINGexample15.md"
+    "Backlinks/PE102.md",
+    "BackOffice/BSIT/PE101/PESEMI_CH1.md",
+    "BackOffice/BSIT/PE101/PEFINAL_CH2.md",
+    "BackOffice/BSIT/PE101/PEFINAL_CH1.md",
+    "BackOffice/MAINBSIT.md",
+    "BackOffice/BSIT/INTCOM11.md",
+    "BackOffice/BSIT/INTCOM11/INTCOMSemiCh11.md",
+    "BackOffice/BSIT/WEBDEV11/WEBDEVSEMIFINAL3.md",
+    "BackOffice/BSIT/INTCOM11/INTCOMSemiCh13.md"
   ]
 }

@@ -8,11 +8,14 @@ tags:
 **[[MAINCODE]]**
 
 # C language
-##### Library
-- [[Cstdioh|<stdio.h>]] ^55d48f
-- [[Cstringh|<string.h>]] ^c2c42c
-- [[Cstdlibh|<stdlib.h>]]
 
+| <center>📚 Library</center> |                                                 |                                               |
+| --------------------------- | ----------------------------------------------- | --------------------------------------------- |
+| [[Cstdioh\|<stdio.h>]]      | **<center>[[C_IMPORTANT\|IMPORTANT]]</center>** | **<center>[[CCODES\|SAMPLE CODES]]</center>** | 
+| [[Cstringh\|<string.h>]]    |                                                 |                                               |
+| [[Cstdlibh\|<stdlib.h>]]    |                                                 |                                               |
+
+---
 >[!column|flex no-i no-t]
 >>[!note|clean collapse no-i] #### 📙 Introduction
 >>- [[Cexecutionflow|Execution Flow]]
@@ -25,9 +28,8 @@ tags:
 >
 >>[!note|clean collapse no-i] #### 🎮 Control Statements
 >>- [[Cloops|Loops]]
->>- 
 >>- [[Ctypecasting|Typecasting]]
->>- [`goto`](Cgoto) (*depreciated*)
+>>- [`goto`](Cgoto.md) (*depreciated*)
 >
 >>[!note|clean collapse no-i] #### 👷‍♂️ Functions
 >>- [[Cfunctions|Functions]]
@@ -41,13 +43,12 @@ tags:
 >>[!note|clean collapse no-i] #### 🎯 Pointers
 >>- [[Cpointers|Pointers]]
 >
->>[!note|clean collapse no-i] #### 🏨 🏦 🏡
->>- [[Cstructures|Structures]]
->>- [[Cunions|Unions]]
->>- [[Cenumerations|Enumerations]]
->
 >>[!note|clean collapse no-i] #### 📂 File Handling
 >>- [[Cfilehandling|File Handling]]
+>
+>>[!note|clean collapse no-i] #### Preprocessor
+>>- [[Cpragma|#pragma]]
+>
 
 >[!column|flex no-i no-t]
 >>[!note|clean collapse no-i] #### 🌌 Miscellaneous
@@ -56,12 +57,14 @@ tags:
 >>- [[ASCIICODES|Character Set]]
 >>- Dynamic Memory
 >
->>[!note|clean collapse no-i] #### Preprocessor
->>- [[Cpragma|#pragma]]
+>>[!note|clean collapse no-i] #### 🏨 Structures
+>>- [[Cstructures|Structures]]
 >
->>[!note|clean collapse no-i] #### [[C_IMPORTANT|IMPORTANT]]
+>>[!note|clean collapse no-i] #### 🏦 Unions
+>>- [[Cunions|Unions]]
 >
->>[!note|clean collapse no-i] #### [[CCODES|SAMPLE CODES]]
+>>[!note|clean collapse no-i] #### 🏡 Enumerations
+>>- [[Cenumerations|Enumerations]]
 # 
 
 <br>

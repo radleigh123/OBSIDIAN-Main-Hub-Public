@@ -69,7 +69,33 @@ banner_icon: 🖥️
 3. [Interpreting system requirements](INTCOMMidtermCh12.md) ^MIDCH12
 4. [Common software problems](INTCOMMidtermCh13.md) ^MIDCH13
 5. [Social implications: User-centred design](INTCOMMidtermCh14.md) ^MIDCH14
-
+## Semi Finals: Network Management
+### Networks
+1. [Networks](INTCOMSemiCh11.md)
+2. [Internet Services](INTCOMSemiCh12.md)
+3. [Internet Connections](INTCOMSemiCh13.md)
+### Social Implications of Networks
+1. [Computer-related crimes](INTCOMSemiCh21)
+2. [Security issues](INTCOMSemiCh22)
+3. [Security and safeguards](INTCOMSemiCh23)
+4. [Impact of technology on the global community](INTCOMSemiCh24)
+### System Software and Computer Management
+1. [Computer management](INTCOMSemiCh31)
+2. [The role of the operating system](INTCOMSemiCh32)
+3. [Management of files](INTCOMSemiCh33)
+4. [Troubleshooting your computer](INTCOMSemiCh34)
+5. [Factors that influence performance](INTCOMSemiCh35)
+### Internet Communication Tools
+1. [Electronic communication](INTCOMSemiCh41)
+2. [Web browsers](INTCOMSemiCh42)
+3. [Computer communications](INTCOMSemiCh43)
+4. [Communication devices](INTCOMSemiCh44)
+### Social Implications of E-communications and Technologies
+1. [Social networking sites and technologies](INTCOMSemiCh51)
+2. [Impact of technology](INTCOMSemiCh52)
+### Information Management: Practical Assessment Task
+1. [Problem solving cycle](INTCOMSemiCh61)
+2. [Information management](INTCOMSemiCh62)
 # 
 
 <br>

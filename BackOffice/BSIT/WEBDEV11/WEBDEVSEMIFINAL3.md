@@ -1,10 +1,4 @@
----
-title: Margins and Padding
-creation-date: 2022-10-26
-aliases:
-tags:
----
-**[[WEBDEV11LEC#^SEMICH2|BACK]]**
+**[[WEBDEV11LEC#^SEMICH3|BACK]]**
 
 ---
 ## Margins

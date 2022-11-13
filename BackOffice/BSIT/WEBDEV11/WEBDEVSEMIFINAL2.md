@@ -1,10 +1,4 @@
----
-title: Borders and Outlines
-creation-date: 2022-10-26
-aliases:
-tags:
----
-**[[WEBDEV11LEC#^SEMICH1|BACK]]**
+**[[WEBDEV11LEC#^SEMICH2|BACK]]**
 
 ---
 ## Borders

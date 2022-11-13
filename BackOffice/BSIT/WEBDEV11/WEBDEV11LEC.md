@@ -19,10 +19,13 @@ banner_y: 0.444
 - [Manipulating Fonts and Text](WEBDEVMIDTERM4.md) ^MIDCH4
 - [Working with images](WEBDEVMIDTERM5.md) ^MIDCH5
 - [Formatting Tables](WEBDEVMIDTERM6.md) ^MIDCH6
+- [[WEBDEVMIDTERM7|Borders and Outlines]] ^MIDCH7
+- [[WEBDEVMIDTERM8|Margins and Padding]] ^MIDCH8
 
 ## Semi Final
-- [[WEBDEVSEMI1|Borders and Outlines]] ^SEMICH1
-- [[WEBDEVSEMI2|Margins and Padding]] ^SEMICH2
+- [Formatting Tables](WEBDEVSEMIFINAL1.md) ^SEMICH1
+- [Borders and Outlines](WEBDEVSEMIFINAL2.md) ^SEMICH2
+- [Margins and Padding](WEBDEVSEMIFINAL3.md) ^SEMICH3
 
 <br>
 
