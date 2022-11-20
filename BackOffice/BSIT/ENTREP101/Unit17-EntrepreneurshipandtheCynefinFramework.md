@@ -1,0 +1,12 @@
+So, do you think you want to be an entrepreneur? Does it seems scary? A bit daunting perhaps? All those things you have to juggle.  
+I‘d like to introduce you to the cynefin framework, which might help you gain a more abstract, but at the same time perhaps more encouraging, view on entrepreneurship.  
+First, where does this strange word come from? Cynefin apparently comes from Welsh and means habitat. So our concern here is with where rather than what. The idea of making sense of things in the cynefin framework is attributed to Dave Snowden.  
+![[Pasted image 20221117190558.png|center]]
+First, let‘s warm up by thinking about the difference between simple jobs and complicated jobs. In simple jobs, you follow best practice, but in complicated jobs you follow good practice.  
+As you move from simple jobs to complicated jobs, the need for education and qualifications increases. 
+But as you move from complicated jobs to simple jobs, there is an increased risk of being replaced by a machine, software or someone who is paid less than you.  
+The key difference between simple jobs and complicated jobs is that in simple jobs the relationships between causes and effects are obvious, but in complicated jobs understanding the relationships between causes and effects require analysis.  
+Complicated jobs are what formal education equips people for. And, this is also where systematic methods for decision making – such as decision trees – are most useful.  
+Now, let‘s move to the left, where things become a lot more interesting. Here we have Complex jobs, where the way to do things is defined neither as best practice or good practice, but is in fact emergent. Here, the relationships between causes and effects become evident only in retrospect. This is where entrepreneurs frequently find themselves.  
+I‘m sure you‘re curious about what jobs are hiding in the lower left-hand corner! They are the chaotic jobs, where the only way to do things is in novel ways and there are no discernible relationships between causes and effects. This is where the big opportunities and really brave entrepreneurs are. But it is a scary place!  
+I hope that looking at job options within the cynefin framework has inspired you to give entrepreneurship a chance.

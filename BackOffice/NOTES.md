@@ -51,6 +51,7 @@
 - **power**of**Friendship** - When you thought you beat MC, then background music starts playing (like fairytail)
 - Biggest Achievement never once admitted to the hospital
 - He never clicks "Skip" on YouTube ads
+- When you become focused on writing the story, you cried along with it.
 
 >[!WARNING] Needed
 >- monitor

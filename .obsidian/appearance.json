@@ -1,10 +1,10 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "ITS Theme",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Fira Code",
   "textFontFamily": "",
-  "baseFontSize": 20,
+  "baseFontSize": 19,
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian",

@@ -75,27 +75,27 @@ banner_icon: 🖥️
 2. [Internet Services](INTCOMSemiCh12.md)
 3. [Internet Connections](INTCOMSemiCh13.md)
 ### Social Implications of Networks
-1. [Computer-related crimes](INTCOMSemiCh21)
-2. [Security issues](INTCOMSemiCh22)
-3. [Security and safeguards](INTCOMSemiCh23)
-4. [Impact of technology on the global community](INTCOMSemiCh24)
+1. [Computer-related crimes](INTCOMSemiCh21.md)
+2. [Security issues](INTCOMSemiCh22.md)
+3. [Security and safeguards](INTCOMSemiCh23.md)
+4. [Impact of technology on the global community](INTCOMSemiCh24.md)
 ### System Software and Computer Management
-1. [Computer management](INTCOMSemiCh31)
-2. [The role of the operating system](INTCOMSemiCh32)
-3. [Management of files](INTCOMSemiCh33)
-4. [Troubleshooting your computer](INTCOMSemiCh34)
-5. [Factors that influence performance](INTCOMSemiCh35)
+1. [Computer management](INTCOMSemiCh31.md)
+2. [The role of the operating system](INTCOMSemiCh32.md)
+3. [Management of files](INTCOMSemiCh33.md)
+4. [Troubleshooting your computer](INTCOMSemiCh34.md)
+5. [Factors that influence performance](INTCOMSemiCh35.md)
 ### Internet Communication Tools
-1. [Electronic communication](INTCOMSemiCh41)
-2. [Web browsers](INTCOMSemiCh42)
-3. [Computer communications](INTCOMSemiCh43)
-4. [Communication devices](INTCOMSemiCh44)
+1. [Electronic communication](INTCOMSemiCh41.md)
+2. [Web browsers](INTCOMSemiCh42.md)
+3. [Computer communications](INTCOMSemiCh43.md)
+4. [Communication devices](INTCOMSemiCh44.md)
 ### Social Implications of E-communications and Technologies
-1. [Social networking sites and technologies](INTCOMSemiCh51)
-2. [Impact of technology](INTCOMSemiCh52)
+1. [Social networking sites and technologies](INTCOMSemiCh51.md)
+2. [Impact of technology](INTCOMSemiCh52.md)
 ### Information Management: Practical Assessment Task
-1. [Problem solving cycle](INTCOMSemiCh61)
-2. [Information management](INTCOMSemiCh62)
+1. [Problem solving cycle](INTCOMSemiCh61.md)
+2. [Information management](INTCOMSemiCh62.md)
 # 
 
 <br>

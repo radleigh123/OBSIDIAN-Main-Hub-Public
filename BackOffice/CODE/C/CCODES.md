@@ -1,5 +1,11 @@
+---
+cssclass: t-c, no-m
+tags:
+- C
+---
 **[[C|HOME [C]]]**
 
+---
 | **C Learn**            | **C Updated Program**   |
 | ---------------------- | ----------------------- |
 | [[0Additional Topics]] | [[1Introduction]]       |

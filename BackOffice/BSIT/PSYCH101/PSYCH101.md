@@ -26,9 +26,11 @@ banner_icon: 🌠
 ### Unpacking the Self
 1. **[Physical & Sexual self](Sexual%20Self.md)** ^PSYCHMIDTERMch1
 2. **[Material/Economic self](Material%20Self.md)** ^PSYCHMIDTERMch2
-3. [**Spiritual self**](Spiritual%20Self.md) ^PSYCHMIDTERMch3
-4. Political self
-5. Digital self: Self and other in Cyberspace
+3. **[Material Self2](Material%20Self2.md)**
+4. [**Spiritual self**](Spiritual%20Self.md) ^PSYCHMIDTERMch3
+5. [**Political self**](Political%20Self.md)
+6. **[Filipino self](Filipino%20Self.md)**
+7. **[Digital self: Self and other in Cyberspace](Digital%20Self.md)**
 ### Managing and Caring for the Self
 1. Goal Setting
 2. Well-being/Less Study/More Care
