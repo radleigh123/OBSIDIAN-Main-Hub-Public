@@ -1,4 +1,6 @@
 ---
+cssclass: 
+- no-m
 title: Execution Flow
 creation-date: 2022-10-25
 aliases: [program flow]
@@ -8,8 +10,7 @@ tags:
 **[[C|HOME [C]]]**
 
 ---
-
-# Execution Flow
+# Flow of C program
 
 ```mermaid
 flowchart LR

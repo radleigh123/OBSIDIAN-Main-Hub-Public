@@ -18,13 +18,12 @@ tags:
 ---
 >[!column|flex no-i no-t]
 >>[!note|clean collapse no-i] #### 📙 Introduction
->>- [[Cexecutionflow|Execution Flow]]
->>- [[Cfunctions|Functions]]
+>>- [[Cvariables|Variables]]
 >>- [[Coperators|Operators]]
+>>- [[Ccompilationprocess|Compilation Process]]
 >>- [[Cstorageclass|Storage Classes]]
 >>- [[Cconstants|Constants]]
 >>- [[Cprintfscanf|Basic printf() & scanf()]]
->>- [[Cvariables|Variables]]
 >
 >>[!note|clean collapse no-i] #### 🎮 Control Statements
 >>- [[Cloops|Loops]]
@@ -52,6 +51,7 @@ tags:
 
 >[!column|flex no-i no-t]
 >>[!note|clean collapse no-i] #### 🌌 Miscellaneous
+>>- [[Cexecutionflow|Execution Flow]]
 >>- [[Cprecedenceassociativity|Associativity & Precedency]]
 >>- [[Cleftrightvalue|Left value and Right value]]
 >>- [[ASCIICODES|Character Set]]

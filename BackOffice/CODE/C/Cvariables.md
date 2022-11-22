@@ -1,4 +1,5 @@
 ---
+cssclass: no-m
 title: Variables
 creation-date: 2022-10-25
 aliases: [local, global, static, automatic, external]
@@ -8,6 +9,7 @@ tags:
 ---
 **[[C|HOME [C]]]**
 
+---
 # Variables
 > is a name of the memory location.
 >- It is used to store data.

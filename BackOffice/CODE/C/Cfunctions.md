@@ -1,4 +1,5 @@
 ---
+cssclass: no-m
 title: Functions
 creation-date: 2022-10-26
 aliases:
