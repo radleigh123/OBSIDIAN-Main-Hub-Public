@@ -49,8 +49,8 @@ tags:
 >> ```
 
 ### Types of Variables in C
-- Local variable
-- Global variable
-- Static variable
-- Automatic variable
-- External variable
+- [[CVARIABLElocal|Local variable]]
+- [[CVARIABLEglobal|Global variable]]
+- [[CVARIABLEstatic|Static variable]]
+- [[CVARIABLEautomatic|Automatic variable]]
+- [[CVARIABLEexternal|External variable]]

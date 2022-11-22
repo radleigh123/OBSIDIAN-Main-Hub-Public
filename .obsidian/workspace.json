@@ -10,31 +10,12 @@
           {
             "id": "e3d8a2387e264c6f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/BSIT/ST101/ST101.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1785b45eb8c4d7dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/BSIT/ST101/ST101SEMIFINAL2.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +112,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/ST101/ST101SEMIFINAL2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/ST101/ST101SEMIFINAL2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/ST101/ST101SEMIFINAL2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BackOffice/BSIT/ST101/ST101SEMIFINAL2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -238,15 +214,15 @@
   },
   "active": "24b24a765d577cb1",
   "lastOpenFiles": [
-    "BackOffice/BSIT/ST101/ST101.md",
-    "BackOffice/BSIT/ST101/ST101SEMIFINAL5.md",
-    "BackOffice/BSIT/ST101/ST101SEMIFINAL2.md",
-    "BackOffice/MAINBSIT.md",
+    "20221123_1243.md",
+    "Pasted image 20221123003528.png.md",
     "BackOffice/CODE/C/C.md",
-    "Ccompilationprocess.md",
-    "Templates/C Title.md",
-    "BackOffice/CODE/C/Cexecutionflow.md",
-    "BackOffice/CODE/C/Cvariables.md",
-    "BackOffice/CODE/C/Carrays.md"
+    "BackOffice/CODE/C/Coperators.md",
+    "Excalidraw/CMISCsample3.md",
+    "Backlinks/attachments/Pasted image 20221122163830.png",
+    "Backlinks/attachments/Pasted image 20221122234750.png",
+    "Backlinks/attachments/Pasted image 20221123003528.png",
+    "Excalidraw/CMISCsample2.md",
+    "BackOffice/CODE/C/CFunction.md"
   ]
 }

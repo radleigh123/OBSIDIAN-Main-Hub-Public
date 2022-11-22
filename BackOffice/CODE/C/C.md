@@ -19,6 +19,8 @@ tags:
 >[!column|flex no-i no-t]
 >>[!note|clean collapse no-i] #### 📙 Introduction
 >>- [[Cvariables|Variables]]
+>>- [[Cdatatypes|Data Types]]
+>>- [[Ckeywordsidentifiers|Keywords & Identifiers]]
 >>- [[Coperators|Operators]]
 >>- [[Ccompilationprocess|Compilation Process]]
 >>- [[Cstorageclass|Storage Classes]]
@@ -47,7 +49,6 @@ tags:
 >
 >>[!note|clean collapse no-i] #### Preprocessor
 >>- [[Cpragma|#pragma]]
->
 
 >[!column|flex no-i no-t]
 >>[!note|clean collapse no-i] #### 🌌 Miscellaneous
