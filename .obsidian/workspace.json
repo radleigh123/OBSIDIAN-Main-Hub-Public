@@ -10,9 +10,15 @@
           {
             "id": "e3d8a2387e264c6f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/CODE/C/C.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
             }
           }
         ]
@@ -90,12 +96,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 306.0124969482422,
-    "collapsed": true
+    "width": 306.0124969482422
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -112,6 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "BackOffice/CODE/C/C.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BackOffice/CODE/C/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BackOffice/CODE/C/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BackOffice/CODE/C/C.md"
+              }
             }
           },
           {
@@ -209,11 +220,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289,
-    "collapsed": true
+    "width": 289
   },
-  "active": "24b24a765d577cb1",
+  "active": "e3d8a2387e264c6f",
   "lastOpenFiles": [
+    "BackOffice/MAINCODE.md",
+    "BackOffice/MAINBSIT.md",
     "20221123_1243.md",
     "Pasted image 20221123003528.png.md",
     "BackOffice/CODE/C/C.md",
@@ -221,8 +233,6 @@
     "Excalidraw/CMISCsample3.md",
     "Backlinks/attachments/Pasted image 20221122163830.png",
     "Backlinks/attachments/Pasted image 20221122234750.png",
-    "Backlinks/attachments/Pasted image 20221123003528.png",
-    "Excalidraw/CMISCsample2.md",
-    "BackOffice/CODE/C/CFunction.md"
+    "Backlinks/attachments/Pasted image 20221123003528.png"
   ]
 }
