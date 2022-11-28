@@ -7,7 +7,7 @@ tags:
 **[[HTML|HOME [HTML]]]**
 
 ---
-## HTML Colors
+## Colors
 HTML colors are specified with predefined color names, or with **RGB**, **HEX**, **HSL**, **RGBA**, or **HSLA** values.
 
 

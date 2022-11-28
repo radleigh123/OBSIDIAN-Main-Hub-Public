@@ -8,20 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3d8a2387e264c6f",
+            "id": "dcf76e1b72c1a9b2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/C/C.md",
+                "file": "BackOffice/CODE/HTML/HTML.md",
                 "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c2882c5d98c0c13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20221124_0719.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/C/C.md",
+                "file": "20221124_0719.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/C/C.md",
+                "file": "20221124_0719.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/C/C.md",
+                "file": "20221124_0719.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/C/C.md"
+                "file": "20221124_0719.md"
               }
             }
           },
@@ -222,17 +234,17 @@
     "direction": "horizontal",
     "width": 289
   },
-  "active": "e3d8a2387e264c6f",
+  "active": "c2882c5d98c0c13f",
   "lastOpenFiles": [
-    "BackOffice/MAINCODE.md",
-    "BackOffice/MAINBSIT.md",
+    "20221126_0634.md",
+    "20221124_0719.md",
+    "BackOffice/CODE/HTML/HTML.md",
+    "BackOffice/CODE/HTML/HTMLcomments.md",
     "20221123_1243.md",
-    "Pasted image 20221123003528.png.md",
-    "BackOffice/CODE/C/C.md",
-    "BackOffice/CODE/C/Coperators.md",
-    "Excalidraw/CMISCsample3.md",
-    "Backlinks/attachments/Pasted image 20221122163830.png",
-    "Backlinks/attachments/Pasted image 20221122234750.png",
-    "Backlinks/attachments/Pasted image 20221123003528.png"
+    "BackOffice/CODE/HTML/HTMLarea.md",
+    "BackOffice/CODE/HTML/HTMLAREArect.md",
+    "BackOffice/CODE/HTML/HTMLAREAcircle.md",
+    "BackOffice/CODE/HTML/HTMLAREApolygon.md",
+    "BackOffice/CODE/HTML/HTMLmap.md"
   ]
 }

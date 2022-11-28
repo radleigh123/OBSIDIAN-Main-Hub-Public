@@ -41,7 +41,7 @@ tags:
 >>	- [[HTMLpreformattedtext|Preformatted Text]]
 >>- [[HTMLstyles|Styles]]
 >>- [[HTMLformatting|Formatting]]
->>- Quotations & Citation
+>>- *Quotations & Citation*
 >>	- [[HTMLblockquotation|Block Quotation]]
 >>	- [[HTMLshortquotation|Short Quotation]]
 >>	- [[HTMLabbreviation|Abbreviation]]

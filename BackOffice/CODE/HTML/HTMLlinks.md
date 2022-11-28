@@ -1,5 +1,4 @@
 ---
-cssclass: 
 aliases: [link, target, anchor]
 tags:
 - HTML/Elements

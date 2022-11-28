@@ -21,7 +21,7 @@ The **[`<a>`](HTMLlinks.md)** tag defines a hyperlink. The **[`href`](HTMLlinks.
 ```
 
 ## `src` Attribute
-The **[`<img>`](HTMLimages)** tag is used to embed an image in an HTML page. The **`src`** attribute specifies the path to the image to be displayed.
+The **[`<img>`](HTMLimages.md)** tag is used to embed an image in an HTML page. The **`src`** attribute specifies the path to the image to be displayed.
 ```HTML
 <img src="image.png">
 ```
@@ -30,13 +30,13 @@ The **[`<img>`](HTMLimages)** tag is used to embed an image in an HTML page. The
 - **[Relative URL](HTMLATTRIBUTErelativeurl.md)** ^RELATIVEURL
 
 ## `width` & `height` Attribute
-The **[`<img>`](HTMLimages)** tag should also contain the **`width`** and **`height`** attributes, which specify the width and height of the image (in pixels):
+The **[`<img>`](HTMLimages.md)** tag should also contain the **`width`** and **`height`** attributes, which specify the width and height of the image (in pixels):
 ```HTML
 <img src="img_boy.jpeg" width="500" heigh="600">
 ```
 
 ## `alt` Attribute
-The required **`alt`** attribute for the **[`<img>`](HTMLimages)** tag specifies an alternate text for an image, if the image for some reason cannot be displayed.
+The required **`alt`** attribute for the **[`<img>`](HTMLimages.md)** tag specifies an alternate text for an image, if the image for some reason cannot be displayed.
 ```HTML
 <img src="img_boy.jpeg" alt="Image of a boy">
 ```

@@ -4,9 +4,9 @@ banner: "![[Cut-burger2.jpg]]"
 banner_y: 0.588
 ---
 # MAIN CODE
-- **[[C]]**
-- **[[CSS]]**
-- **[[HTML]]**
+- ### **[[C]]**
+- ### **[[HTML]]**
+- ### **[[CSS]]**
 
 <br>
 

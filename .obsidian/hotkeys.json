@@ -79,5 +79,13 @@
       ],
       "key": "D"
     }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
