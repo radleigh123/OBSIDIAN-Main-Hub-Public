@@ -15,13 +15,13 @@ is a user defined data type but unlike structures, union members share same memo
 >[!BUG]- Memory Allocation
 >![[Pasted image 20221012204029.png]]
 
->[!BUG]- **Fact**
+>[!BUG]- Fact
 >In union, members will share same memory location. If we make changes in one member then it will be reflected to other member as well.
 >
 >>[!EXAMPLE]
 >>![[Pasted image 20221012204911.png]]
 
->[!BUG]- **Deciding the SIZE of Union**
+>[!BUG]- Deciding the SIZE of Union
 >Size of the union is taken according to the size of the largest member of the union.
 >
 >>[!EXAMPLE]
