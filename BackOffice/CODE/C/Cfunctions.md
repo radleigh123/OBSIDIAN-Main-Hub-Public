@@ -26,10 +26,17 @@ int main(){
 	return 0;
 }
 ```
->[!TIP]- Example explained
->- **myFunction()** - name of the function
->- **void** - means function does not have a return value.
+>[!INFO]+ Function aspects
+>- **Function declaration** A function must be declared globally in a c program to tell the compiler about the function name, function parameters, and return type. e.g. `return_type function_name (argument list);`
+>- **Function call** We must pass the same number of functions as it is declared in the function declaration. e.g. `function_name (argument_list)`
+>- **Function definition** Here depending on the code, we must notice that only one value can be returned from the function.
+>```C
+>return_type function_name (argument list) {
+>	function body;
+>}
+>```
 
+## Sample
 ```C
 #include<stdio.h>
 
@@ -62,3 +69,4 @@ int addNumbers(int n1, int n2){
 ---
 **Sources:**
 - [C Functions (w3schools.com)](https://www.w3schools.com/c/c_functions.php)
+- [Functions in C - javatpoint](https://www.javatpoint.com/functions-in-c)

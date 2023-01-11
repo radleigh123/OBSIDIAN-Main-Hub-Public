@@ -2,7 +2,7 @@
 aliases:
 ---
 **tags:** #C/Pointers/Functions #C/Arrays #C/Functions  
-**[[CPOINTERSfunction#^2500ed|BACK]]**
+**[[Cpointerfunction2#^2500ed|BACK]]**
 
 ---
 ## Designing a calculator program using function pointers

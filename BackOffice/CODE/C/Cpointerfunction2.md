@@ -2,7 +2,7 @@
 aliases:
 ---
 **tags:** #C/Pointers/Functions #C/Lecture #C/Functions 
-**[[Cpointers#^459955|BACK]]**
+**[[C|HOME [C]]]**
 
 ---
 ## Pointer functions
@@ -80,3 +80,4 @@ int main(){
 **Source:**
 - [Function Pointers in C - YouTube](https://www.youtube.com/watch?v=BRsv3ZXoHto&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=151)
 - [Application of Function Pointers in C - YouTube](https://www.youtube.com/watch?v=wQ-gWwKKeP4&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=150)
+- [C function Pointer - javatpoint](https://www.javatpoint.com/c-function-pointer)

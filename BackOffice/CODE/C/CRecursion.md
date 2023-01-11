@@ -1,32 +1,41 @@
 ---
 aliases:
+tags:
+- C/Lecture
 ---
-**tags:** #C/Functions/Recursion 
-**[[1ETCCODES|BACK]]**
+**[[C|HOME [C]]]**
 
 ---
+## Recursion
+is the process which comes into existence when a function calls a copy of itself to work on a smaller problem
 ```C
-#include<stdio.h>
-int sum(int number);
+#include <stdio.h>
+int fact (int);
 
-int main(){
-    int num1, result;
-    printf("Enter a positive integer: ");
-    scanf("%d", &num1);
-
-    result = sum(num1);
-
-    printf("Sum = %d", result);
+int main()
+{
+    int n,f;
+    printf("Enter the number whose factorial you want to calculate?");
+    scanf("%d",&n);
+    
+    f = fact(n);
+    printf("factorial = %d",f);
 
     return 0;
 }
 
-int sum(int number){
-    if (number != 0){
-         // sum() function calls itself
-         return number + sum(number - 1);
-     } else{
-        return number;
-     }    
+int fact(int n)
+{
+    if (n==0) return 0;
+    else if ( n == 1) return 1;
+    else return n*fact(n-1);
 }
 ```
+![[Pasted image 20230104154259.png|center]]
+
+<br>
+
+# 
+---
+**Sources:**
+- [Recursion in C - javatpoint](https://www.javatpoint.com/recursion-in-c)

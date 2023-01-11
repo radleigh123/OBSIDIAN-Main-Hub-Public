@@ -7,8 +7,7 @@ tags:
 ---
 **[[MAINCODE]]**
 
-# C language
-
+# C
 | <center>📚 Library</center> |                                                 |                                               |
 | --------------------------- | ----------------------------------------------- | --------------------------------------------- |
 | [[Cstdioh\|<stdio.h>]]      | **<center>[[C_IMPORTANT\|IMPORTANT]]</center>** | **<center>[[CCODES\|SAMPLE CODES]]</center>** | 
@@ -18,31 +17,54 @@ tags:
 ---
 >[!column|flex no-i no-t]
 >>[!note|clean collapse no-i] #### 📙 Introduction
+>>- [[Ccompilationprocess|Compilation Process]]
+>>- [[Cprintfscanf|Basic printf() & scanf()]]
 >>- [[Cvariables|Variables]]
 >>- [[Cdatatypes|Data Types]]
 >>- [[Ckeywordsidentifiers|Keywords & Identifiers]]
 >>- [[Coperators|Operators]]
->>- [[Ccompilationprocess|Compilation Process]]
->>- [[Cstorageclass|Storage Classes]]
+>>- [[Ccomments|Comments]]
+>>- [[Cformatspecifier|Format Specifier]]
+>>- [[Cescapesequences|Escape Sequences]]
 >>- [[Cconstants|Constants]]
->>- [[Cprintfscanf|Basic printf() & scanf()]]
+>>- [[Cboolean|Boolean]]
+>>- [[Cstorageclass|Storage Classes]]
+>>- [[Cerrors|Types of errors]]
+>>- [[Ccompileruntime|Compile Time vs Runtime]]
 >
 >>[!note|clean collapse no-i] #### 🎮 Control Statements
+>>- [[Cifelse|If-else]]
+>>- [[Cswitch|Switch]]
 >>- [[Cloops|Loops]]
 >>- [[Ctypecasting|Typecasting]]
 >>- [`goto`](Cgoto.md) (*depreciated*)
 >
 >>[!note|clean collapse no-i] #### 👷‍♂️ Functions
 >>- [[Cfunctions|Functions]]
+>>- [[Cfunctionstype|Types of Functions]]
+>>- [[Cfunctioncalls|Call: value & reference]]
+>>- [[Crecursion|Recursion]]
 >
 >>[!note|clean collapse no-i] #### 🔢 Arrays
 >>- [[Carrays|Arrays]]
+>>- [[C2darrays|2D Array]]
+>>- [[Carrayreturn|Return Array]]
 >
 >>[!note|clean collapse no-i] #### 🆎 Strings
 >>- [[Cstrings|Strings]]
 >
 >>[!note|clean collapse no-i] #### 🎯 Pointers
 >>- [[Cpointers|Pointers]]
+>>- [[Cpointertopointer|Pointer to Pointer]]
+>>- [[Cpointerarithmetic|Pointer Arithmetic]]
+>>- *[[Cpointerdangling|Dangling Pointer]]*
+>>- [[Csizeofoperator|sizeof() Operator]]
+>>- [[Cpointerconstant|Constant pointer]]
+>>- [[Cpointervoid|Void pointer]]
+>>- [[Cpointerdereference|Dereference pointer]]
+>>- [[Cpointernull|Null pointer]]
+>>- [[Cpointerfunction1|Function Pointer 1]]
+>>- [Function Pointer 2](Cpointerfunction2.md)
 >
 >>[!note|clean collapse no-i] #### 📂 File Handling
 >>- [[Cfilehandling|File Handling]]
@@ -56,7 +78,7 @@ tags:
 >>- [[Cprecedenceassociativity|Associativity & Precedency]]
 >>- [[Cleftrightvalue|Left value and Right value]]
 >>- [[ASCIICODES|Character Set]]
->>- Dynamic Memory
+>>- [[Cdynamicmemory|Dynamic Memory]]
 >
 >>[!note|clean collapse no-i] #### 🏨 Structures
 >>- [[Cstructures|Structures]]

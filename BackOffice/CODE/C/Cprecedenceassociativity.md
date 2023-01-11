@@ -8,8 +8,8 @@ aliases: [precedence, associativity]
 
 ---
 # C Precedence & Associativity
-![[Pasted image 20221007134844.png]]
-![[Pasted image 20221007134944.png]]
+![[Pasted image 20221007134844.png|center]]
+![[Pasted image 20221007134944.png|center]]
 
 <br>
 

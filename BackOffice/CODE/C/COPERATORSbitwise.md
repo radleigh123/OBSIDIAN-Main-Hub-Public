@@ -12,6 +12,7 @@ tags:
 
 >[!recite|no-i collapse clean] &, |, ~, <<, >>, ^
 
+---
 **AND operator  `&`**
 >[!column|flex no-t txt-c]
 >>[!NOTE|no-t collapse clean]
@@ -33,6 +34,7 @@ tags:
 | 1   | 0   | 0   |
 | 1   | 1   | 1   | 
 
+---
 **OR operator `|`**
 >[!column|flex no-t txt-c]
 >>[!NOTE|no-t collapse clean]
@@ -54,6 +56,7 @@ tags:
 | 1   | 0   | 1   |
 | 1   | 1   | 1   |
 
+---
 **NOT operator `~`**
 >[!column|flex no-t txt-c]
 >>[!NOTE|no-t collapse clean]
@@ -75,6 +78,7 @@ tags:
 
 <br>
 
+---
 **XOR operator `^`**
 [[COPERATORSbinary|binary operator]], result of XOR is 1 when two bits are different
 >[!column|flex no-t]
@@ -97,3 +101,13 @@ tags:
 >> | 0 | 1 | 1 |
 >> | 1 | 0 | 1 |
 >> | **1** | **1** | **0** |
+
+<br>
+
+# 
+---
+**Sources:**
+- [Bitwise Operator in C - javatpoint](https://www.javatpoint.com/bitwise-operator-in-c)
+
+**To learn more:**
+- [2s complement in C - javatpoint](https://www.javatpoint.com/2s-complement-in-c)

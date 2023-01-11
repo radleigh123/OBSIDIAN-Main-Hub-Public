@@ -1,10 +1,10 @@
 **[[CCODES]]**
 
 ---
-### [[CBreak&Continue]]
+### [[CBreak&Continue|Break & Continue]]
 
-### [[CdoWhile]]
+### [[CdoWhile|While loop]]
 
-### [[CforLoop]]
+### [[CforLoop|For loop]]
 
-### [[CSwitch]]
+### [[Cswitchsample|Switch]]

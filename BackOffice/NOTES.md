@@ -12,10 +12,11 @@
 - [x] Learn Obsidian dataview
 
 ## Interesting words to use
-- [b] Repercussions
-- [b] Exasperated
-- [b] Temerity
-- [b] Voracious
+- [b] repercussion
+- [b] exasperated
+- [b] temerity
+- [b] voracious
+- [b] repertoire
 
 ## Songs MOFO
 - [O] Blackbear - @ my worst
@@ -51,7 +52,8 @@
 - **power**of**Friendship** - When you thought you beat MC, then background music starts playing (like fairytail)
 - Biggest Achievement never once admitted to the hospital
 - He never clicks "Skip" on YouTube ads
-- When you become focused on writing the story, you cried along with it.
+- When you become focused on writing the story, you cried along with it
+- Going to sleep **restarts** PC instead of **shut down**
 
 >[!WARNING] Needed
 >- monitor

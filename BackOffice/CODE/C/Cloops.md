@@ -43,3 +43,4 @@ for(initialization; condition; increment) {
 ---
 **Sources:**
 - [for and while Loops - YouTube](https://www.youtube.com/watch?v=qUPXsPtWGoY&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM&index=42)
+- [C Loop - javatpoint](https://www.javatpoint.com/c-loop)

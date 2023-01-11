@@ -2,12 +2,15 @@
 title: Pointers
 creation-date: 2022-10-26
 aliases:
+tags:
+- C/Lecture
+- C/Pointers
 ---
-**tags:** #C/Pointers 
 **[[C|HOME [C]]]**
 
 ---
 # Pointers
+is a variable which stores the address of another variable. The size of the pointer depends on the architecture. However, in 32-bit architecture the size of a pointer is 2 byte.
 ```C
 #include<stdio.h>
 int main(){
@@ -34,4 +37,9 @@ int main(){
 }
 ```
 
-**[Pointer Functions](CPOINTERSfunction.md)** ^459955
+<br>
+
+# 
+---
+**Sources:**
+- [C Pointers - javatpoint](https://www.javatpoint.com/c-pointers)
