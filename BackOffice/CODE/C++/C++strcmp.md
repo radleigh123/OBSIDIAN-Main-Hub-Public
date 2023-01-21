@@ -3,6 +3,7 @@ aliases:
 tags:
 - CPP/Lecture
 - CPP/Library/cstring/strcmp
+- CPP/Library/stringh/strcmp
 ---
 **[[C++|HOME [C++]]]**
 

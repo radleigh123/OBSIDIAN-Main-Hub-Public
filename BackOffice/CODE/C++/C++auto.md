@@ -2,6 +2,7 @@
 aliases:
 tags:
 - CPP/Lecture
+- CPP/auto
 ---
 **[[C++|HOME [C++]]]**
 

@@ -79,65 +79,54 @@ tags:
 [[C++charactermanipulation|Character Manipulation]]
 [[C++cstringmanipulation|C-String Manipulation]]
 [[C++cstringconcatenation|C-String Concatenation And Copying]]
-Introducing std::string
-Declaring And Using std::string
+[[C++string|std::string]]
 
 #### **Chapter 11: Functions**
-One Definition Rule
-First Hand On Functions
-Function Declaration & Definition
-Functions Across Multiple Files - Compilation Model Revisited
-Pass By Value
-Pass By Pointer
-Pass By Reference
+[[C++onedefinitionrule|One Definition Rule]]
+[[C++functions|Functions]]
+[[C++functionsmultiplefiles|Functions Across Multiple Files - Compilation Model Revisited]]
+[[C++functionspassbyvalue|Pass By Value]]
+[[C++functionspassbypointer|Pass By Pointer]]
+[[C++functionspassbyreference|Pass By Reference]]
 
 #### **Chapter 12: Getting Things Out Of Functions**
-Getting Things Out Of Functions Introduction
-Input And Output Parameters
-Returning From Functions
-
-#### **Chapter 13: Function Overloading**
-Function Overloading Introduction
-Overloading With Different Parameters
+[[C++inputoutputparameters|Input And Output Parameters]]
+[[C++functionsreturning|Returning From Functions]]
+[[C++functionsoverloading|Function Overloading]]
 
 #### **Chapter 14: Lambda Functions**
-Lambda Functions Introduction
-Declaring And Using Lambda Functions
-Capture Lists
-Capture All In Context
+[[C++functionslambda|Lambda Functions]]
+[[C++functionslambdacapturelists|Capture Lists]]
+[[C++functionslambdacaptureallcontext|Capture All In Context]]
 
 #### **Chapter 15: Function Templates**
-Function Templates Introduction
-Trying Out Function Templates
-Template Type Deduction And Explicit Arguments
-Template Type Parameters By Reference
-Template Specialization
+[[C++functionstemplates|Trying Out Function Templates]]
+[[C++templatetypededuction|Template Type Deduction And Explicit Arguments]]
+[[C++templatebyreference|Template Type Parameters By Reference]]
+[[C++templatespecialization|Template Specialization]]
 
 #### **Chapter 16: Concepts**
-Concepts Introduction
-Concepts
-Concepts: Building Your Own
-Requires Clause: Zooming In
-Logical Combinations Of Concepts
-Concepts And Auto
+[[C++concepts|Concepts]]
+[[C++conceptsbuilding|Concepts: Building Your Own]]
+[[C++requires|Requires Clause: Zooming In]]
+[[C++conceptslogicalcombo|Logical Combinations Of Concepts]]
+[[C++conceptsauto|Concepts And Auto]]
 
 #### **Chapter 17: Classes**
-Classes Introduction
-Your First C++ Class
-Constructors
-Defaulted Constructors
-Setters And Getters
-Class Across Multiple Files
-Managing Class Objects Through Pointers
-Destructors
-Constructor & Destructor Call Order
-The This Pointer
-Struct
-Size Of Class Objects
+[[C++class|Class]]
+[[C++classconstructors|Constructors]]
+[[C++classconstructorsdefaulted|Defaulted Constructors]]
+[[C++classconstructorssetters&getters|Setters And Getters]]
+[[C++classmultiplefiles|Class Across Multiple Files]]
+[[C++classpointers|Managing Class Objects Through Pointers]]
+[[C++classdestructors|Destructors]]
+[[C++classconstructor&destructor|Constructor & Destructor Call Order]]
+[[C++classthethispointer|The This Pointer]]
+[[C++struct|Struct]]
+[[C++classsizeofobjects|Size Of Class Objects]]
 
 #### **Chapter 18: Inheritance**
-Inheritance Introduction
-Your First Try On Inheritance
+[[C++inheritance|Inheritance]]
 Protected Members
 Base Class Access Specifiers: Zooming In
 Base Class Access Specifiers: A Demo

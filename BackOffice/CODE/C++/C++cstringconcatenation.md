@@ -11,7 +11,13 @@ tags:
 
 ---
 # C-string Concatenation & Copying
+[[C++strcat|strcat]] - concatenates two strings
+[[C++strncat|strncat]] - concatenates a certain amount of characters of two strings
 
+<br>
+
+[[C++strcpy|strcpy]] - copies one string to another
+[[C++strncpy|strncpy]] - copies a certain amount of characters from one string to another
 
 <br>
 
