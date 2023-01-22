@@ -15,6 +15,25 @@ tags:
 are user-defined types, defined by class-specifier, which appears in `decl-specifier-seq` of the declaration syntax.
 > members initialized is set to `private` in default
 
+**efficient way of using CLASS**
+```cpp
+class myClass {
+private:
+	int age;
+public:
+	myClass(int age_param) : age(age_param){}
+};
+
+int main() {
+	myClass p1(20);
+
+	std::cout << p1 << std::endl;
+
+	return 0;
+}
+```
+
+---
 ```cpp
 #include <iostream>
 #include <cmath>

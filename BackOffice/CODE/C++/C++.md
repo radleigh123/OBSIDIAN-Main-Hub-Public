@@ -9,7 +9,7 @@ tags:
 
 # C++
 ---
-#### **Chapter 2: Diving In**
+#### **Chapter 1: Diving In**
 [[C++firstprogram|Your First C++ Program]]
 [[C++comments|Comments]]
 [[C++errors&warning|Errors And Warnings]]
@@ -18,7 +18,7 @@ tags:
 [[C++programexecutionmodel|C++ Program Execution Model & Memory Model]]
 [[C++corevsstandard|C++ Core Language VS Standard Library VS STL]]
 
-#### **Chapter 3: Variables And Data Types**
+#### **Chapter 2: Variables And Data Types**
 [[C++variables&datatypes|Variables And Data Types Introduction]]
 [[C++numbersystems|Number Systems]]
 [[C++integers|Integers]]
@@ -29,7 +29,7 @@ tags:
 [[C++auto|Auto]]
 [[C++assignment|Assignments]]
 
-#### **Chapter 4: Operations on Data**
+#### **Chapter 3: Operations on Data**
 [[C++basicoperations|Basic Operations]]
 [[C++precedence&associativity|Precedence and Associativity]]
 [[C++prefix&postfix|Prefix And Postfix + & -]]
@@ -41,25 +41,25 @@ tags:
 [[C++mathfunctions|Math Functions]]
 [[C++weirdintegral|Weird Integral Types]]
 
-#### **Chapter 5: Flow Control**
+#### **Chapter 4: Flow Control**
 [[C++ifelse|If Statement]]
 [[C++constexprconsteval|Constexpr & Consteval]]
 [[C++switch|Switch]]
 [[C++ternaryoperator|Ternary Operator]]
 
-#### **Chapter 6: Loops**
+#### **Chapter 5: Loops**
 [[C++forloop|For Loop]]
 [[C++whileloop|While Loop]]
 [[C++dowhileloop|Do While Loop]]
 [[C++rangeforloop|Range For Loop]]
 
-#### **Chapter 7: Arrays**
+#### **Chapter 6: Arrays**
 [[C++arrays|Arrays]]
 [[C++sizeofarray|Size Of An Array]]
 [[C++arraysofcharaters|Arrays Of Characters]]
 [[C++boundsofarray|Bounds Of An Array]]
 
-#### **Chapter 8: Pointers**
+#### **Chapter 7: Pointers**
 [[C++pointers|Pointers]]
 [[C++pointertochar|Pointer To Char]]
 [[C++programemorymap|Program Memory Map]]
@@ -70,18 +70,18 @@ tags:
 [[C++memoryleaks|Memory Leaks]]
 [[C++dynamicarrays|Dynamic Arrays]]
 
-#### **Chapter 9: References**
+#### **Chapter 8: References**
 [[C++references|References]]
 [[C++referencesvspointers|Comparing References To Pointers]]
 [[C++references&const|References And Const]]
 
-#### **Chapter 10: Character Manipulation And Strings**
+#### **Chapter 9: Character Manipulation And Strings**
 [[C++charactermanipulation|Character Manipulation]]
 [[C++cstringmanipulation|C-String Manipulation]]
 [[C++cstringconcatenation|C-String Concatenation And Copying]]
 [[C++string|std::string]]
 
-#### **Chapter 11: Functions**
+#### **Chapter 10: Functions**
 [[C++onedefinitionrule|One Definition Rule]]
 [[C++functions|Functions]]
 [[C++functionsmultiplefiles|Functions Across Multiple Files - Compilation Model Revisited]]
@@ -89,31 +89,32 @@ tags:
 [[C++functionspassbypointer|Pass By Pointer]]
 [[C++functionspassbyreference|Pass By Reference]]
 
-#### **Chapter 12: Getting Things Out Of Functions**
+#### **Chapter 11: Getting Things Out Of Functions**
 [[C++inputoutputparameters|Input And Output Parameters]]
 [[C++functionsreturning|Returning From Functions]]
 [[C++functionsoverloading|Function Overloading]]
 
-#### **Chapter 14: Lambda Functions**
+#### **Chapter 12: Lambda Functions**
 [[C++functionslambda|Lambda Functions]]
 [[C++functionslambdacapturelists|Capture Lists]]
 [[C++functionslambdacaptureallcontext|Capture All In Context]]
 
-#### **Chapter 15: Function Templates**
+#### **Chapter 14: Function Templates**
 [[C++functionstemplates|Trying Out Function Templates]]
 [[C++templatetypededuction|Template Type Deduction And Explicit Arguments]]
 [[C++templatebyreference|Template Type Parameters By Reference]]
 [[C++templatespecialization|Template Specialization]]
 
-#### **Chapter 16: Concepts**
+#### **Chapter 15: Concepts**
 [[C++concepts|Concepts]]
 [[C++conceptsbuilding|Concepts: Building Your Own]]
 [[C++requires|Requires Clause: Zooming In]]
 [[C++conceptslogicalcombo|Logical Combinations Of Concepts]]
 [[C++conceptsauto|Concepts And Auto]]
 
-#### **Chapter 17: Classes**
+#### **Chapter 16: Classes**
 [[C++class|Class]]
+[[C++classfunctions|Class Member Functions]]
 [[C++classconstructors|Constructors]]
 [[C++classconstructorsdefaulted|Defaulted Constructors]]
 [[C++classconstructorssetters&getters|Setters And Getters]]
@@ -125,13 +126,11 @@ tags:
 [[C++struct|Struct]]
 [[C++classsizeofobjects|Size Of Class Objects]]
 
-#### **Chapter 18: Inheritance**
-[[C++inheritance|Inheritance]]
-Protected Members
-Base Class Access Specifiers: Zooming In
-Base Class Access Specifiers: A Demo
-Closing In On Private Inheritance
-Resurrecting Members Back In Scope
+#### **Chapter 17: Inheritance**
+[[C++classinheritance|Inheritance]]
+[[C++classinheritanceprotected|Protected Members]]
+[[C++classinheritancebaseclassaccessspecifier|Base Class Access Specifiers: Zooming In]]
+[[C++classinheritanceresurrectmembers|Resurrecting Members Back In Scope]]
 Default Arg Constructors With Inheritance
 Custom Constructors With Inheritance
 Copy Constructors With Inheritance
@@ -139,8 +138,8 @@ Inheriting Base Constructors
 Inheritance With Destructors
 Reused Symbols In Inheritance
 
-#### **Chapter 19: Polymorphism**
-Polymorphism Introduction
+#### **Chapter 18: Polymorphism**
+[[C++polymorphism|Polymorphism]]
 Static Binding With Inheritance
 Polymorphism (Dynamic Binding) With Virtual Functions
 Size Of Polymorphic Objects And Slicing

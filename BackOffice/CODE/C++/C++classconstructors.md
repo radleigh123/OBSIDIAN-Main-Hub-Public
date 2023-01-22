@@ -6,6 +6,7 @@ aliases:
 tags:
 - CPP/Lecture
 - CPP/Class/Constructor
+- CPP/Class/Constructor/InitializerList
 - CPP/Library/cmath/pow
 ---
 **[[C++|HOME [C++]]]**
@@ -56,10 +57,16 @@ int main(int argc, char **argv) {
 }
 ```
 
->[!NOTE] constructor initializer list
+>[!NOTE]+ constructor initializer list
+> is used to initialize the data members of a class before the constructor body is executed. It is specified after the constructor's parameter list and before the constructor's body.
 > ```cpp
-> className(int x) : x(x) {}
+> // a constructor that takes one parameter
+> // data member (x) is initialized with constructor parameter (x_)
+> className(int x_) : x(x_) {}
 > ```
+> <br>
+> 
+>> This is more efficient than initializing the data members in the constructor body, as it allows the compiler to perform the initialization in a single step.
 
 <br>
 

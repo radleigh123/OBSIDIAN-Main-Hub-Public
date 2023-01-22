@@ -22,15 +22,11 @@
             }
           },
           {
-            "id": "181d96db06419951",
+            "id": "8d159c6c1b14a490",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++inheritance.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -131,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C++inheritance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,9 +208,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++inheritance.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,17 +238,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "181d96db06419951",
+  "active": "8d159c6c1b14a490",
   "lastOpenFiles": [
     "BackOffice/CODE/C++/C++.md",
-    "C++inheritanceillu1.canvas",
-    "C++inheritance.md",
-    "TBDC++headerguard.md",
-    "C++classsizeofobjects.md",
-    "C++struct.md",
-    "BackOffice/CODE/C++/C++classconstructors.md",
-    "C++classthethispointer.md",
-    "C++classthethispointersample4.md",
-    "C++classthethispointersample3.md"
+    "BackOffice/CODE/C++/C++classinheritanceresurrectmembers.md",
+    "BackOffice/CODE/C++/C++classinheritancebaseclassaccessspecifiersample0.md",
+    "BackOffice/CODE/C++/C++classinheritancebaseclassaccessspecifiersample1.md",
+    "Untitled.canvas",
+    "BackOffice/CODE/C++/C++classinheritance.md",
+    "BackOffice/CODE/C++/C++classinheritanceclosinginprivate.md",
+    "BackOffice/CODE/C++/C++classinheritancebaseclassaccessspecifier.md",
+    "Excalidraw/C++classinheritancebaseclassaccessspecifierillu1.excalidraw.md",
+    "BackOffice/CODE/C++/C++classinheritancebaseclassaccessspecifiersample2.md"
   ]
 }
