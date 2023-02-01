@@ -12,6 +12,11 @@
     },
     {
       "type": "file",
+      "title": "MyBackendRoadmap",
+      "path": "BackOffice/MyBackendRoadmap.canvas"
+    },
+    {
+      "type": "file",
       "title": "NOTES",
       "path": "BackOffice/NOTES.md"
     },

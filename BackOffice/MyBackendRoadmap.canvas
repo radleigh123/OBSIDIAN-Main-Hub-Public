@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"93290e5c42745497","x":-469,"y":-946,"width":1313,"height":1134,"type":"group","label":"LEARN ALONG SIDE"},
+		{"id":"4d9eab02314095bf","x":-449,"y":-299,"width":1273,"height":445,"color":"6","type":"group","label":"Github"},
+		{"id":"e810ff0dd060be42","x":-425,"y":-256,"width":577,"height":367,"type":"link","url":"https://docs.github.com/en/get-started/quickstart"},
+		{"id":"cdc4475e25b8eb94","x":-1282,"y":-1526,"width":998,"height":318,"color":"4","type":"group","label":"Basics"},
+		{"id":"4a680bc6c006ff89","x":-751,"y":-1484,"width":432,"height":250,"type":"link","url":"https://www.youtube.com/watch?v=xk4_1vDrzzo"},
+		{"id":"388a2685e75f4048","x":-1263,"y":-1484,"width":432,"height":250,"type":"link","url":"https://www.youtube.com/watch?v=RRubcjpTkks"},
+		{"id":"a4ae16c8f3da7fac","x":-2841,"y":-1484,"width":1239,"height":1963,"type":"link","url":"https://roadmap.sh/backend"},
+		{"id":"2cec688c14b5c048","x":-1499,"y":-696,"width":943,"height":1532,"color":"#9ed0f0","type":"group","label":"AFTER YOUTUBE"},
+		{"id":"d205fdc20b78f486","x":-1479,"y":-642,"width":903,"height":687,"type":"link","url":"https://docs.oracle.com/javase/tutorial/"},
+		{"id":"7d0de1abc2875724","x":-1479,"y":129,"width":903,"height":687,"color":"5","type":"link","url":"https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#java"},
+		{"id":"3428c6e14b76d438","x":-449,"y":-874,"width":1273,"height":445,"color":"2","type":"group","label":"Git"},
+		{"id":"92b92238507fc94a","x":-419,"y":-831,"width":571,"height":367,"type":"link","url":"https://git-scm.com/docs/gittutorial"},
+		{"id":"2f77a19ffe902806","x":-1479,"y":-1155,"width":250,"height":60,"color":"5","type":"text","text":"CHECK PROGRESS ON EDGE"},
+		{"id":"48f8fe7a873f5c24","x":183,"y":-830,"width":606,"height":367,"type":"link","url":"https://git-scm.com/book/en/v2"},
+		{"id":"bcba727be1ec5528","x":183,"y":-256,"width":606,"height":367,"type":"link","url":"https://github.com/"}
+	],
+	"edges":[
+		{"id":"080e0748d6fb3a72","fromNode":"3428c6e14b76d438","fromSide":"bottom","toNode":"4d9eab02314095bf","toSide":"top"},
+		{"id":"325f09c49c23aec3","fromNode":"cdc4475e25b8eb94","fromSide":"bottom","toNode":"93290e5c42745497","toSide":"top"},
+		{"id":"1318088ae4d24254","fromNode":"cdc4475e25b8eb94","fromSide":"bottom","toNode":"2cec688c14b5c048","toSide":"top"}
+	]
+}
