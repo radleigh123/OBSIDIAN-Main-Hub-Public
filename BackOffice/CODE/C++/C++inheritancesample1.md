@@ -1,3 +1,14 @@
+---
+aliases:
+tags:
+- CPP/Class/Constructor
+- CPP/Class/Inheritance
+- CPP/Expressions/OperatorOverloading
+- CPP/Library/string_view/string_view
+---
+**[[C++inheritance|BACK]]**
+
+---
 >[!recite|clean no-i] Inheritance across multiple files
 
 **main.cpp**

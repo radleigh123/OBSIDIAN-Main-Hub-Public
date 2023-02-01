@@ -1,3 +1,16 @@
+---
+aliases:
+tags:
+- CPP/Class
+- CPP/Pointers/this
+- CPP/Class/Constructor
+- CPP/Class/Constructor/get
+- CPP/Class/Constructor/set
+- CPP/Library/string_view/string_view
+---
+**[[C++classthethispointer|BACK]]**
+
+---
 >[!recite|clean no-i] Using [[C++classconstructorssetters&getters|getters & setters]]
 ```cpp
 #include <iostream>

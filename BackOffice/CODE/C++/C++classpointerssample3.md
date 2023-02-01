@@ -1,3 +1,14 @@
+---
+aliases:
+tags:
+- CPP/Pointers
+- CPP/typedef
+---
+**[[C++classpointers|BACK]]**
+
+---
+## Declaring pointer using [[C++typedef|typedef]]
+
 >[!aside|right]+
 > MyClass constructor called
 > Inside func2

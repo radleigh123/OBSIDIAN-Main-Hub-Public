@@ -9,16 +9,18 @@ banner_y: 0.588
 >>- ### **[[C]]**
 >>- ### **[[C++]]**
 >>- ### **[[SQL]]**
+>>- ### **[[Java]]**
 >
 >>[!INFO|clean no-t]
 >>- ### **[[HTML]]**
 >>- ### **[[CSS]]**
+>>- ### **[[JavaScript]]**
 
 <br>
 
 ## Miscellaneous
 - **[[CS50]]**
-- **[[ASCIICODES]]**
+- **[[ASCII codes]]**
 
 # 
 

@@ -5,6 +5,7 @@ tags:
 - CPP/Class/Destructor
 - CPP/Class/Constructor
 - CPP/Pointers
+- CPP/Library/string_view/string_view
 ---
 **[[C++|HOME [C++]]]**
 

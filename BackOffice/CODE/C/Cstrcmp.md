@@ -30,7 +30,7 @@ int main(){
     return 0;
 }
 ```
->[!WARNING] **Attention:** [ASCII Character set](ASCIICODES.md)
+>[!WARNING] **Attention:** [ASCII Character set](ASCII%20codes.md)
 
 ### Caution
 `strcmp()` considers s1 < s2 if either one of the following conditions is satisfied:

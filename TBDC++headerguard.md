@@ -2,6 +2,7 @@
 aliases:
 tags:
 - CPP/Lecture
+- CPP/Preprocessor
 ---
 **[[C++|HOME [C++]]]**
 

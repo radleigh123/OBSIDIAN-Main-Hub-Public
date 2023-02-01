@@ -19,6 +19,11 @@
       "type": "file",
       "title": "ToDo",
       "path": "BackOffice/EXTERNAL.md"
+    },
+    {
+      "type": "file",
+      "title": "CREDS",
+      "path": "BackOffice/CREDS.md"
     }
   ]
 }

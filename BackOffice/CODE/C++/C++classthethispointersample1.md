@@ -1,3 +1,14 @@
+---
+aliases:
+tags:
+- CPP/Class
+- CPP/Pointers/this
+- CPP/Class/Constructor
+- CPP/Library/string_view/string_view
+---
+**[[C++classthethispointer|BACK]]**
+
+---
 >[!recite|clean no-i] Printing out object addresses
 ```cpp
 #include <iostream>

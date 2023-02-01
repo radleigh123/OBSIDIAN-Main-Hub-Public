@@ -1,5 +1,5 @@
-| **[[0HEADQUARTERS]]** | **[Aleah Notes](EXTERNAL1.md)** | 
-| --------------------- | ---------------------------- |
+| **[[0HEADQUARTERS]]** |
+| --------------------- |
 
 [LaTeX Math Symbols Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
 ![[Pasted image 20221022151556.png]]

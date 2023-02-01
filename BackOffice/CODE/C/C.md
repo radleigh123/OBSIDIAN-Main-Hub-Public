@@ -77,7 +77,7 @@ tags:
 >>- [[Cexecutionflow|Execution Flow]]
 >>- [[Cprecedenceassociativity|Associativity & Precedency]]
 >>- [[Cleftrightvalue|Left value and Right value]]
->>- [[ASCIICODES|Character Set]]
+>>- [[ASCII codes|Character Set]]
 >>- [[Cdynamicmemory|Dynamic Memory]]
 >
 >>[!note|clean collapse no-i] #### 🏨 Structures

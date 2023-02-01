@@ -5,7 +5,7 @@ tags:
 - CPP/Functions
 - CPP/Strings
 - CPP/Library/string/string
-- CPP/Library/string/string_view
+- CPP/Library/string_view/string_view
 ---
 **[[C++|HOME [C++]]]**
 

@@ -5,6 +5,7 @@ aliases:
 tags:
 - CPP/Lecture
 - CPP/Functions/template
+- CPP/Library/string_view/string_view
 ---
 **[[C++|HOME [C++]]]**
 

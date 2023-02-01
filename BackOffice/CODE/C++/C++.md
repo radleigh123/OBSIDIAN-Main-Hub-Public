@@ -28,6 +28,7 @@ tags:
 [[C++characters|Characters And Text]]
 [[C++auto|Auto]]
 [[C++assignment|Assignments]]
+[[C++typedef|Typedefs]]
 
 #### **Chapter 3: Operations on Data**
 [[C++basicoperations|Basic Operations]]
@@ -58,9 +59,12 @@ tags:
 [[C++sizeofarray|Size Of An Array]]
 [[C++arraysofcharaters|Arrays Of Characters]]
 [[C++boundsofarray|Bounds Of An Array]]
+[[C++vector|Vector container]]
+[[C++initializerlist|initializer_list]]
 
 #### **Chapter 7: Pointers**
 [[C++pointers|Pointers]]
+[[C++pointersdouble|Pointer to pointer]]
 [[C++pointertochar|Pointer To Char]]
 [[C++programemorymap|Program Memory Map]]
 [[C++dynamicmemoryallocation|Dynamic Memory Allocation]]
@@ -72,6 +76,7 @@ tags:
 
 #### **Chapter 8: References**
 [[C++references|References]]
+[[C++referencesdouble|Reference to reference]]
 [[C++referencesvspointers|Comparing References To Pointers]]
 [[C++references&const|References And Const]]
 
@@ -79,11 +84,12 @@ tags:
 [[C++charactermanipulation|Character Manipulation]]
 [[C++cstringmanipulation|C-String Manipulation]]
 [[C++cstringconcatenation|C-String Concatenation And Copying]]
-[[C++string|std::string]]
+[[C++string|Strings]]
 
 #### **Chapter 10: Functions**
 [[C++onedefinitionrule|One Definition Rule]]
 [[C++functions|Functions]]
+[[C++defaultarguments|Default Arguments]]
 [[C++functionsmultiplefiles|Functions Across Multiple Files - Compilation Model Revisited]]
 [[C++functionspassbyvalue|Pass By Value]]
 [[C++functionspassbypointer|Pass By Pointer]]
@@ -127,34 +133,33 @@ tags:
 [[C++classsizeofobjects|Size Of Class Objects]]
 
 #### **Chapter 17: Inheritance**
-[[C++classinheritance|Inheritance]]
-[[C++classinheritanceprotected|Protected Members]]
-[[C++classinheritancebaseclassaccessspecifier|Base Class Access Specifiers: Zooming In]]
-[[C++classinheritanceresurrectmembers|Resurrecting Members Back In Scope]]
-Default Arg Constructors With Inheritance
-Custom Constructors With Inheritance
-Copy Constructors With Inheritance
-Inheriting Base Constructors
-Inheritance With Destructors
-Reused Symbols In Inheritance
+[[C++inheritance|Inheritance]]
+[[C++inheritanceinheritanceprotected|Protected Members]]
+[[C++inheritancebaseclassaccessspecifier|Base Class Access Specifiers: Zooming In]]
+[[C++inheritanceresurrectmembers|Resurrecting Members Back In Scope]]
+[[C++inheritancedefaultarguments|Default Arg Constructors With Inheritance]]
+[[C++inheritancecustomconstructors|Custom Constructors With Inheritance]]
+[[C++inheritancecopyconstructors|Copy Constructors With Inheritance]]
+[[C++inheritanceinheritingbase|Inheriting Base Constructors]]
+[[C++inheritanceinheritingdeconstructors|Inheritance With Destructors]]
+[[C++inheritancereusedsymbols|Reused Symbols In Inheritance]]
 
 #### **Chapter 18: Polymorphism**
 [[C++polymorphism|Polymorphism]]
-Static Binding With Inheritance
-Polymorphism (Dynamic Binding) With Virtual Functions
-Size Of Polymorphic Objects And Slicing
-Polymorphic Objects Stored In Collections
-Override
-Overloading, Overriding And Hiding
-Inheritance And Polymorphism At Different Levels
-Inheritance And Polymorphism With Static Members
-Final
-Virtual Functions With Default Arguments
-Virtual Destructors
-Dynamic_cast<>()
-Don't Call Virtual (Polymorphic) Functions From Constructors & Destructors
-Pure Virtual Functions And Abstract Classes
-Abstract Classes As Interfaces
+[[C++polymorphismdynamicbinding|Polymorphism (Dynamic Binding) With Virtual Functions]]
+[[C++polymorphismsizeof|Size Of Polymorphic Objects And Slicing]]
+[[C++polymorphismobjectscollections|Polymorphic Objects Stored In Collections]]
+[[C++polymorphismoverride|Override]]
+[[C++polymorphismoverloadinghiding|Overloading, Overriding And Hiding]]
+[[C++polymorphism&inheritance|Inheritance And Polymorphism At Different Levels]]
+[[C++polymorphismwithstaticmembers|Inheritance And Polymorphism With Static Members]]
+[[C++polymorphismfinal|Final]]
+[[C++polymorphismdefaultarguments|Virtual Functions With Default Arguments]]
+[[C++polymorphismvirtualdestructors|Virtual Destructors]]
+[[C++dynamiccast|Dynamic_cast<>()]]
+[[C++polymorphismvirtualmethoddestructors|Don't Call Virtual (Polymorphic) Functions From Constructors & Destructors]]
+[[C++polymorphismpurevirtualfunctions|Pure Virtual Functions And Abstract Classes]]
+[[C++polymorphismabstractinterfaces|Abstract Classes As Interfaces]]
 
 <br>
 

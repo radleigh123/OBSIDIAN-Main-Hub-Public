@@ -1,3 +1,14 @@
+---
+aliases:
+tags:
+- CPP/Class/Constructor/get
+- CPP/Class/Constructor/set
+- CPP/Pointers/this
+- CPP/Library/string_view/string_view
+---
+**[[C++classthethispointer|BACK]]**
+
+---
 >[!recite|clean no-i] Chained calls using [[C++pointers|pointers]]
 ```cpp
 #include <iostream>

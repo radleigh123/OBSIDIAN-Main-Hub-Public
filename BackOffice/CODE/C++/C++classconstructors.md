@@ -63,6 +63,12 @@ int main(int argc, char **argv) {
 > // a constructor that takes one parameter
 > // data member (x) is initialized with constructor parameter (x_)
 > className(int x_) : x(x_) {}
+> // x = x_
+> ```
+> ```cpp
+> Derived::Derived(int a, int b) : Base(a), m_num1(b), m_num2(a+b) {
+> 	/* constructor body */
+> }
 > ```
 > <br>
 > 

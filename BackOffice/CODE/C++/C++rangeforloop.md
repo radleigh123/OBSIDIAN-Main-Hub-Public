@@ -5,6 +5,7 @@ aliases:
 tags:
 - CPP/Lecture
 - CPP/FlowControl/rangefor
+- CPP/Library/vector/vector
 ---
 **[[C++|HOME [C++]]]**
 

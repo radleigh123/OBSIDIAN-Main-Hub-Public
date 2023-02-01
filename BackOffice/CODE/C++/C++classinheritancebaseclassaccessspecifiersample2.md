@@ -1,4 +1,18 @@
->[!recite|clean no-i] Class base access specifier across multiple files
+---
+aliases:
+tags:
+- CPP/Class/Inheritance
+- CPP/Class/Constructor/get
+- CPP/Class/Constructor/set
+- CPP/Library/string/string
+- CPP/Library/string_view/string_view
+- CPP/References
+- CPP/Expressions/OperatorOverloading
+---
+**[[C++inheritancebaseclassaccessspecifier|BACK]]**
+
+---
+>[!recite|clean no-i ttl-c] Class base access specifier across multiple files
 
 **main.cpp**
 ```cpp

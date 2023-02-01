@@ -44,7 +44,7 @@ int main() {
 ```
 
 **Example:**
-- [[C++classprotectedsample1|protected w/ multiple files]]
+- [[C++classinheritanceprotectedsample1|protected w/ multiple files]]
 
 <br>
 

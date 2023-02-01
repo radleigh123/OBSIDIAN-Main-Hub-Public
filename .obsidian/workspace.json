@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3e5c47838dc99763",
+        "id": "766082f25d2b00d7",
         "type": "tabs",
         "children": [
           {
-            "id": "715fe851bc17d4df",
+            "id": "72c9eeb21474ccee",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/C++/C++.md",
+                "file": "BackOffice/MAINBSIT.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8d159c6c1b14a490",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,12 +94,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -127,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "BackOffice/MAINBSIT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BackOffice/MAINBSIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BackOffice/MAINBSIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BackOffice/MAINBSIT.md"
+              }
             }
           },
           {
@@ -223,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,17 +231,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8d159c6c1b14a490",
+  "active": "72c9eeb21474ccee",
   "lastOpenFiles": [
-    "BackOffice/CODE/C++/C++.md",
-    "BackOffice/CODE/C++/C++classinheritanceresurrectmembers.md",
-    "BackOffice/CODE/C++/C++classinheritancebaseclassaccessspecifiersample0.md",
-    "BackOffice/CODE/C++/C++classinheritancebaseclassaccessspecifiersample1.md",
-    "Untitled.canvas",
-    "BackOffice/CODE/C++/C++classinheritance.md",
-    "BackOffice/CODE/C++/C++classinheritanceclosinginprivate.md",
-    "BackOffice/CODE/C++/C++classinheritancebaseclassaccessspecifier.md",
-    "Excalidraw/C++classinheritancebaseclassaccessspecifierillu1.excalidraw.md",
-    "BackOffice/CODE/C++/C++classinheritancebaseclassaccessspecifiersample2.md"
+    "BackOffice/MAINBSIT.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12LEC.md",
+    "BackOffice/BSIT/1YEAR/11SEM/COMPROG11LAB.md",
+    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101.md",
+    "BackOffice/BSIT/1YEAR/12SEM/PE103.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12LAB.md",
+    "Excalidraw/0HEADQUARTERS.md"
   ]
 }

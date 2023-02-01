@@ -1,3 +1,15 @@
+---
+aliases:
+tags:
+- CPP/Class/Constructor
+- CPP/Class/Inheritance
+- CPP/Expressions/OperatorOverloading
+- CPP/Library/string_view/string_view
+- CPP/Library/string/string
+---
+**[[C++inheritanceinheritanceprotected|BACK]]**
+
+---
 >[!recite|clean no-i] Using protected access level across multiple files
 
 **main.cpp**

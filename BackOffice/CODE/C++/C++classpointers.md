@@ -4,7 +4,6 @@ tags:
 - CPP/Lecture
 - CPP/Class
 - CPP/Pointers
-- CPP/typedef
 - CPP/Expressions/delete
 ---
 **[[C++|HOME [C++]]]**
@@ -15,7 +14,7 @@ tags:
 - [[C++classpointerssample0|Pointer to member function]]
 - [[C++classpointerssample1|Pointer to member object]]
 - [[C++classpointerssample2|Declaring pointers to a method]]
-- [[C++classpointerssample3|Declaring pointer using `typedef`]]
+- [[C++classpointerssample3|Declaring pointer using typedef]]
 
 <br>
 

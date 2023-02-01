@@ -1,3 +1,13 @@
+---
+aliases:
+tags:
+- CPP/Class/Inheritance
+- CPP/Class/Constructor/get
+- CPP/Class/Constructor/set
+---
+**[[C++inheritancebaseclassaccessspecifier|BACK]]**
+
+---
 >[!recite|clean no-i] Basic sample
 
 ```cpp
