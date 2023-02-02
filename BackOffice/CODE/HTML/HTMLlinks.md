@@ -76,7 +76,7 @@ Use the `mailto:` inside the `href` attribute to create a link that opens the us
 ```
 
 Button Links
-To use an HTML button as a link, you have to add some **[[JAVASCRIPT|JavaScript code]]**.
+To use an HTML button as a link, you have to add some **[[JavaScript|JavaScript code]]**.
 ```HTML JavaScript
 <button onclick="document.location='default.asp'">Sample World</button>
 ```

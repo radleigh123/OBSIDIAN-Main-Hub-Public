@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "766082f25d2b00d7",
+        "id": "5b6e466fe66c4e07",
         "type": "tabs",
         "children": [
           {
-            "id": "58df2175b5bd84ef",
+            "id": "f3d14e620a85a1b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230201_0846.md",
+                "file": "LifeRizal.md",
                 "mode": "preview",
                 "source": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20230201_0846.md",
+                "file": "LifeRizal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20230201_0846.md",
+                "file": "LifeRizal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20230201_0846.md",
+                "file": "LifeRizal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20230201_0846.md"
+                "file": "LifeRizal.md"
               }
             }
           },
@@ -230,17 +230,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58df2175b5bd84ef",
+  "active": "f3d14e620a85a1b1",
   "lastOpenFiles": [
-    "Backlinks/attachments/HIST101homework1image1.png",
-    "20230201_0846.md",
-    "BackOffice/CODE/C++/C++.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/MyBackendRoadmap.canvas",
-    "BackOffice/EXTERNAL.md",
-    "BackOffice/NOTES.md",
-    "20230201_0710.md",
-    "Untitled.canvas",
-    "BackOffice/CODE/SQL/SQL.md"
+    "ContemporaryWorld.md",
+    "BashvsGit.md",
+    "CHATGPT_Backend.md",
+    "Canvas/MAINROAD.canvas",
+    "BackOffice/MAINBSIT.md",
+    "Excalidraw/0HEADQUARTERS.md",
+    "BackOffice/MAINCODE.md",
+    "README.md",
+    "WEBDEV links.md",
+    "mouseJavaScript.md"
   ]
 }

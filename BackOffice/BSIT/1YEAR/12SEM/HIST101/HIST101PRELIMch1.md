@@ -1,8 +1,14 @@
-Study the Spiritual beliefs of early Filipinos religion:
-- who they worship
-- how they worship
-- why they worship
-- and their beliefs
+**Balangay**(*barangay*) - Austronesian word for “sailboat”
+**Polytheist** - the belief in or worship of more than one god
+Monotheist - the belief in or worship of only one god
+**Simbahan** - means temple
+**Datu** - chieftain
+Maharlika - soldier
+**Babaylan** - mostly gay men
+**Bathala Maykapal**/*Badhala*
+**anito** - carved images
+anito/diwata - also define as spirits
+*Superstitious beliefs*
 
 **<center>Anitism</center>**<center>broader concept, practiced a variety of indigenous beliefs and rituals</center>
 **Animism** - is the belief that everything, including inanimate objects and natural phenomena, has a spirit or soul.
@@ -27,9 +33,6 @@ Study the Spiritual beliefs of early Filipinos religion:
 - common elements included worship of ancestral spirits, nature spirits, and deities of health, fertility, and agriculture
 - Reward or punishment after death was dependent upon behavior in this life
 - Many gained renown for their ability to develop anting-anting, a charm guaranteed to make a person invincible in the face of human enemies.
-
->[!recite|clean no-i] BELIEFS
-- 
 
 **Islam** 1350
 - **Allah**

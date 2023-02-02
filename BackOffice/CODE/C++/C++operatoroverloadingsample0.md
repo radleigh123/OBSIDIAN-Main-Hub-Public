@@ -3,7 +3,7 @@ aliases:
 tags:
 - CPP/Expressions/OperatorOverloading/operator<<
 ---
-**[[TBDC++operatoroverloading|BACK]]**
+**[[C++operatoroverloading|BACK]]**
 
 ---
 >[!recite|clean no-i] ### `operator<<`

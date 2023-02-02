@@ -29,6 +29,7 @@ tags:
 [[C++auto|Auto]]
 [[C++assignment|Assignments]]
 [[C++typedef|Typedefs]]
+[[C++headerguard|Header guard (for multiple files)]]
 
 #### **Chapter 3: Operations on Data**
 [[C++basicoperations|Basic Operations]]
@@ -131,6 +132,7 @@ tags:
 [[C++classthethispointer|The This Pointer]]
 [[C++struct|Struct]]
 [[C++classsizeofobjects|Size Of Class Objects]]
+[[C++operatoroverloading|Operator overloading]]
 
 #### **Chapter 17: Inheritance**
 [[C++inheritance|Inheritance]]

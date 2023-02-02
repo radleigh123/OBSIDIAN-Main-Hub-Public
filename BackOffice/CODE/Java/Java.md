@@ -10,3 +10,4 @@ tags:
 
 ---
 # Java
+- [[Javabasics|Diving into the basics]]
