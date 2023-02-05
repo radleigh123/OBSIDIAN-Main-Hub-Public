@@ -14,14 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlinks/Internet.md",
+                "file": "BackOffice/Backend Dev/Internet.md",
                 "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fe17309b08c999ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/Backend Dev/DHCP.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,8 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
-                "explainSearch": true,
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -96,12 +109,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -118,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backlinks/Internet.md",
+                "file": "BackOffice/Backend Dev/DHCP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/Internet.md",
+                "file": "BackOffice/Backend Dev/DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/Internet.md",
+                "file": "BackOffice/Backend Dev/DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/Internet.md"
+                "file": "BackOffice/Backend Dev/DHCP.md"
               }
             }
           },
@@ -220,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,17 +248,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34405ccff05362ae",
+  "active": "fe17309b08c999ff",
   "lastOpenFiles": [
-    "DHCP.md",
-    "Backlinks/Internet.md",
-    "LAN.md",
-    "MAN.md",
-    "circumscribed.md",
+    "Backlinks/attachments/COMPROG12LABBanner.png",
+    "BackOffice/Backend Dev/IP.md",
+    "BackOffice/Backend Dev/Internet.md",
+    "BackOffice/Backend Dev/DHCP.md",
+    "BackOffice/Backend Dev/LAN.md",
+    "BackOffice/Backend Dev/MAN.md",
+    "Backlinks/circumscribed.md",
     "BackOffice/MAINCODE.md",
-    "Backlinks/IP.md",
     "Backlinks/attachments/Internetimage0.png",
-    "BackOffice/BSIT/1YEAR/11SEM/WEBDEV11/WEBDEVPRELIM1.md",
-    "BackOffice/MAINBSIT.md"
+    "BackOffice/BSIT/1YEAR/11SEM/WEBDEV11/WEBDEVPRELIM1.md"
   ]
 }
