@@ -1,25 +1,33 @@
 ---
-title: Javabasics
-creation-date: 2023-02-02
+title: Javaintro
+creation-date: 2023-02-03
 aliases:
 tags:
 - Java/Lecture
-- Java/String
-- Java/Method
+- Java/Exceptions/catch
+- Java/Methods
+- Java/Arrays
 ---
 **[[Java|HOME [Java]]]**
 
 ---
-# Basics
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello" + " " + "World");
-    }
-}
-```
+# Introduction
+![[Pasted image 20230203183218.png|center wm-tl cover]]
+
+![[Pasted image 20230203183437.png|cover right hsmall]]
+**JDK** (Java Development Kit) - developer tools
+**JRE** (Java Runtime Environment) - libraries and toolkits
+**JVM** (Java Virtual Machine) - runs java programs
+
 <br>
 
+<br>
+
+<br>
+
+**IDE** (Integrated Development Environment) - software that helps us write software. E.g., **eclipse**, **intelliJ idea**, **vscode**, **blueJ**, etc.
+
+---
 **Method**
 ```java
 public class Main {

@@ -5,10 +5,13 @@ banner_y: 0.704
 # Computer Programming 2
 #subjectHUB 
 
-**Instructor:** 
+**Instructor:** Jecris Sabanal
 **EDP Code:** 70370
 
 ## Prelim
 ## Midterm
 ## Semifinal
 ## Final
+
+---
+**[[MAINBSIT|MAINHUB]]**

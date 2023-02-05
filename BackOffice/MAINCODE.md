@@ -19,6 +19,9 @@ banner_y: 0.588
 <br>
 
 ## Miscellaneous
+[[Internet]]
+
+---
 - **[[CS50]]**
 - **[[ASCII codes]]**
 

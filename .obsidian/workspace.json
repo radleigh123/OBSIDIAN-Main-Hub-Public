@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b6e466fe66c4e07",
+        "id": "6c1d78a2c07d6d64",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d14e620a85a1b1",
+            "id": "34405ccff05362ae",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LifeRizal.md",
+                "file": "Backlinks/Internet.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -67,7 +69,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LifeRizal.md",
+                "file": "Backlinks/Internet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LifeRizal.md",
+                "file": "Backlinks/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LifeRizal.md",
+                "file": "Backlinks/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LifeRizal.md"
+                "file": "Backlinks/Internet.md"
               }
             }
           },
@@ -212,7 +215,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,17 +234,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3d14e620a85a1b1",
+  "active": "34405ccff05362ae",
   "lastOpenFiles": [
-    "ContemporaryWorld.md",
-    "BashvsGit.md",
-    "CHATGPT_Backend.md",
-    "Canvas/MAINROAD.canvas",
-    "BackOffice/MAINBSIT.md",
-    "Excalidraw/0HEADQUARTERS.md",
+    "DHCP.md",
+    "Backlinks/Internet.md",
+    "LAN.md",
+    "MAN.md",
+    "circumscribed.md",
     "BackOffice/MAINCODE.md",
-    "README.md",
-    "WEBDEV links.md",
-    "mouseJavaScript.md"
+    "Backlinks/IP.md",
+    "Backlinks/attachments/Internetimage0.png",
+    "BackOffice/BSIT/1YEAR/11SEM/WEBDEV11/WEBDEVPRELIM1.md",
+    "BackOffice/MAINBSIT.md"
   ]
 }

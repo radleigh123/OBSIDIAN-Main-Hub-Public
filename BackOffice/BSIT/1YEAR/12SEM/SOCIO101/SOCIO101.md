@@ -9,6 +9,13 @@ banner_y: 0.308
 **EDP Code:** 68812
 
 ## Prelim
+- [[SOCIO101PRELIMch1|The Globalization of Economic Relations]]
+
 ## Midterm
+
 ## Semifinal
+
 ## Final
+
+---
+**[[MAINBSIT|MAINHUB]]**
