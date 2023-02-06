@@ -10,6 +10,7 @@ banner_y: 0.62
 
 ## Prelim
 - [[HIST101PRELIMch1|Spiritual beliefs of Early Filipinos]]
+- [[HIST101PRELIMch2|Early Philippine Society and Culture]]
 ## Midterm
 ## Semifinal
 ## Final
