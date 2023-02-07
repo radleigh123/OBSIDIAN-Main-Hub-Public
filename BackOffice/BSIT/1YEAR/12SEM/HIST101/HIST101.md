@@ -9,8 +9,9 @@ banner_y: 0.62
 **EDP Code:** 70360
 
 ## Prelim
-- [[HIST101PRELIMch1|Spiritual beliefs of Early Filipinos]]
-- [[HIST101PRELIMch2|Early Philippine Society and Culture]]
+- [[HIST101PRELIMch11|The Importance of Primary Sources in History]]
+- [[HIST101PRELIMch12|Spiritual beliefs of Early Filipinos]]
+- [[HIST101PRELIMch13|Early Philippine Society and Culture]]
 ## Midterm
 ## Semifinal
 ## Final

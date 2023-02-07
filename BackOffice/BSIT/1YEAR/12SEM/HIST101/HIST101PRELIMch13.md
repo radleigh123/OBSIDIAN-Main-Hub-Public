@@ -44,8 +44,8 @@ tags:
 <br>
 
 Through the discussion and analysis of primary sources coming from the religions and the [[laity]], the students will discover the rich, complex, and unique traditions and customs of early Filipinos:
-- [[HIST101PRELIMch2LabelEvangelica|Excerpt from *Label of Evangelica*: Of the Government and Political Customs of these Peoples, by Francisco Colin, S.J.]]
-- [[HIST101PRELIMch2RelacionFilipinas|Excerpt from *Relacion de las islas Filipinas* by Miguel de Loarca]]
-- [[HIST101PRELIMch2Cronicas|Excerpts from *Cronicas* by Juan Francisco de San Antonio]]
-- [[HIST101PRELIMch2BoxerCodex|Excerpt from the *Boxer Codex*]]
-- [[HIST101PRELIMch2SucesosFilipinas|Excerpt from *Sucesos de las Islas Filipinas* by Antonio de Morga]]
+- [[HIST101PRELIMch13LabelEvangelica|Excerpt from *Label of Evangelica*: Of the Government and Political Customs of these Peoples, by Francisco Colin, S.J.]]
+- [[HIST101PRELIMch13RelacionFilipinas|Excerpt from *Relacion de las islas Filipinas* by Miguel de Loarca]]
+- [[HIST101PRELIMch13Cronicas|Excerpts from *Cronicas* by Juan Francisco de San Antonio]]
+- [[HIST101PRELIMch13BoxerCodex|Excerpt from the *Boxer Codex*]]
+- [[HIST101PRELIMch13SucesosFilipinas|Excerpt from *Sucesos de las Islas Filipinas* by Antonio de Morga]]

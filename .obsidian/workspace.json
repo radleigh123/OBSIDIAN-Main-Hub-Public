@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6c1d78a2c07d6d64",
+        "id": "6171d8daa1fcc373",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe43f36b0d74795",
+            "id": "935892b709041c1c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "016429fcefec78af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPHIST101homework.md",
+                "file": "DISCRET12ch1.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,11 +109,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -115,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEMPHIST101homework.md",
+                "file": "DISCRET12ch1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEMPHIST101homework.md",
+                "file": "DISCRET12ch1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEMPHIST101homework.md",
+                "file": "DISCRET12ch1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPHIST101homework.md"
+                "file": "DISCRET12ch1.md"
               }
             }
           },
@@ -217,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,17 +249,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebe43f36b0d74795",
+  "active": "016429fcefec78af",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMbagani.md",
-    "Backlinks/laity.md",
-    "Backlinks/dainties.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch1.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch2.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch2SucesosFilipinas.md",
-    "Backlinks/attachments/HIST101PRELIMch2SucesosFilipinasimage0.png",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch2BoxerCodex.md",
-    "Backlinks/annotated.md"
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "DISCRET12ch1.md",
+    "Backlinks/attachments/DISCRET12ch1image1.png",
+    "Backlinks/attachments/DISCRET12ch1image0.png",
+    "DISCRET12ch1existentialuniversal.md",
+    "DISCRET12ch1universalconditional.md",
+    "DISCRET12ch1universalexistential.md",
+    "BackOffice/MAINBSIT.md",
+    "HIST101PRELIMch11.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md"
   ]
 }

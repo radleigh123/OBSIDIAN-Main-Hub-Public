@@ -2,7 +2,7 @@
 aliases:
 tags:
 ---
-**[[HIST101PRELIMch2|BACK]]**
+**[[HIST101PRELIMch13|BACK]]**
 
 ---
 **<center>Antonio de Morga</center>**<center>(1609)</center>

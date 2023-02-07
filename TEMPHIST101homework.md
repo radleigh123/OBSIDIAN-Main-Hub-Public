@@ -1,4 +1,3 @@
-![[HIST101tempimage0.jpg|center cover wsmall]]
 **Assignment:** "Color etching" - make a drawing about the Spiritual beliefs of early Filipinos through color etching ( short bondpaper to be submitted, next week first meeting )
 
 **Activity:** Below are lists of important words that can be found in our next lesson. In a short bondpaper write your CHOSEN word creatively and then prepare to  give a short but concise explanation. 1 topic(word) per person

@@ -27,7 +27,7 @@ anito/diwata - also define as spirits
 - Some communities also practiced **animal sacrifice** as a means of communicating with the spirits.
 - Regular sacrifices and <mark class="hltr-blue">prayers were offered to placate these deities and spirits</mark>--some of which were benevolent, some malevolent 
 
-![[HIST101homework1image1.png|cover center hs-med]]
+![[HIST101homework11image0.png|cover center hs-med]]
 
 >[!recite|clean no-i] WHY THEY WORSHIP
 - common elements included worship of ancestral spirits, nature spirits, and deities of health, fertility, and agriculture

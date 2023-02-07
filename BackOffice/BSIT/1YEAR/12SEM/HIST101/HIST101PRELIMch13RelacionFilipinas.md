@@ -2,7 +2,7 @@
 aliases:
 tags:
 ---
-**[[HIST101PRELIMch2|BACK]]**
+**[[HIST101PRELIMch13|BACK]]**
 
 ---
 **<center>Miguel de Loarca</center>** <center>(1582)</center>
