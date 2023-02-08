@@ -8,8 +8,15 @@ banner_y: 0.54
 **Instructor:** Amiel A. Poro
 **EDP Code:** 70340
 
+>[!aside|right no-i collapse]
+> 🔸 [[DISCRET12HELP|Prerequisite Info]]
 ## Prelim
-- [[DISCRET12ch1|Speaking Mathematically]]
+**Speaking Mathematically**
+- [[DISCRET12ch1|Variables]]
+- [[DISCRET12ch2|Sets]]
+	- [[DISCRET12ch21|Subsets]]
+	- [[DISCRET12ch22|Cartesian Products]]
+- [[DISCRET12ch3|Relations & Functions]]
 
 ## Midterm
 

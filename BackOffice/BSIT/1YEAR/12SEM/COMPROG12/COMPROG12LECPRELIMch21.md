@@ -15,16 +15,16 @@ Every time an application containing the constant 459 is executed, the value 459
 -   It is a numeric constant as opposed to a character or string constant.
 -   It is an unnamed constant as opposed to a named one, because no identifier is associated with it.
 
-Instead of using constant data, you can set up a data item to be variable. A variable is a named memory location that can store a value. A variable can hold only one value at a time, but the value it holds can change. For example, if you create a variable named ovenTemperature, it might hold 0 when the application starts, later be altered to hold 350, and still later be altered to hold 400.
+Instead of using constant data, you can set up a data item to be variable. A **variable** is a named memory location that can store a value. A variable can hold only one value at a time, but the value it holds can change. For example, if you create a variable named `ovenTemperature`, it might hold 0 when the application starts, later be altered to hold 350, and still later be altered to hold 400.
 
-Whether a data item is variable or constant, in Java it always has a data type. An item’s data type describes the type of data that can be stored there, how much memory the item occupies, and what types of operations can be performed on the data. Java provides for eight primitive types of data. A primitive type is a simple data type. Java’s eight data types are described in Table 2-1. Later in this chapter, you will learn more specific information about several of these data types.
+Whether a data item is variable or constant, in Java it always has a data type. An item’s data type describes the type of data that can be stored there, how much memory the item occupies, and what types of operations can be performed on the data. Java provides for eight primitive types of data. A **primitive type** is a simple data type. Java’s eight data types are described in Table 2-1. Later in this chapter, you will learn more specific information about several of these data types.
 
 ![[COMPROG12LECPRELIMch21image0.png|center wm-tl]]
 
 The eight data types in Table 2-1 are called primitive because they are simple and uncomplicated. Primitive types also serve as the building blocks for more complex data types, called reference types, which hold memory addresses. 
 
 **Declaring Variables**
-A variable declaration is a statement that reserves a named memory location and includes the following:
+A **variable declaration** is a statement that reserves a named memory location and includes the following:
 -   A data type that identifies the type of data that the variable will store
 -   An identifier that is the variable’s name
 -   An optional assignment operator and assigned value, if you want a variable to contain an initial value
@@ -35,14 +35,16 @@ Variable names must be legal Java identifiers. (You learned the requirements for
 Variable names conventionally begin with lowercase letters to distinguish them from class names. However, as with class names, a program can compile without error even if names are constructed unconventionally. Beginning an identifier with a lowercase letter and capitalizing subsequent words within the identifier is a style known as camel casing. An identifier such as lastName resembles a camel because of the uppercase “hump” in the middle.
 
 For example, the following declaration creates a conventionally named int variable, myAge, and assigns it an initial value of 25:
-
+```java
 int myAge = 25;
+```
 
 This declaration is a complete, executable statement, so it ends with a semicolon. The equal sign ( = ) is the assignment operator. Any value to the right of the assignment operator is assigned to the memory location named on the left. An assignment made when you declare a variable is an initialization; an assignment made later is simply an assignment. Thus, the first statement that follows is an initialization, and the second is an assignment:
-
+```java
 int myAge = 25;
 
 myAge = 42;
+```
 
 You declare a variable just once in a method, but you might assign new values to it any number of times.
 
@@ -52,7 +54,7 @@ When you declare a variable within a method but do not assign a value to it, it 
 
 int myAge;
 
-An uninitialized variable contains an unknown value called a garbage value. Java protects you from inadvertently using the garbage value that is stored in an uninitialized variable. For example, if you attempt to display garbage or use it as part of a calculation, you receive an error message stating that the variable might not have been initialized, and the program will not compile.
+An uninitialized variable contains an unknown value called a **garbage value**. Java protects you from inadvertently using the garbage value that is stored in an uninitialized variable. For example, if you attempt to display garbage or use it as part of a calculation, you receive an error message stating that the variable might not have been initialized, and the program will not compile.
 
 You can declare multiple variables of the same type in separate statements. You also can declare two or more variables of the same type in a single statement by separating the variable declarations with a comma, as shown in the following statement:
 

@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6171d8daa1fcc373",
+        "id": "641788f6648d7387",
         "type": "tabs",
         "children": [
           {
-            "id": "935892b709041c1c",
+            "id": "3cb501be6b400fd9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+                "file": "BackOffice/CODE/Java/Java.md",
                 "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
-          },
-          {
-            "id": "016429fcefec78af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DISCRET12ch1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,13 +96,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -132,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DISCRET12ch1.md",
+                "file": "BackOffice/CODE/Java/Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISCRET12ch1.md",
+                "file": "BackOffice/CODE/Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISCRET12ch1.md",
+                "file": "BackOffice/CODE/Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISCRET12ch1.md"
+                "file": "BackOffice/CODE/Java/Java.md"
               }
             }
           },
@@ -229,13 +214,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,17 +232,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "016429fcefec78af",
+  "active": "24b24a765d577cb1",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
-    "DISCRET12ch1.md",
-    "Backlinks/attachments/DISCRET12ch1image1.png",
-    "Backlinks/attachments/DISCRET12ch1image0.png",
-    "DISCRET12ch1existentialuniversal.md",
-    "DISCRET12ch1universalconditional.md",
-    "DISCRET12ch1universalexistential.md",
-    "BackOffice/MAINBSIT.md",
-    "HIST101PRELIMch11.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md"
+    "JavaArrayList.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/CODE/Java/JavaWrapperClass.md",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LEC.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch22.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch21.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch14.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch11.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch13.md"
   ]
 }

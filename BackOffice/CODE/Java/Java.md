@@ -38,7 +38,7 @@ public class Main {
 - [[JavaArrays|Arrays]]
 - [[JavaString|String]]
 - [[JavaWrapperClass|Wrapper classes]]
-- ArrayList
+- [[JavaArrayList|ArrayList]]
 - Methods
 - Overloaded methods
 - printf
