@@ -36,12 +36,11 @@ public class Main {
 - [[Javacontrolflow|Control Flow]]
 - [[JavaOperators|Operators]]
 - [[JavaArrays|Arrays]]
+- [[JavaArrayList|ArrayList]]
 - [[JavaString|String]]
 - [[JavaWrapperClass|Wrapper classes]]
-- [[JavaArrayList|ArrayList]]
-- Methods
-- Overloaded methods
-- printf
+- [[JavaMethods|Methods]]
+- [[Javaprintf|printf]]
 - Final
 - Objects (OOP)
 - Constructors
@@ -74,3 +73,7 @@ public class Main {
 - packages
 - compile/run command prompt
 - executable (.jar)
+
+### Topics I dunno where to put (temp)
+- [[JavavariablesDigitSeperator|Convenient initialization of large values]]
+- [[JavaSystemError|System Error]]

@@ -16,15 +16,18 @@ is a container object that holds a fixed number of values of a single type.
 
 **Declaring an array:**
 ```java
+// shorthand for "array initializer"
+// reccommended when the size of the array can be determined from the elements in the initializer
+dataType[] foo = {0, 0, 0, 0};
+```
+<br>
+
+```java
 dataType[] foo = new int[i];
 ```
 ```java
 dataType[] foo;
 foo = new int[i];
-```
-
-```java
-dataType[] foo = {0, 0, 0, 0};
 ```
 ```java
 dataType[] foo = new int[]{0, 0, 0, 0};

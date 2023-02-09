@@ -10,15 +10,13 @@
           {
             "id": "3cb501be6b400fd9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -96,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -117,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md"
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md"
               }
             }
           },
@@ -232,17 +231,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24b24a765d577cb1",
+  "active": "3cb501be6b400fd9",
   "lastOpenFiles": [
-    "JavaArrayList.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch21.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch2.md",
+    "BackOffice/MAINBSIT.md",
     "BackOffice/CODE/Java/Java.md",
-    "BackOffice/CODE/Java/JavaWrapperClass.md",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LEC.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch22.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch21.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch14.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch11.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch13.md"
+    "JavavariablesDigitSeperator.md",
+    "BackOffice/CODE/Java/Javavariables.md",
+    "Javaprintf.md",
+    "JavaMethodsOverloading.md",
+    "BackOffice/CODE/C++/C++functionsoverloading.md"
   ]
 }

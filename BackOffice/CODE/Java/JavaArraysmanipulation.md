@@ -9,6 +9,8 @@ tags:
 **[[JavaArrays|BACK]]**
 
 ---
+<center>package: <strong>java.util.Arrays</strong></center>
+
 ## Array Manipulation
 Java SE provides several methods for performing array manipulations (common tasks, such as copying, sorting and searching arrays) in the `java.util.Arrays class`.
 **e.g.**
