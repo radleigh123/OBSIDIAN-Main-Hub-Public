@@ -11,10 +11,10 @@ tags:
 - Java/String/charAt
 - Java/String/indexOf
 - Java/String/isEmpty
-- Java/String/toUpperCase
-- Java/String/toLowerCase
 - Java/String/trim
 - Java/String/replace
+- Java/toUpperCase
+- Java/toLowerCase
 ---
 **[[Java|HOME [Java]]]**
 

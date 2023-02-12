@@ -1,4 +1,9 @@
-# TCP (Transport Control Protocol)
-- works with IP ==to ensure transfer of data is dependable== and reliable.
+---
+aliases:
+tags:
+---
+**[[Internet#^TCP|BACK]]**
 
-**[Back](WEBDEVPRELIM1.md)** 
+---
+## TCP (Transport Control Protocol)
+- works with IP to ensure transfer of data is dependable and reliable.

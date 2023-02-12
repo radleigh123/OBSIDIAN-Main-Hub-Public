@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cb501be6b400fd9",
+            "id": "f386deb1b636861f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/CODE/Java/Java.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "75a00136dcbd974e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
+                "file": "JavaObjectsCopy.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +46,7 @@
       {
         "id": "135a0f42e4bbe7b9",
         "type": "tabs",
-        "dimension": 33.15649867374005,
+        "dimension": 33.13953488372093,
         "children": [
           {
             "id": "18d69e50a79e8195",
@@ -48,7 +63,7 @@
       {
         "id": "5bb6c566ee3bb86c",
         "type": "tabs",
-        "dimension": 66.84350132625994,
+        "dimension": 66.86046511627907,
         "children": [
           {
             "id": "24b24a765d577cb1",
@@ -95,11 +110,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -116,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
+                "file": "JavaObjectsCopy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,12 +169,12 @@
         "dimension": 74.8062015503876,
         "children": [
           {
-            "id": "33962dc2a42787fe",
+            "id": "91d106ef20e84449",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
+                "file": "JavaObjectsCopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
+                "file": "JavaObjectsCopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,15 +200,13 @@
           {
             "id": "4d9f4a7f2daf7e74",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "BackOffice/NOTES.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -201,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md"
+                "file": "JavaObjectsCopy.md"
               }
             }
           },
@@ -213,11 +227,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,17 +247,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3cb501be6b400fd9",
+  "active": "75a00136dcbd974e",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch21.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch2.md",
-    "BackOffice/MAINBSIT.md",
+    "BackOffice/CODE/Java/JavaObjects.md",
     "BackOffice/CODE/Java/Java.md",
-    "JavavariablesDigitSeperator.md",
-    "BackOffice/CODE/Java/Javavariables.md",
-    "Javaprintf.md",
-    "JavaMethodsOverloading.md",
-    "BackOffice/CODE/C++/C++functionsoverloading.md"
+    "JavaEncapsulation.md",
+    "JavaAccessModifiers.md",
+    "JavaAbstraction.md",
+    "JavaSuper.md",
+    "JavaInheritance.md",
+    "JavaMethodsOverriding.md",
+    "JavaMethodsOverridingsample0.md",
+    "Backlinks/attachments/JavaMethodsOverridingsample0image0.png"
   ]
 }

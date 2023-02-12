@@ -1,4 +1,9 @@
-# HTTP (Hypertext Transfer Protocol)
-- language used for Internet communication.
+---
+aliases:
+tags:
+---
+**[[Internet#^HTTP|BACK]]**
 
-**[Back](WEBDEVPRELIM1.md)**
+---
+## HTTP (Hypertext Transfer Protocol) and World Wide Web
+- language used for Internet communication.

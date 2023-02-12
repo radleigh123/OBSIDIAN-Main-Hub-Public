@@ -48,6 +48,7 @@ public class Proto1 {
 <br>
 ---
 - **[[JavaMethodsOverloading|Overloading methods]]**
+- **[[JavaMethodsOverriding|Overriding methods]]**
 
 <br>
 

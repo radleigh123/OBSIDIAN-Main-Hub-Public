@@ -1,4 +1,7 @@
 ---
+cssclass:
+- t-c
+- tbl-nalt
 title: Internet
 creation-date: 2023-02-05
 aliases:
@@ -9,25 +12,28 @@ tags:
 **[[MAINCODE|HOME]]**
 
 ---
-# How does the Internet work?
+# Internet
 > is a worldwide collection of computer networks that connects millions of businesses, government agencies, educational institutions, and individuals.
+
+1. [[Internet Address|Internet Address]] ^INTERNETADDRESS
+2. [[ProtocolStacksAndPackets|Protocol Stacks and Packets]] ^PROTOCOLSTACKS
+3. [[NetworkingInfrastructure|Networking Infrastructure]] ^NETWORKINFRASTRUCTURE
+4. [[InternetInfrastructure|Internet Infrastructure]] ^INTERNETINFRASTRUCTURE
+5. [[RoutingHierarchy|The Internet Routing Hierarchy]] ^ROUTINGHEIRARCHY
+6. [[Domain Name|Domain Names and Address Resolution]] ^DOMAINNAMES
+7. [[InternetProtocol|Internet Protocols Revisited]] ^INTERNETPROTOCOLS
+8. [[HTTP|Application Protocols: HTTP and the World Wide Web]] ^HTTP
+9. [[SMTP|Application Protocols: SMTP and Electronic Mail]] ^SMTP
+10. [[TCP|Transmission Control Protocol]] ^TCP
+11. [[IP|Internet Protocol]] ^INTERNETPROTOCOLS2
 
 <br>
 
-### Internet Address
->[!CITE|alt-co] the Internet must have a **unique address**
+## Summary
 
-- also known as an **[[IP]]** address
-- are in the form *nnn.nnn.nnn.nnn* where *nnn* must be a number from 0 - 255.
 
-![[Internetimage0.png|center]]
-<center>two computers connected to the Internet; your computer with IP address 1.2.3.4</center>
-<center>and another computer with IP address 5.6.7.8.</center>
+<br>
 
->[!EXAMPLE|alt-co no-t]
->- If you connect to the Internet through an **[[ISP]]**, you are usually assigned a temporary IP address
->- If you connect to the Internet from a **[[LAN]]** your computer might have a permanent IP address or it might obtain a temporary one from a **[[DHCP|DHCP server]]**.
->
->> In any case, if you are connected to the Internet, your computer has a unique IP address.
-
-### Protocol Stacks & Packets
+# 
+---
+- [How does the Internet work?](http://www.theshulers.com/whitepapers/internet_whitepaper/index.html)

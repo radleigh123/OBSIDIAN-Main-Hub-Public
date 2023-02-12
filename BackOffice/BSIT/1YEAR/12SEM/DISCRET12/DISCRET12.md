@@ -17,6 +17,7 @@ banner_y: 0.54
 	- [[DISCRET12ch21|Subsets]]
 	- [[DISCRET12ch22|Cartesian Products]]
 - [[DISCRET12ch3|Relations & Functions]]
+- [[DISCRET12ch4|Function Machines]]
 
 ## Midterm
 

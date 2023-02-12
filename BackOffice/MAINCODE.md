@@ -19,7 +19,7 @@ banner_y: 0.588
 <br>
 
 ## Miscellaneous
-[[Internet]]
+- [[Internet|How does the Internet work?]]
 
 ---
 - **[[CS50]]**

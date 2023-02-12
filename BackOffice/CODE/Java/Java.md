@@ -41,19 +41,19 @@ public class Main {
 - [[JavaWrapperClass|Wrapper classes]]
 - [[JavaMethods|Methods]]
 - [[Javaprintf|printf]]
-- Final
-- Objects (OOP)
-- Constructors
-- Variable scope
-- Overloaded constructors
-- toString method
-- Array of objects
-- Object passing
-- Static
-- Abstraction
-- Access modifiers
-- Encapsulation
-- Copy objects
+- [[JavaConstants|Final]]
+
+---
+- [[JavaObjects|Objects]]
+- [[JavaConstructors|Constructors]]
+- [[JavatoString|toString method]]
+- [[JavaObjectsPassing|Object passing]]
+- [[JavaStatic|Static]]
+- [[JavaInheritance|Inheritance]]
+- [[JavaSuper|Super]]
+- [[JavaAbstraction|Abstraction]]
+- [[JavaAccessModifiers|Access modifiers]]
+- [[JavaEncapsulation|Encapsulation]]
 - Interface
 - Polymorphism
 - Dynamic polymorphism
@@ -75,5 +75,5 @@ public class Main {
 - executable (.jar)
 
 ### Topics I dunno where to put (temp)
-- [[JavavariablesDigitSeperator|Convenient initialization of large values]]
+- [[JavavariablesDigitSeperator|Comma Seperator]]
 - [[JavaSystemError|System Error]]

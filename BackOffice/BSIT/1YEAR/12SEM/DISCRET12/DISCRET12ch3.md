@@ -73,9 +73,24 @@ Let $A = \{1, 2\}$ and $B = \{1, 2, 3\}$ and define a relation $R$ from $A$ to $
 
 **More examples**
 Let $A = \{2, 4, 6\}$ and $B = \{1, 3, 5\}$. Which of the relations $R$, $S$, and $T$ defined below are function from A to B
+>[!NOTE|alt-co]+ NOTE
+> In part (c), T (4) = T (6), this illustrates the fact that although no element of the domain of a function can be related to more than one element of the co-domain, several elements in the domain can be related to the same element in the co-domain.
+
 >[!CHECK|collapse ttl-c]
 > ◾ $R = \{(2, 5), (4, 1), (4, 3), (6, 5)\}$
+> R is not a function because it does not satisfy property (2). The ordered pairs (4, 1) and (4, 3) have the same first element but different second elements. You can see this graphically if you draw the arrow diagram for R. There are two arrows coming out of 4: One points to 1 and the other points to 3.
+> ![[DISCRET12ch3image0.png]]
 > <br>
 > ◾ For all $(x, y)\ \in\ A \times B$, $(x, y)\ \in\ S$ means that $y\ =\ x\ +\ 1$
+> S is not a function because it does not satisfy property (1). It is not true that every element of A is the first element of an ordered pair in S. For example, 6 ∈ A but there is no y in B such that y = 6 + 1 = 7. You can also see this graphically by drawing the arrow diagram for S.
+> ![[DISCRET12ch3image1.png]]
 > <br>
 > ◾ $T$ is defined by the arrow diagram
+> T is a function: Each element in {2, 4, 6} is related to some element in {1, 3, 5} and no element in {2, 4, 6} is related to more than one element in {1, 3, 5}. When these properties are stated in terms of the arrow diagram, they become (1) there is an arrow coming out of each element of the domain, and (2) no element of the domain has more than one arrow coming out of it. So you can write T (2) = 5, T (4) = 1, and T (6) = 1.
+> ![[DISCRET12ch3image2.png]]
+
+<br>
+
+---
+**More examples**
+- [[DISCRET12ch3sample0|Functions and Relations on Sets of Real Numbers]]

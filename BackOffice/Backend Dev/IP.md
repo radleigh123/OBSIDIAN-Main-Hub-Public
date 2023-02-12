@@ -1,10 +1,8 @@
 ---
 aliases:
 tags:
-- Backend
-- Backend/Lecture
 ---
-**[[Internet|BACK]]**
+**[[Internet#^INTERNETPROTOCOLS2|BACK]]**
 
 ---
 ## IP (Internet Protocol)
