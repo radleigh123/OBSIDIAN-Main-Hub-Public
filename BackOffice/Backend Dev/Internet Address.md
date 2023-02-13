@@ -24,7 +24,7 @@ In any case, if you are connected to the Internet, your computer has a unique IP
 >[!FAQ]+ **ping**
 >> a handy program to see if a computer on the Internet is alive
 > 
-> The ping program will send a `ping` (actually an **ICMP** (*Internet Control Message Protocol*) echo request message) to the named computer. The pinged computer will respond with a reply. The ping program will count the time expired until the reply comes back (if it does). Also, if you enter a domain name (i.e. *www\.yahoo\.com*) instead of an IP address, ping will resolve the domain name and display the computer's IP address. More on [[domain name|domain names]] and address resolution later.
+> The ping program will send a `ping` (actually an **ICMP** (*Internet Control Message Protocol*) echo request message) to the named computer. The pinged computer will respond with a reply. The ping program will count the time expired until the reply comes back (if it does). Also, if you enter a domain name (i.e. *www\.yahoo\.com*) instead of an IP address, ping will resolve the domain name and display the computer's IP address. More on [[Domain Name|domain names]] and address resolution later.
 > 
 > **Windows** - `ping [domain_name]`
 > **Unix** - same

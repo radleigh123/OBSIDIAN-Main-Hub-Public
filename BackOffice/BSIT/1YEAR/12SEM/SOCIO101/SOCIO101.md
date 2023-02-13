@@ -10,6 +10,7 @@ banner_y: 0.308
 
 ## Prelim
 - [[SOCIO101PRELIMch1|The Globalization of Economic Relations]]
+	- [[SOCIO101PRELIMch11|Additional info]]
 
 ## Midterm
 
