@@ -25,6 +25,13 @@ banner_y: 0.488
 - [[COMPROG12LECPRELIMch23|Java Operators]]
 - [[COMPROG12LECPRELIMch24|Using the Scanner Class to accept keyboard input]]
 
+**Methods, Class, and Objects**
+- [[COMPROG12LECPRELIMch31|Understanding Method Calls and Placement]]
+- [[COMPROG12LECPRELIMch32|Understanding Method Construction]]
+- [[COMPROG12LECPRELIMch33|Adding Parameters to Methods]]
+- [[COMPROG12LECPRELIMch34|Creating Methods that Return Values]]
+- [[COMPROG12LECPRELIMch35|Overloading a Method]]
+
 ## Midterm
 
 ## Semifinal

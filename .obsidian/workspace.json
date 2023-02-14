@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6a6decfba838aad1",
+        "id": "cd7d35572d84ad8e",
         "type": "tabs",
         "children": [
           {
-            "id": "c70ea60f3fbaa4eb",
+            "id": "0f745863418c95e5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPhomework.md",
+                "file": "BackOffice/MAINBSIT.md",
                 "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c5c27d646052cedc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch11.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -212,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -244,17 +226,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24b24a765d577cb1",
+  "active": "18d69e50a79e8195",
   "lastOpenFiles": [
-    "TEMPhomework.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch11.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch1.md",
     "BackOffice/MAINBSIT.md",
-    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101.md",
-    "BackOffice/CODE/Java/JavaMethodsOverloading.md",
-    "TEMPCOMRPO.md",
-    "BackOffice/CODE/Java/Javacontrolflowbranching.md",
-    "BackOffice/CODE/Java/Javacontrolflow.md"
+    "20230214_1001.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch31.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch35.md",
+    "Backlinks/attachments/COMPROG12LECPRELIMch35image6.png",
+    "Backlinks/attachments/COMPROG12LECPRELIMch35image5.png",
+    "Backlinks/attachments/COMPROG12LECPRELIMch35image4.png",
+    "Backlinks/attachments/COMPROG12LECPRELIMch35image3.png",
+    "Backlinks/attachments/COMPROG12LECPRELIMch35image2.png",
+    "Backlinks/attachments/COMPROG12LECPRELIMch35image1.png"
   ]
 }

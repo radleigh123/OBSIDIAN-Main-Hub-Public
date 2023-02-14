@@ -5,22 +5,52 @@ Basketball, it is a very common sport here in the Philippines and requires the p
 **How important sports for you?**
 I grew up playing basketball and it became a routine for me and including my neighbors also it became their daily routine. And the advantage of playing it increases our athletic skill and moreover, decreases the chances of heart disease.
 
-#### Rizal 101
-**1wholesheet**
-1. What were Rizal's activities in Dapitan and their impacts?
-   During his time as a prisoner in Dapitan, he helped remake the plaza by placing lampposts at every corner, moreover, he asked the Governor to send twenty-four iron benches and twenty-six hundred meters of wire all of which to make a better place. Rizal also spent many months draining swamps and redirected the construction of a water system, this heavily impacted the citizens living there as it helped get rid of the malaria which infested the region.
-2. Why did Rizal object to the revolution of the Katipunan?
-   Rizal thought that it was not the right time for a revolution. More or less, the people were not yet ready and nor have enough weapons. He suggested that the Katipunan obtain the support of wealthy and influential Filipinos first, in order to gain financial assistance. He also recommended Antonio Luna as commander of its armed forces, since Luna had much knowledge and expertise in military tactics.
-3. What were the reforms being campaigned by the Propaganda movement?
-   - Equality of the Filipinos and Spaniards before the laws
-   - Assimilation of the Philippines as a regular province of Spain
-   - Restoration of the Philippine representation in the Spanish Cortes
-   - Filipinization of the Philippine parishes and expulsion of the friars
-   - Human rights for Filipinos such as freedom of speech, freedom of the press, and freedom to meet and petition for redress of grievances
-4. Why did Rizal went home after his second trip to Europe?
-   There were several reasons as to why Rizal went home during his trip from Europe, one was, his mother was very sick and knowing Rizal, he was concerned about her health and decided to go home. Another is because he was discontented with what the Philippines' current situation is and how it actually becomes worse over time, so he decided that he could make a greater impact if he was close by working with his fellow reformists.
-
-#### COMPROG 12
+#### COMPROG12
 Share your learnings and insights about the topic.
 
 Overloading a method enables the user to create multiple methods in having the same names with different parameters. In handling values with different data types, overloading a method helps these values be passed unto the correct method, without having to sacrifice the code's overall structure.
+
+#### HIST 101
+>[!timeline|t-r] **1494** *Treaty of Tordesillas*
+> fix the boundary between their respective domains along a meridian 370 leagues west of the Cape Verde islands. They established two areas in which they would have a monopoly over discovery, navigation, and trade.
+
+>[!timeline|t-l c-gray] **1517** *Magellan became a Spanish citizen*
+
+>[!timeline|t-r] **August 10, 1519** *FM left Europe with 5 ships*
+> Trinidad(busted), San Antonia(gay), Concepión(crispy), Victoria(victor), and Santiago(lost)
+>
+> King Manuel refused to support Magellan's plan to reach the Maluku Islands (the "Spice Islands") by sailing westwards around the American continent. Magellan left Portugal and proposed the same expedition to King Charles I of Spain, who accepted it.
+
+>[!timeline|t-l c-gray] **December 13 - December 26** *Spent Christmas on Rio de Janeiro*
+
+>[!timeline|t-r] **October 21 - November 26** *discovered the Strait of Magellan*
+> In channel for 36 days
+> Magellan founded and passed through strait while he was **searching for a short and easier route to the Spice Islands**. Magellan's fleet took thirty-eight days to sail through the strait as they had to search for a route through the network of channels in the strait.
+
+>[!timeline|t-l] **March 6, 1521** *Arrived at Guam (Isle of Thieves)*
+> because islanders took whatever they could from his ship as payment for the food and water they had given the crew.
+
+>[!timeline|t-r c-gray] **March 16** *FM discovered the Philippines*
+
+>[!timeline|t-l] **April 2** *FM arrived in Cebu and went to buy supplies for his men*
+
+>[!timeline|t-r] **April 14** *Rajah Humabon converted to Christianity and along his fellow people*
+> paved the way of Christianity, **The King of Cebu** and his wife Humamai, and about 800 Cebuanos were baptized by Father Valderama.
+
+>[!timeline|t-l] **April 27** *The Battle of Mactan*
+> Humaban only watched and helped the wounded soldiers, death of Magellan
+> 
+> **NOTE:** After four days (May1), FM's officers were killed because they allegedly raped the local women
+
+>[!timeline|t-r] **November 5, 1521** *The fleet finally arrived in Spice Island, Moluccas*
+> This was led by Juan Sebastian Elcano 
+
+>[!timeline|t-l] **September 6, 1522** *Victoria" sailed into harbor in southern Spain*
+> **Concepcion** was burned down on sea of Bohol
+> **Trinidad** was captured by the Portuguese on the way home
+
+>[!timeline|t-r c-gray] **April 22 1529** *Treaty of Saragossa*
+> defined the limits of westward Spanish exploration and the eastern ventures of Portugal
+
+>[!timeline|t-l t-1] **1565** *Colonization of the Philippines*
+> with the arrival of Spanish explorer Miguel Lopez de Legaspi from Nueva España (present day Mexico) and formed the first European settlements in Cebu
