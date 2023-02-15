@@ -11,6 +11,8 @@ tags:
 
 ---
 # `static` keyword
+> it means that the [[JavaMethods|method]] belongs to the class, rather than to a specific instance of the class. This means that the method can be called without creating an [[JavaObjects|object]] of the class.
+
 means that the particular member belongs to a type itself, rather than to an instance of that type.
 **e.g.**
 ```java

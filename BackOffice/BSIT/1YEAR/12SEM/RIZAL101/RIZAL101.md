@@ -8,7 +8,16 @@ banner_y: 0.376
 **Instructor:** 
 **EDP Code:** 71452
 
+[[TEMPRIZAL101LifeRizal|Overview]]
+
 ## Prelim
+- [[RIZAL101PRELIMch1]]
 ## Midterm
 ## Semifinal
 ## Final
+
+<br>
+
+# 
+---
+**[[MAINBSIT]]**

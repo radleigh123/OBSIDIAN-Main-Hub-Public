@@ -2,7 +2,7 @@
 aliases:
 tags:
 ---
-**[[DISCRET12ch3|BACK]]**
+**[[BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch3|BACK]]**
 
 ---
 ## Functions and Relations on Sets of Real Numbers

@@ -20,3 +20,15 @@ tags:
 
 $$\mathrm{W} \subseteq \mathrm{N} \subseteq \mathrm{Z} \subseteq \mathrm{Q} \subseteq \mathrm{R}$$
 
+$2\mathbb{Z}$ - the set of all Even integers
+
+---
+$\land$ - and
+$\lor$ - or
+$\forall$ - for all
+$\lnot$ - not
+$\to$ - to
+$\gets$ - gets
+$\approx$ - approximately
+
+

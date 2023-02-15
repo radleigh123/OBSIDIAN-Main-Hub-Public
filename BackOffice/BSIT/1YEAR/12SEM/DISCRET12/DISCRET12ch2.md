@@ -12,6 +12,10 @@ tags:
 >	- the notation $x \notin S$ means that $x$ is not an element of $S$
 
 a **set** may be specified using the **set-roster notation** by writing all of its elements between braces{} e.g.:
+>[!aside|right]+
+> The **cardinality**(size) of set $\{1, 2, 3\}$ is 3
+> $$|{1, 2, 3}|\ = 3$$
+
 - $\{1,2,3\}$ - denotes the set whose elements are 1, 2, and 3
 - $\{1,2,3,\dots,100\}$ - set of all integers from 1 to 100
 - $\{1,2,3,\dots\}$ - infinite set, set of all positive integers

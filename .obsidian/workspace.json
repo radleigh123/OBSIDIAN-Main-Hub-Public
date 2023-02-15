@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/MAINBSIT.md",
+                "file": "BackOffice/CODE/Java/Java.md",
                 "mode": "preview",
                 "source": true
               },
@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -117,6 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "BackOffice/CODE/Java/Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BackOffice/CODE/Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BackOffice/CODE/Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BackOffice/CODE/Java/Java.md"
+              }
             }
           },
           {
@@ -226,17 +232,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18d69e50a79e8195",
+  "active": "0f745863418c95e5",
   "lastOpenFiles": [
+    "BackOffice/CODE/Java/JavaStatic.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch3sample0.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch3.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
+    "BackOffice/MAINCODE.md",
     "BackOffice/MAINBSIT.md",
-    "20230214_1001.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch31.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECPRELIMch35.md",
-    "Backlinks/attachments/COMPROG12LECPRELIMch35image6.png",
-    "Backlinks/attachments/COMPROG12LECPRELIMch35image5.png",
-    "Backlinks/attachments/COMPROG12LECPRELIMch35image4.png",
-    "Backlinks/attachments/COMPROG12LECPRELIMch35image3.png",
-    "Backlinks/attachments/COMPROG12LECPRELIMch35image2.png",
-    "Backlinks/attachments/COMPROG12LECPRELIMch35image1.png"
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/TEMPRIZAL101LifeRizal.md"
   ]
 }
