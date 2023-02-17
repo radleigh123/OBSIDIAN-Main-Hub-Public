@@ -3,7 +3,7 @@ aliases:
 tags:
 - Java/String
 ---
-**[[Javavariables|BACK]]**
+**[[JavaVariables|BACK]]**
 
 ---
 ## Program to swap variables

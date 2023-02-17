@@ -8,7 +8,7 @@ tags:
 - Java/java.util/ArrayList
 - Java/Arrays
 ---
-**[[Javacontrolflow|BACK]]**
+**[[JavaControlFlow|BACK]]**
 
 ---
 ## The for Statement

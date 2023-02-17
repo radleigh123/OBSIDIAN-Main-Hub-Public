@@ -29,3 +29,13 @@ public class Main {
     }
 }
 ```
+
+<br>
+
+**Direct one line input**
+```java
+Scanner sc = new Scanner(System.in);
+int z = sc.nextInt() + sc.nextInt();
+
+System.out.println("z: " + z);
+```

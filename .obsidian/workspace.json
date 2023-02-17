@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,15 +233,15 @@
   },
   "active": "0f745863418c95e5",
   "lastOpenFiles": [
-    "BackOffice/CODE/Java/JavaStatic.md",
+    "TEMPhomework.md",
+    "BackOffice/CODE/Java/JavaFileClass.md",
     "BackOffice/CODE/Java/Java.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch3sample0.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch3.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/MAINBSIT.md",
-    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/TEMPRIZAL101LifeRizal.md"
+    "BackOffice/CODE/Java/JavaExceptionHandling.md",
+    "BackOffice/CODE/Java/JavaExceptionHandlingthrows.md",
+    "BackOffice/CODE/Java/JavaExceptionHandlingthrow.md",
+    "BackOffice/CODE/Java/JavaExceptionHandlingfinally.md",
+    "BackOffice/CODE/Java/JavaExceptionHandlingtrycatch.md",
+    "BackOffice/CODE/Java/JavaScannersample1.md",
+    "BackOffice/CODE/Java/JavaScanner.md"
   ]
 }

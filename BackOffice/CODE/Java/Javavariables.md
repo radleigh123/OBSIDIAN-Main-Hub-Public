@@ -62,7 +62,7 @@ String var3 = "Hello World"; // anything reference data type begins Capital
 System.out.println("num1: " + var3 + " " + num2);
 ```
 ---
-- [[Javavariablessample0|program to swap variables]]
+- [[JavaVariablessample0|program to swap variables]]
 
 <br>
 

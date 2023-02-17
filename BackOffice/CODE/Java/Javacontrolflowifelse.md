@@ -5,7 +5,7 @@ tags:
 - Java/Lecture
 - Java/ControlFlow/ifelse
 ---
-**[[Javacontrolflow|BACK]]**
+**[[JavaControlFlow|BACK]]**
 
 ---
 ## The if-then and if-then-else Statements

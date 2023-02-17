@@ -6,7 +6,7 @@ tags:
 - Java/ControlFlow/dowhile
 - Java/ControlFlow/while
 ---
-**[[Javacontrolflow|BACK]]**
+**[[JavaControlFlow|BACK]]**
 
 ---
 ## The while and do-while Statements

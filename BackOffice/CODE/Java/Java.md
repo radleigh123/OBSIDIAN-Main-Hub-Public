@@ -26,14 +26,14 @@ public class Main {
 
 - [[Javaintro|Introduction]]
 - [[JavaComments|Comments]]
-- [[Javavariables|Variables]]
+- [[JavaVariables|Variables]]
 - [[JavaScanner|Scanner class]]
-- [[JavaExceptions|Exceptions]]
+- [[JavaExceptionHandling|Exception Handling]]
 - [[JavaExpressions|Expressions]]
 - [[JavaGUI|GUI intro]]
 - [[JavaMath|Math class]]
 - [[JavaRandom|Random class]]
-- [[Javacontrolflow|Control Flow]]
+- [[JavaControlFlow|Control Flow]]
 - [[JavaOperators|Operators]]
 - [[JavaArrays|Arrays]]
 - [[JavaArrayList|ArrayList]]
@@ -54,11 +54,10 @@ public class Main {
 - [[JavaAbstraction|Abstraction]]
 - [[JavaAccessModifiers|Access modifiers]]
 - [[JavaEncapsulation|Encapsulation]]
-- Interface
-- Polymorphism
-- Dynamic polymorphism
-- Exception Handling
-- File class
+- [[JavaInterface|Interface]]
+- [[JavaPolymorphism|Polymorphism]]
+	- [[JavaPolymorphismDynamic|Dynamic polymorphism]]
+- [[JavaFileClass|File class]]
 - FileWriter (write to a file)
 - FileReader (read a file)
 - Audio
@@ -75,5 +74,5 @@ public class Main {
 - executable (.jar)
 
 ### Topics I dunno where to put (temp)
-- [[JavavariablesDigitSeperator|Comma Seperator]]
+- [[JavaVariablesDigitSeperator|Comma Seperator]]
 - [[JavaSystemError|System Error]]

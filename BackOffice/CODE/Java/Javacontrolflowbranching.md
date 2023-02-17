@@ -7,7 +7,7 @@ tags:
 - Java/ControlFlow/continue
 - Java/ControlFlow/return
 ---
-**[[Javacontrolflow|BACK]]**
+**[[JavaControlFlow|BACK]]**
 
 ---
 ## The Branching Statement

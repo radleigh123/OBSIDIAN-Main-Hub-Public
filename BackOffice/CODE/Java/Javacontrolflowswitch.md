@@ -6,7 +6,7 @@ tags:
 - Java/ControlFlow/switch
 - Java/String/toLowerCase
 ---
-**[[Javacontrolflow|BACK]]**
+**[[JavaControlFlow|BACK]]**
 
 ---
 ## The Switch Statement

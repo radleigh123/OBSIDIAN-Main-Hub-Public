@@ -55,6 +55,9 @@
 - He never clicks "Skip" on YouTube ads
 - When you become focused on writing the story, you cried along with it
 - Going to sleep **restarts** PC instead of **shut down**
+- open car window in front of garbage truck during traffic (comic)
+- girl baggy clothes pure good high IQ - boy nerdy clothes devil average IQ
+- ever wonder why changing the past is always not the answer, because God's future is absolute
 
 >[!WARNING] Needed
 >- monitor
