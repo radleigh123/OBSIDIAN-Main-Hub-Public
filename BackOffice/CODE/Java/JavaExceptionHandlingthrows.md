@@ -3,6 +3,9 @@ aliases:
 tags:
 - Java
 - Java/Exceptions/throws
+- Java/java.util/Scanner
+- Java/java.io/File
+- Java/java.io/FileNotFoundException
 ---
 **[[JavaExceptionHandling|BACK]]**
 
@@ -12,20 +15,23 @@ is used to declare exceptions. It specifies that there may occur an exception in
 
 **e.g.**
 ```java
-import java.io.*;
-
-class M {
-    void method() throws IOException {
-        throw new IOException("device error");
-    }
-}
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
 
 public class Proto {
-    public static void main(String args[]) throws IOException {// declare exception
-        M m = new M();
-        m.method();
+    static void readFile(String fileName) throws FileNotFoundException {
+        File file = new File(fileName);
+        Scanner sc = new Scanner(file);
+    }
 
-        System.out.println("normal flow...");
+    public static void main(String[] args) {
+        String fileName = "myFile.txt";
+        try {
+            readFile(fileName);
+        } catch (FileNotFoundException e) {
+            System.out.println("The file " + fileName + " could not be found");
+        }
     }
 }
 ```
