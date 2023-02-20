@@ -18,6 +18,7 @@
 - [b] voracious
 - [b] repertoire
 - [b] unambiguous
+- [b] recalcitrant
 
 ## Songs MOFO
 - [O] Blackbear - @ my worst

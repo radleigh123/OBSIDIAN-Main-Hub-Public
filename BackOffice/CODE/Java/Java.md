@@ -58,8 +58,6 @@ public class Main {
 - [[JavaPolymorphism|Polymorphism]]
 	- [[JavaPolymorphismDynamic|Dynamic polymorphism]]
 - [[JavaFileClass|File class]]
-- FileWriter (write to a file)
-- FileReader (read a file)
 - Audio
 - [[JavaGUI|GUI]]
 - 2D graphics

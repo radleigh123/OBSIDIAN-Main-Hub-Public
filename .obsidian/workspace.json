@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f745863418c95e5",
+            "id": "6694e3ab670a782d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -231,17 +231,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f745863418c95e5",
+  "active": "6694e3ab670a782d",
   "lastOpenFiles": [
-    "BackOffice/CODE/Java/JavaExceptionHandlingthrows.md",
-    "BackOffice/CODE/Java/JavaExceptionHandling.md",
-    "BackOffice/CODE/Java/JavaExceptionHandlingthrow.md",
+    "TEMPRevisedWorkout.md",
+    "BackOffice/CODE/Java/JavaFileClassReadingFile.md",
+    "BackOffice/CODE/Java/JavaFileClassFileReader.md",
+    "BackOffice/CODE/Java/JavaFileClassFileWriter.md",
     "BackOffice/CODE/Java/Java.md",
-    "TEMPhomework.md",
     "BackOffice/CODE/Java/JavaFileClass.md",
-    "BackOffice/CODE/Java/JavaExceptionHandlingfinally.md",
+    "BackOffice/CODE/Java/JavaFileClassCreatingFile.md",
     "BackOffice/CODE/Java/JavaExceptionHandlingtrycatch.md",
-    "BackOffice/CODE/Java/JavaScannersample1.md",
-    "BackOffice/CODE/Java/JavaScanner.md"
+    "BackOffice/CODE/Java/JavaExceptionHandling.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14.md"
   ]
 }
