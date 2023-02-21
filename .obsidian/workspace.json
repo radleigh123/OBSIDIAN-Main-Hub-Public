@@ -14,14 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md",
+                "file": "BackOffice/Backend Dev/Internet.md",
                 "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
+          },
+          {
+            "id": "36fb3794ec4a6fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/Backend Dev/InternetInfrastructure.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -117,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md",
+                "file": "BackOffice/Backend Dev/InternetInfrastructure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md",
+                "file": "BackOffice/Backend Dev/InternetInfrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md",
+                "file": "BackOffice/Backend Dev/InternetInfrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/Java/Java.md"
+                "file": "BackOffice/Backend Dev/InternetInfrastructure.md"
               }
             }
           },
@@ -231,17 +245,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6694e3ab670a782d",
+  "active": "36fb3794ec4a6fda",
   "lastOpenFiles": [
-    "TEMPRevisedWorkout.md",
-    "BackOffice/CODE/Java/JavaFileClassReadingFile.md",
-    "BackOffice/CODE/Java/JavaFileClassFileReader.md",
-    "BackOffice/CODE/Java/JavaFileClassFileWriter.md",
+    "BackOffice/Backend Dev/Internet.md",
+    "BackOffice/Backend Dev/NetworkingInfrastructure.md",
+    "BackOffice/Backend Dev/ProtocolStacksAndPackets.md",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/MAINBSIT.md",
+    "BackOffice/CODE/Java/JavaButtons.md",
     "BackOffice/CODE/Java/Java.md",
-    "BackOffice/CODE/Java/JavaFileClass.md",
-    "BackOffice/CODE/Java/JavaFileClassCreatingFile.md",
-    "BackOffice/CODE/Java/JavaExceptionHandlingtrycatch.md",
-    "BackOffice/CODE/Java/JavaExceptionHandling.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14.md"
+    "BackOffice/CODE/Java/JavaGUISwing.md",
+    "BackOffice/CODE/Java/JavaPanels.md",
+    "Backlinks/attachments/JavaPanelsimage0.png"
   ]
 }

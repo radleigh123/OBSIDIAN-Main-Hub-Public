@@ -8,7 +8,7 @@ tags:
 ### Network Infrastructure
 So now you know how packets travel from one computer to another over the Internet. But what's in-between? What actually makes up the Internet?
 
-![[Internetimage2.png|center wm-tl]]
+![[Internetimage2.png|center wm-tl]] ^0ba957
 
 The [[ISP]] maintains a pool of modems for their dial-in customers. This is managed by some form of computer (usually a dedicated one) which controls data flow from the modem pool to a backbone or dedicated line router. This setup may be referred to as a [[port server]], as it 'serves' access to the network. Billing and usage information is usually collected here as well.
 
@@ -21,6 +21,6 @@ After your packets traverse the phone network and your ISP's local equipment, th
 > 
 >> If you use traceroute, you'll notice that your packets must travel through many things to get to their destination. Most have long names such as `sjc2-core1-h2-0-0.atlas.digex.net` and `fddi0-0.br4.SJC.globalcenter.net`. These are Internet routers that decide where to send your packets.
 
-Several routers are shown in [[Internet#^INTERNETIMAGE1|Diagram 3]], but only a few. It is meant to show a simple network structure.
+Several routers are shown in [[NetworkingInfrastructure#^0ba957|Diagram 3]], but only a few. It is meant to show a simple network structure.
 
 <br>

@@ -58,7 +58,7 @@ public class Main {
 - [[JavaPolymorphism|Polymorphism]]
 	- [[JavaPolymorphismDynamic|Dynamic polymorphism]]
 - [[JavaFileClass|File class]]
-- Audio
+- [[JavaAudio|Audio]]
 - [[JavaGUI|GUI]]
 - 2D graphics
 - 3D graphics

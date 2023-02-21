@@ -34,7 +34,6 @@ public class Proto {
                 System.out.print((char) data);
                 data = reader.read();
             }
-
             reader.close();
         } catch (FileNotFoundException e) {
             System.out.println("File not Found");

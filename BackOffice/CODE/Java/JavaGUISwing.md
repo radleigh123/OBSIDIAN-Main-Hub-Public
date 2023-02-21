@@ -10,9 +10,10 @@ tags:
 ---
 ## Swing
 - [[JavaGUISwingJOptionPane|JOptionPane]]
-- Labels
-- Panels
-- Buttons
+- [[JavaGUISwingJFrame|JFrame]]
+- [[JavaLabels|Labels]]
+- [[JavaPanels|Panels]]
+- [[JavaButtons|Buttons]]
 - BorderLayout
 - FlowLayout
 - GridLayout
