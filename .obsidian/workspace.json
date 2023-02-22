@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cd7d35572d84ad8e",
+        "id": "e01880459602a378",
         "type": "tabs",
         "children": [
           {
-            "id": "6694e3ab670a782d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/Backend Dev/Internet.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "36fb3794ec4a6fda",
+            "id": "382309ffb1486032",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/Backend Dev/InternetInfrastructure.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +111,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/Backend Dev/InternetInfrastructure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/Backend Dev/InternetInfrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/Backend Dev/InternetInfrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -213,9 +190,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BackOffice/Backend Dev/InternetInfrastructure.md"
-              }
+              "state": {}
             }
           },
           {
@@ -235,27 +210,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "zk-prefixer:Create new unique note": false,
       "templates:Insert template": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36fb3794ec4a6fda",
+  "active": "382309ffb1486032",
   "lastOpenFiles": [
-    "BackOffice/Backend Dev/Internet.md",
-    "BackOffice/Backend Dev/NetworkingInfrastructure.md",
-    "BackOffice/Backend Dev/ProtocolStacksAndPackets.md",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/MAINBSIT.md",
-    "BackOffice/CODE/Java/JavaButtons.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/CODE/Java/JavaGUISwing.md",
-    "BackOffice/CODE/Java/JavaPanels.md",
-    "Backlinks/attachments/JavaPanelsimage0.png"
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "TEMPhomework.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRETPDF.pdf",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch3sample0.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch3.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch22.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch21.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch2.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch31.md",
+    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch24.md"
   ]
 }

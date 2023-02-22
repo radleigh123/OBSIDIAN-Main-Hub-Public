@@ -35,7 +35,7 @@ $(x, y) \in R$ means that $\frac{x - y}{2}$ is an integer
 >> $(1, 3)\ \in\ R$ because $\frac{1-3}{2}\ =\ \frac{-2}{2}\ =\ -1$, which is an integer
 >> $(2, 1)\ \notin\ R$ because $\frac{2-1}{2}\ =\ \frac{1}{2}$, which is not an integer
 >> $(2, 2)\ \in\ R$ because $\frac{2-2}{2}\ =\ \frac{0}{2}\ =\ 0$, which is an integer
->> $(2, 3)\ \notin\ R$ because $\frac{2-3}{2}\ =\ \frac{-1}{2}$, which is an integer
+>> $(2, 3)\ \in\ R$ because $\frac{2-3}{2}\ =\ \frac{-1}{2}$, which is an integer
 >> <br>
 >> $R = \{(1, 1), (1, 3), (2, 2)\}$
 
@@ -49,7 +49,7 @@ Let $A = \{1, 2\}$ and $B = \{1, 2, 3\}$ and define a relation $R$ from $A$ to $
 > ◾ Is 1 $R$ 3? Is 2 $R$ 3? Is 2 $R$ 2?
 > Yes, 1 $R$ 3 because $(1, 3)\ \in\ R$
 > No, 2 $\not\\R$ 3 because $(2, 3)\ \notin\ R$
-> Yes, 2 $R$ 2 because $(2, 2)\ \notin\ R$
+> Yes, 2 $R$ 2 because $(2, 2)\ \in\ R$
 > <br>
 > ◾ What are the domain and co-domain of $R$?
 > The domain of $R$ is $\{1, 2\}$ and the co-domain is $\{1, 2, 3\}$

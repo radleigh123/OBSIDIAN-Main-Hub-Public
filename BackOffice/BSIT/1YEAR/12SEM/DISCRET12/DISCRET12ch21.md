@@ -6,7 +6,6 @@ tags:
 
 ---
 ## Subsets
-$\not\subseteq$
 a basic relation between sets is that of **subset**
 >- If $A$ and $B$ are sets
 >	- then $A$ is a **subset** of $B$ ($A\ \subseteq\ B$)

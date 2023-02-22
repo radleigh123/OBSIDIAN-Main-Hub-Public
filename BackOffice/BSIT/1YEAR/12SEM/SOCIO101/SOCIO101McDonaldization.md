@@ -1,0 +1,11 @@
+---
+aliases:
+tags:
+---
+**[[SOCIO101PRELIMch21|BACK]]**
+
+---
+## McDonaldization
+McDonaldization is the process by which Western societies are dominated by the principles of fast-food restaurants. This concept was developed by American sociologist George Ritzer which refers to the particular kind of rationalization of production, work, and consumption that rose to prominence in the late twentieth century. The basic idea is that these elements have been adapted based on the characteristics of a fast-food restaurant- **efficiency**, **calculability**, **predictability** and **standardization**, and **control** and that this adaptation has ripple effects throughout all aspects of society.
+
+On the other hand, **heterogeneity** pertains to the creation of various cultural practices. new economies, and political groups because of the interaction of elements from different societies around the world. Associated with this is the concept of **glocalization**. Glocalization sees globalization as a process wherein global forces interact with local factors or a specific geographic area. The term is a combination of the words "globalization" and "Tocalization." The term was coined in the Harvard Business Review, in 1980, by sociologist Roland Robertson, who wrote that glocalization meant "<mark class="hltr-blue">the simultaneity-the co-presence-of both universalizing and particularizing tendencies.</mark>" In regards to a particular product or service. this means the adaptation of globally marketed products and services into local markets. A global product or service, something everyone needs and can get used out of, may be tailored to conform with local laws, customs, or consumer preferences. Products that are "glocalized" are, by definition, going to be of much greater interest to the end user, the person who ends up using the product. This is because while it's something that everyone can use and has use for, as a global product, its localization makes it more specific to an individual, their context, and their needs. (Hayes, 2020)

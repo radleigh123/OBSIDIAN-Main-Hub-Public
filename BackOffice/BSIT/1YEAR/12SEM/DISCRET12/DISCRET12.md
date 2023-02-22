@@ -8,6 +8,9 @@ banner_y: 0.54
 **Instructor:** Amiel A. Poro
 **EDP Code:** 70340
 
+**[[DISCRETPDF.pdf|EBOOK PDF]]**
+
+---
 >[!aside|right no-i collapse]
 > 🔸 [[DISCRET12HELP|Prerequisite Info]]
 ## Prelim
