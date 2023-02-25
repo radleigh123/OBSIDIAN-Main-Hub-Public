@@ -10,20 +10,20 @@ tags:
 ---
 ## Swing
 - [[JavaGUISwingJOptionPane|JOptionPane]]
-- [[JavaGUISwingJFrame|JFrame]]
-- [[JavaLabels|Labels]]
-- [[JavaPanels|Panels]]
-- [[JavaButtons|Buttons]]
-- BorderLayout
-- FlowLayout
-- GridLayout
-- LayeredPane
-- open a new GUI window
-- textfield
-- checkbox
-- radio buttons
-- combobox
-- slider
+- [[JavaGUISwingJFrame|Frame]]
+- [[JavaGUISwingJLabel|Labels]]
+- [[JavaGUISwingJPanel|Panels]]
+- [[JavaGUISwingJButton|Buttons]]
+- [[JavaGUISwingJLayeredPane|LayeredPane]]
+- [[JavaLayoutManagerBorder|BorderLayout]]
+- [[JavaLayoutManagerFlow|FlowLayout]]
+- [[JavaLayoutManagerGrid|GridLayout]]
+- **[[JavaSampleLaunchingPage|Opening new GUI window]]**
+- [[JavaGUISwingJTextField|Text Field]]
+- [[JavaGUISwingJCheckBox|Check Box]]
+- [[JavaGUISwingJRadioButton|Radio Buttons]]
+- [[JavaGUISwingJComboBox|Combo Box]]
+- [[JavaGUISwingJSlider|Slider]]
 - progressbar
 - menubar
 - select a file

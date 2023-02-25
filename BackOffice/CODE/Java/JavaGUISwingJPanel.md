@@ -14,7 +14,7 @@ is a container that can store a group of components. The main task of `JPanel` i
 
 **e.g.**
 >[!aside|right show-title]+ **Result:**
-> ![[JavaPanelsimage0.png|ws-small]]
+> ![[JavaGUISwingJPanelimage0.png|ws-small]]
 
 ```java
 import java.awt.Color;

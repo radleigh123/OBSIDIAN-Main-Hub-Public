@@ -25,7 +25,7 @@ is a class of java Swing.
 
 **e.g.**
 >[!aside|right show-title]+ **Result:**
-> ![[JavaLabelsimage0.png|ws-med]]
+> ![[JavaGUISwingJLabelimage0.png|ws-med]]
 
 ```java
 import java.awt.Color;

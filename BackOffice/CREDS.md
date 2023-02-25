@@ -2,7 +2,8 @@
 **FACEBOOK**: keaneradleigh123\@gmail.com - 1Lhlanders!
 **TWITTER** - keane_radleigh
 **INSTAGRAM**: keane.radleigh
-**STEAM**: keanekiller - Swimming_Woods
+**STEAM**: keanekiller - Swimming_Woods (keaneradleigh321)
+**STEAM:** keane1235 - NANOLESS1234 (keaneradleighinting)
 **GITHUB**: keaneradleigh - 1Lhlanders
 **REDDIT**: keanekiller - NANOLESS1234
 **BATTELNET**: NOOBZforFUN - Swimming_Woods

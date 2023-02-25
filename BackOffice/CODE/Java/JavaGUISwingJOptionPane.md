@@ -11,27 +11,16 @@ tags:
 ---
 ## `JOptionPane`
 makes it easy to pop up a standard dialog box that prompts users for a value or informs them of something.
+- **[[JavaGUISwingJOptionPaneshowConfirmDialog|showConfirmDialog]]**
+- **[[JavaGUISwingJOptionPaneshowInputDialog|showInputDialog]]**
+- **[[JavaGUISwingJOptionPaneshowMessageDialog|showMessageDialog]]**
+- **[[JavaGUISwingJOptionPaneshowOptionDialog|showOptionDialog]]**
 
-**JOptionPane.showInputDialog()** - takes input
-**JOptionPane.showMessageDialog()** - shows input
-```java
-import javax.swing.JOptionPane;
+<br>
 
-public class Main {
-    public static void main(String[] args) {
-        String name = JOptionPane.showInputDialog("Enter your name");
-		
-        JOptionPane.showMessageDialog(null,
-                "Hello " + name,
-                "Inane error",
-                JOptionPane.ERROR_MESSAGE);
-    }
-}
-```
-
-**Examples**
-- [[JavaGUISwingJOptionPanesample0|Using `parseInt()` to output integer value]]
-- [[JavaGUISwingJOptionPanesample1|Using `parseDouble()` to output floating-point value]]
+>[!EXAMPLE|alt-co]
+>- [[JavaGUISwingJOptionPanesample0|Using parseInt()]]
+>- [[JavaGUISwingJOptionPanesample1|Using parseDouble()]]
 
 <br>
 

@@ -8,11 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "382309ffb1486032",
+            "id": "07451573fef540af",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/CODE/Java/JavaGUISwing.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
             }
           }
         ]
@@ -111,6 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "BackOffice/CODE/Java/JavaGUISwing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BackOffice/CODE/Java/JavaGUISwing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BackOffice/CODE/Java/JavaGUISwing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BackOffice/CODE/Java/JavaGUISwing.md"
+              }
             }
           },
           {
@@ -220,17 +231,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "382309ffb1486032",
+  "active": "07451573fef540af",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
-    "TEMPhomework.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRETPDF.pdf",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch3sample0.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch3.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch22.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch21.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch2.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch31.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch24.md"
+    "JavaGUISwingJSlider.md",
+    "JavaGUISwingJSlidersample.md",
+    "BackOffice/CODE/Java/JavaGUISwing.md",
+    "JavaGUISwingJComboBox.md",
+    "JavaGUISwingJComboBoxsample.md",
+    "Backlinks/attachments/JavaGUISwingJComboBoximage.png",
+    "JavaGUISwingJRadioButton.md",
+    "JavaGUISwingJRadioButtonsample.md",
+    "Backlinks/attachments/JavaGUISwingJRadioButtonsampleimage.png",
+    "Backlinks/attachments/JavaJRadioButtonimage.png"
   ]
 }
