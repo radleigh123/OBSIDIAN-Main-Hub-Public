@@ -24,8 +24,8 @@ tags:
 - [[JavaGUISwingJRadioButton|Radio Buttons]]
 - [[JavaGUISwingJComboBox|Combo Box]]
 - [[JavaGUISwingJSlider|Slider]]
-- progressbar
-- menubar
+- [[JavaGUISwingJProgressBar|Progress Bar]]
+- [[JavaGUISwingJMenuBar|Menu Bar]]
 - select a file
 - color chooser
 - KeyListener

@@ -16,12 +16,12 @@ tags:
 > is a worldwide collection of computer networks that connects millions of businesses, government agencies, educational institutions, and individuals.
 
 1. [[Internet Address|Internet Address]] ^INTERNETADDRESS
-2. [[ProtocolStacksAndPackets|Protocol Stacks and Packets]] ^PROTOCOLSTACKS
-3. [[NetworkingInfrastructure|Networking Infrastructure]] ^NETWORKINFRASTRUCTURE
-4. [[InternetInfrastructure|Internet Infrastructure]] ^INTERNETINFRASTRUCTURE
-5. [[RoutingHierarchy|The Internet Routing Hierarchy]] ^ROUTINGHEIRARCHY
+2. [[Protocol Stacks|Protocol Stacks and Packets]] ^PROTOCOLSTACKS
+3. [[Networking Infrastructure|Networking Infrastructure]] ^NETWORKINFRASTRUCTURE
+4. [[Internet Infrastructure|Internet Infrastructure]] ^INTERNETINFRASTRUCTURE
+5. [[Internet Routing Hierarchy|The Internet Routing Hierarchy]] ^ROUTINGHEIRARCHY
 6. [[Domain Name|Domain Names and Address Resolution]] ^DOMAINNAMES
-7. [[InternetProtocol|Internet Protocols Revisited]] ^INTERNETPROTOCOLS
+7. [[Internet Protocol1|Internet Protocols Revisited]] ^INTERNETPROTOCOLS
 8. [[HTTP|Application Protocols: HTTP and the World Wide Web]] ^HTTP
 9. [[SMTP|Application Protocols: SMTP and Electronic Mail]] ^SMTP
 10. [[TCP|Transmission Control Protocol]] ^TCP

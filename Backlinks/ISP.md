@@ -4,5 +4,3 @@
 	- Community-owned
 	- Non-profit
 	- Privately owned
-
-**[Back](WEBDEVPRELIM1.md)** 

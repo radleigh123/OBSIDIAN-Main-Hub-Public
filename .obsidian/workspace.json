@@ -69,7 +69,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -217,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,15 +235,15 @@
   },
   "active": "07451573fef540af",
   "lastOpenFiles": [
-    "JavaGUISwingJSlider.md",
-    "JavaGUISwingJSlidersample.md",
-    "BackOffice/CODE/Java/JavaGUISwing.md",
-    "JavaGUISwingJComboBox.md",
-    "JavaGUISwingJComboBoxsample.md",
-    "Backlinks/attachments/JavaGUISwingJComboBoximage.png",
-    "JavaGUISwingJRadioButton.md",
-    "JavaGUISwingJRadioButtonsample.md",
-    "Backlinks/attachments/JavaGUISwingJRadioButtonsampleimage.png",
-    "Backlinks/attachments/JavaJRadioButtonimage.png"
+    "BackOffice/CODE/Java/JavaGUI.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/Backend Dev/Internet.md",
+    "BackOffice/Backend Dev/MAE.md",
+    "BackOffice/Backend Dev/Internet Infrastructure.md",
+    "BackOffice/Backend Dev/Networking Infrastructure.md",
+    "Backlinks/attachments/Networking Infrastructure.png",
+    "BackOffice/Backend Dev/Protocol Stacks.md",
+    "Backlinks/attachments/MAE.png",
+    "BackOffice/Backend Dev/NSP.md"
   ]
 }
