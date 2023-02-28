@@ -60,6 +60,10 @@ public class Main {
 - [[JavaFileClass|File class]]
 - [[JavaAudio|Audio]]
 - [[JavaGUI|GUI]]
+	- [[JavaKeyListener|Key Listener]]
+	- [[JavaMouseListener|Mouse Listener]]
+	- **[[JavaSampleDrag&DropImages|Drag and drop]]**
+	- [[Key bindings]]
 - 2D graphics
 - 3D graphics
 - generics

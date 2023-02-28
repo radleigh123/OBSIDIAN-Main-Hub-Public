@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07451573fef540af",
+            "id": "51b0d6fa98ab9d79",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaGUISwing.md",
+                "file": "BackOffice/CODE/Java/Java.md",
                 "mode": "preview",
                 "source": true
               },
@@ -96,12 +96,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaGUISwing.md",
+                "file": "BackOffice/CODE/Java/Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaGUISwing.md",
+                "file": "BackOffice/CODE/Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaGUISwing.md",
+                "file": "BackOffice/CODE/Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaGUISwing.md"
+                "file": "BackOffice/CODE/Java/Java.md"
               }
             }
           },
@@ -218,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,17 +232,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07451573fef540af",
+  "active": "51b0d6fa98ab9d79",
   "lastOpenFiles": [
-    "BackOffice/CODE/Java/JavaGUI.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14RelationConquest.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14InstructionMiguel.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14FirstVoyage.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
     "BackOffice/CODE/Java/Java.md",
-    "BackOffice/Backend Dev/Internet.md",
-    "BackOffice/Backend Dev/MAE.md",
-    "BackOffice/Backend Dev/Internet Infrastructure.md",
-    "BackOffice/Backend Dev/Networking Infrastructure.md",
-    "Backlinks/attachments/Networking Infrastructure.png",
-    "BackOffice/Backend Dev/Protocol Stacks.md",
-    "Backlinks/attachments/MAE.png",
-    "BackOffice/Backend Dev/NSP.md"
+    "JavaSampleDrag&DropImages.md",
+    "Backlinks/attachments/JavaSampleDrag&DropImagesimage.png",
+    "BackOffice/CODE/Java/JavaGUISwing.md",
+    "BackOffice/CODE/Java/JavaGUI.md",
+    "JavaMouseListener.md",
+    "Backlinks/attachments/JavaMouseListenerimage.png",
+    "JavaKeyListener.md",
+    "Backlinks/attachments/JavaKeyListenerimage.png",
+    "JavaGUISwingJColorChooser.md",
+    "Backlinks/attachments/JavaGUISwingJColorChooserimage.png",
+    "Backlinks/attachments/JavaGUISwingJColorChooserimage1.png",
+    "JavaGUISwingJFileChooser.md",
+    "JavaGUISwingJFileChoosersample.md",
+    "Backlinks/attachments/JavaGUISwingJFileChoosersampleimage.png"
   ]
 }

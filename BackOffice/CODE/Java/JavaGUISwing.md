@@ -9,7 +9,7 @@ tags:
 
 ---
 ## Swing
-- [[JavaGUISwingJOptionPane|JOptionPane]]
+- **[[JavaGUISwingJOptionPane|JOptionPane]]**
 - [[JavaGUISwingJFrame|Frame]]
 - [[JavaGUISwingJLabel|Labels]]
 - [[JavaGUISwingJPanel|Panels]]
@@ -26,12 +26,8 @@ tags:
 - [[JavaGUISwingJSlider|Slider]]
 - [[JavaGUISwingJProgressBar|Progress Bar]]
 - [[JavaGUISwingJMenuBar|Menu Bar]]
-- select a file
-- color chooser
-- KeyListener
-- MouseListener
-- drag and drop
-- key bindings
+- [[JavaGUISwingJFileChooser|File Chooser]]
+- [[JavaGUISwingJColorChooser|Color Chooser]]
 
 <br>
 
