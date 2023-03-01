@@ -11,6 +11,7 @@ banner_y: 0.308
 ## Prelim
 - [[SOCIO101PRELIMch1|The Globalization of Economic Relations]]
 	- [[SOCIO101PRELIMch11|Additional info]]
+	- [[SOCIO101PRELIMch12|Additional info2]]
 - [[SOCIO101PRELIMch2|Solid & Liquid]]
 	- [[SOCIO101PRELIMch21|Theories on Globalization]]
 	- [[SOCIO101PRELIMch22|Dynamics of Local and Global Culture]]

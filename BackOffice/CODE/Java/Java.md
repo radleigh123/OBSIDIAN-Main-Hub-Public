@@ -10,6 +10,7 @@ tags:
 
 ---
 # Java
+[[UpdateJava]]
 **Main.java**
 ```java
 public class Main {
@@ -25,12 +26,11 @@ public class Main {
 <br>
 
 - [[Javaintro|Introduction]]
-- [[JavaComments|Comments]]
+- [[JavaComments|Program Comments]]
 - [[JavaVariables|Variables]]
 - [[JavaScanner|Scanner class]]
 - [[JavaExceptionHandling|Exception Handling]]
 - [[JavaExpressions|Expressions]]
-- [[JavaGUI|GUI intro]]
 - [[JavaMath|Math class]]
 - [[JavaRandom|Random class]]
 - [[JavaControlFlow|Control Flow]]
@@ -38,7 +38,7 @@ public class Main {
 - [[JavaArrays|Arrays]]
 - [[JavaArrayList|ArrayList]]
 - [[JavaString|String]]
-- [[JavaWrapperClass|Wrapper classes]]
+- [[JavaWrapperClass|Wrappers, AutoBoxing, & Unboxing]]
 - [[JavaMethods|Methods]]
 - [[Javaprintf|printf]]
 - [[JavaConstants|Final]]
@@ -50,7 +50,7 @@ public class Main {
 - [[JavaObjectsPassing|Object passing]]
 - [[JavaStatic|Static]]
 - [[JavaInheritance|Inheritance]]
-- [[JavaSuper|Super]]
+	- [[JavaSuper|Super]]
 - [[JavaAbstraction|Abstraction]]
 - [[JavaAccessModifiers|Access modifiers]]
 - [[JavaEncapsulation|Encapsulation]]
