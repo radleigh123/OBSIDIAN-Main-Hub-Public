@@ -13,8 +13,7 @@ banner_y: 0.54
 ---
 >[!aside|right no-i collapse]
 > 🔸 [[DISCRET12HELP|Prerequisite Info]]
-## Prelim
-**Speaking Mathematically**
+### Prelim - **Speaking Mathematically**
 - [[DISCRET12ch1|Variables]]
 - [[DISCRET12ch2|Sets]]
 	- [[DISCRET12ch21|Subsets]]
@@ -22,11 +21,27 @@ banner_y: 0.54
 - [[DISCRET12ch3|Relations & Functions]]
 	- [[DISCRET12ch31|Function Machines]]
 
-## Midterm
+### Midterm - The Logic of Compound Statements
+>[!NOTE|alt-co]- NOTE
+> The first great treatises on logic were written by the Greek philosopher Aristotle. They were a collection of rules for deductive reasoning that were intended to serve as a basis for the study of every branch of knowledge. In the seventeenth century, the German philosopher and mathematician Gottfried Leibniz conceived the idea of using symbols to mechanize the process of deductive reasoning in much the same way that algebraic notation had mechanized the process of reasoning about numbers and their relationships. Leibniz’s idea was realized in the nineteenth century by the English mathematicians George Boole and Augustus De Morgan, who founded the modern subject of symbolic logic. With research continuing to the present day, symbolic logic has provided, among other things, the theoretical basis for many areas of computer science such as **[[DISCRET12DigitalLogic|digital logic circuit design]]**, **[[DISCRET12RelationalTheory|relational database theory]]**, **[[DISCRET12AutomataTheory&Computability|automata theory and computability]]**, and **[[DISCRET12AI|artificial intelligence]]**.
 
-## Semifinal
+- [[DISCRET12ch4|Logical Form]]
+	- [[DISCRET12ch41|Statements]]
+		- [[DISCRET12ch41#Compound Statements|Compound Statements]]
+	- [[DISCRET12ch42|Truth Values]]
+- [[DISCRET12ch5|Logical Equivalence]]
+	- [[DISCRET12ch51|Tautologies and Contradictions]]
+	- [[DISCRET12ch52|Summary of Logical Equivalences]]
+- [[DISCRET12ch6|Conditional Statements]]
+	- [[DISCRET12ch61|Logical Equivalences Involving →]]
+	- [[DISCRET12ch62|The Contrapositive of a Conditional Statement]]
+	- [[DISCRET12ch63|Only If and the Biconditional]]
+	- [[DISCRET12ch64|Necessary and Sufficient Conditions]]
+	- [[DISCRET12ch65|Remarks]]
 
-## Final
+### Semifinal - The Logic of Quantified Statements
+
+### Final
 
 <br>
 

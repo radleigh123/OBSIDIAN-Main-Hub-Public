@@ -5,20 +5,19 @@ aliases:
 tags:
 - Java
 - Java/Lecture
-- Java/Final
+- Java/final
 ---
 **[[Java|HOME [Java]]]**
 
 ---
-# `final` keyword
-```java
-public class Proto1 {
-    public static void main(String[] args) {
-        final double pi = 3.1459;
+# Constants
+**`final` keyword**
+To store values that never change, you need to declare a constant (`final`). The value of a constant can be assigned only once. Java developers usually render the<mark class="hltr-lightgreen"> names of constants in upper case</mark>.
 
-        System.out.println(pi);
-    }
-}
+```java
+final double PI = 3.1459;
+
+final String MANUFACTURER = "Yamaha Corp.";
 ```
 
 <br>

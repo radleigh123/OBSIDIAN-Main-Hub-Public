@@ -68,7 +68,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://excalidraw.com",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.18",
     "libraryItems": [
       {
         "id": "VoWgAQr8gVupUdPfRIkkO",
@@ -487,7 +487,6 @@
             "fontFamily": 3,
             "text": "Python",
             "rawText": "Python",
-            "baseline": 45,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
@@ -3820,7 +3819,6 @@
             "fontFamily": 1,
             "text": "JSON",
             "rawText": "",
-            "baseline": 68,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
@@ -10390,7 +10388,6 @@
             "fontFamily": 1,
             "text": "DNS",
             "rawText": "",
-            "baseline": 65,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
@@ -10803,7 +10800,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "1.8.17",
+  "previousRelease": "1.8.18",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",

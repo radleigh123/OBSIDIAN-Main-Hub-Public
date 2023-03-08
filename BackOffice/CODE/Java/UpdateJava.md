@@ -1,41 +1,57 @@
-#### Introduction to Java
-- Why learn Java?
-- JDK and JRE
-- Java SE and EE
+
+---
+cssclass:
+title: Java
+creation-date: 2023-02-01
+aliases:
+tags:
+- Java
+---
+**[[MAINCODE]]**
+
+---
+# Java
+#### Introduction
+>[!DONE|alt-co no-i collapse]- Why learn Java?
+> ▪ The Java programming language was originally created in 1995 by **James Gosling** from Sun Microsystems (currently a subsidiary of Oracle Corporation).
+> ▪ The goal was to provide a simpler and platform-independence alternative to [[C++]]
+> ▪ The Java Language is *[[JavaObjects|object-oriented]]* (OO), which allows you to easily relate program constructs to objects from the real world.
+- [[JavaLifeCycle|The Life Cycle of a Java Program]]
+- [[JavaJDK&JRE|JDK and JRE]]
+- [[JavaSE&EE|Java SE and EE]]
+- [[JavaHelloWorld|Hello World Program]]
 
 #### Object-Oriented Programming
-- Classes and Objects
-- Variables, Constants, and Data Types
-	- Declaring Variables
-	- Constants
-	- Primitive Data Types
-- Variable Scope
-- Wrappers, Autoboxing, and Unboxing
-- Program Comments
-- Flow Control
-- Inheritance
-- Method Overriding
+- [[JavaClass&Object|Classes and Objects]]
+- [[JavaVariables|Variables]]
+	- [[JavaVariablesScope|Variable Scope]]
+	- [[JavaConstants|Constants]]
+	- [[JavaWrapperClass|Wrappers, AutoBoxing, & Unboxing]]
+- [[JavaVariables|Variables]]
+- [[JavaFlowControl|Flow Control]]
+- [[JavaInheritance|Inheritance]]
 
 #### Class Methods
-- Method Arguments
-- Method Overloading
-- Constructors
-- super Keyword
-- this Keyword
-- Passing by Value or by Reference
-- Variable Scopes
-- static Keyword
+- [[JavaMethod|Method]]
+	- [[JavaMethodsOverloading|Method Overloading]]
+	- [[JavaMethodsOverriding|Method Overriding]]
+- [[JavaConstructors|Constructors]]
+- [[Javasuper|super Keyword]]
+- [[Javathis|this Keyword]]
+- [[JavaObjectsPassing|Passing by Value or by Reference]]
+- [[JavaClass&ObjectVariableScope|Variable Scopes]]
+- [[Javastatic|static Keyword]]
 
 #### Java Basics
-- Arrays
-- Loops
-- Debugging Java Programs
-- Command-Line Arguments
+- [[JavaArrays|Arrays]]
+- [[JavaFlowControl#^217312|Loops]]
+- [[JavaDebugging|Debugging Java Programs]]
+- [[JavaCommandLine|Command-Line Arguments]]
 
 #### Packages, Interfaces, and Encapsulation
-- Java Packages
-- Encapsulation
-	- Access Levels
+- [[JavaPackages|Java Packages]]
+- [[JavaEncapsulation|Encapsulation]]
+	- [[JavaAccessModifiers|Access Levels]]
 - final Keyword
 	- final Variables
 	- final Methods

@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "e01880459602a378",
+        "id": "b55ddf38b3704100",
         "type": "tabs",
         "children": [
           {
-            "id": "a54c6cd4a2dc4e3d",
+            "id": "23ca142adf570607",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/CODE/Java/Java.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "30bd1533aa599edb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPhomework.md",
+                "file": "BackOffice/CODE/Java/JavaCommandLine.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c05be4c625a5ea48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key bindings.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -115,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEMPhomework.md",
+                "file": "BackOffice/CODE/Java/JavaCommandLine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEMPhomework.md",
+                "file": "BackOffice/CODE/Java/JavaCommandLine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEMPhomework.md",
+                "file": "BackOffice/CODE/Java/JavaCommandLine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPhomework.md"
+                "file": "BackOffice/CODE/Java/JavaCommandLine.md"
               }
             }
           },
@@ -214,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,39 +257,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a54c6cd4a2dc4e3d",
+  "active": "30bd1533aa599edb",
   "lastOpenFiles": [
-    "20230301_1023.md",
+    "BackOffice/CODE/Java/JavaCommandLineSample0.md",
+    "BackOffice/CODE/Java/JavaCommandLine.md",
     "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/JavaHelloWorld.md",
     "BackOffice/CODE/Java/Java.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14RelationConquest.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/CODE/Java/JavaSuper.md",
-    "BackOffice/CODE/Java/JavaConstructorsOverloaded.md",
-    "BackOffice/CODE/Java/JavaConstructors.md",
-    "BackOffice/CODE/Java/JavaInheritance.md",
-    "BackOffice/CODE/Java/JavaComments.md",
-    "BackOffice/CODE/Java/JavaWrapperClass.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch11.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/PE103/PE103MIDTERMch2.md",
-    "BackOffice/CODE/Java/JavaSampleDrag&DropImages.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch1.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14InstructionMiguel.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14FirstVoyage.md",
-    "Backlinks/attachments/JavaSampleDrag&DropImagesimage.png",
-    "BackOffice/CODE/Java/JavaGUISwing.md",
-    "BackOffice/CODE/Java/JavaGUI.md",
-    "BackOffice/CODE/Java/JavaMouseListener.md",
-    "Backlinks/attachments/JavaMouseListenerimage.png",
-    "BackOffice/CODE/Java/JavaKeyListener.md",
-    "Backlinks/attachments/JavaKeyListenerimage.png",
-    "BackOffice/CODE/Java/JavaGUISwingJColorChooser.md",
-    "Backlinks/attachments/JavaGUISwingJColorChooserimage.png",
-    "Backlinks/attachments/JavaGUISwingJColorChooserimage1.png",
-    "BackOffice/CODE/Java/JavaGUISwingJFileChooser.md",
-    "Backlinks/attachments/JavaGUISwingJFileChoosersampleimage.png"
+    "Key bindings.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch65.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch64.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch64Example3.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch64Example2.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch64Example1.md",
+    "Backlinks/attachments/Pasted image 20230308194409.png",
+    "Backlinks/attachments/Pasted image 20230308194331.png",
+    "Backlinks/attachments/Pasted image 20230308194223.png",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch63.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch63Example2.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch63Example1.md",
+    "Backlinks/attachments/Pasted image 20230308193938.png",
+    "Backlinks/attachments/Pasted image 20230308193830.png",
+    "Backlinks/attachments/Pasted image 20230308193758.png",
+    "Backlinks/attachments/Pasted image 20230308193737.png",
+    "Backlinks/attachments/Pasted image 20230308193352.png",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch62.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch62Example2.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch62Example1.md",
+    "Backlinks/attachments/Pasted image 20230308192926.png",
+    "Backlinks/attachments/Pasted image 20230308192553.png",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61Example3.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61Example2.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61Example1.md",
+    "exercise 13(a).md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch6.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch6Example2.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch6Example1.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14.pdf"
   ]
 }

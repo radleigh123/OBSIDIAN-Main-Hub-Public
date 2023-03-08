@@ -1,6 +1,9 @@
 ---
-cssclass: t-c, tbl-nalt
-title: Javavariables
+cssclass: 
+- t-c
+- tbl-nalt
+- t-w
+title: JavaVariables
 creation-date: 2023-02-03
 aliases:
 tags:
@@ -12,57 +15,68 @@ tags:
 ---
 # Variables
 **Primitive data types**
+There are eight primitive data types in Java: ^d3b6db
+- four are for integer values;
+- two are for values with a decimal point;
+- one is for storing single characters, and;
+- one is for Boolean data that allows only either true or false as a value.
 
-| data type | size    | value                              |
-| --------- | ------- | ---------------------------------- |
-| `boolean` | 1 bit   | true/false                         |
-| `byte`    | 1 byte  | -128 - 127                         |
-| `short`   | 2 bytes | -32,768 - 32,767                   |
-| `int`     | 4 bytes | -2 billion - 2 billion             |
-| `long`    | 8 bytes | -9 quintillion - 9 quintillion     |
-|           |         |                                    |
-| `float`   | 4 bytes | 6-7 digits, e.g. **3.123456f**     |
-| `double`  | 8 bytes | 15 digits, e.g. **3.123456789...** |
-|           |         |                                    |
-| `char`    | 2 bytes | single characters, **f**           | 
+| PRIMITIVE TYPE | SIZE              | MIN VALUE       | MAX VALUE                        | WRAPPER CLASS |
+| -------------- | ----------------- | --------------- | -------------------------------- | ------------- |
+| `byte`         | 8 bits / 1 byte   | -128            | 127                              | **Byte**      |
+| `short`        | 16 bits / 2 bytes | -32,768         | 32,767                           | **Short**     |
+| `int`          | 32 bits / 4 bytes | -2,147,483,648  | 2,147,483,647                    | **Integer**   |
+| `long`         | 64 bits / 8 bytes | -9,223,372,036, | 9,223,372,036,                   | **Long**      |
+|                |                   | 854,775,808     | 854,775,807                      |               |
+| `float`        | 32 bits / 4 bytes | 6-7 digits      | 6-7 digits                       | **Float**     |
+| `double`       | 64 bits / 8 bytes | 15 digits       | 15 digits                        | **Double**    |
+| `char`         | 16 bits / 2 bytes           | Unicode 0       | Unicode 2 in a power of 16 value | **Character** |
+| `boolean`      | -                 | false (not min) | true (not max)                   | **Boolean**   |
 
-**Reference data type**
+**e.g.**
+```java
+int intNum = 123456789;
+long longNum = 123456L; // `L` at the end
+
+float floatNum = 3.14f; // `f` at the end
+double doubleNum = 3.15;
+
+char var2 = 'A';
+boolean var1 = true; // or false
+```
+
+<br>
+
+**Reference data types**
 
 | data type | size   | value                                   |
 | --------- | ------ | --------------------------------------- |
 | `String`  | varies | a sequence of characters, **"Hello World"** | 
 
->[!FAQ|bg-c-purple]+ FAQ
+**e.g.**
+```java
+String var3 = "Hello World"; // anything reference data type begins Capital
+```
+
+<br>
+
+>[!FAQ|c-blue alt-co collapse no-i]+ FAQ
 >>[!column|clean no-t collapse]
->>>[!INFO|clean no-i ttl-c collapse] Primitive
->>> ◾ 8 types (boolean, byte, etc.)
+>>>[!INFO|clean no-i collapse] Primitive
 >>> ◾ stores data
 >>> ◾ can only hold 1 value
 >>> ◾ less memory
 >>> ◾ fast
 >>
->>>[!INFO|clean no-i ttl-c collapse] Reference
->>> ◾ unlimited (user-defined)
->>> ◾ stores an address
+>>>[!INFO|clean no-i collapse] Reference
+>>> ◾ stores an address, unlimited (user-defined)
 >>> ◾ could hold more value
 >>> ◾ more memory
 >>> ◾ slower
+>
 
-**e.g.**
-```cpp
-int num1 = 123456789;
-float num2 = 3.14f; // `f` at the end
-double num3 = 3.15;
-
-boolean var1 = true; // or false
-char var2 = 'A';
-String var3 = "Hello World"; // anything reference data type begins Capital
-
-// Printing variables in single line
-System.out.println("num1: " + var3 + " " + num2);
-```
----
-- [[JavaVariablessample0|program to swap variables]]
+Examples:
+- [[JavaVariablessample0|Swapping Variables Program]]
 
 <br>
 

@@ -7,7 +7,7 @@
   "readableLineLength": false,
   "attachmentFolderPath": "Backlinks/attachments",
   "pdfExportSettings": {
-    "pageSize": "Legal",
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 76

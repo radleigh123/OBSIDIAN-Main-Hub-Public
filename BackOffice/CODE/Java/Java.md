@@ -11,19 +11,6 @@ tags:
 ---
 # Java
 [[UpdateJava]]
-**Main.java**
-```java
-public class Main {
-    public static void main(String[] args) {
-	    int num1;       // declaration
-	    num1 = 555;     // assignment
-	    int num2 = 444; // initialization
-	    
-        System.out.println("Hello" + " " + "World");
-    }
-}
-```
-<br>
 
 - [[Javaintro|Introduction]]
 - [[JavaComments|Program Comments]]
@@ -33,24 +20,24 @@ public class Main {
 - [[JavaExpressions|Expressions]]
 - [[JavaMath|Math class]]
 - [[JavaRandom|Random class]]
-- [[JavaControlFlow|Control Flow]]
+- [[JavaFlowControl|Control Flow]]
 - [[JavaOperators|Operators]]
 - [[JavaArrays|Arrays]]
 - [[JavaArrayList|ArrayList]]
 - [[JavaString|String]]
 - [[JavaWrapperClass|Wrappers, AutoBoxing, & Unboxing]]
-- [[JavaMethods|Methods]]
+- [[JavaMethod|Methods]]
 - [[Javaprintf|printf]]
 - [[JavaConstants|Final]]
 
 ---
-- [[JavaObjects|Objects]]
+- [[JavaClass&Object|Classes and Objects]]
 - [[JavaConstructors|Constructors]]
 - [[JavatoString|toString method]]
 - [[JavaObjectsPassing|Object passing]]
-- [[JavaStatic|Static]]
+- [[Javastatic|Static]]
 - [[JavaInheritance|Inheritance]]
-	- [[JavaSuper|Super]]
+	- [[Javasuper|Super]]
 - [[JavaAbstraction|Abstraction]]
 - [[JavaAccessModifiers|Access modifiers]]
 - [[JavaEncapsulation|Encapsulation]]

@@ -8,6 +8,11 @@ tags:
 Where a Bank is a class that provides functionality to get the rate of interest. However, the rate of interest varies according to banks. For example, SBI, ICICI and AXIS banks could provide 8%, 7%, and 9% rate of interest.
 
 ![[JavaMethodsOverridingsample0image0.png|center]]
+>[!aside|show-title right]+ RESULT:
+> SBI Rate of Interest: 8  
+> ICICI Rate of Interest: 7
+> AXIS Rate of Interest: 9
+
 ```java
 class Bank {
     int getRateOfInterest() {
@@ -16,18 +21,21 @@ class Bank {
 }
 
 class SBI extends Bank {
+	@Override
     int getRateOfInterest() {
         return 8;
     }
 }
 
 class ICIC extends Bank {
+	@Override
     int getRateOfInterest() {
         return 7;
     }
 }
 
 class AXIS extends Bank {
+	@Override
     int getRateOfInterest() {
         return 9;
     }
@@ -44,10 +52,4 @@ public class Proto1 {
         System.out.printf("AXIS Rate of Interest: %d", sub3.getRateOfInterest());
     }
 }
-
-/*
-* SBI Rate of Interest: 8  
-* ICICI Rate of Interest: 7
-* AXIS Rate of Interest: 9
-*/
 ```

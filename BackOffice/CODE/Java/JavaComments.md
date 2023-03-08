@@ -7,24 +7,28 @@ tags:
 
 ---
 ## Program Comments
-**Singe line comment:**
+>[!CITE|alt-co] Be nice and make their job easier.
+>> **TIP:** Write comments first and only then code.
+
+**Singe line comment**
 ```java
-// this is a comment
+// This is a comment
 ```
 
 **Multi-line comments**
 ```java
 /*
-* 
-* 
+* This is very long line of comment explaining
+	a really long description of said code
 */
 ```
 
-**For special utility, javadoc**
+**Special Utility comments (for javadoc)**
 ```java
 /**
-* 
-* 
+* Program Title: Sample Title
+* Date: Sample date
+* Author: Sample coder
 */
 ```
 

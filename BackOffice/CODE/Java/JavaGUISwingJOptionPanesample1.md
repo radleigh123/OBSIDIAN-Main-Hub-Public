@@ -4,7 +4,7 @@ tags:
 - Java
 - Java/GUI/Swing/JOptionPane
 - Java/javax.swing/JOptionPane
-- Java/Double/parseDouble
+- Java/WrapperClass/Double/parseDouble
 ---
 **[[JavaGUISwingJOptionPane|BACK]]**
 

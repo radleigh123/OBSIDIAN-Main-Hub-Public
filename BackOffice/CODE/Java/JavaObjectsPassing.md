@@ -1,4 +1,6 @@
 ---
+cssclass:
+- tag-outline
 aliases:
 tags:
 - Java
@@ -12,31 +14,45 @@ tags:
 ---
 ## Object Passing
 refers to passing objects as arguments to a method or as an element in a collection.
-**e.g.**
+
+**Passing by Value:**
+are passed by value (meaning that an extra copy will be created in memory for each variable). If you create an instance of the class, there will be two copies of `name` and two copies of the variable dependents — one in **main** and the other one in **myClass**.
+
+>[!aside|show-title right]+ RESULT:
+> Keane Radleigh
+
 ```java
-public class Proto1 {
-    public static void changeName(Proto2 p) {
-        p.setName("Rhiz Caballero");
-    }
-
+public class Proto {
     public static void main(String[] args) {
-        Proto2 proto2 = new Proto2("Keane Radleigh");
+        String name = "Keane Radleigh";
 
-        System.out.printf("Before: %s%n", proto2.getName());
-        changeName(proto2);
-        System.out.println("After: " + proto2.getName());
+        myClass myclass = new myClass(name); // creating a copy in myClass
+
+        System.out.printf("%s", myclass.getName());
     }
-}
-
-class Proto2 {
-    String name;
-
-    // constructor
-    public Proto2(String name) {
-        this.name = name;
-    }
-
-    public String getName() { return name; }
-    public void setName(String name) { this.name = name; }
 }
 ```
+
+**Passing by Reference:**
+The variable is pointing to an instance of the object **myClass** in memory. In other words, the variable `myclass2` holds the reference (the address in memory) to an object. The code line will not create another copy of the **myClass** object in memory, but will copy its address to the variable `myclass2`.
+
+>[!aside|show-title right]+ RESULT:
+> Rhiz Caballero
+
+```java
+public class Proto {
+    public static void main(String[] args) {
+        myClass myclass = new myClass("Keane Radleigh");
+        myClass myclass2 = myclass; // passing its reference to an object
+
+		myclass2.setName("Rhiz Caballero");
+
+        System.out.printf("%s", myclass.getName());
+    }
+}
+```
+
+<br>
+
+#Java/GC
+> The process of removal of unused objects from memory is called **garbage collection** (**GC**). [[JavaJDK&JRE|JVM]] runs GC automatically.

@@ -11,10 +11,13 @@ tags:
 
 ---
 # `static` keyword
-> it means that the [[JavaMethods|method]] belongs to the class, rather than to a specific instance of the class. This means that the method can be called without creating an [[JavaObjects|object]] of the class.
+> it means that the [[JavaMethod|method]] belongs to the class, rather than to a specific instance of the class. This means that the method can be called without creating an [[JavaClass&Object|object]] of the class.
 
 means that the particular member belongs to a type itself, rather than to an instance of that type.
 **e.g.**
+>[!aside|right show-title]+ RESULT:
+> 3 of total
+
 ```java
 public class Proto1 {
     public static void main(String[] args) {
@@ -22,13 +25,13 @@ public class Proto1 {
         Proto2 person2 = new Proto2("Radleigh");
         Proto2 person3 = new Proto2("World");
 
-        Proto2.displayCount();
+        Proto2.displayCount(); // because method is STATIC
     }
 }
 
 public class Proto2 {
     String name;
-    static int count;
+    static int count; // STATIC, shares its increment
 
     Proto2(String name) {
         this.name = name;
@@ -41,6 +44,11 @@ public class Proto2 {
     }
 }
 ```
+
+<br>
+
+More example:
+- [[JavastaticSample0|Converting Farenheit to Celsius]]
 
 <br>
 

@@ -1,15 +1,25 @@
 ---
 aliases:
 tags:
+- Java
 - Java/String
 ---
 **[[JavaVariables|BACK]]**
 
 ---
-## Program to swap variables
-```cpp
+>[!aside|right show-title]+ Results:
+> str1: String2
+> str2: String1
+
+```java
+/**
+* Program to swap variables
+*/
+
 public class Main {
+
     public static void main(String[] args) {
+    
         String str1 = "String1", str2 = "String2";
         String temp = str1;
 
@@ -18,7 +28,9 @@ public class Main {
 
         System.out.println("str1: " + str1);
         System.out.println("str2: " + str2);
+        
     }
+
 }
 ```
 

@@ -4,44 +4,24 @@ tags:
 - Java
 - Java/Lecture
 - Java/Methods/Overriding
+- Java/Override
 - Java/Class
 ---
-**[[JavaMethods|BACK]]**
+**[[JavaMethod|BACK]]**
 
 ---
-## Overriding Methods
-> when subclass method is marked with the `@Override` annotation, it<mark class="hltr-blue"> tells the compiler to check</mark> it overrides in the <mark class="hltr-blue">superclass</mark>.
+## Method Overriding
+> when subclass method is marked with the `@Override` annotation, it tells the compiler to check if it overrides in the **superclass**.
 
-is a feature that allows a subclass to provide a different implementation of a method that is already defined in its superclass.
-**e.g.**
-```java
-class Proto2 {
-    public void draw() {
-        System.out.println("Proto2::draw() called...");
-    }
-}
+is a feature that allows a subclass to provide a different implementation of a [[JavaMethod|method]] that is already defined in its superclass. Method overriding comes in handy in the following situations:
+- The source code of the superclass is not available, but you still need to change its functionality.
+- The original version of the method is still valid in some cases and you want to keep it intact.
+- To enable [[JavaPolymorphism|polymorphism]].
 
-class Proto3 extends Proto2 {
-	// this method is meant to override a superclass method
-    @Override
-    public void draw1() { // ERROR! mispelled name
-        System.out.println("Proto3::draw() called...");
-    }
-}
+<br>
 
-public class Proto1 {
-    public static void main(String[] args) {
-        Proto2 proto21 = new Proto2();
-        Proto2 proto22 = new Proto3();
-
-        proto21.draw(); // Proto2...
-        proto22.draw(); // Proto3...
-    }
-}
-```
-
-**More examples**
-- [[JavaMethodsOverridingsample0|Bank scenario]]
+Example:
+- [[JavaMethodsOverridingsample0|Bank Scenario program]]
 
 <br>
 

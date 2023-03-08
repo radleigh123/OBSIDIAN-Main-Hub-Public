@@ -12,8 +12,12 @@ banner_y: 0.62
 - [[HIST101PRELIMch11|The Importance of Primary Sources in History]]
 - [[HIST101PRELIMch12|Spiritual beliefs of Early Filipinos]]
 - [[HIST101PRELIMch13|Early Philippine Society and Culture]]
-- [[HIST101PRELIMch14|The Philippines becomes a Spanish Colony]]
+
 ## Midterm
+- [[HIST101MIDTERMch1|The Philippines becomes a Spanish Colony]]
+- [[HIST101MIDTERMch2|The Coming of the Spaniards]]
+- [[HIST101MIDTERMch3|The Spanish Colonial Administration]]
+
 ## Semifinal
 ## Final
 

@@ -1,0 +1,4 @@
+**Captain General**
+- An unnamed representative of Spain, and the highest government official in the Philippines. Civil Guard members, townspeople, and friars alike deeply respect him and defer to his judgment, each set of people volleying for his favor. 
+
+Fortunately for Ibarra, the Captain General is not an enthusiastic supporter of the church and its over-inflated power, believing that the friars have been afforded too much power in Filipino society. Nonetheless, he recognizes the church’s influence and does nothing to impede it, though he does pull strings to have Ibarra’s excommunication lifted after the young man’s dispute with [[RIZAL101FatherDamaso|Father Dámaso]] at the dinner party. Despite his support of the project to build a school, he is unable to help when [[RIZAL101FatherSalvi|Father Salví]] frames Ibarra as a subversive and heretic.

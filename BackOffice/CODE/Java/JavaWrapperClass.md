@@ -5,13 +5,42 @@ aliases:
 tags:
 - Java
 - Java/Lecture
-- Java/Wrapper
+- Java/WrapperClass
 ---
 **[[Java|HOME [Java]]]**
 
 ---
-# Wrappers, AutoBoxing, & Unboxing
-is a way to wrap a primitive data type with an object-oriented interface, allowing you to work with the primitive data type in a more object-oriented manner.
+# Wrapper Class
+is a way to wrap a primitive data type with an object-oriented interface, allowing you to work with the primitive data type in a more object-oriented manner. All primitive data types have corresponding wrapper classes that contain useful methods dealing with respective data types. The wrapper classes serve two purposes:
+1. They contain a number of useful functions for manipulation with their primitive counterparts. For example, the class Integer offers such useful methods as conversion of a String into an `int`, or turning an `int` into a `float`, and etc. The **Integer class** also allows you to set the minimum and maximum values for the number in question.
+2. Some Java collections can’t store [[JavaVariables|primitives]] (such as [[JavaArrayList|ArrayList]]) and so primitives have to be wrapped into objects e.g.,
+
+**autoboxing**
+The primitive value of `416` will automatically be wrapped into an instance of the `Integer` class, e.g.:
+>[!column|clean no-t]
+>>[!DONE|alt-co] Efficient
+>> ```java
+>> ArrayList myNumbers = new ArrayList();
+>> 
+>> myNumbers.add(416); // autoboxing
+>> ```
+>
+>>[!FAILURE|alt-co] Redundant
+>> ```java
+>> ArrayList myNumbers = new ArrayList();
+>> 
+>> myNumbers.add(new Integer (416));
+>> ```
+
+**unboxing**
+`get(23)` will return the value of 24th element as an **Integer object**, after that, the object will automatically be converted into a primitive:
+```java
+int lastNumbers = myNumbers.get(23); //unboxing
+```
+
+<br>
+
+More example:
 ```java
 public class Proto1 {
     public static void main(String[] args) {
@@ -24,26 +53,6 @@ public class Proto1 {
 		int i = num2.intValue(); // alt... converting int explicitly
     }
 }
-```
-
-**autoboxing**
->[!BUG|alt-co]+ Redundant
-> ```java
-> myNumbers.add(new Integer (416));
-> ```
-
-The primitive value of `45` will automatically be wrapped into an instance of the `Integer` class:
-```java
-ArrayList myNumbers = new ArrayList();
-myNumbers.add(45);
-```
-
-<br>
-
-**unboxing**
-`get(23)` will return the value of 24th element as an `Integer` object, that object will automatically be converted into a primitive:
-```java
-int lastNumbers = myNumbers.get(23);
 ```
 
 <br>

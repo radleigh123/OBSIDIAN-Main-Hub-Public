@@ -8,18 +8,22 @@ tags:
 - Java/Class/Constructor
 - Java/this
 ---
-**[[Java|HOME [Java]]]**
+**[[UpdateJava|HOME [Java]]]**
 
 ---
 # Constructors
 > special type of method which is used to initialize the object
 
-It is called when an object is instantiated. At the time of calling constructor, memory for the object is allocated in the memory.
+It is called only once when an object is instantiated. At the time of calling constructor, memory for the object is allocated in the memory. The *constructors* have the following characteristics:
+- They are called when the class is being instantiated.
+- They must have the same name as the class they’re in.
+- They can’t return a value and you don’t specify the keyword `void` as a return type.
+
 **e.g.**
 ```java
-class Proto2 {
-    Proto2(int m_num1) {
-        System.out.println("Constructor called\n");
+class myClass {
+    myClass(int m_num1) {
+        System.out.print("Constructor called... ");
 
         this.m_num1 = m_num1;
     }
@@ -27,18 +31,18 @@ class Proto2 {
     int m_num1;
 }
 
-public class Proto1 {
+public class Proto {
     public static void main(String[] args) {
-        Proto2 proto21 = new Proto2(15 + 5);
+        myClass myclass = new myClass(15 + 5);
 
-        System.out.println(proto21.m_num1);
+        System.out.println(myclass.m_num1);
     }
 }
 ```
 
 <br>
 
----
+More Example:
 - [[JavaConstructorsOverloaded|Overloading constructors]]
 
 <br>

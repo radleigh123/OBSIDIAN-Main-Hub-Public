@@ -1,0 +1,5 @@
+**Doña Consolacion**
+- older Filipina woman, married to the town's chief of police, **[[RIZAL101Ensign|the ensign]]**
+- is a brutal, vulgar partner who berates the ensign, engaging him in intense physical fights heard across the town.
+
+It is well known that she makes many of the ensign’s decisions, and she even fuels his rivalry with [[RIZAL101FatherSalvi|Father Salví]], encouraging her husband to take action against the priest to assert his dominance. Rizal depicts *Doña Consolación* as incredibly crass and very ugly, writing that her one “sterling trait” is that she seems to have “never looked in the mirror.” Much like **[[RIZAL101DoñaVictorina|Doña Victorina]]**, with whom she eventually gets into an intense fight, she believes herself to be much more worthy of respect than she actually is, constantly deceiving herself in regards to her station in life. She even pretends to not remember her native language, Tagalog, instead speaking very bad Spanish.

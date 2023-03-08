@@ -1,4 +1,5 @@
 ---
+cssclass:
 title: {{title}}
 creation-date: {{date}}
 aliases:

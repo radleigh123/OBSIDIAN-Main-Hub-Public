@@ -12,39 +12,38 @@ tags:
 ---
 # Arrays
 is a container object that holds a fixed number of values of a single type.
->[!recite|alt-co clean no-i collapse] **[[JavaArraysMultidimensional|Multidimensional Arrays]]**
 
 **Declaring an array:**
 ```java
 // shorthand for "array initializer"
 // reccommended when the size of the array can be determined from the elements in the initializer
 dataType[] foo = {0, 0, 0, 0};
-```
-<br>
 
-```java
+dataType[] foo = new int[]{0, 0, 0, 0};
+
 dataType[] foo = new int[i];
-```
-```java
+
 dataType[] foo;
 foo = new int[i];
-```
-```java
-dataType[] foo = new int[]{0, 0, 0, 0};
 ```
 
 **Getting array size**
 ```java
-System.out.print(foo.length);
+int arrayLength = foo.length;
 ```
 <br>
 
->[!FAIL|alt-co txt-c ttl-c] deprecated
-> **dataType foo[];**
+>[!FAIL|alt-co] deprecated
+> ```java
+> dataType foo[];
+> ```
 
----
+<br>
+
+More examples:
 - [[JavaArraysarraycopy|Copying arrays]]
 - [[JavaArraysmanipulation|Array manipulation]]
+- **[[JavaArraysMultidimensional|Multidimensional Arrays]]**
 
 <br>
 

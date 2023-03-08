@@ -4,7 +4,7 @@ tags:
 - Java
 - Java/GUI/Swing/JOptionPane
 - Java/javax.swing/JOptionPane
-- Java/Integer/parseInt
+- Java/WrapperClass/Integer/parseInt
 ---
 **[[JavaGUISwingJOptionPane|BACK]]**
 
