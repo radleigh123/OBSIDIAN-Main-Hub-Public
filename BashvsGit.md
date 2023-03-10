@@ -1,2 +1,0 @@
-**Bash** (**B**ourne-**A**gain-**SH**ell) - is a <mark class="hltr-blue">Unix shell and command-line interpreter</mark> that provides an environment for executing commands and scripts.
-**Git** - is a <mark class="hltr-blue">version control system</mark> that allows developers to keep track of changes to their code and collaborate with other developers on a project. It can be used from within a **bash shell** or from any other environment that supports Git.

@@ -1,3 +1,35 @@
+### Programming
+- **OpenClassrooms** (*Free Programming Course*)
+- [Memory management in C: The heap and the stack](https://web.archive.org/web/20170829060314/http://www.inf.udec.cl/~leo/teoX.pdf)
+- [Building multiple cpp files](https://stackoverflow.com/questions/47665886/vs-code-will-not-build-c-programs-with-multiple-ccp-source-files)
+- [Online CPP Compiler](https://cppinsights.io/)
+- **[[GodTier_Developer_Roadmap|God-Tier Developer Roadmap]]**
+- [[Magic_Navigation_Menu_Indicator|Magic Navigation Menu Indicator (HTML)]]
+
+### Projects
+- [Top C Projects in 2023](https://www.mygreatlearning.com/blog/top-c-projects/#online-voting-system)
+- [Mini Project in C Library Management System](https://www.codewithc.com/mini-project-in-c-library-management-system/)
+- [50+ C/C++ Projects with Source Code](https://www.codewithc.com/c-projects-with-source-code/)
+
+### Random
+- [Fandom Stories Website](https://archiveofourown.org/)
+- [How to crate box mock-up in Photoshop](https://pin.it/5kLutM1)
+- Freudan Slips of the Tongue
+- [[Eisenhower_Matrix.png|Eisenhower Matrix]]
+
+### YO
+- [[PIXIVpunipuni|Punipuni's illustration/Manga]]
+- [[PIXIVRodriGuez|RodriGuez NSFW]]
+- [[FACEBOOKSamuel_Youn_Alice|Samuel Youn - Alice]]
+
+<br>
+
+---
+**BASH VS GIT**
+`Bash` (**B**ourne-**A**gain-**SH**ell) - is a <mark class="hltr-lightgreen">Unix shell and command-line interpreter</mark> that provides an environment for executing commands and scripts.
+`Git` - is a v<mark class="hltr-lightgreen">ersion control system</mark> that allows developers to keep track of changes to their code and collaborate with other developers on a project. It can be used from within a *bash shell* or from any other environment that supports *Git*.
+
+**DEMANDED PROGRAMMING LANGUAGES**
 As a backend developer, the most in-demand programming languages are typically Python, Java, and JavaScript (Node.js). Here's a brief overview of each language:
 1.  Python: Python is a popular, high-level programming language that is widely used for server-side web development, scientific computing, data analysis, and artificial intelligence. It has a large, active community and a wealth of available libraries and frameworks that make it easy to get started.
 2.  Java: Java is a mature, object-oriented programming language that is widely used for server-side web development, enterprise applications, and Android mobile app development. Java has a large, well-established ecosystem and is known for its stability, security, and performance.
@@ -6,7 +38,7 @@ PHP is also widely used for server-side web development, especially for building
 
 In conclusion, the best language for you to invest in as a backend developer will depend on your personal preferences and the types of projects you want to work on. It's a good idea to familiarize yourself with multiple languages and frameworks to increase your chances of landing a job and staying marketable in the future.
 
----
+**C++ Language Learning Techniques**
 Here are some tips to help you get the most out of the C++ language:
 1.  Understand the basics of object-oriented programming (OOP) and how it applies to C++. OOP is a programming paradigm that is heavily used in C++, and understanding the concepts of classes, objects, inheritance, and polymorphism is essential to writing good C++ code.
 2.  Make use of the standard template library (STL) that comes with C++. The STL contains a wide range of useful data structures and algorithms that can save you a lot of time and effort when writing code.
