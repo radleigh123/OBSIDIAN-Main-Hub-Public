@@ -22,10 +22,7 @@
 
 ## Songs MOFO
 - [O] Blackbear - @ my worst
-- [O] Blackbear - Hot Bummer Girl
-- [O] Ashe- Moral of the story
 - [O] Blackbear - me & ur ghost
-- [O] Em Beihold - Numb Little Bug
 - [O] Slime S2 Ending OP
 
 >[!EXAMPLE|ngm] Book Quotes
@@ -59,6 +56,7 @@
 - open car window in front of garbage truck during traffic (comic)
 - girl baggy clothes pure good high IQ - boy nerdy clothes devil average IQ
 - ever wonder why changing the past is always not the answer, because God's future is absolute
+- In reality, we're just kids that grew up turning blind
 
 >[!WARNING] Needed
 >- monitor

@@ -50,11 +50,12 @@ tags:
 	- [[JavaKeyListener|Key Listener]]
 	- [[JavaMouseListener|Mouse Listener]]
 	- **[[JavaSampleDrag&DropImages|Drag and drop]]**
-	- [[Key bindings]]
-- 2D graphics
-- 3D graphics
-- generics
-- serialization
+	- **[[JavaSampleKeyBindings|Key bindings]]**
+- **[[JavaSample2DGraphics|2D graphics]]**
+	- **[[JavaSample2DAnimation|2D Animations]]**
+- 3D Graphics
+- [[JavaGenerics|Generics]]
+- [[JavaSerialization|Serialization]]
 - TimerTask
 - threads
 - multithreading
