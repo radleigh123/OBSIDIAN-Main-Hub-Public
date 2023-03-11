@@ -8,7 +8,7 @@ banner_y: 0.54
 **Instructor:** Amiel A. Poro
 **EDP Code:** 70340
 
-**[[DISCRETPDF.pdf|EBOOK PDF]]**
+**[[DISCRETPDF.pdf|OVERALL EBOOK PDF]]**
 
 ---
 >[!aside|right no-i collapse]
@@ -22,6 +22,9 @@ banner_y: 0.54
 	- [[DISCRET12ch31|Function Machines]]
 
 ### Midterm - The Logic of Compound Statements
+**[[DISCRET12MIDTERM_LMSNotes.pdf|LMS NOTES]]**
+
+---
 >[!NOTE|alt-co]- NOTE
 > The first great treatises on logic were written by the Greek philosopher Aristotle. They were a collection of rules for deductive reasoning that were intended to serve as a basis for the study of every branch of knowledge. In the seventeenth century, the German philosopher and mathematician Gottfried Leibniz conceived the idea of using symbols to mechanize the process of deductive reasoning in much the same way that algebraic notation had mechanized the process of reasoning about numbers and their relationships. Leibniz’s idea was realized in the nineteenth century by the English mathematicians George Boole and Augustus De Morgan, who founded the modern subject of symbolic logic. With research continuing to the present day, symbolic logic has provided, among other things, the theoretical basis for many areas of computer science such as **[[DISCRET12DigitalLogic|digital logic circuit design]]**, **[[DISCRET12RelationalTheory|relational database theory]]**, **[[DISCRET12AutomataTheory&Computability|automata theory and computability]]**, and **[[DISCRET12AI|artificial intelligence]]**.
 
