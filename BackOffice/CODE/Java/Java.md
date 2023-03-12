@@ -56,12 +56,11 @@ tags:
 - 3D Graphics
 - [[JavaGenerics|Generics]]
 - [[JavaSerialization|Serialization]]
-- TimerTask
-- threads
-- multithreading
-- packages
-- compile/run command prompt
-- executable (.jar)
+- [[JavaTimer|TimerTask]]
+- [[JavaThreads|Threads]]
+	- [[JavaThreadsMulti|Multithreading]]
+- [[JavaPackages|Packages]]
+- [[JavaExecutablejar|Export into Executable (.jar)]]
 
 ### Topics I dunno where to put (temp)
 - [[JavaVariablesDigitSeperator|Comma Seperator]]

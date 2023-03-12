@@ -6,7 +6,7 @@ tags:
 - Java/Class/Constructor/Copy
 - Java/Class/Constructor/Overloading
 ---
-**[[JavaObjects#^1a283e|BACK]]**
+**[[JavaClass&Object#^1a283e|BACK]]**
 
 ---
 ## Copy of Objects

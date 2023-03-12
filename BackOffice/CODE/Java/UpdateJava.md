@@ -15,7 +15,7 @@ tags:
 >[!DONE|alt-co no-i collapse]- Why learn Java?
 > ▪ The Java programming language was originally created in 1995 by **James Gosling** from Sun Microsystems (currently a subsidiary of Oracle Corporation).
 > ▪ The goal was to provide a simpler and platform-independence alternative to [[C++]]
-> ▪ The Java Language is *[[JavaObjects|object-oriented]]* (OO), which allows you to easily relate program constructs to objects from the real world.
+> ▪ The Java Language is object-oriented (OO), which allows you to easily relate program constructs to objects from the real world.
 - [[JavaLifeCycle|The Life Cycle of a Java Program]]
 - [[JavaJDK&JRE|JDK and JRE]]
 - [[JavaSE&EE|Java SE and EE]]

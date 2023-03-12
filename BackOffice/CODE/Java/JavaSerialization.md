@@ -34,6 +34,9 @@ To **serialize** an [[JavaClass&Object|object]] means to <mark class="hltr-light
 >▪ Fields declared as `transient` aren't serialized, they're ignored
 >▪ `serialVersionUID` is a unique version ID
 
+Advanced Topic(s):
+- [[JavaSerializationserialVersionUID|serialVersionUID]]
+
 <br>
 
 # 

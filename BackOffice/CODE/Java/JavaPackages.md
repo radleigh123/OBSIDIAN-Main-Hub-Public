@@ -4,6 +4,7 @@ aliases:
 tags:
 - Java
 - Java/Lecture
+- Java/Packages
 ---
 **[[UpdateJava|HOME [Java]]]**
 
@@ -31,6 +32,30 @@ Java classes are also organized into packages and the fully qualified name of a 
 **Importing several classes from the same package** (*wild card* or `*`)
 ```java
 import java.net.*;
+```
+
+**Custom packages**
+Tools package
+![[JavaPackagesiamge.png]]
+
+Toolbox class
+```java
+package Tools;
+
+public class Toolbox {
+    // TODO Put code here
+}
+```
+
+Main class
+```java
+import Tools.Toolbox;
+
+public class Proto {
+    public static void main(String[] args) {
+        Toolbox toolbox = new Toolbox();
+    }
+}
 ```
 
 <br>

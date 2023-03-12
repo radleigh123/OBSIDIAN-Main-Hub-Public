@@ -6,7 +6,7 @@ tags:
 - Java/Class
 - Java/Arrays
 ---
-**[[JavaObjects|BACK]]**
+**[[JavaClass&Object|BACK]]**
 
 ---
 ## Array of Objects
