@@ -25,7 +25,7 @@ tags:
 - [[JavaClass&Object|Classes and Objects]]
 - [[JavaVariables|Variables]]
 	- [[JavaVariablesScope|Variable Scope]]
-	- [[JavaConstants|Constants]]
+	- [[Javafinal#^c164c7|Constants]]
 	- [[JavaWrapperClass|Wrappers, AutoBoxing, & Unboxing]]
 - [[JavaVariables|Variables]]
 - [[JavaFlowControl|Flow Control]]
@@ -51,13 +51,10 @@ tags:
 #### Packages, Interfaces, and Encapsulation
 - [[JavaPackages|Java Packages]]
 - [[JavaEncapsulation|Encapsulation]]
-	- [[JavaAccessModifiers|Access Levels]]
-- final Keyword
-	- final Variables
-	- final Methods
-	- final Classes
-- Interfaces
-	- Marker Interfaces
+- [[JavaAccessModifiers|Access Levels]]
+- [[Javafinal|final Keyword]] ^07e044
+- [[JavaInterface|Interfaces]]
+- Marker Interfaces ^e6542d
 - Casting
 
 #### Programming w/ Abstract Classes and Interfaces
@@ -123,7 +120,7 @@ tags:
 #### Introduction to Generics
 - Generics with Classes
 - Defining Generics
-- Wild Cards
+- [[JavaWildCard|Wild Cards]] ^406387
 - Bounded Wild Cards
 - Generic Methods
 - What to Read Next

@@ -12,11 +12,18 @@ tags:
 
 ---
 # Interface
-is a reference type, similar to a class, that can contain _only_ constants, method signatures, default methods, static methods, and nested types.
+is a reference type, similar to a [[JavaClass&Object|class]], that can contain only [[Javafinal#^c164c7|constants]], [[JavaMethod|method signatures]], default methods, [[Javastatic|static]] methods, and nested types.
 > a template that can be applied to a class
 
-**e.g.**
+The interface will not have any implementations — just declarations. (There is an exception: [[JavaInterfaceMarker|Marker interfaces]] don’t even have declarations). When a class declares that it implements a certain interface, it guarantees that it contains implementation for all methods from this interface. And a class can implement more than one interface: just separate their names with commas.
+**Every methods declared in the interfaces automatically becomes `public` and `abstract`**, and;
+**all fields are by default `public`, `static`, and `final`**.
+
+example:
 ```java
+public interface Prey { public void flee(); }
+public interface Predator { public void hunt(); }
+
 class Rabbit implements Prey {
     @Override
     public void flee() {
@@ -57,6 +64,11 @@ public class Proto {
     }
 }
 ```
+
+$\qquad$Some software developers create Java *interfaces* that contain only `final` variables storing important application constants. Implementing such *interfaces* will make these constants available in the class that implements the *interface*(s). Not everyone approves such usage of interfaces, as it can create a messy situation when a class that implements interfaces with static constants exposes a new set of public [[JavaAPI|APIs]] (those final variables) rather than just using these values internally.
+
+More examples:
+- [[JavaInterfaceMarker|Marker Interfaces]]
 
 <br>
 

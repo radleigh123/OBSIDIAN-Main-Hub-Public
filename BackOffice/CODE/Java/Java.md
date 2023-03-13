@@ -28,7 +28,7 @@ tags:
 - [[JavaWrapperClass|Wrappers, AutoBoxing, & Unboxing]]
 - [[JavaMethod|Methods]]
 - [[Javaprintf|printf]]
-- [[JavaConstants|Final]]
+- [[Javafinal|Final]]
 
 ---
 - [[JavaClass&Object|Classes and Objects]]

@@ -29,7 +29,7 @@ Java classes are also organized into packages and the fully qualified name of a 
 > }
 > ```
 
-**Importing several classes from the same package** (*wild card* or `*`)
+**Importing several classes from the same package** (*[[JavaWildCard|wild card]]* or `*`)
 ```java
 import java.net.*;
 ```

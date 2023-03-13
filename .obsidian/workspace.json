@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76a8d20bba32d44d",
+        "id": "2895cc6e16968997",
         "type": "tabs",
         "children": [
           {
-            "id": "06beed89d225b3ec",
+            "id": "d7e7b056c04723e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch34.md",
+                "file": "TMP_HIST_ThenNow.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137,
-    "collapsed": true
+    "width": 260.99999809265137
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -103,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch34.md",
+                "file": "TMP_HIST_ThenNow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch34.md",
+                "file": "TMP_HIST_ThenNow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch34.md",
+                "file": "TMP_HIST_ThenNow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch34.md"
+                "file": "TMP_HIST_ThenNow.md"
               }
             }
           },
@@ -212,13 +211,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,35 +229,36 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "06beed89d225b3ec",
+  "active": "d7e7b056c04723e9",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch3.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch32.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch31.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch33.md",
+    "TMP_HIST_ThenNow.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch3.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch34.md",
+    "Backlinks/legislatures.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "TMP_Notes.md",
-    "BackOffice/CODE/Java/JavaExecutablejar.md",
-    "TMP_1SemGrades.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/CODE/Java/JavaPackages.md",
-    "Backlinks/attachments/JavaPackagesiamge.png",
-    "BackOffice/CODE/Java/JavaThreadsMulti.md",
-    "BackOffice/CODE/Java/JavaThreads.md",
-    "BackOffice/CODE/Java/JavaComments.md",
     "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CODE/Java/JavaObjectsCopysample0.md",
-    "BackOffice/CODE/Java/JavaObjectsCopy.md",
+    "BackOffice/CODE/Java/JavaInterfaceMarker.md",
+    "BackOffice/CODE/Java/JavaInterface.md",
+    "BackOffice/CODE/Java/JavaMethod.md",
+    "BackOffice/CODE/Java/Javafinal.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/CODE/Java/JavaWildCard.md",
+    "BackOffice/CODE/Java/JavaPackages.md",
+    "BackOffice/CODE/Java/JavaObjectsPassing.md",
+    "BackOffice/CODE/Java/JavaConstructors.md",
+    "BackOffice/CODE/Java/JavaConstructorsOverloaded.md",
+    "BackOffice/CODE/Java/Javathis.md",
     "BackOffice/CODE/Java/JavaObjectsarrays.md",
-    "BackOffice/CODE/Java/JavaTimer.md",
-    "BackOffice/CODE/Java/JavaSerialization.md",
-    "BackOffice/CODE/Java/JavaSerializationserialVersionUID.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch63.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch63Example2.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61Example3.md",
+    "BackOffice/CODE/Java/JavaClass&Object.md",
+    "BackOffice/CODE/Java/JavaArrays.md",
+    "BackOffice/CODE/Java/JavaSE&EE.md",
+    "Backlinks/attachments/JavaSE&EEimage.png",
+    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101.md",
+    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101MIDTERMch1.md",
+    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch12.md",
+    "Backlinks/attachments/JavaPackagesiamge.png",
     "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12MIDTERM_LMSNotes.pdf"
   ]
 }

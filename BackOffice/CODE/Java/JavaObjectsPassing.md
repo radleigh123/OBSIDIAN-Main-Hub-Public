@@ -33,6 +33,8 @@ public class Proto {
 }
 ```
 
+<br>
+
 **Passing by Reference:**
 The variable is pointing to an instance of the object **myClass** in memory. In other words, the variable `myclass2` holds the reference (the address in memory) to an object. The code line will not create another copy of the **myClass** object in memory, but will copy its address to the variable `myclass2`.
 
