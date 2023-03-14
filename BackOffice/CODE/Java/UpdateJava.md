@@ -54,8 +54,8 @@ tags:
 - [[JavaAccessModifiers|Access Levels]]
 - [[Javafinal|final Keyword]] ^07e044
 - [[JavaInterface|Interfaces]]
-- Marker Interfaces ^e6542d
-- Casting
+- [[JavaInterfaceMarker|Marker Interfaces]] ^e6542d
+- [[JavaCasting|Casting]]
 
 #### Programming w/ Abstract Classes and Interfaces
 - Abstract Classes

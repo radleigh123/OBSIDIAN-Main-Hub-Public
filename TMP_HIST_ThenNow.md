@@ -6,6 +6,9 @@ aliases:
 tags:
 ---
 ### Political Government of the Philippines
+Executive branch - GG
+Judicial branch - Royal Audencia
+
 This system revolves around three separate and sovereign yet interdependent branches: the **legislative branch** (<mark class="hltr-blue">the law-making body</mark>), the **executive branch** (<mark class="hltr-lightred">the law-enforcing body</mark>), and the **judicial branch** (<mark class="hltr-lightgreen">the law-interpreting body</mark>).
 
 **Legislative branch**: The legislative branch is responsible for making laws. It consists of a group of elected representatives, such as members of parliament or congress, who debate and vote on proposed laws.
@@ -32,6 +35,8 @@ They are the legislative branches of the provinces, and their powers and respons
 <br>
 
 **Cabeza de barangay** (head of barangay) which is under the Spanish reign
+> For the powers of the government were lodged in the king's representative, GG
+
 Yes it did say in 1935... till 1946 when the Philippines is under the administration of the United States. Leading up to today, where our country is now a sovereign and independent nation, our own government our own constitution, laws and etc.
 
 | <center>THEN</center>                                                                                                                                                     | <center>NOW</center>                                                                                                               |

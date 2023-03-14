@@ -10,16 +10,31 @@
           {
             "id": "d7e7b056c04723e9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMP_HIST_ThenNow.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fe0fd915d4aa8c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaCasting.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TMP_HIST_ThenNow.md",
+                "file": "JavaCasting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP_HIST_ThenNow.md",
+                "file": "JavaCasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TMP_HIST_ThenNow.md",
+                "file": "JavaCasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TMP_HIST_ThenNow.md"
+                "file": "JavaCasting.md"
               }
             }
           },
@@ -229,35 +245,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d7e7b056c04723e9",
+  "active": "fe0fd915d4aa8c54",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch33.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/JavaInheritance.md",
+    "BackOffice/CODE/Java/Javasuper.md",
+    "JavaCasting.md",
+    "BackOffice/CODE/Java/JavaExpressions.md",
+    "BackOffice/CODE/Java/JavaOperatorstypecomparison.md",
+    "BackOffice/CODE/Java/JavaInterfaceMarker.md",
+    "BackOffice/CODE/Java/JavaOperators.md",
+    "BackOffice/CODE/Java/JavaInterface.md",
     "TMP_HIST_ThenNow.md",
+    "20230314_0714.md",
+    "BackOffice/CODE/Java/JavaFlowControlswitch.md",
+    "TMP_COMPROG_Forums.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch33.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch3.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch34.md",
     "Backlinks/legislatures.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CODE/Java/JavaInterfaceMarker.md",
-    "BackOffice/CODE/Java/JavaInterface.md",
     "BackOffice/CODE/Java/JavaMethod.md",
     "BackOffice/CODE/Java/Javafinal.md",
-    "BackOffice/CODE/Java/Java.md",
     "BackOffice/MAINCODE.md",
     "BackOffice/CODE/Java/JavaWildCard.md",
     "BackOffice/CODE/Java/JavaPackages.md",
-    "BackOffice/CODE/Java/JavaObjectsPassing.md",
-    "BackOffice/CODE/Java/JavaConstructors.md",
-    "BackOffice/CODE/Java/JavaConstructorsOverloaded.md",
-    "BackOffice/CODE/Java/Javathis.md",
-    "BackOffice/CODE/Java/JavaObjectsarrays.md",
-    "BackOffice/CODE/Java/JavaClass&Object.md",
-    "BackOffice/CODE/Java/JavaArrays.md",
-    "BackOffice/CODE/Java/JavaSE&EE.md",
     "Backlinks/attachments/JavaSE&EEimage.png",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101MIDTERMch1.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch12.md",
     "Backlinks/attachments/JavaPackagesiamge.png",
     "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12MIDTERM_LMSNotes.pdf"
   ]
