@@ -1,0 +1,2 @@
+**The Yellow Man**
+A man hired to kill [[RIZAL101Ibarra|Ibarra]]. This man helps build the school, engineering a large stone that he intends to drop on Ibarra on the day of San Diego’s fiesta. When the time comes, though, [[RIZAL101Elías|Elías]] holds the Yellow Man in the way, and the stone kills him instead of Ibarra.

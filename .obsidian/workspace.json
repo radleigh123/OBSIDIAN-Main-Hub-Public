@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fe0fd915d4aa8c54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaCasting.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaCasting.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaCasting.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaCasting.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaCasting.md"
+                "file": "BackOffice/CODE/Java/UpdateJava.md"
               }
             }
           },
@@ -245,12 +232,27 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fe0fd915d4aa8c54",
+  "active": "d7e7b056c04723e9",
   "lastOpenFiles": [
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZALDoñaConsolacion.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101Ch39.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101Ch38.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101Ch37.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101Ch36.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101.md",
+    "RIZAL101MariaClara.md",
+    "RIZAL101FatherDamaso.md",
+    "RIZAL101FatherSalvi.md",
     "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101Ensign.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101Ch34.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101Ch33.md",
+    "RIZAL101YellowMan.md",
+    "RIZAL101Ibarra.md",
+    "RIZAL101Elías.md",
+    "JavaCasting.md",
     "BackOffice/CODE/Java/JavaInheritance.md",
     "BackOffice/CODE/Java/Javasuper.md",
-    "JavaCasting.md",
     "BackOffice/CODE/Java/JavaExpressions.md",
     "BackOffice/CODE/Java/JavaOperatorstypecomparison.md",
     "BackOffice/CODE/Java/JavaInterfaceMarker.md",
@@ -258,21 +260,6 @@
     "BackOffice/CODE/Java/JavaInterface.md",
     "TMP_HIST_ThenNow.md",
     "20230314_0714.md",
-    "BackOffice/CODE/Java/JavaFlowControlswitch.md",
-    "TMP_COMPROG_Forums.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12HELP.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch33.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch3.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch34.md",
-    "Backlinks/legislatures.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/CODE/Java/JavaMethod.md",
-    "BackOffice/CODE/Java/Javafinal.md",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/CODE/Java/JavaWildCard.md",
-    "BackOffice/CODE/Java/JavaPackages.md",
     "Backlinks/attachments/JavaSE&EEimage.png",
     "Backlinks/attachments/JavaPackagesiamge.png",
     "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12MIDTERM_LMSNotes.pdf"
