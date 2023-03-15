@@ -6,15 +6,15 @@ tags:
 - Java/GUI/Swing/JOptionPane
 - Java/javax.swing/JOptionPane
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JOptionPane`
 makes it easy to pop up a standard dialog box that prompts users for a value or informs them of something.
-- **[[JavaGUISwingJOptionPaneshowConfirmDialog|showConfirmDialog]]**
+- **[[JavaSwingJOptionPaneshowConfirmDialog|showConfirmDialog]]**
 - **[[JavaGUISwingJOptionPaneshowInputDialog|showInputDialog]]**
-- **[[JavaGUISwingJOptionPaneshowMessageDialog|showMessageDialog]]**
-- **[[JavaGUISwingJOptionPaneshowOptionDialog|showOptionDialog]]**
+- **[[JavaSwingJOptionPaneshowMessageDialog|showMessageDialog]]**
+- **[[JavaSwingJOptionPaneshowOptionDialog|showOptionDialog]]**
 
 <br>
 

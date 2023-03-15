@@ -6,16 +6,16 @@ tags:
 - Java
 - Java/Lecture
 - Java/Class/Constructor
-- Java/Class/Abstraction
 - Java/Class/Inheritance
+- Java/Class/Abstract
 ---
 **[[Java|HOME [Java]]]**
 
 ---
-# Abstraction
+## `abstract` Keyword
 is a process of hiding the implementation details and showing only the essential features of an object, class, or method.
 
-**abstract class** - is a class that is declared `abstract`—it may or may not include abstract methods. Abstract classes cannot be instantiated, but they can be subclassed.
+**[[JavaAbstractClass|abstract class]]** - is a class that is declared `abstract`—it may or may not include abstract methods. Abstract classes cannot be instantiated, but they can be subclassed.
 
 **abstract method** - is a method that is declared without an implementation (without braces, and followed by a semicolon), e.g.:
 ```java
@@ -57,8 +57,8 @@ public class Proto1 {
 
 <br>
 
-**Learn more:**
-- **[[JavaInterface|Interface]]**
+See more:
+▪$\ \,$**[[JavaInterface|Interface]]**
 
 <br>
 

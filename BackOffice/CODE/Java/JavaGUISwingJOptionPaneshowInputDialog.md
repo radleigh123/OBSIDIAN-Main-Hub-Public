@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing
 - Java/JOptionPane/showInputDialog
 ---
-**[[JavaGUISwingJOptionPane|BACK]]**
+**[[JavaSwingJOptionPane|BACK]]**
 
 ---
 ## `showInputDialog`

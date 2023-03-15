@@ -77,4 +77,4 @@ a forced labor. All male natives 18 - 60 years old, were required to render forc
 
 #### Reales Compras (royal purchase)
 **Bandala**
-a form of taxation which compelled the natives to sell their products only to the government which must be compile with
+a form of taxation which compelled the natives to sell their products only to the government which must be complied with.

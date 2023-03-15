@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing/JOptionPane
 - Java/WrapperClass/Double/parseDouble
 ---
-**[[JavaGUISwingJOptionPane|BACK]]**
+**[[JavaSwingJOptionPane|BACK]]**
 
 ---
 ## Using `parseDouble()` to output floating-point value

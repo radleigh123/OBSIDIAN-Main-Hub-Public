@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing
 - Java/JFileChooser
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JFileChooser` class

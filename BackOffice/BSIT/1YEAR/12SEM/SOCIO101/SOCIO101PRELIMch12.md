@@ -42,7 +42,7 @@ Neoliberalism (**Friedrich Hayek** & **Milton Friedman**)
 $\quad$▪$\ \;$task-specific agencies like WHO, ILO, etc.
 >[!NOTE|alt-co] <u>(nation - state)</u> - non-interchangeable terms
 
-State
+**State**
 ▪$\ \;$refer to a country & its government
 - People/Citizens
 	- natural born, naturalized
@@ -63,3 +63,35 @@ State
 - Government
 - Sovereignty
 	- Article II, Section I
+
+<br>
+
+**Nation**
+▪$\ \;$group of people with common language, history, culture, & geographic territory
+e.g., Nation with two states, **Korea (North and South)**
+
+**Nation-State**
+▪$\ \;$idea of a homogenous nation governed by its own sovereign state
+
+*Benedict Anderson*
+▪$\ \;$"imagined country"
+$\quad$▪$\ \;$where each state contains nation
+
+**Nationalism**
+▪$\ \;$emphasize loyalty, allegiance, or devotion to a nation
+
+Nationalism is used to describe the following phenomena:
+1. attitude that the member of a nation have when they care about their national identity
+2. actions that the members of a nation take when seeking to achieve self- determination
+
+**Nationalist Movement**
+▪$\ \,$political
+▪$\ \,$cultural
+$\quad$▪$\ \,$effort to rediscover, preserve, protect, study or reinvigorate language or cultural traditions
+
+**Interstate System**
+▪$\ \,$the *Treaty of Westphalia*
+$\quad$▪$\ \,$treaty signers exercise complete control over their own domestic affairs
+
+*Napolean Bonaparte*
+▪$\ \,$liberality, equality, and fraternity

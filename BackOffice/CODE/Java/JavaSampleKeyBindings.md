@@ -18,7 +18,7 @@ tags:
 ## Key Bindings
 - bind an Action to a `KeyStroke`
 - don't require you to click a component to give it focus
-- all [[JavaGUISwing|Swing]] components use Key Bindings
+- all [[JavaSwing|Swing]] components use Key Bindings
 - increased flexibility compared to [[JavaKeyListener|KeyListeners]]
 - can assign key strokes to individual Swing components
 

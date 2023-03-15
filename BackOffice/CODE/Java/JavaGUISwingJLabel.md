@@ -14,7 +14,7 @@ tags:
 - Java/JFrame
 - Java/JLabel
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JLabel`

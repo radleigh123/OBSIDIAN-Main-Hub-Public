@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing.JPanel
 - Java/JPanel
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JPanel`

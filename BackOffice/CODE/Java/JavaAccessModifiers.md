@@ -4,7 +4,7 @@ tags:
 - Java
 - Java/Lecture
 - Java/Class/Constructor
-- Java/Class/Abstraction
+- Java/Class/Abstract
 - Java/Class/Inheritance
 - Java/Class/AccessModifier
 ---

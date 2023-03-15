@@ -6,6 +6,7 @@ tags:
 - Java
 - Java/Lecture
 - Java/Class/Polymorphism
+- Java/LateBinding
 ---
 **[[Java|HOME [Java]]]**
 
@@ -53,6 +54,13 @@ public class Proto {
     }
 }
 ```
+
+>[!FAQ|ttl-c c-green] run-time binding$\;$ or $\;$late binding
+> Note that even though the loop variable `i` is of its ancestor’s type Base, at every iteration it actually points at either **derived1** or a **derived2** instance. The actual object type will be evaluated only during the run time.
+
+See more:
+▪$\ \,$[[JavaAbstraction|Abstract]]
+▪$\ \,$[[JavaInterface|Interfaces]]
 
 <br>
 

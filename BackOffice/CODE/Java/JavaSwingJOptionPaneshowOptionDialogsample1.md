@@ -11,10 +11,10 @@ tags:
 - Java/JPanel
 - Java/SupressWarnings
 ---
-**[[JavaGUISwingJOptionPaneshowOptionDialog|BACK]]**
+**[[JavaSwingJOptionPaneshowOptionDialog|BACK]]**
 
 ---
-## Using with [[JavaGUISwingJOptionPaneshowConfirmDialog|showConfirmDialog]] and [[JavaGUISwingJFrame|JFrame]]
+## Using with [[JavaSwingJOptionPaneshowConfirmDialog|showConfirmDialog]] and [[JavaGUISwingJFrame|JFrame]]
 >[!aside|show-title right]
 > ![[JavaGUISwingJOptionPaneshowOptionDialogsample1image0.png|cover wsmall]]
 > 

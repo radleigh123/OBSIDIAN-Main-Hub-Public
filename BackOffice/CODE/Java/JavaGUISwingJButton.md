@@ -11,7 +11,7 @@ tags:
 - Java/ActionListener
 - Java/ActionEvent
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## JButtons

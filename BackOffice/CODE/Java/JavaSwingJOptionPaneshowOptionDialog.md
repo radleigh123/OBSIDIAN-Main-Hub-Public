@@ -6,11 +6,11 @@ tags:
 - Java/javax.swing
 - Java/JOptionPane/showOptionDialog
 ---
-**[[JavaGUISwingJOptionPane|BACK]]**
+**[[JavaSwingJOptionPane|BACK]]**
 
 ---
 ## `showOptionDialog`
-- the Grand Unification of [[JavaGUISwingJOptionPaneshowConfirmDialog|showConfirmDialog]], [[JavaGUISwingJOptionPaneshowInputDialog|showInputDialog]] and [[JavaGUISwingJOptionPaneshowMessageDialog|showMessageDialog]]
+- the Grand Unification of [[JavaSwingJOptionPaneshowConfirmDialog|showConfirmDialog]], [[JavaGUISwingJOptionPaneshowInputDialog|showInputDialog]] and [[JavaSwingJOptionPaneshowMessageDialog|showMessageDialog]]
 - returns an `integer` which represents the position of the user’s choice in the `Object[]`
 
 <br>
@@ -44,8 +44,8 @@ public class Proto {
 ```
 
 **Complex examples:**
-- [[JavaGUISwingJOptionPaneshowOptionDialogsample0|Using array as an `Object[]`]]
-- [[JavaGUISwingJOptionPaneshowOptionDialogsample1|Using with showConfirmDialog and JFrame]]
+- [[JavaSwingJOptionPaneshowOptionDialogsample0|Using array as an `Object[]`]]
+- [[JavaSwingJOptionPaneshowOptionDialogsample1|Using with showConfirmDialog and JFrame]]
 
 <br>
 

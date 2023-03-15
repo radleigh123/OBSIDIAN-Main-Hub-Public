@@ -1,0 +1,5 @@
+Let's say you have a bunch of animals. You can create an interface called **Animal** which defines methods such as "*eat*," "*sleep*," and "*makeSound*." Any animal that implements this interface must provide its own implementation for these methods.
+
+Now, let's say you have a group of birds. You can create an abstract class called **Bird** which defines common behaviors and properties for birds, such as the ability to fly and feathers. Each specific bird species, like an eagle or a penguin, can then extend this abstract class and provide its own implementation for the abstract methods, such as "*fly*" or "*layEggs*."
+
+In summary, interfaces are like a set of rules that objects must follow, while abstract classes are like blueprints that provide a common structure and some implementation for a group of related objects.

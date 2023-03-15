@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing
 - Java/JComboBox
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JComboBox` class

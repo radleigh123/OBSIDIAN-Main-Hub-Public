@@ -10,7 +10,7 @@ tags:
 - Java/KeyListener
 - Java/KeyEvent
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 # `KeyListener`

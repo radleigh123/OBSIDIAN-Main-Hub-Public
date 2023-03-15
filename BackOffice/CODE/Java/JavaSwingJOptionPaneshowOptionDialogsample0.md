@@ -5,7 +5,7 @@ tags:
 - Java/Lecture
 - Java/JOptionPane/showOptionDialog
 ---
-**[[JavaGUISwingJOptionPane|BACK]]**
+**[[JavaSwingJOptionPane|BACK]]**
 
 ---
 ## Using array as an `Object[]`

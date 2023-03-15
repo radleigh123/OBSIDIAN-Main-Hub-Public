@@ -14,12 +14,12 @@ tags:
 - the true aristocracy and the true nobility of colonial Philippines
 
 **principales** - members of the principalia
-origins were from the pre-colonial and noble class:
-- Datu of the established kingdoms
-- Rajahnates
-- Confederacies
-- Principalities
-- Lordships of the smaller ancient social units (barangays)
+$\quad$origins were from the pre-colonial and noble class:
+$\quad$$\quad$▪$\ \,$Datu of the established kingdoms
+$\quad$$\quad$▪$\ \,$Rajahnates
+$\quad$$\quad$▪$\ \,$Confederacies
+$\quad$$\quad$▪$\ \,$Principalities
+$\quad$$\quad$▪$\ \,$Lordships of the smaller ancient social units (barangays)
 
 **Exclusive privileges:**
 - allowed to vote

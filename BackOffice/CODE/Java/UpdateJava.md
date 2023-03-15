@@ -56,16 +56,16 @@ tags:
 - [[JavaInterface|Interfaces]]
 - [[JavaInterfaceMarker|Marker Interfaces]] ^e6542d
 - [[JavaCasting|Casting]]
-
-#### Programming w/ Abstract Classes and Interfaces
-- Abstract Classes
-- Polymorphism
-- Interfaces vs Abstract Classes
+- [[JavaAbstraction|Abstraction]]
+- [[JavaPolymorphism|Polymorphism]]
+- [[JavaFAQInterfaceVSAbstract|Interfaces vs Abstract Classes]]
 
 #### Introduction Graphical User Interface (GUI)
-- Swing Basics
-- Layout Managers
-	- Brief Introduction
+>[!DONE|collapse]- Introduction
+> $\quad$These days people are accustomed to working with applications that have rich user interfaces. If you develop rich Internet applications, **[[JavaJavaFX|JavaFX]]** is the newest platform for development offered by Oracle. But Java itself offers a library of components called **Swing**, which is used for building graphic user interfaces (GUIs) for desktop applications, as well as a web program called **applets**.
+
+- [[JavaSwing|Swing Basics]]
+- [[JavaLayoutManager|Layout Managers]]
 	- FlowLayout
 	- GridLayout
 	- BorderLayout

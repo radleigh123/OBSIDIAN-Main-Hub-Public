@@ -8,7 +8,7 @@ tags:
 - Java/javax.swing
 - Java/JFrame
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `FlowLayout` class

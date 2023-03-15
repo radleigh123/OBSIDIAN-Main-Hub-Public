@@ -10,7 +10,7 @@ tags:
 - Java/JLabel
 - Java/ActionListener
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## Launching another window

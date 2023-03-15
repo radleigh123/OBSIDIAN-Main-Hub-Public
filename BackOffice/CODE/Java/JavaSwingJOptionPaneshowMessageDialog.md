@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing
 - Java/JOptionPane/showMessageDialog
 ---
-**[[JavaGUISwingJOptionPane|BACK]]**
+**[[JavaSwingJOptionPane|BACK]]**
 
 ---
 ## `showMessageDialog`

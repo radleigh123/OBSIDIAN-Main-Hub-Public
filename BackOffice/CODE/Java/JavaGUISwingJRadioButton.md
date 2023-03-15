@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing
 - Java/JRadioButton
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JRadioButton` class

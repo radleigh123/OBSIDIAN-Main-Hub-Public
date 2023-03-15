@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing
 - Java/JTextField
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JTextField` class
@@ -15,7 +15,7 @@ tags:
 The object of a JTextField class is a text component that allows the editing of a single line text. It inherits [[JavaJTextComponent|JTextComponent]] class.
 
 **e.g.**
->[!aside|show-title right]
+>[!aside|show-title right]+ RESULT:
 > ![[JavaGUISwingJTextFieldimage.png|cover wsmall]]
 
 ```java

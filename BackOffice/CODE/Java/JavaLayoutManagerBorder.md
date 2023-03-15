@@ -8,7 +8,7 @@ tags:
 - Java/JFrame
 - Java/JPanel
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `BorderLayout` class

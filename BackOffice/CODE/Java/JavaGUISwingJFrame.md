@@ -16,7 +16,7 @@ tags:
 - Java/java.awt.Color
 - Java/Color/setBackground
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JFrame`

@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing
 - Java/JOptionPane/showConfirmDialog
 ---
-**[[JavaGUISwingJOptionPane|BACK]]**
+**[[JavaSwingJOptionPane|BACK]]**
 
 ---
 ## `showConfirmDialog`

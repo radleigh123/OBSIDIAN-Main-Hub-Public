@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing
 - Java/JProgressBar
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JProgressBar` class

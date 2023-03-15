@@ -5,7 +5,7 @@ tags:
 - Java/Lecture
 - Java/JColorChooser
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JColorChooser` class

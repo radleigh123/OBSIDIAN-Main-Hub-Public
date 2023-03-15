@@ -8,7 +8,7 @@ tags:
 - Java/JFrame
 - Java/JButton
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JCheckBox` class

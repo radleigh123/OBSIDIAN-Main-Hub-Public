@@ -7,7 +7,7 @@ tags:
 - Java/JMenu
 - Java/JMenuItem
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JMenuBar`, `JMenu`, `JMenuItem` class

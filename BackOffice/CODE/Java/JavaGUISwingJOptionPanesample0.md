@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing/JOptionPane
 - Java/WrapperClass/Integer/parseInt
 ---
-**[[JavaGUISwingJOptionPane|BACK]]**
+**[[JavaSwingJOptionPane|BACK]]**
 
 ---
 ## Using `parseInt()` to output integer value

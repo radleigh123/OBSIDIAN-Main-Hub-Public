@@ -6,7 +6,7 @@ tags:
 - Java/javax.swing
 - Java/JSlider
 ---
-**[[JavaGUISwing|BACK]]**
+**[[JavaSwing|BACK]]**
 
 ---
 ## `JSlider` class
