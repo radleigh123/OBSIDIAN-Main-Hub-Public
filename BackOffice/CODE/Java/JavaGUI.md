@@ -12,9 +12,9 @@ tags:
 ---
 # GUI (Graphical User Interface)
 Java provides several libraries and frameworks for building GUI, including:
-- **<u>Abstract Window Toolkit</u>**<u> (AWT)</u>
-- **<u>[[JavaSwing|Swing]]</u>**
-- **<u>JavaFX</u>**
+- [[JavaSwing|Swing]]
+- JavaFX
+- AWT
 - and others...
 
 <br>

@@ -16,7 +16,7 @@ If two or more classes have lots of common functionality, but some methods shoul
 If several classes don’t have common functionality but need to exhibit some common behavior, do not create a common ancestor, but have them implement an interface that declares the required behavior. 
 
 Interfaces and abstract classes are similar in that they ensure that required methods will be implemented according to required method signatures. But they differ in how the program is designed. While abstract classes require you to provide a common ancestor for the classes, interfaces don’t. Interfaces could be your only option if a class already has an ancestor that cannot be changed. Java doesn’t support multiple inheritance — a class can have only one ancestor. 
-> For example, to write Java applets you must inherit your class from the class Applet, or in the case of [[JavaSwing|Swing]] applets, from [[JavaGUISwingJApplet|JApplet]]. Here using your own abstract ancestor is not an option.
+> For example, to write Java applets you must inherit your class from the class Applet, or in the case of [[JavaSwing|Swing]] applets, from [[JavaSwingJApplet|JApplet]]. Here using your own abstract ancestor is not an option.
 
 <br>
 

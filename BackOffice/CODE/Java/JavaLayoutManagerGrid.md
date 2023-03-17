@@ -48,6 +48,9 @@ public class Proto {
 }
 ```
 
+More examples:
+$\;$▪$\,$[[JavaLayoutManagerGridSample|Complex GridLayout Demo]]
+
 <br>
 
 # 

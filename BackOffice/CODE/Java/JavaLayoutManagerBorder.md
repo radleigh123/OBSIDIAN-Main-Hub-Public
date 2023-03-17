@@ -12,7 +12,7 @@ tags:
 
 ---
 ## `BorderLayout` class
-is a layout manager in Java that divides a container, places components in five areas: NORTH, SOUTH, WEST, EAST, and CENTER
+is a layout manager in Java that divides a container, places components in five areas: **NORTH**, **SOUTH**, **WEST**, **EAST**, and **CENTER**
 
 **e.g.**
 >[!aside|show-title right]+ Result:
@@ -92,5 +92,5 @@ public class Proto {
 
 # 
 ---
-- https://docs.oracle.com/javase/7/docs/api/java/awt/BorderLayout.html#:~:text=A%20border%20layout%20lays%20out,EAST%20%2C%20WEST%20%2C%20and%20CENTER%20.
+- [How to Use BorderLayout](https://docs.oracle.com/javase/tutorial/uiswing/layout/border.html)
 - https://www.geeksforgeeks.org/java-awt-borderlayout-class/

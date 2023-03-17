@@ -11,9 +11,10 @@ tags:
 
 ---
 ## `throws` keyword
-is used to declare exceptions. It specifies that there may occur an exception in the method. It doesn't throw an exception. It is always used with method signature.
+is used to declare exceptions. It specifies that <mark class="hltr-lightgreen">there may occur an exception in the method</mark>. It doesn't throw an exception. It is always used with [[JavaMethod|method signature]].
+> In some cases it makes more sense to handle an exception not in the method where it happened, but in the calling one.
 
-**e.g.**
+Using throws clause sample
 ```java
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -30,11 +31,16 @@ public class Proto {
         try {
             readFile(fileName);
         } catch (FileNotFoundException e) {
-            System.out.println("The file " + fileName + " could not be found");
+            System.out.println(e.toString());
+            System.out.println("The file " + fileName + " could not be found");
         }
     }
 }
 ```
+Result:
+>[!INFO|collapse alt-co clean no-t]
+> java.io.FileNotFoundException: **myFile.txt** (The system cannot find the file specified)
+> The file **myFile.txt** could not be found
 
 <br>
 

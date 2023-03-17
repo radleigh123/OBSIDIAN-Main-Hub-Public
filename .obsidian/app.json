@@ -13,5 +13,6 @@
     "downscalePercent": 76
   },
   "livePreview": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showLineNumber": false
 }

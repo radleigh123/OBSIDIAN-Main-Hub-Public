@@ -61,53 +61,66 @@ tags:
 - [[JavaFAQInterfaceVSAbstract|Interfaces vs Abstract Classes]]
 
 #### Introduction Graphical User Interface (GUI)
->[!DONE|collapse]- Introduction
+>[!DONE|collapse alt-co]- Introduction
 > $\quad$These days people are accustomed to working with applications that have rich user interfaces. If you develop rich Internet applications, **[[JavaJavaFX|JavaFX]]** is the newest platform for development offered by Oracle. But Java itself offers a library of components called **Swing**, which is used for building graphic user interfaces (GUIs) for desktop applications, as well as a web program called **applets**.
 
-- [[JavaSwing|Swing Basics]]
+- [[JavaSwing|Swing]]
 - [[JavaLayoutManager|Layout Managers]]
-	- FlowLayout
-	- GridLayout
-	- BorderLayout
-	- Combining Layout Managers
-	- BoxLayout
-	- GridBagLayout
-	- CardLayout
-	- Containers with Absolute Layout
-	- More about Swing Widgets
+	- [[JavaTopLevelContainer|Top-Level Containers]]
+	- [[JavaLayoutManagerCombiningAll|Combining Layout Managers]]
+	- [[JavaAbsoluteLayout|Containers with Absolute Layout]]
 - Swing GUI Builders
 
 #### Event Handling in UI
-- Introduction to Event Listeners
-- Teaching the Calculator to Calculate
-	- Registering Components w/ ActionListener
-	- Finding the Source of an Event
-	- How to Pass Data between Objects
+>[!DONE|collapse alt-co]- Introduction
+> $\quad$Java Swing, like any other UI library, is an event-driven framework. When a user interacts with a GUI program (such as by clicking a button or pressing a key) a Java Swing program receives an event that can initiate an appropriate reaction.
+> &nbsp;
+> $\quad$If you write the code to react to a particular event, this code will be invoked. If you haven’t written such code, the event will be fired anyway, but the program won’t respond to it.
+
+- [[JavaEventListeners|Event Listeners]]
+- [[JavaEventListenersCalculator|Teaching the Calculator to Calculate]]
 - More Swing Listeners
 - How to Use Adapters
-- Inner Classes
-	- Anonymous Inner Classes
-	- Closures
+- [[JavaInnerClass|Inner Classes]]
+- [[JavaClosures|Closures]]
 
-#### Introduction to Java Applets
-- An Unofficial History of Java Applets
-- Restrictions of Java Applets
-- Learning HTML on the Run
+#### Java Applets (deprecated)
+>[!DONE|collapse alt-co]- Introduction
+> $\quad$Java was born in 1995, shortly after the Internet became available to the public. The Netscape web browser enabled regular people to go online and download content from remote servers. This content was mainly some formatted text mixed with static images. But the Java programming language provided a way to incorporate downloadable applications into the web pages!
+> &nbsp;
+> $\quad$A programmer needed to write a Java application called an applet in a special way using GUI classes from the `java.awt` package (Swing was not invented yet). Applets were deployed on the web servers along with the HTML fi les that included references to the applets. Web browsers understand HTML, the markup that consists of special tags placed in text fi les so web browsers can properly format and lay out web pages. HTML has a special tag, , that tells the browser where to fi nd and how to size and align a Java applet.
+> &nbsp;
+> $\quad$You can download a Java applet to your computer from the Internet as part of a web page, and web browsers use the JVM plug-in to run applets. The version of JVM included with a web browser is very important, because if you’re using, say, Java Swing classes, but the user’s web browser has a really old JVM, the browser won’t even know how to run the code that your applet uses.
+> $,$
+>> In recent years, the use of Java applets has declined due to security concerns and the popularity of other web technologies such as HTML5, JavaScript, and CSS.
+
+- [[JavaApplets|Java Applets]]
+- [[JavaAppletsUnofficialHistory|An Unofficial History of Java Applets]]
+- [[JavaAppletsRestrictions|Restrictions of Java Applets]]
 - Writing Applets using Swing
 - **Developing a TIC-TAC-TOE Applet**
 - **Developing a PING-PONG Game**
 
 #### Error Handling
-- Stack Trace
-- Java Exceptions
-- Exception Hierarchy
-- try/catch Blocks
-- throw Clause
-- throws Clause
-- finally Clause
-- Creating Your Own Exceptions
+>[!DONE|collapse alt-co]- Introduction
+> $\quad$Fixing the compiler’s errors becomes trivial as you become more comfortable with the Java syntax. But you also should ensure that your programs process run-time errors that may happen regardless of your proficiency with the language itself.
+> &nbsp;
+> Let’s say a Java program that reads customers’ data is deployed in production. What’s going to happen if this fi le gets corrupted? Will the program crash with a scary geeky error message, or will it stay alive, displaying a user-friendly message such as, “*There seems to be a problem with the file customers. Please make sure that the file is not corrupted*”? Error processing in the Java world is called **exception handling**, which is the subject of this lesson.
+
+- [[JavaStackTrace|Stack Trace]]
+- [[JavaExceptionHandling|Java Exceptions]]
+- [[JavaExceptionHandlingHierarchy|Exception Hierarchy]]
+- [[JavaExceptionHandlingtrycatch|try/catch Blocks]]
+- [[JavaExceptionHandlingthrows|throws Clause]]
+- [[JavaExceptionHandlingfinally|finally Clause]]
+- [[JavaExceptionHandlingthrow|throw]]
+- [[JavaExceptionHandlingSample|Creating Your Own Exceptions]]
+- [[JavaExceptionHandlingSummary|Summary]]
 
 #### Introduction to Collections
+>[!DONE|collapse alt-co]- Introduction
+> $\quad$
+
 - Arrays Revisited
 - Classes ArrayList and Vector
 - Collection Interfaces from java.util

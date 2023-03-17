@@ -37,6 +37,23 @@ Originally Java offered a pretty basic library of UI-related classes called the 
 - [[JavaGUISwingJFileChooser|File Chooser]]
 - [[JavaGUISwingJColorChooser|Color Chooser]]
 
+More Swing Widgets:
+- JToggleButton
+- JScrollPane
+- JSpinner
+- JScrollBar
+- JList
+- JTabbedPane
+- JTable
+- JTextArea
+- JPasswordField
+- JFormattedTextField
+- JEditorPane
+- JToolTip
+- JTree
+- JViewPort
+- ImageIcon
+
 <br>
 
 # 

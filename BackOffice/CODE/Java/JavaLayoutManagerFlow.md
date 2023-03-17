@@ -5,8 +5,6 @@ tags:
 - Java/Lecture
 - Java/java.awt
 - Java/FlowLayout
-- Java/javax.swing
-- Java/JFrame
 ---
 **[[JavaSwing|BACK]]**
 
