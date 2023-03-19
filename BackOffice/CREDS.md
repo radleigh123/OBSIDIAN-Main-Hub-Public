@@ -10,7 +10,7 @@
 **UC**: ucb-20200937 - 1Lhlanders!
 **ORIGIN**: keaneradleigh123\@gmail.com - NANOLESSa1234
 **MICROSOFT**: keaneradleigh123\@gmail.com - Lhlanders1234
-**RIOT**: keanekiller - T87P3#54A$9Rlh4l BANNED
+**RIOT**: keanekiller - T87P3#54A$9Rlh4l <mark class="hltr-lightred">BANNED</mark>
 **RIOT**: keaneradleigh123\@gmail.com
 **GARENA**: keanekiller321 - Lhlanders123
 **PIXIV**: keaneradleigh123\@gmail.com - Lhlanders123

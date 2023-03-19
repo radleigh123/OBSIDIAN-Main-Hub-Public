@@ -7,10 +7,10 @@ tags:
 - Java/java.util/Collections
 - Java/Arrays
 ---
-**[[JavaArrayList|BACK]]**
+**[[JavaArrayListVector|BACK]]**
 
 ---
-## [[JavaList|List]]: Initializing w/out using [[JavaArrayList|ArrayList]]
+## Initializing w/out using [[JavaArrayListVector|ArrayList]]
 ```java
 List<Integer> arr1 = List.of(2, 4, 5);
 ```

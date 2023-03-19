@@ -8,10 +8,10 @@ tags:
 - Java/java.util/ArrayList
 - Java/Arrays
 ---
-**[[JavaArrayList|BACK]]**
+**[[JavaArrayListVector|BACK]]**
 
 ---
-## [[JavaCollection|Collection]]: Initializing the [[JavaArrayList|ArrayList]]
+## Initializing the [[JavaArrayListVector|ArrayList]]
 ```java
 List<Integer> arr1 = new ArrayList<>();
 Collections.addAll(arr1, 2, 3, 4);

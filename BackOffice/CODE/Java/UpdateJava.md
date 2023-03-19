@@ -119,13 +119,16 @@ tags:
 
 #### Introduction to Collections
 >[!DONE|collapse alt-co]- Introduction
-> $\quad$
+> $\quad$<u>[[JavaArrays|Java arrays]]</u>, which are good for storage, <u>but fall short when you need to dynamically add or remove data</u>, or to sort or traverse your collection. There are a number of classes and interfaces in the package **java.util** that are quite handy when multiple instances of some objects have to be co-located in memory.
+> &nbsp;
+> You can find more collections in the **java.util.concurrent** package, but those will be reviewed in [[UpdateJava#Digging Deeper into ConCurrent Execution|ConCurrent Execution]] after you become familiar with the concept of [[UpdateJava#Introduction to Multi-Threading|multi-threading]]. Together, the collection classes and interfaces located in **java.util** and **java.util.concurrent** are often called the *Java Collection Framework*.
 
-- Arrays Revisited
-- Classes ArrayList and Vector
-- Collection Interfaces from java.util
-- Classes Hashtable and HashMap
-	- Class Properties
+- [[JavaArraysRevisited|Arrays Revisited]]
+- [[JavaArrayListVector|ArrayList & Vector]]
+- [[JavaCollectionInterfaces|Collection Interfaces]]
+- [[JavaMapInterfaces|Map Interfaces]]
+- [[JavaHashtableHashMap|Hashtable & HashMap]]
+	- [[JavaProperties|Properties]]
 - Enumeration and Iterator
 - Class LinkedList
 - Class BitSet

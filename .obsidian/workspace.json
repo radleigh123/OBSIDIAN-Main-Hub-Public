@@ -6,14 +6,36 @@
       {
         "id": "9502b24cecb1af22",
         "type": "tabs",
+        "dimension": 28.213367609254497,
         "children": [
           {
             "id": "67ac826e8a3cc782",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "90425ad5e4622b7c",
+        "type": "tabs",
+        "dimension": 71.7866323907455,
+        "children": [
+          {
+            "id": "65fe75b2553d1a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/CODE/Java/JavaArrayList.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137
+    "width": 260.99999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -102,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "BackOffice/CODE/Java/JavaArrayList.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "BackOffice/CODE/Java/JavaArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "BackOffice/CODE/Java/JavaArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "BackOffice/CODE/Java/JavaArrayList.md"
               }
             }
           },
@@ -211,11 +234,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,44 +254,44 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "67ac826e8a3cc782",
+  "active": "24b24a765d577cb1",
   "lastOpenFiles": [
-    "BackOffice/CODE/Java/JavaStackTrace.md",
-    "README.md",
-    "BackOffice/CODE/Java/JavaExceptionHandlingHierarchy.md",
+    "BackOffice/CODE/Java/JavaHashtableHashMap.md",
     "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/JavaMapInterfaces.md",
+    "BackOffice/CODE/Java/JavaCollectionInterfaces.md",
+    "BackOffice/CODE/Java/JavaArrayList.md",
+    "BackOffice/CODE/Java/JavaArrayListSample2.md",
+    "Backlinks/attachments/JavaArrayList.png",
+    "BackOffice/CODE/Java/JavaListArrays.md",
+    "BackOffice/CODE/Java/JavaArrayListVector.md",
+    "BackOffice/CODE/Java/JavaVector.md",
+    "Backlinks/attachments/JavaVector.png",
+    "Backlinks/attachments/Pasted image 20230319155445.png",
+    "BackOffice/CODE/Java/JavaArrayListSample1.md",
+    "BackOffice/CODE/C++/C++vector.md",
+    "BackOffice/CODE/Java/JavaProperties.md",
+    "Backlinks/attachments/JavaMapInterfaces.png",
+    "Backlinks/attachments/JavaCollectionInterfaces.png",
+    "BackOffice/CODE/Java/JavaOperatorstypecomparison.md",
+    "BackOffice/CODE/Java/JavaFlowControl.md",
+    "BackOffice/CODE/Java/JavaOperators.md",
+    "BackOffice/CODE/Java/JavaVariables.md",
+    "BackOffice/CODE/Java/JavaWrapperClass.md",
+    "BackOffice/CODE/Java/JavaCollectionArrays.md",
+    "BackOffice/CODE/Java/JavaArraysasList.md",
+    "BackOffice/CODE/Java/JavaArraysRevisited.md",
     "BackOffice/CODE/Java/JavaExceptionHandlingSummary.md",
-    "BackOffice/CODE/Java/JavaExceptionHandlingSample.md",
-    "BackOffice/CODE/Java/JavaGUISwingJProgressBarsample.md",
-    "BackOffice/CODE/Java/JavaExceptionHandling.md",
-    "BackOffice/CODE/Java/JavaExceptionHandlingthrow.md",
-    "BackOffice/CODE/Java/JavaExceptionHandlingfinally.md",
-    "BackOffice/CODE/Java/JavaExceptionHandlingthrows.md",
-    "BackOffice/CODE/Java/JavaExceptionHandlingtrycatch.md",
-    "BackOffice/CODE/Java/JavaApplets.md",
-    "BackOffice/CODE/Java/JavaEventListeners.md",
-    "BackOffice/CODE/Java/JavaAppletsRestrictions.md",
-    "BackOffice/CODE/Java/JavaAppletsUnofficialHistory.md",
-    "BackOffice/CODE/Java/JavaLayoutManager.md",
-    "BackOffice/CODE/Java/JavaSwing.md",
-    "BackOffice/CODE/Java/JavaClosures.md",
-    "BackOffice/CODE/Java/JavaInnerClass.md",
-    "BackOffice/CODE/Java/JavaEventListenersCalculator.md",
-    "BackOffice/CODE/Java/JavaGUISwingJButtonsample0.md",
-    "BackOffice/CODE/Java/JavaGUISwingJButton.md",
-    "BackOffice/CODE/Java/JavaGUI.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/CODE/Java/JavaLayoutManagerCombiningAll.md",
+    "BackOffice/NOTES.md",
+    "BackOffice/CREDS.md",
+    "TMP_COMPROG_Forums.md",
+    "Canvas/MAINROAD.canvas",
+    "README.md",
     "Backlinks/attachments/JavaLayoutManagerSpring.png",
     "Backlinks/attachments/JavaLayoutManagerGroup.png",
     "Backlinks/attachments/JavaLayoutManagerCardSample.png",
     "Backlinks/attachments/Pasted image 20230316193322.png",
     "Backlinks/attachments/JavaLayoutManagerCardimage.png",
-    "Backlinks/attachments/JavaLayoutManagerCardimage1.png",
-    "Backlinks/attachments/JavaLayoutMangerGridBagSample.png",
-    "Backlinks/attachments/JavaLayoutMangerGridBag.png",
-    "Backlinks/attachments/JavaLayoutManagerBox.png",
-    "Backlinks/attachments/Pasted image 20230316185450.png",
     "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12MIDTERM_LMSNotes.pdf"
   ]
 }

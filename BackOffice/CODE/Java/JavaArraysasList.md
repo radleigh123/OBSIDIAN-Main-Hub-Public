@@ -7,7 +7,7 @@ tags:
 - Java/java.util/Arrays/asList
 - Java/Arrays
 ---
-**[[JavaArrayList|BACK]]**
+**[[JavaArrayListVector|BACK]]**
 
 ---
 ## `Arrays.asList()` method

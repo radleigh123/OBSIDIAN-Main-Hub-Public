@@ -15,7 +15,7 @@ tags:
 ---
 # Variables
 **Primitive data types**
-There are eight primitive data types in Java: ^d3b6db
+There are eight primitive data types in Java:
 - four are for integer values;
 - two are for values with a decimal point;
 - one is for storing single characters, and;
@@ -32,6 +32,8 @@ There are eight primitive data types in Java: ^d3b6db
 | `double`       | 64 bits / 8 bytes | 15 digits       | 15 digits                        | **Double**    |
 | `char`         | 16 bits / 2 bytes           | Unicode 0       | Unicode 2 in a power of 16 value | **Character** |
 | `boolean`      | -                 | false (not min) | true (not max)                   | **Boolean**   |
+
+^3c12e4
 
 **e.g.**
 ```java

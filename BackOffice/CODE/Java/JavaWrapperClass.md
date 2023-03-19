@@ -13,19 +13,19 @@ tags:
 # Wrapper Class
 is a way to wrap a primitive data type with an object-oriented interface, allowing you to work with the primitive data type in a more object-oriented manner. All primitive data types have corresponding wrapper classes that contain useful methods dealing with respective data types. The wrapper classes serve two purposes:
 1. They contain a number of useful functions for manipulation with their primitive counterparts. For example, the class Integer offers such useful methods as conversion of a String into an `int`, or turning an `int` into a `float`, and etc. The **Integer class** also allows you to set the minimum and maximum values for the number in question.
-2. Some Java collections can’t store [[JavaVariables|primitives]] (such as [[JavaArrayList|ArrayList]]) and so primitives have to be wrapped into objects e.g.,
+2. Some Java collections can’t store [[JavaVariables|primitives]] (such as [[JavaArrayListVector|ArrayList]]) and so primitives have to be wrapped into objects e.g.,
 
 **autoboxing**
 The primitive value of `416` will automatically be wrapped into an instance of the `Integer` class, e.g.:
 >[!column|clean no-t]
->>[!DONE|alt-co] Efficient
+>>[!DONE] Efficient
 >> ```java
 >> ArrayList myNumbers = new ArrayList();
 >> 
 >> myNumbers.add(416); // autoboxing
 >> ```
 >
->>[!FAILURE|alt-co] Redundant
+>>[!FAILURE] Redundant
 >> ```java
 >> ArrayList myNumbers = new ArrayList();
 >> 

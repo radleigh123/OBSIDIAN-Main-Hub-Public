@@ -3,7 +3,7 @@ aliases:
 tags:
 - Java
 - Java/Lecture
-- Java/Operators/TypeComparison
+- Java/Operators/TypeComparison/instanceof
 ---
 **[[JavaOperators|BACK]]**
 

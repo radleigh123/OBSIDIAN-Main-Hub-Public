@@ -12,17 +12,19 @@
     "Purple": "#D2B3FFA6",
     "Grey": "#CACFD9A6",
     "lightRed": "#FF00002E",
-    "lightGreen": "#00FF2229"
+    "lightGreen": "#00FF2229",
+    "lightBlue": "#ADCCFF47"
   },
   "highlighterOrder": [
+    "lightBlue",
+    "lightGreen",
     "lightRed",
     "Blue",
-    "lightGreen",
-    "Pink",
+    "Green",
     "Red",
+    "Pink",
     "Orange",
     "Yellow",
-    "Green",
     "Cyan",
     "Purple",
     "Grey"

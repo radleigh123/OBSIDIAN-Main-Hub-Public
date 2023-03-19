@@ -23,7 +23,7 @@ tags:
 - [[JavaFlowControl|Control Flow]]
 - [[JavaOperators|Operators]]
 - [[JavaArrays|Arrays]]
-- [[JavaArrayList|ArrayList]]
+- [[JavaArrayListVector|ArrayList]]
 - [[JavaString|String]]
 - [[JavaWrapperClass|Wrappers, AutoBoxing, & Unboxing]]
 - [[JavaMethod|Methods]]
