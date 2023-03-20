@@ -18,6 +18,7 @@ banner_y: 0.308
 	- [[SOCIO101PRELIMch24|Summary]]
 
 ## Midterm
+**[[SOCIO-101-Lesson-Notes.pdf|Lesson Notes (pdf)]]**
 - [[SOCIO101PRELIMch12|Additional info2]]
 - [[SOCIO101MIDTERMch1|Countries, Regions, and Globalization]] ^662abe
 

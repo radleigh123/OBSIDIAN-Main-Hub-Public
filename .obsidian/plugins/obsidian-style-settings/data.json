@@ -83,7 +83,7 @@
   "ITS@@writing": false,
   "ITS@@h-wksp": false,
   "ITS@@select": "none",
-  "ITS@@nord": false,
+  "ITS@@nord": true,
   "ITS@@slrvb-g": false,
   "ITS@@h-b-li": false,
   "ITS@@f-w-h": 600,

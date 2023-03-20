@@ -4,6 +4,7 @@
 **INSTAGRAM**: keane.radleigh
 **STEAM**: keanekiller - Swimming_Woods (keaneradleigh321)
 **STEAM:** keane1235 - NANOLESS1234 (keaneradleighinting)
+**DISCORD:** livingamateurartist - NANOLESS1234
 **GITHUB**: keaneradleigh - 1Lhlanders
 **REDDIT**: keanekiller - NANOLESS1234
 **BATTELNET**: NOOBZforFUN - Swimming_Woods
@@ -11,7 +12,7 @@
 **ORIGIN**: keaneradleigh123\@gmail.com - NANOLESSa1234
 **MICROSOFT**: keaneradleigh123\@gmail.com - Lhlanders1234
 **RIOT**: keanekiller - T87P3#54A$9Rlh4l <mark class="hltr-lightred">BANNED</mark>
-**RIOT**: keaneradleigh123\@gmail.com
+**RIOT**: keaneradleighinting\@gmail.com
 **GARENA**: keanekiller321 - Lhlanders123
 **PIXIV**: keaneradleigh123\@gmail.com - Lhlanders123
 **ROBLOX**: Swimming_Woods - NANOLESS1234

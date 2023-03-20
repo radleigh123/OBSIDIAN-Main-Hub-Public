@@ -31,35 +31,62 @@ It inherits the `AbstractMap` class and implements the **[[JavaMapInterfaces|Map
 - The initial default capacity of Java HashMap class is 16 with a load factor of 0.75.
 
 >[!aside|show-title right]+ RESULT:
->Key: 102        Value: Minglanilla
->Key: 101        Value: Caballero
->Key: 100        Value: Rhiz
+> {Inting=25, Keane=23, Radleigh=24}
 > 
-> data: {10=Mango, 11=Apple, 12=Grapes}
+> \[Inting, Keane, Radleigh]
+> \[25, 23, 24]
+> 
+> key = Inting    values: 25
+> key = Keane     values: 23
+> key = Radleigh  values: 24
+> 
+> key = Inting    values: 25
+> key = Keane     values: 23
+> key = Radleigh  values: 24
 
 ```java
 /**
  * HashMap example
  */
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
-class Main {
+class Proto {
     public static void main(String[] args) {
-        HashMap<Integer, String> data = new HashMap<>();
-        data.put(10, "Mango"); // put elements in Data
-        data.put(11, "Apple");
-        data.put(12, "Grapes");
 
-        // Iterating HashMap
-        for (Map.Entry m : data.entrySet()) {
-            System.out.println("Key: " + m.getKey()
-                    + "\tValue: " + m.getValue());
+        HashMap<String, Integer> person = new HashMap<>();
+        person.put("Keane", 23);
+        person.put("Radleigh", 24);
+        person.put("Inting", 25);
+
+        // print all
+        System.out.println(person);
+
+        System.out.println();
+
+        // print manually
+        System.out.println(person.keySet());
+        System.out.println(person.values());
+
+        System.out.println();
+
+        // using for-each
+        for (String i : person.keySet()) {
+            System.out.println("key = " + i
+                    + "\tvalues: " + person.get(i));
         }
 
-        System.out.println("\ndata: " + data);
+        System.out.println();
+
+        // using Map
+        for (Map.Entry m : person.entrySet()) {
+            System.out.println("key = " + m.getKey()
+                    + "\tvalues: " + m.getValue());
+        }
 
     }
+
 }
 ```
 
