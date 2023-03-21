@@ -5,7 +5,7 @@ tags:
 **[[HIST101MIDTERMch1#^04d465|BACK]]**
 
 ---
->[!aside|right]+
+>[!aside|right c-orange]+
 > Magellan observed that the ocean was calm and tranquil, and called it **Mar Pacifico**, the name stuck in Italian, Spanish, and Portuguese usage -- giving the **Pacific Ocean** its current name
 
 ## Excerpts from first voyage around the world by Antonio Pigafetta
@@ -22,7 +22,7 @@ Pieces of gold, of the size of walnuts and eggs are found by sifting the earth i
 
 Early on the morning of Sunday, the last of March and Easter-day, the captain-general sent the priest with some men to prepare the place where mass was to be said, together with the interpreter to tell the king that we were not going to land in order to dine with him, but to say mass. Therefore, the king sent us two swine that he had killed. When the hour for mass arrived, we landed with about fifty men, without body armor, but carrying our other arms, and dressed in our best clothes. Before we reached the shore with our boat, six pieces were discharged as a sign of peace. We landed, the two kings embraced the captain-general, and placed him between them. We went in marching order to the place consecrated, which was not tar from the shore. Before the commencement of mass. the captain sprinkled the entire bodies of the two kings with musk water. During the mass we made our offerings. The kings went forward to kiss the cross as we did, but they did not offer their sacrifice. When the body of our Lord was elevated, they remained on their knees and worshipped Him with clasped hands. The ships fired all their artillery at once when the body of Christ was elevated, the signal having been given from the shore with muskets. Alter the conclusion of mass, some of our men took communion.
 
->[!aside|left bg-blue]+
+>[!aside|left]+
 > During the 16th century, Cebu was a thriving commercial port ruled by Raja (a Sanskrit term, signifying outside influences) and was part of the Asian trade network.
 
 The expedition then proceeded to the port of Cebu.' There they met Cebu's ruler, **Raja Humabon**, whom Magellan was able to convince to become a vassal of the King and a servant of Christ. Magellan, however, gets embroiled in a conflict between the two chiefs of Mactan, **Zula** and **Lapulapu** -- which was eventually followed by a battle.

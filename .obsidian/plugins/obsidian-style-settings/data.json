@@ -89,7 +89,6 @@
   "ITS@@f-w-h": 600,
   "ITS@@nt-f": 16,
   "ITS@@f-w-t": 500,
-  "ITS@@note@@light": "#F4FDFF",
   "ITS@@check-color": true,
   "ITS@@check-bg": true,
   "ITS@@check-text": false,
@@ -136,5 +135,9 @@
   "ITS-AT@@s-d": false,
   "ITS-AT@@slrvb-g": false,
   "ITS-AT@@paper": false,
-  "ITS@@accent@@light": "#2E303A"
+  "ITS@@accent@@light": "#2E303A",
+  "ITS@@accent2-lite@@light": "#2E76B1",
+  "ITS@@code-bg@@dark": "#F0F5FE",
+  "ITS@@headers@@light": "#314559",
+  "ITS@@note@@light": "#CED3DB"
 }

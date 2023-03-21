@@ -13,12 +13,10 @@ tags:
 >>[!INFO|clean no-i collapse txt-c] <u>External criticism</u>
 >> checking the reliability of the document
 
->[!INFO|clean no-t alt-co]
->>[!INFO|clean no-t alt-co]
->>>[!NOTE|alt-co ttl-c no-i txt-c] **History**
->>> the sum total of what happened in the past-every action, event and every thought that a human being has done
->>> &nbsp;
->>> is the act of analyzing and writing about the past
+>[!INFO|ttl-c collapse] History
+> the sum total of what happened in the past-every action, event and every thought that a human being has done
+> &nbsp;
+> is the act of analyzing and writing about the past
 
 **Primary Sources**
 defines as a piece of evidence written/created during the period under investigation.
@@ -45,7 +43,7 @@ works produced after the even has taken place.
 >> ◾ articles
 >> ◾ dissertations
 
->[!NOTE]- Primary source is subjected to what is called <u>historical method</u>
+>[!EXAMPLE]+ Primary source is subjected to what is called <u>historical method</u>
 > These are some questions to check the primary source:
 >1. How close was the author to the event being studied
 >2. When was the account made?
