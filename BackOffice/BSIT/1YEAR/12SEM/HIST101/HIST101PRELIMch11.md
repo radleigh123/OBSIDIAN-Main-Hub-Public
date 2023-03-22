@@ -8,10 +8,10 @@ tags:
 ## The Importance of Primary sources in History
 >[!column|flex no-i ttl-c] Historical methods
 >>[!INFO|clean no-i collapse txt-c] <u>Internal criticism</u>
->> checking the authenticity of the document
+>> checking the reliability of the document
 >
 >>[!INFO|clean no-i collapse txt-c] <u>External criticism</u>
->> checking the reliability of the document
+>> checking the authenticity of the document
 
 >[!INFO|ttl-c collapse] History
 > the sum total of what happened in the past-every action, event and every thought that a human being has done

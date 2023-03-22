@@ -17,6 +17,7 @@ banner_y: 0.62
 - [[HIST101MIDTERMch1|The Philippines becomes a Spanish Colony]]
 - [[HIST101MIDTERMch2|The Coming of the Spaniards]]
 - [[HIST101MIDTERMch3|The Spanish Colonial Administration]]
+- [[HIST101MIDTERMch4|Filipino Reactions to Spanish Rule]]
 
 ## Semifinal
 ## Final

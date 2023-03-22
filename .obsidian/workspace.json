@@ -6,19 +6,39 @@
       {
         "id": "167d0177114ae3ea",
         "type": "tabs",
+        "dimension": 24.48586118251928,
         "children": [
           {
-            "id": "1082a151012028b9",
+            "id": "54183a0397593d5c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "mode": "preview",
                 "source": true
               },
               "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "317fdec508d9e8f4",
+        "type": "tabs",
+        "dimension": 75.51413881748073,
+        "children": [
+          {
+            "id": "e5eafddfd23d92e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaSet.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -87,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137
+    "width": 260.99999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -104,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+                "file": "JavaSet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+                "file": "JavaSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+                "file": "JavaSet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md"
+                "file": "JavaSet.md"
               }
             }
           },
@@ -213,11 +234,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,35 +254,44 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "24b24a765d577cb1",
+  "active": "e5eafddfd23d92e3",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch2.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch21.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14RelationConquest.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch1.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14InstructionMiguel.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14FirstVoyage.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14.pdf",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch11.md",
-    "BackOffice/CODE/Java/JavaComments.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO-101-Lesson-Notes.pdf",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101PRELIMch12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO101MIDTERMch1.md",
+    "Backlinks/attachments/JavaSet.png",
+    "JavaSet.md",
     "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/JavaHashtableHashMap.md",
+    "JavaHashtableHashMapSample.md",
     "BackOffice/CODE/Java/JavaProperties.md",
-    "BackOffice/CODE/Java/JavaThreadsMulti.md",
-    "BackOffice/MAINCODE.md",
+    "BackOffice/CODE/Java/JavaPropertiesSample.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch11.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch12.md",
+    "TMP_Notes.md",
+    "TMP_1SemGrades.md",
+    "TMP_RevisedWorkout.md",
+    "TMP_COMPROG_Forums.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch4.md",
+    "Backlinks/Abstinence.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch41.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch42.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch43.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch422.jpg",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch421.jpg",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch42.jpg",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch41.jpg",
     "Excalidraw/Drawing.excalidraw.md",
+    "Excalidraw/Drawing.excalidraw.svg",
+    "Excalidraw/CTERNARYsample.md",
+    "Excalidraw/JavaMethod.excalidraw.svg",
+    "Excalidraw/0HEADQUARTERS.svg",
+    "Excalidraw/0HEADQUARTERS.md",
     "Excalidraw/Drawing_0.excalidraw.md",
-    "Backlinks/Cincrementdecrement.md",
-    "Backlinks/C_IMPORTANT.md",
-    "Backlinks/Clogicalshort.md",
-    "Backlinks/C.md",
-    "0HEADQUARTERS.md",
-    "Backlinks/Chalfadderlogic.md",
-    "Backlinks/CUNIONSapplications.md"
+    "Backlinks/attachments/Pasted Image 20230322144247_357.jpg",
+    "Excalidraw/Drawing_0.excalidraw.svg",
+    "Backlinks/onerous.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch37.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch3.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14.pdf",
+    "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO-101-Lesson-Notes.pdf"
   ]
 }

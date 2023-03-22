@@ -36,6 +36,8 @@ It inherits the `AbstractMap` class and implements the **[[JavaMapInterfaces|Map
 > \[Inting, Keane, Radleigh]
 > \[25, 23, 24]
 > 
+> person.get("Keane"): 23
+> 
 > key = Inting    values: 25
 > key = Keane     values: 23
 > key = Radleigh  values: 24
@@ -52,7 +54,7 @@ It inherits the `AbstractMap` class and implements the **[[JavaMapInterfaces|Map
 import java.util.HashMap;
 import java.util.Map;
 
-class Proto {
+class Main {
     public static void main(String[] args) {
 
         HashMap<String, Integer> person = new HashMap<>();
@@ -65,9 +67,15 @@ class Proto {
 
         System.out.println();
 
-        // print manually
+        // print all keys
         System.out.println(person.keySet());
+        // print all values
         System.out.println(person.values());
+
+        System.out.println();
+
+        // print single value
+        System.out.println("person.get(\"Keane\"): " + person.get("Keane"));
 
         System.out.println();
 
@@ -89,6 +97,9 @@ class Proto {
 
 }
 ```
+
+More examples:
+- [[JavaHashtableHashMapSample|Username and Password using HashMap]]
 
 <br>
 

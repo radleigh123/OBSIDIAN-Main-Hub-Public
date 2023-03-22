@@ -17,8 +17,8 @@ tags:
 
 ```properties
 # info.properties
-username = keanekiller
-password = Lhlanders123
+username=keanekiller
+password=Lhlanders123
 ```
 ```java
 /**

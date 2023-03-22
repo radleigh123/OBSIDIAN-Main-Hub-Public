@@ -126,6 +126,7 @@ tags:
 - [[JavaArraysRevisited|Arrays Revisited]]
 - [[JavaArrayListVector|ArrayList & Vector]]
 - [[JavaCollectionInterfaces|Collection Interfaces]]
+- [[JavaSet|Set & HashSet]]
 - [[JavaMapInterfaces|Map Interfaces]]
 - [[JavaHashtableHashMap|Hashtable & HashMap]]
 	- [[JavaProperties|Properties]]
