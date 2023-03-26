@@ -130,9 +130,9 @@ tags:
 - [[JavaMapInterfaces|Map Interfaces]]
 - [[JavaHashtableHashMap|Hashtable & HashMap]]
 	- [[JavaProperties|Properties]]
-- Enumeration and Iterator
-- Class LinkedList
-- Class BitSet
+- [[JavaIterator&Enumeration|Iterator]]
+- [[JavaLinkedList|LinkedList Class]]
+- [[JavaBitSet|BitSet Class]]
 
 #### Introduction to Generics
 - Generics with Classes

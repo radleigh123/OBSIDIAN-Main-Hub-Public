@@ -14,4 +14,5 @@ tags:
 6. [[HIST101MIDTERMch26|The Returned to Spain]]
 7. [[HIST101MIDTERMch27|Results of the Journey]]
 8. [[HIST101MIDTERMch28|Other Spanish Expeditions]]
-9. [[HIST101MIDTERMch29|The Colonization]]
+9. [[HIST101MIDTERMch29|Portuguese and Spanish Explorers]]
+10. [[HIST101MIDTERMch30|The Colonization]]
