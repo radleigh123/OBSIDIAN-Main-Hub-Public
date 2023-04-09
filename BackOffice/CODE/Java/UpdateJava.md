@@ -1,4 +1,3 @@
-
 ---
 cssclass:
 title: Java
@@ -117,7 +116,7 @@ tags:
 - [[JavaExceptionHandlingSample|Creating Your Own Exceptions]]
 - [[JavaExceptionHandlingSummary|Summary]]
 
-#### Introduction to Collections
+#### Collections
 >[!DONE|collapse alt-co]- Introduction
 > $\quad$<u>[[JavaArrays|Java arrays]]</u>, which are good for storage, <u>but fall short when you need to dynamically add or remove data</u>, or to sort or traverse your collection. There are a number of classes and interfaces in the package **java.util** that are quite handy when multiple instances of some objects have to be co-located in memory.
 > &nbsp;
@@ -134,8 +133,14 @@ tags:
 - [[JavaLinkedList|LinkedList Class]]
 - [[JavaBitSet|BitSet Class]]
 
-#### Introduction to Generics
-- Generics with Classes
+#### Generics
+>[!DONE|collapse alt-co]- Introduction
+> $\quad$In the previous lesson you saw an example of a collection that stores objects of different types (see [[JavaArrayListSample2|ArrayList Sample 2]]). During the run time, that program would test the actual type of each object and cast it to an appropriate type — *Customer* or *Order*. If some code adds an element of another (unexpected) data type, this will result in a casting error, `IllegalCastException`.
+> &nbsp;
+> $\quad$Starting from **Java 5** you can use **Generics**, which enables you to use parameterized data types — you can declare an object, collection, or method without specifying a concrete data type, shifting the definition of concrete types to the code that will be using these objects, collections, or methods. And the good part is that by using such generic notation you’ll get help from Java compiler, which will not allow you to use objects of the “*wrong*” types that don’t match the declaration. In other words, you can catch improper data types earlier, during the compilation phase.
+
+- [[JavaGenerics|Java Generics]]
+- [[JavaGenericsTypes|Types of Generics]]
 - Defining Generics
 - [[JavaWildCard|Wild Cards]] ^406387
 - Bounded Wild Cards

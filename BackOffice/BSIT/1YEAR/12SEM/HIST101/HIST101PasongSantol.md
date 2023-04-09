@@ -1,0 +1,3 @@
+**Pasong Santol** (Battle of Perez Dasmariñas)
+
+was a battle of the [[HIST101PhilippineRevolution|Philippine Revolution]]. It occurred during the **Cavite Offensive of 1897**, commanded by <mark class="hltr-lightgreen">Maj. Gen. Jose de Lachambre</mark> under <mark class="hltr-lightgreen">Governor-General Camilo de Polavieja</mark>, as the Spanish aimed to recapture Cavite from Katipunan rebel control. Both the battle and the offensive was a success for the Spanish, and the retreat to Montalban occurred several weeks after the battle.

@@ -43,6 +43,8 @@ Both were granted the right to engage in trade (*indulto de comercio* \ licensed
 >> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ provide food, lodging and entertainment for official visitors
 >> ▪ <mark class="hltr-lightred">but the town was always bankrupt</mark>, *gobernadorcillo* was expected to defray out of his personal pocket the expense connected with his office
 
+^35b618
+
 **ayuntamiento**
 - a special government or charter of a city/cuidad
 - two alcaldes, **mayor** and **vice-mayor**

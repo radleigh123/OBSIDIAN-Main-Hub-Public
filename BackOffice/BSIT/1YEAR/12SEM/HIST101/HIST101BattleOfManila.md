@@ -1,0 +1,3 @@
+**1899 Battle of Manila**
+
+the first and largest battle of the Philippine–American War, was fought on **February 4–5, 1899**, between 19,000 American soldiers and 15,000 Filipino armed militiamen. Armed conflict broke out when American troops, under orders to turn away insurgents from their encampment, fired upon an encroaching group of Filipinos. Philippine President Emilio Aguinaldo attempted to broker a ceasefire, but American General Elwell Stephen Otis rejected it, and fighting escalated the next day. It ended in an American victory, although minor skirmishes continued for several days afterward.

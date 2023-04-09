@@ -20,6 +20,12 @@ banner_y: 0.62
 - [[HIST101MIDTERMch4|Filipino Reactions to Spanish Rule]]
 
 ## Semifinal
+- [[HIST101SEMIFINALch1|The Propaganda Movement]]
+- Plot review
+	- [[HIST101SEMIFINALch21|Bonifacio, Ang Unang Pangulo]]
+	- [[HIST101SEMIFINALch22|El Presidente]]
+	- [[HIST101SEMIFINALch23|Questions]]
+
 ## Final
 
 ---

@@ -1,0 +1,3 @@
+**1872 Cavite Mutiny**
+
+was an uprising of Filipino military personnel of Fort San Felipe, the Spanish arsenal in Cavite, Philippine Islands on **January 20, 1872**. Around 200 locally recruited colonial troops and laborers rose up in the belief that it would elevate to a national uprising. The mutiny was unsuccessful, and government soldiers executed many of the participants and began to crack down on a burgeoning Philippines nationalist movement. Many scholars believed that the Cavite mutiny was the beginning of Filipino nationalism that would eventually lead to the [[HIST101PhilippineRevolution|Philippine Revolution of 1896]].

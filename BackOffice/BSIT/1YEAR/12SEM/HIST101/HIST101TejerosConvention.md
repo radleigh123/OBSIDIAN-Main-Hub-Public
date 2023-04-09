@@ -1,0 +1,5 @@
+**Tejeros Convention** (Tejeros Assembly or Tejeros Congress)
+
+was a meeting held on **March 22, 1897**, between Katipunan factions of [[HIST101Magdiwang|Magdiwang]] and [[HIST101Magdalo|Magdalo]] in San Francisco de Malabon, Cavite (now General Trias) that resulted in the creation of a new revolutionary government that took charge of the [[HIST101PhilippineRevolution|Philippine Revolution]], replacing the Katipunan. It followed on a previous meeting now known as the [[HIST101ImusAssembly|Imus Assembly]]. Filipino historians consider the first presidential and vice presidential elections in Philippine history to have been held at this convention, although only Katipuneros (members of the Katipunan) were able to take part, and not the general populace.
+
+![[HIST101TejerosConvention.png|center]]

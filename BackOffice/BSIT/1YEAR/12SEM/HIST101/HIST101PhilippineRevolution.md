@@ -1,0 +1,18 @@
+**Philippine Revolution** (Tagalog War)
+
+was a conflict waged by the Filipino revolutionaries against the Spanish colonial authorities in an attempt to win the country's independence.
+
+The Philippine Revolution began on **August 24, 1896**, when the Spanish authorities discovered the Katipunan, an anticolonial secret organization. **The Katipunan**, led by **Andrés Bonifacio**, began to influence much of the Philippines, taking full advantage of Spanish failures against Cuban nationalists in 1895 and declaring Spain a weakened empire. During a mass gathering in Caloocan, the leaders of the Katipunan organized into a revolutionary government, named the newly established government "*Haring Bayang Katagalugan*", and openly declared a nationwide armed revolution. Bonifacio called for an attack on the capital city of Manila. This attack failed; however, the surrounding provinces began to revolt. In particular, rebels in Cavite led by Mariano Álvarez and Baldomero Aguinaldo (who were leaders from two different factions of the Katipunan) won early major victories. A power struggle among the revolutionaries led to a schism among Katipunan leadership followed by Bonifacio's execution in 1897, with command having shifted to Emilio Aguinaldo, who led the newly formed revolutionary government. That year, revolutionaries and the Spanish signed the Pact of Biak-na-Bato, which temporarily reduced hostilities. Filipino revolutionary officers exiled themselves to Hong Kong. However, the hostilities never completely ceased.
+
+On **April 21, 1898**, after the sinking of the USS Maine in Havana Harbor and prior to its declaration of war on April 25, the United States launched a naval blockade of the Spanish colonial island of Cuba, off its southern coast of the peninsula of Florida. This was the first military action of the Spanish–American War of 1898. On May 1, the U.S. Navy's Asiatic Squadron, under Commodore George Dewey, decisively defeated the Spanish Navy in the Battle of Manila Bay, effectively seizing control of Manila. On **May 19**, Aguinaldo, unofficially allied with the United States, returned to the Philippines and resumed attacks against the Spaniards. By June, the rebels had gained control of nearly all of the Philippines, with the exception of Manila. On **June 12**, Aguinaldo issued the **Philippine Declaration of Independence**. Although this signified the end date of the revolution, neither Spain nor the United States recognized Philippine independence.
+
+The Spanish rule of the Philippines officially ended with the **Treaty of Paris of 1898**, which also ended the Spanish–American War. In the treaty, Spain ceded control of the Philippines and other territories to the United States. There was an uneasy peace around Manila, with the American forces controlling the city and the weaker Philippines forces surrounding them.
+
+On **February 4, 1899**, in the Battle of Manila, fighting broke out between the Filipino and American forces, beginning the Philippine–American War. Aguinaldo immediately ordered "that peace and friendly relations with the Americans be broken and that the latter be treated as enemies". In **June 1899**, the nascent First Philippine Republic formally declared war against the United States, in which the Americans prevailed.
+
+The Philippines would not become an internationally recognized independent state until 1946.
+
+Result: Filipino victory
+-   Expulsion of the Spanish colonial government
+-   Declaration of Philippine Independence (1898)
+-   Establishment of the First Philippine Republic (1899)

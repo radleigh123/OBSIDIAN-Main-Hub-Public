@@ -16,3 +16,5 @@
 **GARENA**: keanekiller321 - Lhlanders123
 **PIXIV**: keaneradleigh123\@gmail.com - Lhlanders123
 **ROBLOX**: Swimming_Woods - NANOLESS1234
+**ALBION**: keaneradleigh@gmail.com - NANOLESS1234 (OLD)
+**ALBION**: keaneradleighinting@gmail.com - NANOLESS1234

@@ -1,0 +1,8 @@
+What is Propaganda Movement? How did it helped the Filipinos?
+a Filipino-led <mark class="hltr-lightgreen">campaign for reform and assimilation</mark> which can be dated from the appearance of the reformist bilingual newspaper <mark class="hltr-lightblue">1882 Diariong Tagalog</mark> to the demise of the publication <mark class="hltr-lightblue">1895 La Solidaridad</mark>.
+
+It was an assimilationist movement in that the propagandists, believed that the <mark class="hltr-lightgreen">Philippines should be fully incorporated into Spain as a Spanish province</mark> and not merely as a colony, with Filipinos granted the same citizenship rights accorded to Spanish citizens.
+Second, it sought the <mark class="hltr-lightgreen">expulsion of the Spanish friars</mark> from the Philippines and the empowerment of a native Filipino clergy.
+Lastly, as a cultural movement, it showcased the writing and artistic production of the <mark class="hltr-lightgreen">young Filipino elite</mark> as a means of demonstrating their <mark class="hltr-lightgreen">intellectual sophistication, on par</mark> with their Spanish peers.
+
+The propagandists themselves were considered to be rebels at home in the Philippines, and many were exiled. Despite its overall failure, the movement generated a political consciousness that fed into the [[HIST101PhilippineRevolution|nationalist revolution of 1896]] and the struggle for independence that followed.

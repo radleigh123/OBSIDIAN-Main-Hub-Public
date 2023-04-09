@@ -1,0 +1,2 @@
+What was Cavite Mutiny all about?
+happened on <mark class="hltr-lightblue">January 20, 1872</mark>, an uprising of Filipino military personnel around 200 recruited, in the belief that it would elevate to a national uprising. Moreover, it is a possibility that the 1872 Cavite Mutiny was the beginning of Filipino nationalism leading to the Philippine Revolution

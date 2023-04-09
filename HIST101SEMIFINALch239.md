@@ -1,0 +1,4 @@
+Is Rizal for reformation? Or revolution? Why do you say so?
+He was a reformist. He did not recommend fighting with arms of freedom and liberation from the Spaniards because the Katipunan was simply not yet ready and it would be an exercise of futility and waste of native lives.
+
+Moreover, being a distinguished educated person, he knew very well it was not the right time to launch a revolution, because the necessary requirement to win a revolution would require a lot of funding support, armaments, training, and experienced officers (to create a functioning organization). As shown in the Philippine Revolution, under Aguinaldo's leadership they were lacking of food and training of troops (lack of firearms)

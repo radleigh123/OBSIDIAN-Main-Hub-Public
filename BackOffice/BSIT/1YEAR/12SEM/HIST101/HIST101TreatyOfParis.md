@@ -1,0 +1,3 @@
+**1898 Treaty of Paris**
+
+was signed by Spain and the United States on December 10, 1898, that ended the [[HIST101SpanishAmericanWar|Spanish–American War]]. Under it, Spain relinquished all claim of sovereignty over and title to territories described there as the island of Porto Rico and other islands now under Spanish sovereignty in the West Indies, and the island of Guam in the Marianas or Ladrones, the archipelago known as the **Philippine Islands** to the United States. The cession of the Philippines involved a compensation of **$20 million** from the United States to Spain

@@ -1,0 +1,2 @@
+**seculars**
+Clergymen who are not affiliated with a religious order. They are mostly native Filipinos. At the time they are referred to as indios with the term Filipino exclusive to Spaniards born in the Philippines. Parish works is usually reserved to seculars but the Spanish colonial government in the Philippines had to deal with the issue that there are virtually no Spaniard seculars due to the low immigration rate of Spaniards to the Philippines due to its distance from Spain and its weak economy.

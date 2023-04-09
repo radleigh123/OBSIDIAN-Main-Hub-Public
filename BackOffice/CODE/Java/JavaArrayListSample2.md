@@ -20,7 +20,7 @@ for (int i=0; i< totalElem;i++) {
 }
 ```
 
-Avoiding the exception using `instanceof`
+Avoiding the exception using `instanceof` ^8661b0
 >[!aside|show-title right]+ RESULT:
 > Keane Radleigh
 > Rhiz Caballero

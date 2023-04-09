@@ -4,17 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "df0028dd5f126361",
+        "id": "6f24ef4341816b6b",
         "type": "tabs",
+        "dimension": 54.56298200514139,
         "children": [
           {
-            "id": "08ecd141d9c22972",
+            "id": "271eca157fe20aa8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch2.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "dac522167f5dac8d",
+        "type": "tabs",
+        "dimension": 45.437017994858614,
+        "children": [
+          {
+            "id": "666323188665890b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
                 "mode": "preview",
                 "source": true
               },
@@ -87,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137
+    "width": 260.99999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -104,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch2.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch2.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch2.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch2.md"
+                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md"
               }
             }
           },
@@ -217,57 +240,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08ecd141d9c22972",
+  "active": "666323188665890b",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch29.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch2.md",
+    "HIST101SEMIFINALch230.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
+    "HIST101SEMIFINALch239.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/TEMPRIZAL101LifeRizal.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch11.md",
+    "HIST101SEMIFINALch238.md",
+    "HIST101SEMIFINALch237.md",
+    "HIST101SEMIFINALch232.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch1.md",
+    "HIST101SEMIFINALch236.md",
+    "HIST101SEMIFINALch235.md",
+    "HIST101SEMIFINALch234.md",
+    "sedition.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101GOMBURZA.md",
+    "HIST101SEMIFINALch233.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101CaviteMutiny.md",
+    "HIST101Seculars.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch231.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101BattleOfManila.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch22.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101TiradPass.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PhilippineAmericanWar.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FirstPhilippineRepublic.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101TreatyOfParis.md",
+    "Backlinks/attachments/HIST101TejerosConvention.png",
+    "Backlinks/attachments/HIST101GOMBURZA.png",
+    "Excalidraw/Drawing.excalidraw.svg",
+    "Backlinks/attachments/Pasted Image 20230406141149_610.jpg",
+    "Backlinks/attachments/Pasted Image 20230406135646_205.jpg",
+    "Backlinks/attachments/Pasted Image 20230406131909_532.jpg",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch29.jpg",
     "334231356_738066318041750_6962668778306527895_n.jpg",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch30.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch28.md",
     "Backlinks/attachments/HIST101MIDTERMch30.jpg",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
     "Backlinks/attachments/332924258_592917009061666_7706504163268878991_n.jpg",
-    "Backlinks/attachments/1.jpeg",
-    "Excalidraw/Drawing.excalidraw.md",
-    "Excalidraw/Drawing.excalidraw.svg",
-    "Backlinks/attachments/Pasted Image 20230326184841_433.jpg",
-    "TMP_RevisedWorkout.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "TMP_Notes.md",
-    "TMP_1SemGrades.md",
-    "BackOffice/CODE/Java/JavaBitSet.md",
-    "BackOffice/CODE/Java/JavaLinkedList.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch1.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14FirstVoyage.md",
-    "BackOffice/CODE/Java/JavaLinkedListSample.md",
-    "BackOffice/CODE/Java/JavaProperties.md",
-    "BackOffice/CODE/Java/JavaIterator&Enumeration.md",
-    "Backlinks/sequential.md",
-    "BackOffice/CODE/Java/JavaSet.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch3.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch37.md",
-    "Backlinks/attachments/HIST101MIDTERMch33.jpg",
-    "Backlinks/attachments/HIST101MIDTERMch371.jpg",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch34.md",
-    "Backlinks/attachments/HIST101MIDTERMch37.jpg",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch36.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch35.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch33.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14.pdf",
     "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO-101-Lesson-Notes.pdf"
   ]

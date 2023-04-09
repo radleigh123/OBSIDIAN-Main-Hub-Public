@@ -1,0 +1,3 @@
+**Battle of Tirad Pass**
+
+sometimes referred to as the "*Philippine Thermopylae*", was a battle in the [[HIST101PhilippineAmericanWar|Philippine–American War]] fought on **December 2, 1899**, in northern Luzon in the Philippines, in which a 60-man Filipino rear guard commanded by Brigadier General Gregorio del Pilar succumbed to more than 500 Americans, mostly of the 33rd Volunteer Infantry Regiment under Major Peyton C. March, while <mark class="hltr-lightblue">delaying the American advance to ensure that President Emilio Aguinaldo and his troops escaped</mark>.
