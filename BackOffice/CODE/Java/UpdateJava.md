@@ -140,12 +140,11 @@ tags:
 > $\quad$Starting from **Java 5** you can use **Generics**, which enables you to use parameterized data types — you can declare an object, collection, or method without specifying a concrete data type, shifting the definition of concrete types to the code that will be using these objects, collections, or methods. And the good part is that by using such generic notation you’ll get help from Java compiler, which will not allow you to use objects of the “*wrong*” types that don’t match the declaration. In other words, you can catch improper data types earlier, during the compilation phase.
 
 - [[JavaGenerics|Java Generics]]
-- [[JavaGenericsTypes|Types of Generics]]
-- Defining Generics
-- [[JavaWildCard|Wild Cards]] ^406387
-- Bounded Wild Cards
-- Generic Methods
-- What to Read Next
+- [[JavaGenericsTypesClass|Generics Classes]]
+- [[JavaGenericsDefining|Defining Generics]]
+- [[JavaWildCard|Wildcards]] ^406387
+- [[JavaGenericsTypesMethod|Generic Methods]]
+- [[JavaGenericsNext|What to Read Next]]
 
 #### Working w/ Streams
 - Byte Streams

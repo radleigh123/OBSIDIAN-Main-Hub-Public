@@ -5,7 +5,7 @@
 **STEAM**: keanekiller - Swimming_Woods (keaneradleigh321)
 **STEAM:** keane1235 - NANOLESS1234 (keaneradleighinting)
 **DISCORD:** livingamateurartist - NANOLESS1234
-**GITHUB**: keaneradleigh - 1Lhlanders
+**GITHUB**: radleigh123 - 1Lhlanders!
 **REDDIT**: keanekiller - NANOLESS1234
 **BATTELNET**: NOOBZforFUN - Swimming_Woods
 **UC**: ucb-20200937 - 1Lhlanders!

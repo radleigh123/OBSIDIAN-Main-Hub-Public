@@ -6,16 +6,16 @@
       {
         "id": "6f24ef4341816b6b",
         "type": "tabs",
-        "dimension": 54.56298200514139,
+        "dimension": 31.68380462724936,
         "children": [
           {
-            "id": "271eca157fe20aa8",
+            "id": "aa8936e8cd21aaab",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "mode": "preview",
                 "source": true
               },
@@ -25,22 +25,20 @@
         ]
       },
       {
-        "id": "dac522167f5dac8d",
+        "id": "7637ac8b048b3f4c",
         "type": "tabs",
-        "dimension": 45.437017994858614,
+        "dimension": 68.31619537275064,
         "children": [
           {
-            "id": "666323188665890b",
+            "id": "b165c8a672f802dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
+                "file": "JavaGenericsTypesMethod.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -127,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
+                "file": "JavaGenericsTypesMethod.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
+                "file": "JavaGenericsTypesMethod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
+                "file": "JavaGenericsTypesMethod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md"
+                "file": "JavaGenericsTypesMethod.md"
               }
             }
           },
@@ -255,34 +253,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "666323188665890b",
+  "active": "b165c8a672f802dc",
   "lastOpenFiles": [
-    "HIST101SEMIFINALch230.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
-    "HIST101SEMIFINALch239.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/TEMPRIZAL101LifeRizal.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "JavaGenericsNext.md",
+    "JavaGenericsTypesMethod.md",
+    "BackOffice/CODE/Java/JavaGenericsTypes.md",
+    "JavaGenericsTypesClass.md",
+    "BackOffice/CODE/Java/JavaWildCard.md",
+    "JavaWildCardUnbounded.md",
+    "JavaWildCardLower.md",
+    "JavaGenericsQuestion.md",
+    "JavaWildCardUpper.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101Ch38.md",
     "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch11.md",
-    "HIST101SEMIFINALch238.md",
-    "HIST101SEMIFINALch237.md",
-    "HIST101SEMIFINALch232.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch1.md",
-    "HIST101SEMIFINALch236.md",
-    "HIST101SEMIFINALch235.md",
-    "HIST101SEMIFINALch234.md",
-    "sedition.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101GOMBURZA.md",
-    "HIST101SEMIFINALch233.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101CaviteMutiny.md",
-    "HIST101Seculars.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch231.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101BattleOfManila.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch22.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101TiradPass.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PhilippineAmericanWar.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FirstPhilippineRepublic.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101TreatyOfParis.md",
+    "JavaGenericsDefining.md",
+    "BackOffice/CODE/Java/JavaArrayListSample2.md",
+    "BackOffice/CODE/Java/Java.md",
+    "TMP_RevisedWorkout.md",
+    "TMP_Notes.md",
+    "TMP_1SemGrades.md",
+    "20230404_1015.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch239.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101Seculars.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+    "BackOffice/CREDS.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch230.md",
+    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/TEMPRIZAL101LifeRizal.md",
     "Backlinks/attachments/HIST101TejerosConvention.png",
     "Backlinks/attachments/HIST101GOMBURZA.png",
     "Excalidraw/Drawing.excalidraw.svg",
