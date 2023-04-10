@@ -146,8 +146,19 @@ tags:
 - [[JavaGenericsTypesMethod|Generic Methods]]
 - [[JavaGenericsNext|What to Read Next]]
 
-#### Working w/ Streams
-- Byte Streams
+#### Working with Streams
+>[!DONE|collapse alt-co]- Introduction
+> $\quad$Most programs work with some kind of data, which could be stored in a local database, on a remote computer, or in a file located on your disk. Java has a concept of working with streams of data. You can say that a Java program reads sequences of bytes from an input stream (or writes into an output stream): byte after byte, character after character, primitive after primitive. Accordingly, Java defines various types of classes supporting streams, for example `InputStream` or `OutputStream`. There are classes specifically meant for reading character streams such as `Reader` and `Writer`. `DataInputStream` and `DataOutputStream` can read and write Java primitives, and to work with fi les you may consider such classes as `FileInputStream` and `FileReader`.
+> &nbsp;
+> $\quad$Classes that work with streams are located in two packages: `java.io` and `java.nio`. Classes from the former implement blocking of input/output (I/O): When bytes are being read/written by a process, they become unavailable for other threads of execution. The latter package offers non-blocking I/O with improved performance.
+> &nbsp;
+> Before deciding which Java class to use for I/O in each particular case, you need to understand what kind of data is coming from the stream in question. But no matter what you select, your code will need to perform three operations:
+> $\quad$ 1\. Open a stream that points at a specific data source: a file, a socket, a URL, and so on.
+> $\quad$ 2\. Read or write data from/to this stream.
+> $\quad$ 3\. Close the stream
+
+- [[JavaStreamsTerminologies|Terminologies]]
+- [[JavaStreamsByte|Byte Streams]]
 - Buffered Streams
 - Characters Streams
 - Data Streams

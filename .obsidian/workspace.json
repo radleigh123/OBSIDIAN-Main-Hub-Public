@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f24ef4341816b6b",
+        "id": "7637ac8b048b3f4c",
         "type": "tabs",
-        "dimension": 31.68380462724936,
+        "dimension": 31.10539845758355,
         "children": [
           {
-            "id": "aa8936e8cd21aaab",
+            "id": "b165c8a672f802dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,17 +25,17 @@
         ]
       },
       {
-        "id": "7637ac8b048b3f4c",
+        "id": "9704e6ea7e37e446",
         "type": "tabs",
-        "dimension": 68.31619537275064,
+        "dimension": 68.89460154241645,
         "children": [
           {
-            "id": "b165c8a672f802dc",
+            "id": "5ad1345e8de29948",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGenericsTypesMethod.md",
+                "file": "JavaStreamsByte.md",
                 "mode": "preview",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaGenericsTypesMethod.md",
+                "file": "JavaStreamsByte.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGenericsTypesMethod.md",
+                "file": "JavaStreamsByte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGenericsTypesMethod.md",
+                "file": "JavaStreamsByte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGenericsTypesMethod.md"
+                "file": "JavaStreamsByte.md"
               }
             }
           },
@@ -234,7 +234,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,34 +254,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b165c8a672f802dc",
+  "active": "5ad1345e8de29948",
   "lastOpenFiles": [
+    "JavaStreamsByteSample0.md",
+    "JavaStreamsByte.md",
+    "JavaStreamsByteSample1.md",
+    "Backlinks/attachments/JavaStreamsByte.png",
+    "JavaStreamsByteFileInputStream.md",
+    "JavaStreamsByteFileOutputStream.md",
     "BackOffice/CODE/Java/UpdateJava.md",
-    "JavaGenericsNext.md",
-    "JavaGenericsTypesMethod.md",
+    "JavaStreamsTerminologies.md",
+    "Backlinks/attachments/JavaStreamsTerminologies.png",
+    "BackOffice/CREDS.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch22.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch21.md",
+    "BackOffice/CODE/Java/JavaGenericsDefining.md",
+    "BackOffice/CODE/Java/JavaGenericsTypesMethod.md",
+    "BackOffice/CODE/Java/JavaGenericsNext.md",
     "BackOffice/CODE/Java/JavaGenericsTypes.md",
-    "JavaGenericsTypesClass.md",
+    "BackOffice/CODE/Java/JavaGenericsTypesClass.md",
     "BackOffice/CODE/Java/JavaWildCard.md",
-    "JavaWildCardUnbounded.md",
-    "JavaWildCardLower.md",
-    "JavaGenericsQuestion.md",
-    "JavaWildCardUpper.md",
+    "BackOffice/CODE/Java/JavaWildCardUnbounded.md",
+    "BackOffice/CODE/Java/JavaWildCardLower.md",
+    "BackOffice/CODE/Java/JavaGenericsQuestion.md",
+    "BackOffice/CODE/Java/JavaWildCardUpper.md",
     "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101Ch38.md",
     "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/RIZAL101.md",
-    "JavaGenericsDefining.md",
     "BackOffice/CODE/Java/JavaArrayListSample2.md",
     "BackOffice/CODE/Java/Java.md",
-    "TMP_RevisedWorkout.md",
-    "TMP_Notes.md",
-    "TMP_1SemGrades.md",
-    "20230404_1015.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch239.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101Seculars.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/CREDS.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch230.md",
-    "BackOffice/BSIT/1YEAR/12SEM/RIZAL101/TEMPRIZAL101LifeRizal.md",
     "Backlinks/attachments/HIST101TejerosConvention.png",
     "Backlinks/attachments/HIST101GOMBURZA.png",
     "Excalidraw/Drawing.excalidraw.svg",
@@ -289,8 +292,6 @@
     "Backlinks/attachments/Pasted Image 20230406131909_532.jpg",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101MIDTERMch29.jpg",
     "334231356_738066318041750_6962668778306527895_n.jpg",
-    "Backlinks/attachments/HIST101MIDTERMch30.jpg",
-    "Backlinks/attachments/332924258_592917009061666_7706504163268878991_n.jpg",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101PRELIMch14.pdf",
     "BackOffice/BSIT/1YEAR/12SEM/SOCIO101/SOCIO-101-Lesson-Notes.pdf"
   ]

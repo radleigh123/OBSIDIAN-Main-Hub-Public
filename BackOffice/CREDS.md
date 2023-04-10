@@ -9,6 +9,7 @@
 **REDDIT**: keanekiller - NANOLESS1234
 **BATTELNET**: NOOBZforFUN - Swimming_Woods
 **UC**: ucb-20200937 - 1Lhlanders!
+**UC-PORTAL**: keaneradleigh123\@gmail.com - NANOLESs123
 **ORIGIN**: keaneradleigh123\@gmail.com - NANOLESSa1234
 **MICROSOFT**: keaneradleigh123\@gmail.com - Lhlanders1234
 **RIOT**: keanekiller - T87P3#54A$9Rlh4l <mark class="hltr-lightred">BANNED</mark>
@@ -16,5 +17,5 @@
 **GARENA**: keanekiller321 - Lhlanders123
 **PIXIV**: keaneradleigh123\@gmail.com - Lhlanders123
 **ROBLOX**: Swimming_Woods - NANOLESS1234
-**ALBION**: keaneradleigh@gmail.com - NANOLESS1234 (OLD)
-**ALBION**: keaneradleighinting@gmail.com - NANOLESS1234
+**ALBION**: keaneradleigh\@gmail.com - NANOLESS1234 (OLD)
+**ALBION**: keaneradleighinting\@gmail.com - NANOLESS1234
