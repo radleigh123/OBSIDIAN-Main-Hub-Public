@@ -10,13 +10,21 @@ tags:
 - Java/File/getAbsolutePath
 - Java/File/isFile
 ---
-**[[Java|HOME [Java]]]**
+**[[UpdateJava#Working with Streams|HOME [Java]]]**
 
 ---
 <center><strong>package:</strong> java.io.File</center>
 
 # File Class
 Java’s representation of a file or directory pathname. Because file and directory names have different formats on different platforms, a simple string is not adequate to name them.
+- `createNewFile()`: Creates a new, empty file named according to the file name used during the file instantiation. Creates a new file only if a file with this name does not exist.
+- `delete()`: Deletes file or directory
+- `renameTo()`: Renames a file.
+- `length()`: Returns the length of the file in bytes.
+- `exists()`: Tests whether the file with the specified name exists.
+- `list()`: Returns an array of strings containing file and directory.
+- `lastModified()`: Returns the time that the file was last modified.
+- `mkDir()`: Creates a directory.
 
 **e.g.**
 ```java

@@ -21,8 +21,7 @@ This <mark class="hltr-lightgreen">mission</mark> gives the curate great power i
 
 They offer the government to suppress the country's rebelliousness and the government gives them all its <mark class="hltr-lightgreen">autocratic support</mark>, going to the extreme if the friars so demand, while they portray the ruler as the personification of tyranny and despotism.
 
-They <mark class="hltr-lightgreen">offer</mark> the people <mark class="hltr-lightgreen">to soften that tyranny</mark> and the people places its wealth in their hands so that
-they may defend them against official rapacity.
+They <mark class="hltr-lightgreen">offer</mark> the people <mark class="hltr-lightgreen">to soften that tyranny</mark> and the people places its wealth in their hands so that they may defend them against official rapacity.
 
 Having scant resources, the government exposes its nakedness. Neither can it restore the residence of the highest official of the Islands nor build bridges or schools, nor satisfy its most pressing needs; while the convents, for each curate of their corporation, in each locality with three thousand souls, display luxurious palaces and all the manifestations of pomp.
 
@@ -38,8 +37,7 @@ Numerous are the duties of the municipal official in the Philippines. Besides hi
 
 Public education is one of the common aspirations of both the government and the Filipinos. The government as well as the people dream of a common language in the Islands. The government wants to understand the people and to be understood by them. The people want the government to know and remedy their needs without the mediation of other elements.
 
-But <mark class="hltr-lightgreen">monasticism</mark> is opposed to this, because it fears that the country may become Hispanized and
-cease to be a monastic colony.
+But <mark class="hltr-lightgreen">monasticism</mark> is opposed to this, because it fears that the country may become Hispanized and cease to be a monastic colony.
 
 There is a normal school in Manila where teachers are trained for the diffusion in the towns in of primary education and the teaching of the Spanish language. Competent young men who have graduated from it prove the zeal and the efforts of the government and of the Jesuit fathers towards the realization of that ideal. But everything is shattered in the face of friar opposition.
 

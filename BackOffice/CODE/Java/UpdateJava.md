@@ -159,10 +159,10 @@ tags:
 
 - [[JavaStreamsTerminologies|Terminologies]]
 - [[JavaStreamsByte|Byte Streams]]
-- Buffered Streams
-- Characters Streams
-- Data Streams
-- The Class File
+	- [[JavaStreamsBuffered|Buffered Streams]]
+- [[JavaStreamsCharacter|Characters Streams]]
+- [[JavaStreamsData|Data Streams]]
+- [[JavaFileClass|The Class File]]
 
 #### Java Serialization
 - The Class ObjectOutputStream

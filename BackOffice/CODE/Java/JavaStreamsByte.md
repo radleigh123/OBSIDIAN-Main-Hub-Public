@@ -22,9 +22,11 @@ The ByteStream classes are divided into two types of classes, i.e., InputStream 
 >[!column|collapse ttl-c no-t] ByteStream Classes
 >>[!INFO|clean no-i] InputStream
 >> ▪ [[JavaStreamsByteFileInputStream|FileInputStream]]
+>> ▪ [[JavaStreamsBufferedInputStream|BufferedInputStream]]
 >
 >>[!INFO|clean no-i] OutputStream
 >>▪ [[JavaStreamsByteFileOutputStream|FileOutputStream]]
+>>▪ [[JavaStreamsBufferedOutputStream|BufferedOutputStream]]
 
 <br>
 

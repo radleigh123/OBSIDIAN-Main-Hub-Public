@@ -15,7 +15,7 @@ tags:
 # Internet
 > is a worldwide collection of computer networks that connects millions of businesses, government agencies, educational institutions, and individuals.
 
-1. [[Internet Address|Internet Address]] ^INTERNETADDRESS
+1. [[IP|Internet Address]] ^INTERNETADDRESS
 2. [[Protocol Stacks|Protocol Stacks and Packets]] ^PROTOCOLSTACKS
 3. [[Networking Infrastructure|Networking Infrastructure]] ^NETWORKINFRASTRUCTURE
 4. [[Internet Infrastructure|Internet Infrastructure]] ^INTERNETINFRASTRUCTURE
@@ -25,7 +25,7 @@ tags:
 8. [[HTTP|Application Protocols: HTTP and the World Wide Web]] ^HTTP
 9. [[SMTP|Application Protocols: SMTP and Electronic Mail]] ^SMTP
 10. [[TCP|Transmission Control Protocol]] ^TCP
-11. [[IP|Internet Protocol]] ^INTERNETPROTOCOLS2
+11. [[Internet Protocol|Internet Protocol]] ^INTERNETPROTOCOLS2
 
 <br>
 

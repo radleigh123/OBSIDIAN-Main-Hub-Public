@@ -33,7 +33,7 @@
 - [Communication Devices](comm.md)
 	- [Modems](modems.md)
 	- [Network Adapters](netadapters.md)
-	- [Routers](router.md)
+	- [Routers](Router.md)
 
 # 
 ---

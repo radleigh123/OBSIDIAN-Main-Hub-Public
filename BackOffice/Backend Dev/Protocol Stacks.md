@@ -28,7 +28,7 @@ If we were to follow the path that the message *"Hello computer 5.6.7.8!"* took 
 2. If the message to be sent is long, each stack layer that the message passes through may break the message up into smaller chunks of data. This is because data sent over the Internet (and most computer networks) are sent in manageable chunks. On the Internet, these chunks of data are known as **packets**.
    >[!DONE|alt-co]- Explain:
    > If the message is too long, it will be broken up into smaller chunks of data, known as packets. This is because most computer networks, including the Internet, send data in manageable chunks to ensure efficient and reliable transmission. ^5ae9a6
-3. The packets would go through the Application Layer and continue to the TCP layer. Each packet is assigned a **port number**. Ports will be explained later, but suffice to say that many programs may be using the [[TCP]]/[[IP]] stack and sending messages. We need to know which program on the destination computer needs to receive the message because it will be listening on a specific port.
+3. The packets would go through the Application Layer and continue to the TCP layer. Each packet is assigned a **port number**. Ports will be explained later, but suffice to say that many programs may be using the [[TCP]]/[[Internet Protocol]] stack and sending messages. We need to know which program on the destination computer needs to receive the message because it will be listening on a specific port.
    >[!DONE|alt-co]- Explain:
    > The packets then move to the TCP (Transmission Control Protocol) layer, where each packet is assigned a port number. Port numbers are used to identify the specific program or application on the destination computer that should receive the message. This is necessary because many programs may be using the TCP/IP stack and sending messages at the same time.
 4. After going through the TCP layer, the packets proceed to the IP layer. This is where each packet receives it's destination address, 5.6.7.8.
@@ -37,7 +37,7 @@ If we were to follow the path that the message *"Hello computer 5.6.7.8!"* took 
 5. Now that our message packets have a port number and an IP address, they are ready to be sent over the Internet. The hardware layer takes care of turning our packets containing the alphabetic text of our message into electronic signals and transmitting them over the phone line.
    >[!DONE|alt-co]- Explain:
    > The packets are now ready to be sent over the Internet, and the hardware layer takes care of turning the packets into electronic signals that can be transmitted over the phone line.
-6. On the other end of the phone line your [[ISP]] has a direct connection to the Internet. The ISPs [[router]] examines the destination address in each packet and determines where to send it. Often, the packet's next stop is another router.
+6. On the other end of the phone line your [[ISP]] has a direct connection to the Internet. The ISPs [[Router]] examines the destination address in each packet and determines where to send it. Often, the packet's next stop is another router.
    >[!DONE|alt-co]- Explain:
    > On the other end of the phone line, the ISP (Internet Service Provider) has a direct connection to the Internet. The ISP's router examines the destination address in each packet and determines where to send it. The packet may pass through multiple routers before reaching its final destination.
 7. Eventually, the packets reach computer 5.6.7.8. Here, the packets start at the bottom of the destination computer's TCP/IP stack and work upwards.
