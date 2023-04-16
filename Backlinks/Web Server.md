@@ -1,4 +1,4 @@
-## Webserver
+## Web Server
 > is a computer that delivers requested webpages to your computer or mobile device.
 
 ---

@@ -4,6 +4,7 @@ aliases:
 tags:
 - Java
 - Java/Serialization
+- Java/Streams/ObjectInputStream
 ---
 **[[JavaSerialization|BACK]]**
 
@@ -60,3 +61,6 @@ public class User implements Serializable {
 
 }
 ```
+
+More examples:
+- [[JavaObjectInputStreamSample0|More complex use of ObjectInputStream]]

@@ -2,31 +2,24 @@
 aliases:
 tags:
 ---
-**[[Internet#^INTERNETADDRESS|BACK]]**
+**[[Internet|BACK]]**
 
 ---
-### Internet Address
->[!CITE|alt-co] the Internet must have a **unique address**
+## IP (Internet Protocol)
+> rules that govern how information is sent from on PC to another PC over an Internet connection.
+> $\quad$▪ Public IP Address - accessible over the Internet.
+> $\quad$▪ Private IP Address - assigned to a device on a close network such as home or business network, **not accessible over the Internet**.
 
-- also known as an **[[Internet Protocol|IP]]** address
-- are in the form *nnn.nnn.nnn.nnn* where *nnn* must be a number from 0 - 255.
+Unlike [[TCP]], **IP is an unreliable, connectionless protocol**. IP doesn't care whether a packet gets to it's destination or not. Nor does IP know about connections and port numbers. **IP's job is too send and route packets to other computers**. IP packets are independent entities and may arrive out of order or not at all. It is TCP's job to make sure packets arrive and are in the correct order. About the only thing IP has in common with TCP is the way it receives data and adds it's own IP header information to the TCP data. The IP header looks like this:
 
-![[Internetimage0.png|center]]
-<center>two computers connected to the Internet; your computer with IP address 1.2.3.4</center>
-<center>and another computer with IP address 5.6.7.8.</center>
+![[Internet Protocol.png|center wm-tl]]
 
+Above we see the IP addresses of the sending and receiving computers in the IP header. Below is what a packet looks like after passing through the application layer, TCP layer, and IP layer. The application layer data is segmented in the TCP layer, the TCP header is added, the packet continues to the IP layer, the IP header is added, and then the packet is transmitted across the Internet.
 
-If you connect to the Internet through an **[[ISP]]**, you are usually assigned a temporary IP address
-If you connect to the Internet from a **[[LAN]]** your computer might have a permanent IP address or it might obtain a temporary one from a **[[DHCP|DHCP server]]**.
-
-In any case, if you are connected to the Internet, your computer has a unique IP address.
-
->[!FAQ]+ **ping**
->> a handy program to see if a computer on the Internet is alive
-> 
-> The ping program will send a `ping` (actually an **ICMP** (*Internet Control Message Protocol*) echo request message) to the named computer. The pinged computer will respond with a reply. The ping program will count the time expired until the reply comes back (if it does). Also, if you enter a domain name (i.e. *www\.yahoo\.com*) instead of an IP address, ping will resolve the domain name and display the computer's IP address. More on [[Domain Name|domain names]] and address resolution later.
-> 
-> **Windows** - `ping [domain_name]`
-> **Unix** - same
+![[Internet Protocol1.png|center wm-tl]]
 
 <br>
+
+# 
+---
+- 

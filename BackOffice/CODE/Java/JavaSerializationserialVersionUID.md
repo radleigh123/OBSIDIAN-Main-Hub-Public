@@ -4,13 +4,22 @@ aliases:
 tags:
 - Java
 - Java/java.io
+- Java/Serialization
 - Java/Serializable
 - Java/serialVersionUID
 ---
-**[[JavaSerialization|BACK]]**
+**[[UpdateJava#Java Serialization|HOME [Java]]]**
 
 ---
-## `serialVersionUID`
+## Class Versioning
+During [[JavaSerialization|serialization]], JVM automatically calculates a special value: the **serial version unique ID**, which is based on the properties of the serializable object, the class name, the implemented interfaces, and the signatures of non-private methods.
+
+But if your class explicitly defines and initializes a static final variable called `serialVersionUID`, Java will use your value instead of trying to generate one. For example,
+```java
+public static final serialVersionUID = 456123;
+```
+
+More complex example:
 **Serial folder**
 ```java
 import java.io.*;
@@ -97,9 +106,3 @@ public class User implements Serializable {
 
 }
 ```
-
-<br>
-
-# 
----
-- 

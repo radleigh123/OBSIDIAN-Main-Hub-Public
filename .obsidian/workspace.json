@@ -4,54 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a484083ccf27c89e",
+        "id": "e3d92e0b46ea521f",
         "type": "tabs",
-        "dimension": 46.52956298200514,
         "children": [
           {
-            "id": "7e8bc20787a0570d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "dee0095cb32ef834",
+            "id": "61fe5570943542f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch14.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5ea3fe8a60a194a7",
-        "type": "tabs",
-        "dimension": 53.470437017994854,
-        "children": [
-          {
-            "id": "6028fbad35bf7f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101CaviteMutiny.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Java/Streams/Buffered",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -251,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,36 +221,41 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "dee0095cb32ef834",
+  "active": "24b24a765d577cb1",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch1.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch13.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch11.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101CaviteMutiny.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101GOMBURZA.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch232.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch23.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101SEMIFINALch235.md",
-    "BackOffice/CODE/Java/JavaStreamsData.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CODE/Java/JavaFileClass.md",
-    "BackOffice/CODE/Java/JavaFileClassCreatingFile.md",
-    "BackOffice/CODE/Java/JavaFileClassReadingFile.md",
-    "BackOffice/CODE/Java/JavaStreamsDataOutputStream.md",
-    "BackOffice/CODE/Java/JavaStreamsDataInputStream.md",
-    "Backlinks/attachments/JavaStreamsData.png",
-    "BackOffice/CODE/Java/JavaStreamsCharacter.md",
-    "Backlinks/DNS.md",
-    "BackOffice/Backend Dev/Domain Name.md",
-    "Backlinks/attachments/Domain Name.png",
-    "BackOffice/Backend Dev/Internet.md",
-    "BackOffice/Backend Dev/IP.md",
-    "BackOffice/Backend Dev/Internet Protocol.md",
+    "BackOffice/CODE/Java/JavaNetworkProxy.md",
+    "Backlinks/HTTP & WWW.md",
+    "Backlinks/attachments/HTTP2.png",
+    "Backlinks/HTTPS.md",
     "BackOffice/MAINCODE.md",
-    "BackOffice/CODE/Java/JavaStreamsBuffered.md",
-    "BackOffice/CODE/Java/JavaStreamsBufferedInputStream.md",
+    "BackOffice/Backend Dev/Internet Address.md",
+    "BackOffice/Backend Dev/Internet.md",
+    "BackOffice/Backend Dev/Protocol Stacks1.md",
+    "BackOffice/Backend Dev/Internet Routing Hierarchy.md",
+    "BackOffice/Backend Dev/Domain Name.md",
+    "BackOffice/Backend Dev/IP.md",
+    "BackOffice/CODE/Java/JavaNetworkProgramming.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/CODE/Java/JavaNetworkReadingDataFromInternet.md",
+    "BackOffice/CODE/Java/JavaArrays.md",
+    "BackOffice/CODE/Java/JavaArraysMultidimensional.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61Example1.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch52.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch51.md",
+    "BackOffice/CREDS.md",
+    "Backlinks/attachments/Internet Protocol1.png",
+    "Backlinks/attachments/Internet Protocol.png",
+    "Backlinks/TCP.md",
+    "Backlinks/attachments/TCP1.png",
+    "Backlinks/attachments/Pasted image 20230414161556.png",
+    "Backlinks/attachments/TCP.png",
+    "BackOffice/Backend Dev/SMTP.md",
+    "BackOffice/CODE/Java/JavaNetworkReadingDataFromInternetSample0.md",
+    "Backlinks/attachments/JavaStreamsData.png",
+    "Backlinks/attachments/Domain Name.png",
     "Backlinks/attachments/JavaStreamsBufferedInputStream.png"
   ]
 }

@@ -10,10 +10,12 @@ tags:
 ## LAN (Local Area Network)
 consists of a series of computers linked together to form a network in a [[circumscribed]] location.
 
->[!INFO|alt-co]- **LAN** vs **WAN**
+>[!INFO] **LAN** vs **WAN**
 > A **wide area network** (WAN) is a series of LANs linked together to form a network in an extended area. WANs are typically operated by telecommunications companies or businesses that need a network comprising multiple remote locations. The internet itself is a WAN.
 > 
 > [[Fiber optic cable]] is the preferred transmission medium for WANs because fiber optic can transmit large amounts of data at high speeds. As is the case with the internet, a WAN can also include [[MAN]].
+
+^658c1d
 
 <br>
 

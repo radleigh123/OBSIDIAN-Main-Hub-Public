@@ -165,15 +165,17 @@ tags:
 - [[JavaFileClass|The Class File]]
 
 #### Java Serialization
-- The Class ObjectOutputStream
-- The Class ObjectInputStream
-- The Interface Externalizable
-- Class Versioning
-- Serializing into Byte Arrays
+- [[JavaSerialization|The Java Serialization]]
+- [[JavaObjectOutputStream|ObjectOutputStream Class]]
+- [[JavaObjectInputStream|ObjectInputStream Class]]
+- [[JavaSerializationExternalizable|The Externalizable Interface]]
+- [[JavaSerializationserialVersionUID|Class Versioning]]
+- [[JavaSerializationIntoByteArrays|Serializing into Byte Arrays]]
 
 #### Network Programming
-- Reading Data from the Internet
-- Connecting through HTTP Proxy Servers
+- [[JavaNetworkProgramming|Network Programming Intro]]
+- [[JavaNetworkReadingDataFromInternet|Reading Data from the Internet]]
+- [[JavaNetworkProxy|Connecting through HTTP Proxy Servers]]
 - How to Download Files from the Internet
 - The Stock Quote Program
 - Socket Programming

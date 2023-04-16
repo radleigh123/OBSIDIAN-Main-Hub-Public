@@ -5,8 +5,9 @@ tags:
 - Java
 - Java/Serialization
 - Java/Exceptions/throws
+- Java/Streams/ObjectOutputStream
 ---
-**[[JavaSerialization|BACK]]** | [[JavaSerializationSample1|Deserialize]]
+**[[JavaSerialization|BACK]]** | [[JavaObjectInputStream|Deserialize]]
 
 ---
 **Steps to Serialize:**
@@ -17,13 +18,15 @@ tags:
 5. `out.writeObject(objectName)`
 6. `out.close();` $\,$ `fileOut.close();`
 
-<br>
-
 ---
 ```java
+/**
+* Serial
+*/
+
 import java.io.*;
 
-public class Proto {
+public class Serial {
     public static void main(String[] args) throws FileNotFoundException, IOException {
 
         User user = new User();
@@ -45,8 +48,8 @@ public class Proto {
 ```
 ```java
 /**
-* User class
-*/
+ * User
+ */
 
 import java.io.Serializable;
 
@@ -61,3 +64,6 @@ public class User implements Serializable {
 
 }
 ```
+
+More examples:
+- [[JavaObjectOutputStreamSample0|More complex use of ObjectOutputStream]]

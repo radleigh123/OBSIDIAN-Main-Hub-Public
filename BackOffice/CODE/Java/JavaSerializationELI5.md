@@ -2,7 +2,7 @@
 cssclass:
 - justified
 ---
-**[[JavaSerialization#^370fd8|BACK]]**
+**[[JavaSerialization|BACK]]**
 
 ---
 $\qquad$*Serialization* is like putting your toys in a box, so that you can take them with you to your friend's house. Let's say you have a toy car that you want to take to your friend's house. You can't just carry it in your hand the whole time, because you might drop it or lose it. So instead, you put it in a box, and close the lid. Now you can carry the box with you, and you know that the toy car is safe inside.

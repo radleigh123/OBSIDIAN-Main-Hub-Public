@@ -6,7 +6,7 @@
 ## Internet
 - ==is a vast network that connects computers all over the world.==
 - it works by using a packet routing network that follows:
-	- [**IP** (Internet Protocol)](Internet%20Protocol.md)
+	- [**IP** (Internet Protocol)](IP.md)
 	- [**TCP** (Transport Control Protocol)](TCP.md)
 
 > **The Internet is like a giant library.**
@@ -22,11 +22,11 @@
 
 3. Your query is processed and pushed to your [ISP](ISP.md) which connects to several servers that store and send data:
 	- [**DNS** (Domain Server Server)](DNS.md)
-		- Next, your browser looks up the [Internet Protocol](Internet%20Protocol.md) address for the domain name you typed into your search engine through DNS.
+		- Next, your browser looks up the [IP](IP.md) address for the domain name you typed into your search engine through DNS.
 	- [**NAP** (Network Access Protection)](NAP.md)
 
-4. Your browser sends a HTTP request to the target server to send a copy of the website to the client using [TCP](TCP.md)/[Internet Protocol](Internet%20Protocol.md).
-	- [**HTTP** (Hypertext Transfer Protocol)](HTTP.md)
+4. Your browser sends a HTTP request to the target server to send a copy of the website to the client using [TCP](TCP.md)/[IP](IP.md).
+	- [**HTTP** (Hypertext Transfer Protocol)](HTTP%20&%20WWW.md)
 	- [**HTTPS** (Hypertext Transfer Protocol Secure)](HTTPS.md)
 
 5. [Server](Server.md) approves request and sends a “200 OK” message to client computer. Then, the server sends web page files to browser in the form of data packets.
