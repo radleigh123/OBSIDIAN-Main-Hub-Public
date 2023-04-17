@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61fe5570943542f1",
+            "id": "29a9e2a4f0854450",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TMP_RevolutionHIST.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "TMP_RevolutionHIST.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TMP_RevolutionHIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TMP_RevolutionHIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TMP_RevolutionHIST.md"
+              }
             }
           },
           {
@@ -202,8 +211,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,41 +229,43 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "24b24a765d577cb1",
+  "active": "29a9e2a4f0854450",
   "lastOpenFiles": [
-    "BackOffice/CODE/Java/JavaNetworkProxy.md",
-    "Backlinks/HTTP & WWW.md",
-    "Backlinks/attachments/HTTP2.png",
-    "Backlinks/HTTPS.md",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/Backend Dev/Internet Address.md",
-    "BackOffice/Backend Dev/Internet.md",
-    "BackOffice/Backend Dev/Protocol Stacks1.md",
-    "BackOffice/Backend Dev/Internet Routing Hierarchy.md",
-    "BackOffice/Backend Dev/Domain Name.md",
-    "BackOffice/Backend Dev/IP.md",
-    "BackOffice/CODE/Java/JavaNetworkProgramming.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/CODE/Java/JavaNetworkReadingDataFromInternet.md",
-    "BackOffice/CODE/Java/JavaArrays.md",
+    "TMP_1SemGrades.md",
+    "TMP_RevolutionHIST.md",
+    "TMP_Notes.md",
+    "TMP_ProposalCOMPROG.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+    "TMP_RevisedWorkout.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LEC.md",
     "BackOffice/CODE/Java/JavaArraysMultidimensional.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch61Example1.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch52.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch51.md",
-    "BackOffice/CREDS.md",
-    "Backlinks/attachments/Internet Protocol1.png",
-    "Backlinks/attachments/Internet Protocol.png",
-    "Backlinks/TCP.md",
-    "Backlinks/attachments/TCP1.png",
-    "Backlinks/attachments/Pasted image 20230414161556.png",
-    "Backlinks/attachments/TCP.png",
-    "BackOffice/Backend Dev/SMTP.md",
-    "BackOffice/CODE/Java/JavaNetworkReadingDataFromInternetSample0.md",
-    "Backlinks/attachments/JavaStreamsData.png",
-    "Backlinks/attachments/Domain Name.png",
-    "Backlinks/attachments/JavaStreamsBufferedInputStream.png"
+    "20230417_0446.md",
+    "BackOffice/CODE/Java/JavaArrays.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch14.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch11.md",
+    "BackOffice/CODE/Java/JavaThreadsMulti.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/CODE/Java/JavaThreads.md",
+    "BackOffice/CODE/Java/JavaSerialization.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch12.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch16.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch15.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch13.md",
+    "Backlinks/theoretically.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECMIDch11.md",
+    "Backlinks/attachments/COMPROG12LECSEMIch169.png",
+    "Backlinks/attachments/COMPROG12LECSEMIch168.png",
+    "Backlinks/attachments/COMPROG12LECSEMIch167.png",
+    "Backlinks/attachments/COMPROG12LECSEMIch166.png",
+    "Backlinks/attachments/COMPROG12LECSEMIch165.png",
+    "Backlinks/attachments/COMPROG12LECSEMIch164.png",
+    "Backlinks/attachments/COMPROG12LECSEMIch163.png",
+    "Backlinks/attachments/COMPROG12LECSEMIch162.png",
+    "Backlinks/attachments/COMPROG12LECSEMIch161.png",
+    "Backlinks/attachments/COMPROG12LECSEMIch16.png",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECMIDch16.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECMIDch15.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECMIDch14.md"
   ]
 }
