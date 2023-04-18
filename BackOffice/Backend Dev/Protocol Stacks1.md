@@ -2,7 +2,7 @@
 aliases:
 tags:
 ---
-**[[Internet|BACK]]**
+**[[HowInternetWorks|BACK]]**
 
 ---
 As hinted to earlier in the section about [[Protocol Stacks|protocol stacks]], one may guess that there are many protocols that are used on the Internet. This is true; <mark class="hltr-lightgreen">there are many communication protocols required for the Internet to function</mark>. These include the [[TCP]] and [[IP]] protocols, [[routing protocols]], [[medium access control protocols]], [[application level protocols]], etc. 

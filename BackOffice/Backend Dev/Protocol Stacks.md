@@ -2,7 +2,7 @@
 aliases:
 tags:
 ---
-**[[Internet#^PROTOCOLSTACKS|BACK]]**
+**[[HowInternetWorks#^PROTOCOLSTACKS|BACK]]**
 
 ---
 ### Protocol Stacks & Packets

@@ -2,7 +2,7 @@
 aliases:
 tags:
 ---
-**[[Internet#^NETWORKINFRASTRUCTURE|BACK]]**
+**[[HowInternetWorks#^NETWORKINFRASTRUCTURE|BACK]]**
 
 ---
 ### Network Infrastructure

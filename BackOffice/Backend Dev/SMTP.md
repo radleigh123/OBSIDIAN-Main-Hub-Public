@@ -2,7 +2,7 @@
 aliases:
 tags:
 ---
-**[[Internet#^SMTP|BACK]]**
+**[[HowInternetWorks#^SMTP|BACK]]**
 
 ---
 ## SMTP and E-mail

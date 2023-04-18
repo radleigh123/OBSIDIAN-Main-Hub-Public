@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMP_RevolutionHIST.md",
+                "file": "HowBrowsersWork.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b5fa009bf897e350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internet.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -102,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TMP_RevolutionHIST.md",
+                "file": "HowBrowsersWork.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP_RevolutionHIST.md",
+                "file": "HowBrowsersWork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TMP_RevolutionHIST.md",
+                "file": "HowBrowsersWork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TMP_RevolutionHIST.md"
+                "file": "HowBrowsersWork.md"
               }
             }
           },
@@ -215,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,12 +246,19 @@
   },
   "active": "29a9e2a4f0854450",
   "lastOpenFiles": [
-    "TMP_1SemGrades.md",
-    "TMP_RevolutionHIST.md",
+    "Internet.md",
+    "BackOffice/MAINCODE.md",
+    "20230418_0723.md",
+    "HowBrowsersWork.md",
+    "BackOffice/Backend Dev/HowInternetWorks.md",
+    "Backlinks/HTTP & WWW.md",
+    "BackOffice/Backend Dev/Protocol Stacks1.md",
     "TMP_Notes.md",
     "TMP_ProposalCOMPROG.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+    "TMP_RevolutionHIST.md",
     "TMP_RevisedWorkout.md",
+    "TMP_1SemGrades.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
     "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LEC.md",
     "BackOffice/CODE/Java/JavaArraysMultidimensional.md",
     "20230417_0446.md",
@@ -250,10 +272,6 @@
     "BackOffice/CODE/Java/JavaSerialization.md",
     "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch12.md",
     "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch16.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch15.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch13.md",
-    "Backlinks/theoretically.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECMIDch11.md",
     "Backlinks/attachments/COMPROG12LECSEMIch169.png",
     "Backlinks/attachments/COMPROG12LECSEMIch168.png",
     "Backlinks/attachments/COMPROG12LECSEMIch167.png",
@@ -263,9 +281,6 @@
     "Backlinks/attachments/COMPROG12LECSEMIch163.png",
     "Backlinks/attachments/COMPROG12LECSEMIch162.png",
     "Backlinks/attachments/COMPROG12LECSEMIch161.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch16.png",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECMIDch16.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECMIDch15.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECMIDch14.md"
+    "Backlinks/attachments/COMPROG12LECSEMIch16.png"
   ]
 }

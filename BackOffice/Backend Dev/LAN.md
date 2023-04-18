@@ -4,7 +4,7 @@ tags:
 - Backend
 - Backend/Lecture
 ---
-**[[Internet|BACK]]**
+**[[HowInternetWorks|BACK]]**
 
 ---
 ## LAN (Local Area Network)

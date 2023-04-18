@@ -2,7 +2,7 @@
 aliases:
 tags:
 ---
-**[[Internet|BACK]]**
+**[[HowInternetWorks|BACK]]**
 
 ---
 ## Domain Names & Address Resolution

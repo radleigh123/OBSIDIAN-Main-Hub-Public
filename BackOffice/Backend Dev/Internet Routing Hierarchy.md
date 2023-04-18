@@ -2,7 +2,7 @@
 aliases:
 tags:
 ---
-**[[Internet|BACK]]**
+**[[HowInternetWorks|BACK]]**
 
 ---
 ## The Internet Routing Hierarchy

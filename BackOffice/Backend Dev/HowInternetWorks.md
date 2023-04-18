@@ -12,7 +12,7 @@ tags:
 **[[MAINCODE|HOME]]**
 
 ---
-# Internet
+# How Does the Internet Work?
 is a worldwide collection of computer networks that connects millions of businesses, government agencies, educational institutions, and individuals.
 1. [[Internet Address|Internet Address]] ^INTERNETADDRESS
 2. [[Protocol Stacks|Protocol Stacks and Packets]] ^PROTOCOLSTACKS
