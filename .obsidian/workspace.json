@@ -10,29 +10,31 @@
           {
             "id": "29a9e2a4f0854450",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HowBrowsersWork.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "b5fa009bf897e350",
+            "id": "67e9a675b638959f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet.md",
+                "file": "20230418_0723.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -116,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HowBrowsersWork.md",
+                "file": "20230418_0723.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowBrowsersWork.md",
+                "file": "20230418_0723.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HowBrowsersWork.md",
+                "file": "20230418_0723.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HowBrowsersWork.md"
+                "file": "20230418_0723.md"
               }
             }
           },
@@ -229,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,34 +244,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "29a9e2a4f0854450",
+  "active": "67e9a675b638959f",
   "lastOpenFiles": [
-    "Internet.md",
-    "BackOffice/MAINCODE.md",
+    "BackOffice/CODE/Java/JavaInterface.md",
+    "BackOffice/CODE/Java/JavaAbstraction.md",
+    "BackOffice/CODE/Java/JavaAbstractClass.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/JavaGUISwingJColorChooser.md",
+    "BackOffice/CODE/Java/JavaSwing.md",
+    "BackOffice/CODE/Java/JavaGUI.md",
+    "BackOffice/CODE/Java/JavaInheritance.md",
     "20230418_0723.md",
-    "HowBrowsersWork.md",
+    "TMP_1SemGrades.md",
+    "TMP_Notes.md",
+    "TMP_RevisedWorkout.md",
+    "20230419_0400.md",
+    "BackOffice/Backend Dev/HowBrowsersWork.md",
+    "BackOffice/Backend Dev/Internet.md",
+    "BackOffice/MAINCODE.md",
     "BackOffice/Backend Dev/HowInternetWorks.md",
     "Backlinks/HTTP & WWW.md",
     "BackOffice/Backend Dev/Protocol Stacks1.md",
-    "TMP_Notes.md",
     "TMP_ProposalCOMPROG.md",
     "TMP_RevolutionHIST.md",
-    "TMP_RevisedWorkout.md",
-    "TMP_1SemGrades.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
     "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LEC.md",
     "BackOffice/CODE/Java/JavaArraysMultidimensional.md",
     "20230417_0446.md",
     "BackOffice/CODE/Java/JavaArrays.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch14.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch11.md",
-    "BackOffice/CODE/Java/JavaThreadsMulti.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/CODE/Java/JavaThreads.md",
-    "BackOffice/CODE/Java/JavaSerialization.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LECSEMIch16.md",
     "Backlinks/attachments/COMPROG12LECSEMIch169.png",
     "Backlinks/attachments/COMPROG12LECSEMIch168.png",
     "Backlinks/attachments/COMPROG12LECSEMIch167.png",
