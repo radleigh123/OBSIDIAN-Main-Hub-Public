@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "67e9a675b638959f",
+            "id": "367bdf0e52e796f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230418_0723.md",
+                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md",
                 "mode": "preview",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20230418_0723.md",
+                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20230418_0723.md",
+                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20230418_0723.md",
+                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20230418_0723.md"
+                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md"
               }
             }
           },
@@ -244,34 +244,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "67e9a675b638959f",
+  "active": "24b24a765d577cb1",
   "lastOpenFiles": [
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/JavaNetworkStockQuoteWithSocket.md",
+    "BackOffice/CODE/Java/JavaSocketProgrammingWhy.md",
+    "BackOffice/CODE/Java/JavaSocketProgrammingELI5.md",
+    "BackOffice/CODE/Java/JavaSerializationELI5.md",
+    "BackOffice/CODE/Java/JavaSerialization.md",
+    "BackOffice/CODE/Java/JavaSocketProgramming.md",
+    "BackOffice/CODE/Java/JavaNetworkProgramming.md",
+    "BackOffice/CODE/Java/JavaNetworkStockQuote.md",
+    "Backlinks/attachments/JavaNetworkStockQuote.png",
+    "BackOffice/CODE/Java/JavaNetworkDownload.md",
+    "20230418_0723.md",
+    "BackOffice/CODE/Java/JavaPackages.md",
     "BackOffice/CODE/Java/JavaInterface.md",
     "BackOffice/CODE/Java/JavaAbstraction.md",
+    "BackOffice/CREDS.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/MAINCODE.md",
     "BackOffice/CODE/Java/JavaAbstractClass.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/Javasuper.md",
+    "BackOffice/CODE/Java/JavaInheritance.md",
     "BackOffice/CODE/Java/JavaGUISwingJColorChooser.md",
     "BackOffice/CODE/Java/JavaSwing.md",
     "BackOffice/CODE/Java/JavaGUI.md",
-    "BackOffice/CODE/Java/JavaInheritance.md",
-    "20230418_0723.md",
     "TMP_1SemGrades.md",
     "TMP_Notes.md",
     "TMP_RevisedWorkout.md",
-    "20230419_0400.md",
-    "BackOffice/Backend Dev/HowBrowsersWork.md",
-    "BackOffice/Backend Dev/Internet.md",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/Backend Dev/HowInternetWorks.md",
-    "Backlinks/HTTP & WWW.md",
-    "BackOffice/Backend Dev/Protocol Stacks1.md",
-    "TMP_ProposalCOMPROG.md",
-    "TMP_RevolutionHIST.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LEC.md",
-    "BackOffice/CODE/Java/JavaArraysMultidimensional.md",
-    "20230417_0446.md",
-    "BackOffice/CODE/Java/JavaArrays.md",
     "Backlinks/attachments/COMPROG12LECSEMIch169.png",
     "Backlinks/attachments/COMPROG12LECSEMIch168.png",
     "Backlinks/attachments/COMPROG12LECSEMIch167.png",
@@ -280,7 +281,6 @@
     "Backlinks/attachments/COMPROG12LECSEMIch164.png",
     "Backlinks/attachments/COMPROG12LECSEMIch163.png",
     "Backlinks/attachments/COMPROG12LECSEMIch162.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch161.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch16.png"
+    "Backlinks/attachments/COMPROG12LECSEMIch161.png"
   ]
 }

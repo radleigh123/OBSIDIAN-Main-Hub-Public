@@ -176,11 +176,11 @@ tags:
 - [[JavaNetworkProgramming|Network Programming Intro]]
 - [[JavaNetworkReadingDataFromInternet|Reading Data from the Internet]]
 - [[JavaNetworkProxy|Connecting through HTTP Proxy Servers]]
-- How to Download Files from the Internet
-- The Stock Quote Program
-- Socket Programming
-	- Why Use Sockets?
-	- The Stock Quote Server w/ Sockets
+- [[JavaNetworkDownload|How to Download Files from the Internet]]
+- [[JavaNetworkStockQuote|The Stock Quote Program]]
+- [[JavaSocketProgramming|Socket Programming]]
+	- [[JavaSocketProgrammingWhy|Why use sockets?]]
+	- [[JavaNetworkStockQuoteWithSocket|The Stock Quote Server w/ Sockets]]
 
 #### Processing E-mail w/ Java
 - Protocols and Servers
