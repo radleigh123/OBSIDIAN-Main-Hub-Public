@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e3d92e0b46ea521f",
+        "id": "69cc6cf3e435973b",
         "type": "tabs",
         "children": [
           {
-            "id": "29a9e2a4f0854450",
+            "id": "c6dab81bc89fdde0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/Java/UpdateJava.md",
+                "file": "TMP_Chess.md",
                 "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
-          },
-          {
-            "id": "367bdf0e52e796f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Clogical",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 260.99999809265137
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -117,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md",
+                "file": "TMP_Chess.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md",
+                "file": "TMP_Chess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md",
+                "file": "TMP_Chess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaNetworkDownload.md"
+                "file": "TMP_Chess.md"
               }
             }
           },
@@ -230,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 194.2244415283203,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,43 +232,29 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "24b24a765d577cb1",
+  "active": "c6dab81bc89fdde0",
   "lastOpenFiles": [
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CODE/Java/JavaNetworkStockQuoteWithSocket.md",
-    "BackOffice/CODE/Java/JavaSocketProgrammingWhy.md",
-    "BackOffice/CODE/Java/JavaSocketProgrammingELI5.md",
-    "BackOffice/CODE/Java/JavaSerializationELI5.md",
-    "BackOffice/CODE/Java/JavaSerialization.md",
-    "BackOffice/CODE/Java/JavaSocketProgramming.md",
-    "BackOffice/CODE/Java/JavaNetworkProgramming.md",
-    "BackOffice/CODE/Java/JavaNetworkStockQuote.md",
-    "Backlinks/attachments/JavaNetworkStockQuote.png",
-    "BackOffice/CODE/Java/JavaNetworkDownload.md",
     "20230418_0723.md",
-    "BackOffice/CODE/Java/JavaPackages.md",
-    "BackOffice/CODE/Java/JavaInterface.md",
-    "BackOffice/CODE/Java/JavaAbstraction.md",
-    "BackOffice/CREDS.md",
-    "BackOffice/CODE/Java/Java.md",
+    "TMP/TMP_ChessBoard.md",
+    "TMP_Chess.md",
+    "TMP/TMP_ChessGame.md",
+    "TMP",
+    "TMP/TMP_ChessMove.md",
+    "TMP/TMP_ChessPlayer.md",
+    "TMP/TMP_ChessKnight.md",
+    "TMP/TMP_ChessKing.md",
+    "TMP/TMP_ChessPiece.md",
+    "TMP/TMP_ChessSpot.md",
+    "TMP_Sem1Grades.md",
+    "Excalidraw/Drawing_0.excalidraw.md",
+    "Backlinks/Cincrementdecrement.md",
+    "Backlinks/C_IMPORTANT.md",
+    "Backlinks/Clogicalshort.md",
+    "Backlinks/C.md",
     "BackOffice/MAINCODE.md",
-    "BackOffice/CODE/Java/JavaAbstractClass.md",
-    "BackOffice/CODE/Java/Javasuper.md",
-    "BackOffice/CODE/Java/JavaInheritance.md",
-    "BackOffice/CODE/Java/JavaGUISwingJColorChooser.md",
-    "BackOffice/CODE/Java/JavaSwing.md",
-    "BackOffice/CODE/Java/JavaGUI.md",
-    "TMP_1SemGrades.md",
-    "TMP_Notes.md",
-    "TMP_RevisedWorkout.md",
-    "Backlinks/attachments/COMPROG12LECSEMIch169.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch168.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch167.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch166.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch165.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch164.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch163.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch162.png",
-    "Backlinks/attachments/COMPROG12LECSEMIch161.png"
+    "0HEADQUARTERS.md",
+    "Excalidraw/Drawing.excalidraw.md",
+    "Backlinks/Chalfadderlogic.md",
+    "Backlinks/CUNIONSapplications.md"
   ]
 }

@@ -14,7 +14,7 @@ aliases:
 - **[stdc](CMacrostdc.md)**
 - **[time](CMacrotime.md)**
 
-### `Cenum`
+### enum
 ```C
 /* enum - a special kind of data type defined by the user. It consists of constant integrals or integers that are given 
 names by a user. */
