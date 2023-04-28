@@ -1,38 +1,54 @@
+---
+cssclass:
+- t-c
+aliases:
+tags:
+---
+
 **MONDAY**
 REST DAY
 
 **TUESDAY** - UPPER POWER
-CHEST -----------------------------------
-▪ Barbell Bench Press (3-4)(3-5)
-▪ Incline Dumbbell Bench Press (3-4) (6-10)
-BACK ------------------------------------
-▪ Bent Over Row (3-4) (3-5)
-▪ Lat Pull Down (3-4) (6-10)
-SHOULDER & BICEPS --------------------
-▪ Overhead Press (2-3) (5-8)
-▪ Barbell Curl (2-3) (6-10)
-TRICEPS ---------------------------------
-▪ Skullcrusher (2-3) (6-10)
+
+| Main lifts                   | Substitutes        | Sets | Reps  |
+| ---------------------------- | ------------------ | ---- | ----- |
+| **CHEST**                    |                    |      |       |
+| Barbell Bench                | Diamond Push Up    | 4-5  | 10-15 |
+| Incline Dumbbell Bench Press | Dips               | 3-4  | 6-10  |
+| **BACK**                     |                    |      |       |
+| Bent Over Row                |                    | 3-4  | 3-5   |
+| Lat Pull Down                | Dumbbell Pull Over | 3-4  | 6-10  |
+| **SHOULDER & BICEPS**        |                    |      |       |
+| Overhead Press               |                    | 2-3  | 5-8   |
+| Barbell Curl                 |                    | 2-3  | 5-8   |
+| **TRICEPS**                  |                    |      |       |
+| Skullcrusher                 |                    | 2-3  | 6-10  | 
 
 **WEDNESDAY** - LOWER POWER
-▪ Squat (3-4) (3-5)
-▪ Deadlift (3-4) (3-5)
-▪ Leg Press (3-5) (10-15)
-▪ Leg Curl (3-4) (6-10)
-▪ Calf Exercise (choose any exercise) (4) (6-10)
+
+| Main lifts    | Substitutes    | Sets | Reps  |
+| ------------- | -------------- | ---- | ----- |
+| Squat         |                | 3-4  | 3-5   |
+| Deadlift      |                | 3-4  | 3-5   |
+| Leg Press     | Advanced lunge | 3-5  | 10-15 |
+| Leg Curl      | *go to Squat*  | 3-4  | 6-10  |
+| Calf Exercise |                | 4    | 6-10  |
 
 **THURSDAY** - UPPER HYPERTROPHY
-CHEST --------------------------------------------
-▪ Incline Barbell Bench Press (3-4) (8-12)
-▪ Flat Bench Dumbbell Fly (3-4) (8-12)
-BACK ----------------------------------------------
-▪ Seated Cable Row (3-4) (8-12)
-▪ One Arm Dumbbell Row (3-4) (8-12)
-SHOULDER & BICEPS ------------------------------
-▪ Dumbbell Lateral Raise (3-4) (8-12)
-▪ Seated Incline Dumbbell Curl (3-4) (8-12)
-TRICEPS -------------------------------------------
-▪ Cable Triceps Extension (3-4) (8-12)
+
+| Main lifts                   | Substitutes                 | Sets | Reps |
+| ---------------------------- | --------------------------- | ---- | ---- |
+| **CHEST**                    |                             |      |      |
+| Incline Barbell Bench Press  | Decline Push Up             | 3-4  | 8-15 |
+| Flat Bench Dumbbell Fly      | *maybe Push Up*             | 3-4  | 8-12 |
+| **BACK**                     |                             |      |      |
+| Seated Cable Row             | Pendlay Row                 | 3-4  | 8-12 |
+| One Arm Dumbbell Row         |                             | 3-4  | 8-12 |
+| **SHOULDER & BICEPS**        |                             |      |      |
+| Dumbbell Lateral Raise / One | Upright Row                 | 3-4  | 8-12 |
+| Seated Incline Dumbbell Curl | Dumbbell Concentration Curl | 3-4  | 8-12 |
+| **TRICEPS**                  |                             |      |      |
+| Cable Triceps Extension      | Triceps Press               | 3-4  | 8-12 | 
 
 **FRIDAY** - LOWER HYPERTROPHY
 Front Squat (3-4) (8-12)

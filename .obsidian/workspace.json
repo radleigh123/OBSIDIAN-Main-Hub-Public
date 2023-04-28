@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4de76e0546018676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TMP_RevisedWorkout.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TMP_Chess.md",
+                "file": "TMP_RevisedWorkout.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP_Chess.md",
+                "file": "TMP_RevisedWorkout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TMP_Chess.md",
+                "file": "TMP_RevisedWorkout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TMP_Chess.md"
+                "file": "TMP_RevisedWorkout.md"
               }
             }
           },
@@ -232,11 +245,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c6dab81bc89fdde0",
+  "active": "4de76e0546018676",
   "lastOpenFiles": [
     "20230418_0723.md",
-    "TMP/TMP_ChessBoard.md",
     "TMP_Chess.md",
+    "TMP/TMP_ChessBoard.md",
     "TMP/TMP_ChessGame.md",
     "TMP",
     "TMP/TMP_ChessMove.md",
