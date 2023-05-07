@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "69cc6cf3e435973b",
+        "id": "95e50ad2cb3a23b4",
         "type": "tabs",
         "children": [
           {
-            "id": "c6dab81bc89fdde0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TMP_Chess.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4de76e0546018676",
+            "id": "168583b32aa51efb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMP_RevisedWorkout.md",
+                "file": "TMP_Sem1Grades.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Clogical",
+                "query": "tag:#Java/String",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,10 +74,10 @@
             }
           },
           {
-            "id": "a5e793d9a66a5563",
+            "id": "6926a528e46b8243",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -117,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TMP_RevisedWorkout.md",
+                "file": "TMP_Sem1Grades.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP_RevisedWorkout.md",
+                "file": "TMP_Sem1Grades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TMP_RevisedWorkout.md",
+                "file": "TMP_Sem1Grades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TMP_RevisedWorkout.md"
+                "file": "TMP_Sem1Grades.md"
               }
             }
           },
@@ -230,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 194.2244415283203,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,29 +229,44 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4de76e0546018676",
+  "active": "168583b32aa51efb",
   "lastOpenFiles": [
-    "20230418_0723.md",
+    "TMP_RevisedWorkout.md",
+    "TMP_Notes.md",
+    "TMP_HIST_TOPIC.md",
     "TMP_Chess.md",
+    "TMP_HIST_GROUPINGS.md",
+    "TMP_HIST_Timeline.md",
+    "Excalidraw/Drawing_1.excalidraw.md",
+    "Excalidraw/Drawing_1.excalidraw.svg",
+    "Backlinks/attachments/Pasted Image 20230507164006_808.jpg",
+    "Excalidraw/Drawing_0.excalidraw.md",
+    "Excalidraw/Drawing.excalidraw.md",
+    "Excalidraw/Drawing_0.excalidraw.svg",
+    "Backlinks/attachments/Pasted Image 20230507162246_837.jpg",
+    "Excalidraw/Drawing.excalidraw.svg",
+    "Backlinks/attachments/Pasted Image 20230507143339_983.jpg",
+    "Backlinks/attachments/Pasted image 20230507143319.png",
+    "Backlinks/attachments/Pasted image 20230507143311.png",
+    "Backlinks/attachments/Pasted Image 20230507143047_988.jpg",
+    "BackOffice/CODE/Java/JavaStringBuffers.md",
+    "BackOffice/CODE/Java/JavaString.md",
+    "20230505_1007.md",
+    "20230504_0915.md",
+    "Backlinks/attachments/Pasted Image 20230504210052_391.jpg",
+    "BackOffice/NOTES.md",
+    "Canvas/MAINROAD.canvas",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/MAINBSIT.md",
+    "TMP/TMP_ChessKing.md",
     "TMP/TMP_ChessBoard.md",
     "TMP/TMP_ChessGame.md",
     "TMP",
     "TMP/TMP_ChessMove.md",
     "TMP/TMP_ChessPlayer.md",
     "TMP/TMP_ChessKnight.md",
-    "TMP/TMP_ChessKing.md",
     "TMP/TMP_ChessPiece.md",
     "TMP/TMP_ChessSpot.md",
-    "TMP_Sem1Grades.md",
-    "Excalidraw/Drawing_0.excalidraw.md",
-    "Backlinks/Cincrementdecrement.md",
-    "Backlinks/C_IMPORTANT.md",
-    "Backlinks/Clogicalshort.md",
-    "Backlinks/C.md",
-    "BackOffice/MAINCODE.md",
-    "0HEADQUARTERS.md",
-    "Excalidraw/Drawing.excalidraw.md",
-    "Backlinks/Chalfadderlogic.md",
-    "Backlinks/CUNIONSapplications.md"
+    "TMP_Sem1Grades.md"
   ]
 }
