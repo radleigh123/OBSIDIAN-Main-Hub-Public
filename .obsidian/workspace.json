@@ -6,14 +6,36 @@
       {
         "id": "95e50ad2cb3a23b4",
         "type": "tabs",
+        "dimension": 21.875,
         "children": [
           {
             "id": "168583b32aa51efb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMP_Sem1Grades.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "8eb937fbe80c4019",
+        "type": "tabs",
+        "dimension": 78.125,
+        "children": [
+          {
+            "id": "58d3e84efbfaedf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DISCRET12FINALch15.md",
                 "mode": "preview",
                 "source": true
               }
@@ -81,11 +103,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137
+    "width": 260.99999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -102,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TMP_Sem1Grades.md",
+                "file": "DISCRET12FINALch15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP_Sem1Grades.md",
+                "file": "DISCRET12FINALch15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TMP_Sem1Grades.md",
+                "file": "DISCRET12FINALch15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TMP_Sem1Grades.md"
+                "file": "DISCRET12FINALch15.md"
               }
             }
           },
@@ -211,7 +235,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,44 +254,45 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "168583b32aa51efb",
+  "active": "58d3e84efbfaedf6",
   "lastOpenFiles": [
+    "Backlinks/attachments/DISCRET12FINALch15image0.png",
+    "DISCRET12FINALch15.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "DISCRET12FINALch14.md",
+    "Backlinks/attachments/DISCRET12FINALch14image1.png",
+    "Backlinks/attachments/DISCRET12FINALch14image0.png",
+    "DISCRET12FINALch13.md",
+    "DISCRET12FINALch11.md",
+    "DISCRET12FINALch12.md",
+    "Backlinks/attachments/DISCRET12FINALch12image0.png",
+    "Backlinks/attachments/DISCRET12FINALch11image0.png",
+    "syllogism.md",
+    "DISCRET12FINALch1.md",
+    "Backlinks/attachments/DISCRET12FINALch1image0.png",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch1.md",
+    "BackOffice/MAINBSIT.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch1.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+    "HIST101FINAL.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch14.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch12.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch11.md",
+    "TMP/TMP_ChessBoard.md",
+    "Untitled",
+    "Backlinks/attachments/Charles_Jasper_Bell.png",
+    "Backlinks/attachments/Battle_of_Manila_3.png",
+    "Backlinks/attachments/Pasted image 20230507143319.png",
+    "Backlinks/attachments/Battle_of_Manila_2.png",
+    "Excalidraw/Drawing.excalidraw.md",
+    "Excalidraw/Drawing_0.excalidraw.md",
+    "TMP_HIST_Timeline.md",
+    "TMP_HIST_GROUPINGS.md",
+    "TMP_Sem1Grades.md",
     "TMP_RevisedWorkout.md",
     "TMP_Notes.md",
-    "TMP_HIST_TOPIC.md",
-    "TMP_Chess.md",
-    "TMP_HIST_GROUPINGS.md",
-    "TMP_HIST_Timeline.md",
-    "Excalidraw/Drawing_1.excalidraw.md",
-    "Excalidraw/Drawing_1.excalidraw.svg",
-    "Backlinks/attachments/Pasted Image 20230507164006_808.jpg",
-    "Excalidraw/Drawing_0.excalidraw.md",
-    "Excalidraw/Drawing.excalidraw.md",
-    "Excalidraw/Drawing_0.excalidraw.svg",
-    "Backlinks/attachments/Pasted Image 20230507162246_837.jpg",
-    "Excalidraw/Drawing.excalidraw.svg",
-    "Backlinks/attachments/Pasted Image 20230507143339_983.jpg",
-    "Backlinks/attachments/Pasted image 20230507143319.png",
-    "Backlinks/attachments/Pasted image 20230507143311.png",
-    "Backlinks/attachments/Pasted Image 20230507143047_988.jpg",
-    "BackOffice/CODE/Java/JavaStringBuffers.md",
-    "BackOffice/CODE/Java/JavaString.md",
-    "20230505_1007.md",
-    "20230504_0915.md",
-    "Backlinks/attachments/Pasted Image 20230504210052_391.jpg",
-    "BackOffice/NOTES.md",
     "Canvas/MAINROAD.canvas",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/MAINBSIT.md",
-    "TMP/TMP_ChessKing.md",
-    "TMP/TMP_ChessBoard.md",
-    "TMP/TMP_ChessGame.md",
-    "TMP",
-    "TMP/TMP_ChessMove.md",
-    "TMP/TMP_ChessPlayer.md",
-    "TMP/TMP_ChessKnight.md",
-    "TMP/TMP_ChessPiece.md",
-    "TMP/TMP_ChessSpot.md",
-    "TMP_Sem1Grades.md"
+    "TMP"
   ]
 }

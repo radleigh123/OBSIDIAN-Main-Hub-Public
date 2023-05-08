@@ -45,6 +45,14 @@ banner_y: 0.54
 ### Semifinal - The Logic of Quantified Statements
 
 ### Final
+- [[DISCRET12FINALch1|Valid and Invalid Arguments]]
+	- [[DISCRET12FINALch11|Modus Ponens & Modus Tollens]]
+	- [[DISCRET12FINALch12|Additional Valid Argument Forms: Rules of Inference]]
+	- [[DISCRET12FINALch13|Fallacies]]
+	- [[DISCRET12FINALch14|Contradictions and Valid Arguments]]
+	- [[DISCRET12FINALch15|Summary of Rules of Inference]]
+- [[DISCRET12FINALch2|Application: Digital Logic Circuits]]
+- [[DISCRET12FINALch3|Application: Number Systems and Circuits for Addition]]
 
 <br>
 

@@ -27,6 +27,12 @@ banner_y: 0.62
 	- [[HIST101SEMIFINALch23|Questions]]
 
 ## Final
+- [[HIST101FINAL|Complete File]]
+- [[HIST101FINALch1|Independence and the Establishment of a New Republic]]
+	- [[HIST101FINALch11|Treaty of General Relations and Protocol of 1946 or Treaty of Manila]]
+	- [[HIST101FINALch12|Excerpt from the Philippine Trade Act of 1946 or Bell Trade Act]]
+	- [[HIST101FINALch13|Excerpt from 1947 Military Bases Agreement]]
+	- [[HIST101FINALch14|Proclamation No.51 by Pres. Manuel Roxas]]
 
 ---
 **[[MAINBSIT|MAINHUB]]**
