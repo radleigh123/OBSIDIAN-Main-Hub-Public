@@ -6,42 +6,45 @@
       {
         "id": "95e50ad2cb3a23b4",
         "type": "tabs",
-        "dimension": 21.875,
         "children": [
           {
             "id": "168583b32aa51efb",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+                "file": "BackOffice/CODE/C/CCODES.md",
                 "mode": "preview",
                 "source": true
-              },
-              "pinned": true
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "8eb937fbe80c4019",
-        "type": "tabs",
-        "dimension": 78.125,
-        "children": [
+          },
           {
-            "id": "58d3e84efbfaedf6",
+            "id": "03f000c80cec6bfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISCRET12FINALch15.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2ed4ef81bf057967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,13 +106,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137,
-    "collapsed": true
+    "width": 260.99999809265137
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -126,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DISCRET12FINALch15.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISCRET12FINALch15.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISCRET12FINALch15.md",
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISCRET12FINALch15.md"
+                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md"
               }
             }
           },
@@ -254,29 +255,32 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "58d3e84efbfaedf6",
+  "active": "24b24a765d577cb1",
   "lastOpenFiles": [
-    "Backlinks/attachments/DISCRET12FINALch15image0.png",
-    "DISCRET12FINALch15.md",
     "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
-    "DISCRET12FINALch14.md",
-    "Backlinks/attachments/DISCRET12FINALch14image1.png",
-    "Backlinks/attachments/DISCRET12FINALch14image0.png",
-    "DISCRET12FINALch13.md",
-    "DISCRET12FINALch11.md",
-    "DISCRET12FINALch12.md",
-    "Backlinks/attachments/DISCRET12FINALch12image0.png",
-    "Backlinks/attachments/DISCRET12FINALch11image0.png",
-    "syllogism.md",
-    "DISCRET12FINALch1.md",
-    "Backlinks/attachments/DISCRET12FINALch1image0.png",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch1.md",
-    "BackOffice/MAINBSIT.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch1.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "HIST101FINAL.md",
+    "BackOffice/MAINBSIT.md",
+    "BackOffice/CODE/C/CCODES.md",
+    "BackOffice/CODE/C/C.md",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch15.md",
+    "Backlinks/attachments/DISCRET12FINALch15image0.png",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch14.md",
+    "Backlinks/attachments/DISCRET12FINALch14image1.png",
+    "Backlinks/attachments/DISCRET12FINALch14image0.png",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch13.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch11.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch12.md",
+    "Backlinks/attachments/DISCRET12FINALch12image0.png",
+    "Backlinks/attachments/DISCRET12FINALch11image0.png",
+    "Backlinks/syllogism.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
+    "Backlinks/attachments/DISCRET12FINALch1image0.png",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch1.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINAL.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch14.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch12.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch11.md",
     "TMP/TMP_ChessBoard.md",
@@ -290,8 +294,6 @@
     "TMP_HIST_Timeline.md",
     "TMP_HIST_GROUPINGS.md",
     "TMP_Sem1Grades.md",
-    "TMP_RevisedWorkout.md",
-    "TMP_Notes.md",
     "Canvas/MAINROAD.canvas",
     "TMP"
   ]
