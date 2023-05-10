@@ -8,43 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "168583b32aa51efb",
+            "id": "90a0f34342c15ae2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/C/CCODES.md",
+                "file": "BackOffice/CODE/C/CHackerRank.md",
                 "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "03f000c80cec6bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2ed4ef81bf057967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
-                "mode": "preview",
-                "source": true
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
+                "file": "BackOffice/CODE/C/CHackerRank.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
+                "file": "BackOffice/CODE/C/CHackerRank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
+                "file": "BackOffice/CODE/C/CHackerRank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md"
+                "file": "BackOffice/CODE/C/CHackerRank.md"
               }
             }
           },
@@ -255,45 +232,45 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "24b24a765d577cb1",
+  "active": "90a0f34342c15ae2",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "TMP_Notes.md",
+    "TMP_.md",
+    "TMP_HIST_GROUPINGS.md",
+    "TMP_Chess.md",
+    "TMP_Sem1Grades.md",
+    "TMP_RevisedWorkout.md",
+    "BackOffice/CODE/C/CHackerRank.md",
+    "BackOffice/CODE/C/CHackerRank_4.md",
+    "Backlinks/attachments/CHackerRank_4image0.png",
+    "BackOffice/CODE/C/CHackerRank_1.md",
+    "BackOffice/CODE/C/CHackerRank_8.md",
+    "Backlinks/attachments/CHackerRank_8image1.png",
+    "Backlinks/attachments/CHackerRank_8image0.png",
+    "Backlinks/attachments/Pasted image 20230510210113.png",
+    "BackOffice/CODE/C/CHackerRank_7.md",
+    "BackOffice/CODE/C/CHackerRank_6.md",
+    "BackOffice/CODE/C/CHackerRank_5.md",
+    "BackOffice/CODE/C/CHackerRank_3.md",
+    "BackOffice/CODE/C/CHackerRank_2.md",
+    "BackOffice/CODE/C/C.md",
+    "BackOffice/CODE/C/CCODES.md",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/CODE/C/CPyramid.md",
+    "BackOffice/CODE/C/Old C codes/1ControlFlow.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch1.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
     "BackOffice/MAINBSIT.md",
-    "BackOffice/CODE/C/CCODES.md",
-    "BackOffice/CODE/C/C.md",
-    "BackOffice/MAINCODE.md",
     "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch15.md",
     "Backlinks/attachments/DISCRET12FINALch15image0.png",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch14.md",
     "Backlinks/attachments/DISCRET12FINALch14image1.png",
     "Backlinks/attachments/DISCRET12FINALch14image0.png",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch13.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch11.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch12.md",
     "Backlinks/attachments/DISCRET12FINALch12image0.png",
     "Backlinks/attachments/DISCRET12FINALch11image0.png",
-    "Backlinks/syllogism.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch1.md",
     "Backlinks/attachments/DISCRET12FINALch1image0.png",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch1.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINAL.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch14.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch11.md",
-    "TMP/TMP_ChessBoard.md",
     "Untitled",
-    "Backlinks/attachments/Charles_Jasper_Bell.png",
-    "Backlinks/attachments/Battle_of_Manila_3.png",
-    "Backlinks/attachments/Pasted image 20230507143319.png",
-    "Backlinks/attachments/Battle_of_Manila_2.png",
-    "Excalidraw/Drawing.excalidraw.md",
-    "Excalidraw/Drawing_0.excalidraw.md",
-    "TMP_HIST_Timeline.md",
-    "TMP_HIST_GROUPINGS.md",
-    "TMP_Sem1Grades.md",
     "Canvas/MAINROAD.canvas",
     "TMP"
   ]

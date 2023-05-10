@@ -53,3 +53,46 @@ Here are some tips to help you get the most out of the C++ language:
     
 
 Note that these are just a few tips to improve your C++ programming, and there are many more ways to improve your skills and write better code. It's always a good idea to continually learn and explore new features and libraries that the language offers.
+
+## Dynamic Array of strings
+```C
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main() {
+    int size = 5;
+    char **strArr = (char **)malloc(size * sizeof(char *));
+
+    if (strArr == NULL) {
+        printf("Memory allocation failed.\n");
+        return 1;
+    }
+
+    // Allocate memory for each string
+    for (int i = 0; i < size; i++) {
+	    // Assume maximum string length of 50 characters
+        strArr[i] = (char *)malloc(50 * sizeof(char));
+    }
+
+    // Initialize the strings
+    strcpy(strArr[0], "Hello");
+    strcpy(strArr[1], "World");
+    strcpy(strArr[2], "OpenAI");
+    strcpy(strArr[3], "ChatGPT");
+    strcpy(strArr[4], "Example");
+
+    // Print the strings
+    for (int i = 0; i < size; i++) {
+        printf("%s\n", strArr[i]);
+    }
+
+    // Free the dynamically allocated memory
+    for (int i = 0; i < size; i++) {
+        free(strArr[i]);
+    }
+    free(strArr);
+
+    return 0;
+}
+```

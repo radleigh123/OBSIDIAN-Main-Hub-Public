@@ -10,8 +10,8 @@ tags:
 # C
 | <center>📚 Library</center> |                                                 |                                               |
 | --------------------------- | ----------------------------------------------- | --------------------------------------------- |
-| [[Cstdioh\|<stdio.h>]]      | **<center>[[C_IMPORTANT\|IMPORTANT]]</center>** | **<center>[[CCODES\|SAMPLE CODES]]</center>** | 
-| [[Cstringh\|<string.h>]]    |                                                 |                                               |
+| [[Cstdioh\|<stdio.h>]]      | **<center>[[C_IMPORTANT\|IMPORTANT]]</center>** | **<center>[[CCODES\|SAMPLE CODES]]</center>** |
+| [[Cstringh\|<string.h>]]    |                                                 | **<center>[[CHackerRank\|C HackerRank]]</center>**                                              |
 | [[Cstdlibh\|<stdlib.h>]]    |                                                 |                                               |
 
 ---
