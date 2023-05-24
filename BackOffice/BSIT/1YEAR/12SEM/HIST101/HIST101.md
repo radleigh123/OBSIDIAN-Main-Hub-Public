@@ -33,6 +33,7 @@ banner_y: 0.62
 	- [[HIST101FINALch12|Excerpt from the Philippine Trade Act of 1946 or Bell Trade Act]]
 	- [[HIST101FINALch13|Excerpt from 1947 Military Bases Agreement]]
 	- [[HIST101FINALch14|Proclamation No.51 by Pres. Manuel Roxas]]
+- [[HIST101FINAL_EXAM|Final Exam]]
 
 ---
 **[[MAINBSIT|MAINHUB]]**

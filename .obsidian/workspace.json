@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "166e5c38848f3270",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e3b32ff02b95a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TMP_HIST_Report.md",
+                "file": "HIST101FINAL_EXAM.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137,
-    "collapsed": true
+    "width": 260.99999809265137
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -121,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TMP_HIST_Report.md",
+                "file": "HIST101FINAL_EXAM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP_HIST_Report.md",
+                "file": "HIST101FINAL_EXAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TMP_HIST_Report.md",
+                "file": "HIST101FINAL_EXAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TMP_HIST_Report.md"
+                "file": "HIST101FINAL_EXAM.md"
               }
             }
           },
@@ -230,13 +211,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,38 +229,38 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1e3b32ff02b95a8f",
+  "active": "24b24a765d577cb1",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
-    "TMP_HIST_Report.md",
-    "TMP_HIST_GROUPINGS.md",
-    "BackOffice/MAINBSIT.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "HIST101FINAL_EXAM.md",
+    "BackOffice/MAINBSIT.md",
+    "20230523_0718.md",
+    "BackOffice/CREDS.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/MAINCODE.md",
+    "TMP_Chess.md",
     "TMP_Notes.md",
+    "TMP_Sem1Grades.md",
+    "TMP_RevisedWorkout.md",
+    "TMP_HIST_Timeline.md",
+    "TMP_HIST_GROUPINGS.md",
+    "TMP_HIST_Report.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
     "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch1.md",
     "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch15.md",
     "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch52.md",
-    "TMP_Sem1Grades.md",
-    "TMP_Chess.md",
     "Untitled.md",
     "Backlinks/parity.md",
     "BackOffice/CODE/C/CHackerRank.md",
     "TMP_.md",
-    "TMP_RevisedWorkout.md",
     "BackOffice/CODE/C/CHackerRank_4.md",
     "Backlinks/attachments/CHackerRank_4image0.png",
     "BackOffice/CODE/C/CHackerRank_1.md",
-    "BackOffice/CODE/C/CHackerRank_8.md",
     "Backlinks/attachments/CHackerRank_8image1.png",
     "Backlinks/attachments/CHackerRank_8image0.png",
     "Backlinks/attachments/Pasted image 20230510210113.png",
-    "BackOffice/CODE/C/CHackerRank_7.md",
-    "BackOffice/CODE/C/CHackerRank_6.md",
-    "BackOffice/CODE/C/CHackerRank_5.md",
-    "BackOffice/CODE/C/CHackerRank_3.md",
-    "BackOffice/CODE/C/CHackerRank_2.md",
-    "BackOffice/CODE/C/C.md",
     "Backlinks/attachments/DISCRET12FINALch15image0.png",
     "Backlinks/attachments/DISCRET12FINALch14image1.png",
     "Backlinks/attachments/DISCRET12FINALch14image0.png",

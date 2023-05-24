@@ -1,3 +1,8 @@
+From just starting main focus to use is:
+- Cloud computing (*IaaS*, *PaaS*, *SaaS*)
+- Backend Programming ➡ Backend Framework (*ExpressJS*, *django*, *Java Spring*)
+- Primary Database (*MySQL*, *PostreSQL*, *MongoDB*)
+
 ### Programming
 - **OpenClassrooms** (*Free Programming Course*)
 - [Memory management in C: The heap and the stack](https://web.archive.org/web/20170829060314/http://www.inf.udec.cl/~leo/teoX.pdf)
