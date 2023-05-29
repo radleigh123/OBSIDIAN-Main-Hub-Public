@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIST101FINAL_EXAM.md",
+                "file": "TMP_Sem1Grades.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bf83d4247cbd1fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TMP_Chess_Video.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HIST101FINAL_EXAM.md",
+                "file": "TMP_Chess_Video.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIST101FINAL_EXAM.md",
+                "file": "TMP_Chess_Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIST101FINAL_EXAM.md",
+                "file": "TMP_Chess_Video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIST101FINAL_EXAM.md"
+                "file": "TMP_Chess_Video.md"
               }
             }
           },
@@ -229,20 +242,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "24b24a765d577cb1",
+  "active": "bf83d4247cbd1fa4",
   "lastOpenFiles": [
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
-    "HIST101FINAL_EXAM.md",
-    "BackOffice/MAINBSIT.md",
-    "20230523_0718.md",
-    "BackOffice/CREDS.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/MAINCODE.md",
-    "TMP_Chess.md",
-    "TMP_Notes.md",
+    "TMP_Chess_Video.md",
     "TMP_Sem1Grades.md",
     "TMP_RevisedWorkout.md",
+    "TMP_Notes.md",
+    "TMP_Chess.md",
+    "HIST101FINAL_EXAM.md",
+    "20230523_0718.md",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/CREDS.md",
+    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+    "BackOffice/MAINBSIT.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/Java.md",
     "TMP_HIST_Timeline.md",
     "TMP_HIST_GROUPINGS.md",
     "TMP_HIST_Report.md",
@@ -257,7 +271,6 @@
     "TMP_.md",
     "BackOffice/CODE/C/CHackerRank_4.md",
     "Backlinks/attachments/CHackerRank_4image0.png",
-    "BackOffice/CODE/C/CHackerRank_1.md",
     "Backlinks/attachments/CHackerRank_8image1.png",
     "Backlinks/attachments/CHackerRank_8image0.png",
     "Backlinks/attachments/Pasted image 20230510210113.png",
