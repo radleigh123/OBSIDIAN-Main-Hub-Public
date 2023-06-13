@@ -183,13 +183,14 @@ tags:
 	- [[JavaNetworkStockQuoteWithSocket|The Stock Quote Server w/ Sockets]]
 
 #### Processing E-mail w/ Java
-- Protocols and Servers
-- **Creating Birthday Mailer**
-- How to Retrieve E-Mails
-- Useful Open-Source Components
+- [[JavaProcessingEmail|Protocols and Servers]]
+- **[[JavaProcessingEmailCreatingMailer|Creating Birthday Mailer]]**
+- [[JavaProcessingEmailRetrieveEmail|How to Retrieve E-Mails]]
+- [[JavaProcessingEmailOpenSourceReference|Useful Open-Source Components]]
 
 #### Introduction to Multi-Threading
-- The Class Thread
+- [[JavaMultithreading|Introduction]]
+- [[The Class Thread]]
 - The Interface Runnable
 - Sleeping Threads
 - How to Kill a Thread

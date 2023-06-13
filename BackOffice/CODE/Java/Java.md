@@ -58,7 +58,7 @@ tags:
 - [[JavaSerialization|Serialization]]
 - [[JavaTimer|TimerTask]]
 - [[JavaThreads|Threads]]
-	- [[JavaThreadsMulti|Multithreading]]
+	- [[JavaMultithreading|Multithreading]]
 - [[JavaPackages|Packages]]
 - [[JavaExecutablejar|Export into Executable (.jar)]]
 

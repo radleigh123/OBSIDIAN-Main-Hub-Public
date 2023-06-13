@@ -16,7 +16,7 @@ represents a persistent set of properties. The *Properties* can be saved to a 
 $\quad$▪ extends [[JavaHashtableHashMap#Hashtable (legacy collection class)|Hashtable]]
 $\quad$▪ used to maintain a list of values in which the key is a string and the value is also a string i.e.; it can be used to store and retrieve string type data from the properties file.
 $\quad$▪ can specify other properties list as it’s the default. If a particular key property is not present in the original *Properties* list, the default properties will be searched.
-$\quad$▪ *Properties* object does not require external synchronization and [[JavaThreadsMulti|Multiple threads]] can share a single *Properties* object.
+$\quad$▪ *Properties* object does not require external synchronization and [[JavaMultithreading|Multiple threads]] can share a single *Properties* object.
 $\quad$▪ it can be used to retrieve the properties of the system.
 
 Listing the states and keys using the Iterator:

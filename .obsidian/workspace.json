@@ -4,35 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "95e50ad2cb3a23b4",
+        "id": "597ac0d29eca81a9",
         "type": "tabs",
+        "dimension": 23.205128205128204,
         "children": [
           {
-            "id": "8ccf5160058761a0",
+            "id": "fe1debe96deac530",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMP_Sem1Grades.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1e89ccc55cf33710",
+        "type": "tabs",
+        "dimension": 76.7948717948718,
+        "children": [
           {
-            "id": "bf83d4247cbd1fa4",
+            "id": "871324c8ca2cbfa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMP_Chess_Video.md",
+                "file": "BackOffice/CODE/Java/JavaMultithreading.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,9 +58,11 @@
           {
             "id": "1e99836e1cbe037f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -115,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TMP_Chess_Video.md",
+                "file": "BackOffice/CODE/Java/JavaMultithreading.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP_Chess_Video.md",
+                "file": "BackOffice/CODE/Java/JavaMultithreading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TMP_Chess_Video.md",
+                "file": "BackOffice/CODE/Java/JavaMultithreading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TMP_Chess_Video.md"
+                "file": "BackOffice/CODE/Java/JavaMultithreading.md"
               }
             }
           },
@@ -228,48 +239,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf83d4247cbd1fa4",
+  "active": "871324c8ca2cbfa1",
   "lastOpenFiles": [
-    "TMP_Chess_Video.md",
+    "BackOffice/CODE/Java/JavaProcessingEmail.md",
+    "BackOffice/CODE/Java/JavaMultithreading.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CREDS.md",
+    "BackOffice/CODE/Java/JavaProcessingEmailOpenSourceReference.md",
+    "BackOffice/CODE/Java/JavaProcessingEmailRetrieveEmail.md",
+    "BackOffice/CODE/Java/JavaProcessingEmailCreatingMailer.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/NOTES.md",
     "TMP_Sem1Grades.md",
     "TMP_RevisedWorkout.md",
     "TMP_Notes.md",
-    "TMP_Chess.md",
-    "HIST101FINAL_EXAM.md",
-    "20230523_0718.md",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/CREDS.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101.md",
+    "README.md",
     "BackOffice/MAINBSIT.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CODE/Java/Java.md",
-    "TMP_HIST_Timeline.md",
-    "TMP_HIST_GROUPINGS.md",
-    "TMP_HIST_Report.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch13.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
-    "BackOffice/BSIT/1YEAR/12SEM/HIST101/HIST101FINALch1.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12FINALch15.md",
-    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12ch52.md",
-    "Untitled.md",
-    "Backlinks/parity.md",
-    "BackOffice/CODE/C/CHackerRank.md",
-    "TMP_.md",
-    "BackOffice/CODE/C/CHackerRank_4.md",
+    "Canvas/MAINROAD.canvas",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/CODE/JavaScript/JavaScript.md",
+    "BackOffice/CODE/CSS/CSS.md",
+    "BackOffice/CODE/HTML/HTML.md",
+    "BackOffice/CODE/Luau/Luau.md",
+    "BackOffice/CODE/SQL/SQL.md",
+    "BackOffice/CODE/C++/C++.md",
+    "BackOffice/CODE/C/C.md",
+    "BackOffice/CODE/Java/JavaSerialization.md",
+    "BackOffice/CODE/Java/JavaSocketProgramming.md",
+    "BackOffice/CODE/Java/JavaSocketProgrammingWhy.md",
+    "BackOffice/CODE/Java/JavaSocketProgrammingELI5.md",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRETPDF.pdf",
     "Backlinks/attachments/CHackerRank_4image0.png",
     "Backlinks/attachments/CHackerRank_8image1.png",
     "Backlinks/attachments/CHackerRank_8image0.png",
@@ -281,7 +295,6 @@
     "Backlinks/attachments/DISCRET12FINALch11image0.png",
     "Backlinks/attachments/DISCRET12FINALch1image0.png",
     "Untitled",
-    "Canvas/MAINROAD.canvas",
     "TMP"
   ]
 }

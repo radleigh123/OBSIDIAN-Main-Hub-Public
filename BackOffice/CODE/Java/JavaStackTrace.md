@@ -39,7 +39,7 @@ public class Main {
 
 It shows that the program was executing the methods `main()`, `init()`, and `divideByZero()`. The line numbers **14**, **4**, and **9**, respectively, indicate where in the program these methods were called. After that the `ArithmeticException` was thrown — the code in line **9** tried to divide by zero.
 
-Executing any Java program means running [[JavaThreadsMulti|multiple threads]], and the stack trace output reflects what was happening in the main thread of the sample *TestStackTrace program*.
+Executing any Java program means running [[JavaMultithreading|multiple threads]], and the stack trace output reflects what was happening in the main thread of the sample *TestStackTrace program*.
 
 <br>
 

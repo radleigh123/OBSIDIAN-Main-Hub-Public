@@ -26,7 +26,7 @@ cssclass:
 | <center>HIST101</center>      | 1.5                      |                        |
 | <center>HUM101</center>       | 1.3                      | 1.3                    |
 | <center>CC-COMPROG12</center> | 1.5                      |                        |
-| <center>CC-DISCRET12</center> | 1.9                      |                        |
+| <center>CC-DISCRET12</center> | 1.9                      | 1.6                    | 
 | <center>PE102</center>        | 1.3                      | 1.6                    |
 | <center>NSTP102</center>      | 1.3                      | 1.4                    |
 

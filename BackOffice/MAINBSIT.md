@@ -6,7 +6,10 @@ cssclass: t-c, t-w
 ---
 # HEADQUARTERS BSIT *(Bachelor of Science in Information Technology)*
 
-## 1st year
+#### 2nd year
+>[!recite|clean no-i] 1nd Semester S.Y. 2023-2024
+
+#### 1st year
 >[!recite|clean no-i] 2nd Semester S.Y. 2022-2023
 
 | Subject                            | EDP Code | Schedule      |
@@ -37,6 +40,5 @@ cssclass: t-c, t-w
 
 <br>
 
-# 
 ---
 **[[0HEADQUARTERS]]**
