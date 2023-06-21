@@ -20,13 +20,25 @@ tags:
 - [[JavaSE&EE|Java SE and EE]]
 - [[JavaHelloWorld|Hello World Program]]
 
+#### Java Memory Management
+- [[JavaMemoryManagementIntro|Introduction]]
+- [[JavaMemoryManagementStack|The Stack and the Heap: How Scoping Works]]
+- [[JavaMemoryManagementPassing|How passing by value/reference Works]]
+- [[JavaMemoryManagementGarbageCollection|Garbage Collection Eligibility]]
+	- [[JavaMemoryManagementMemoryLeak|Memory Leak]]
+	- [[JavaStringPool|String Pool]].
+	- [[JavaMetaspace|Metaspace]]
+- [[JavaMemoryManagementGarbageCollectionGenerational|Generational Garbage Collection]]
+- [[JavaMemoryManagementTuningJVM|Tuning the JVM]]
+	- [[JavaMemoryManagementTuningJVMTypesGC|Types of Garbage Collector]]
+
 #### Object-Oriented Programming
 - [[JavaClass&Object|Classes and Objects]]
 - [[JavaVariables|Variables]]
 	- [[JavaVariablesScope|Variable Scope]]
 	- [[Javafinal#^c164c7|Constants]]
 	- [[JavaWrapperClass|Wrappers, AutoBoxing, & Unboxing]]
-- [[JavaVariables|Variables]]
+- [[JavaString|String]]
 - [[JavaFlowControl|Flow Control]]
 - [[JavaInheritance|Inheritance]]
 
@@ -190,9 +202,11 @@ tags:
 
 #### Introduction to Multi-Threading
 - [[JavaMultithreading|Introduction]]
-- [[The Class Thread]]
-- The Interface Runnable
-- Sleeping Threads
+- [[JavaMultithreadingInitialization|Ways to start a Thread]]
+	- [[JavaMultithreadingTerminate|Terminate Thread]]
+- [[JavaThread|The Class Thread]]
+- [[JavaRunnable|The Runnable Interface]]
+- [[JavaMultithreadingSleeping|Sleeping Threads]]
 - How to Kill a Thread
 - Thread Properties
 - Thread Synchronization and Race Conditions

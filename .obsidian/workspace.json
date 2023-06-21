@@ -6,7 +6,7 @@
       {
         "id": "597ac0d29eca81a9",
         "type": "tabs",
-        "dimension": 23.205128205128204,
+        "dimension": 25.51282051282051,
         "children": [
           {
             "id": "fe1debe96deac530",
@@ -21,21 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d27cf710b19d5077",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/CODE/Java/Java.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
           }
         ]
       },
       {
-        "id": "1e89ccc55cf33710",
+        "id": "399e555d30b9eecf",
         "type": "tabs",
-        "dimension": 76.7948717948718,
+        "dimension": 74.48717948717949,
         "children": [
           {
-            "id": "871324c8ca2cbfa1",
+            "id": "166fe14516f26e6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaMultithreading.md",
+                "file": "BackOffice/CODE/Java/JavaMemoryManagementGarbageCollection.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,11 +119,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137
+    "width": 260.99999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -126,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaMultithreading.md",
+                "file": "BackOffice/CODE/Java/JavaMemoryManagementGarbageCollection.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,35 +194,6 @@
         "dimension": 78.74493927125506,
         "children": [
           {
-            "id": "12d29e5973f307d8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "BackOffice/CODE/Java/JavaMultithreading.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "73eef7f36fe51b3c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "BackOffice/CODE/Java/JavaMultithreading.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "6551982e24d5089d",
             "type": "leaf",
             "state": {
@@ -218,12 +205,41 @@
             }
           },
           {
+            "id": "1270f41efd6f629d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BackOffice/CODE/Java/JavaMemoryManagementGarbageCollection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c17c14bd9b7bace",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BackOffice/CODE/Java/JavaMemoryManagementGarbageCollection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "94b9d478ac75451c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaMultithreading.md"
+                "file": "BackOffice/CODE/Java/JavaMemoryManagementGarbageCollection.md"
               }
             }
           },
@@ -235,7 +251,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -254,46 +271,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "871324c8ca2cbfa1",
+  "active": "6926a528e46b8243",
   "lastOpenFiles": [
-    "BackOffice/CODE/Java/JavaProcessingEmail.md",
-    "BackOffice/CODE/Java/JavaMultithreading.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/JavaMemoryManagementTuningJVMTypesGC.md",
     "BackOffice/CREDS.md",
-    "BackOffice/CODE/Java/JavaProcessingEmailOpenSourceReference.md",
-    "BackOffice/CODE/Java/JavaProcessingEmailRetrieveEmail.md",
-    "BackOffice/CODE/Java/JavaProcessingEmailCreatingMailer.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/JavaMemoryManagementTuningJVM.md",
+    "BackOffice/CODE/Java/JavaMetaspace.md",
+    "BackOffice/CODE/Java/JavaMemoryManagementGarbageCollectionGenerational.md",
+    "Backlinks/attachments/Pasted image 20230620153555.png",
+    "Backlinks/attachments/Pasted image 20230620153540.png",
+    "Backlinks/attachments/Pasted image 20230620153523.png",
+    "Backlinks/attachments/Pasted image 20230620153514.png",
+    "BackOffice/CODE/Java/JavaMemoryManagementMemoryLeak.md",
+    "Backlinks/attachments/Pasted image 20230620140331.png",
+    "BackOffice/CODE/Java/JavaMemoryManagementIntro.md",
+    "BackOffice/CODE/Java/JavaMemoryManagementGarbageCollection.md",
+    "BackOffice/CODE/Java/JavaStringPool.md",
+    "Backlinks/attachments/JavaStringPool.png",
+    "BackOffice/CODE/Java/JavaString.md",
     "BackOffice/CODE/Java/Java.md",
-    "BackOffice/NOTES.md",
+    "Backlinks/attachments/JavaMemoryManagementGarbageCollectionImage1.png",
+    "Backlinks/attachments/JavaMemoryManagementGarbageCollectionImage2.png",
+    "Backlinks/attachments/Pasted image 20230618115935.png",
+    "BackOffice/CODE/Java/JavaMemoryManagementPassing.md",
+    "Backlinks/attachments/JavaMemoryManagementPassingImage3.png",
+    "BackOffice/CODE/Java/JavaMemoryManagementStack.md",
+    "BackOffice/CODE/Java/JavaObjectsPassing.md",
+    "BackOffice/CODE/Java/JavaClass&Object.md",
+    "BackOffice/CODE/Java/JavaVariables.md",
+    "BackOffice/CODE/Java/JavaThread.md",
+    "BackOffice/CODE/Java/JavaRunnable.md",
+    "BackOffice/CODE/Java/JavaMultithreadingTerminate.md",
+    "BackOffice/CODE/Java/JavaMultithreadingInitialization.md",
+    "BackOffice/CODE/Java/JavaMultithreading.md",
     "TMP_Sem1Grades.md",
     "TMP_RevisedWorkout.md",
-    "TMP_Notes.md",
-    "README.md",
-    "BackOffice/MAINBSIT.md",
+    "BackOffice/CODE/Java/JavaProcessingEmail.md",
+    "BackOffice/CODE/Java/JavaProcessingEmailOpenSourceReference.md",
     "Canvas/MAINROAD.canvas",
-    "BackOffice/MAINCODE.md",
-    "BackOffice/CODE/JavaScript/JavaScript.md",
-    "BackOffice/CODE/CSS/CSS.md",
-    "BackOffice/CODE/HTML/HTML.md",
-    "BackOffice/CODE/Luau/Luau.md",
-    "BackOffice/CODE/SQL/SQL.md",
-    "BackOffice/CODE/C++/C++.md",
-    "BackOffice/CODE/C/C.md",
-    "BackOffice/CODE/Java/JavaSerialization.md",
-    "BackOffice/CODE/Java/JavaSocketProgramming.md",
-    "BackOffice/CODE/Java/JavaSocketProgrammingWhy.md",
-    "BackOffice/CODE/Java/JavaSocketProgrammingELI5.md",
     "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRETPDF.pdf",
-    "Backlinks/attachments/CHackerRank_4image0.png",
-    "Backlinks/attachments/CHackerRank_8image1.png",
-    "Backlinks/attachments/CHackerRank_8image0.png",
-    "Backlinks/attachments/Pasted image 20230510210113.png",
-    "Backlinks/attachments/DISCRET12FINALch15image0.png",
-    "Backlinks/attachments/DISCRET12FINALch14image1.png",
-    "Backlinks/attachments/DISCRET12FINALch14image0.png",
-    "Backlinks/attachments/DISCRET12FINALch12image0.png",
-    "Backlinks/attachments/DISCRET12FINALch11image0.png",
-    "Backlinks/attachments/DISCRET12FINALch1image0.png",
     "Untitled",
     "TMP"
   ]
