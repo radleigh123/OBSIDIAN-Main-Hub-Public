@@ -28,8 +28,7 @@ a resizable array, store reference data types. The *ArrayList* in Java can have 
 
 Simple program list of foods 
 ```java
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Proto1 {
     public static void main(String[] args) {
@@ -41,15 +40,41 @@ public class Proto1 {
 		food.set(0, "sushi"); // replaces "Pizza"
 		food.remove(2); // removes "Chicken"
 
-		System.out.println(food); // prints all elements
+		System.out.println(food);
         for (String i : food) {
             System.out.println(i); // alternative, food.get(i)
         }
 
 		food.clear(); // clears the ArrayList
+
+		Collections.sort(food, Collections.reverseOrder()); // sort in reverse
     }
 }
 ```
+>[!EXAMPLE]+ Ways of getting data from the list
+> ```java
+> List list = new ArrayList(List.of(1, "Python", 1.523, true));
+> 		
+> // for loop
+> for (int i = 0; i < list.size(); i++) {
+> 	System.out.print(list.get(i) + " ");
+> }
+> 		
+> System.out.println();
+> 		
+> // for each loop
+> for (Object i : list) {
+> 	System.out.print(i + " ");
+> }
+> 		
+> System.out.println();
+> 		
+> // iterator()
+> Iterator it = list.iterator();
+> while (it.hasNext()) {
+> 	System.out.print(it.next() + " ");
+> }
+> ```
 
 Program to populate *ArrayList* w/ Objects
 ```java
@@ -68,6 +93,7 @@ Customers bestCustomers = (Main) customers.get(0);
 The method `get()` is used to extract a particular element from `ArrayList`. Because `ArrayList` is <mark class="hltr-lightblue">generic storage for any type of object</mark>, the method `get()` returns elements as **Object** data types.
 
 See more:
+- [[JavaArrayListSample0|Converting arrays into ArrayList]]
 - [[JavaArrayListSample1|Two-dimensional ArrayList]]
 - [[JavaArrayListSample2|ArrayList and instance of]]
 

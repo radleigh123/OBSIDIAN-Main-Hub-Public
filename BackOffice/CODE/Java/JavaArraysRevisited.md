@@ -6,10 +6,15 @@ tags:
 - Java/Arrays
 - Java/ControlFlow/for-each
 ---
-**[[UpdateJava#Introduction to Collections|HOME [Java]]]**
+**[[UpdateJava#Collections|HOME [Java]]]**
 
 ---
 ## Arrays Revisited
+**Limitations of an `array`**
+- arrays are fixed in size
+- arrays can only hold homogenous data elements
+- ready made APIs support is not available in array
+
 >[!aside|show-title right]+ RESULT:
 > Keane Radleigh Inting Rhiz Caballero
 > \------------------------

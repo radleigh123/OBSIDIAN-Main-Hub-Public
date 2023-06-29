@@ -16,7 +16,7 @@ tags:
 # `LinkedList` class
 > Java [[JavaCollectionInterfaces|collection classes]] differ in how you can retrieve and insert objects.
 
-that stores elements so that each contains a reference to the next (aka *node*). Each element in a **doubly linked list** also contains a reference to the previous element. These features of the doubly-linked class *LinkedList* allow you to create queues (**FIFO**), and stacks (**last-in-first-out** or LIFO). Used if you need to work with a [[sequential]] list of objects and often insert the object into the list.
+that stores elements so that each contains a reference to the next (aka ***node***). Each element in a **doubly linked list** also contains a reference to the previous element. These features of the doubly-linked class *LinkedList* allow you to create queues (**FIFO**), and stacks (**last-in-first-out** or LIFO). Used if you need to work with a [[sequential]] list of objects and often insert the object into the list.
 
 You can navigate through the list using the class `ListIterator`, which supports going through the list in both directions via its methods `next()` and `previous()`. An example, in which a standby passenger list is created at the boarding gate of some airline company:
 >[!aside|show-title right]+ RESULT
@@ -35,6 +35,17 @@ public class Proto {
         list.add("Alex Smith");
         list.add("Mary Lou");
         list.add("Sim Monk");
+
+		list.addFirst("Rhiz"); // add in the first node
+		list.addLAst("Caballero"); // add in the last node
+		
+		/*
+		 * getFirst() - get first node
+		 * getLast() - get last node
+		 * 
+		 * removeFirst()
+		 * removeLast()
+		*/
 
         // Get the list iterator and print every element of the list
         ListIterator iterator = list.listIterator();

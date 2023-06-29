@@ -18,8 +18,15 @@ Generic-type bounding allows us to restrict what types can be used instead of th
 - [[JavaWildCardLower|Lower Bounded Wildcards]]
 - [[JavaWildCardUnbounded|Unbounded Wildcards]] 
 
+>[!FAQ]
+> **Covariance** - 
+> **Contravariance**
+> **Invariance**
+
 <br>
 
 # 
 ---
 - [wildcards in java (geeksforgeeks)](https://www.geeksforgeeks.org/wildcards-in-java/)
+- [(3) Generics and Wildcards in Java | Part 2 | Invariance vs Covariance vs Contravariance | Geekific - YouTube](https://www.youtube.com/watch?v=FXAUXvPNKi8)
+- [java - Covariance, Invariance and Contravariance explained in plain English? - Stack Overflow](https://stackoverflow.com/questions/8481301/covariance-invariance-and-contravariance-explained-in-plain-english)

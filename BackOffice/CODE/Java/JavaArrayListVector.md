@@ -8,7 +8,7 @@ tags:
 - Java/ArrayList
 - Java/WrapperClass
 ---
-**[[Java|HOME [Java]]]**
+**[[UpdateJava#Collections|HOME [Java]]]**
 
 ---
 <center>package: <strong>java.util.Collections</strong></center>
@@ -18,7 +18,7 @@ these classes that don’t have this restriction, and you can add more elements 
 
 In both Vector and `ArrayList` you can store only objects — only [[JavaVariables#^3c12e4|primitives]] are allowed. Having said this, keep in mind that Java supports [[JavaWrapperClass|autoboxing]], and if you’ll try to add a primitives to a collection, it’ll be automatically converted into the corresponding wrapper object.
 - [[JavaArrayList|ArrayList Class]]
-- [[JavaVector|Vector Class]]
+- [[JavaVector|Vector Class]] (deprecated)
 
 <br>
 

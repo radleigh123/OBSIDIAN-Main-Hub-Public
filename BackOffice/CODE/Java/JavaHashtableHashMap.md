@@ -8,6 +8,7 @@ tags:
 - Java/java.util
 - Java/Hashtable
 - Java/HashMap
+- Java/typecasting 
 ---
 **[[UpdateJava#Introduction to Collections|HOME [Java]]]**
 
@@ -28,73 +29,70 @@ It inherits the `AbstractMap` class and implements the **[[JavaMapInterfaces|Map
 - may have one null key and multiple null values.
 - is non synchronized.
 - maintains no order.
-- The initial default capacity of Java HashMap class is 16 with a load factor of 0.75.
+- The **initial default capacity** is 16 with a **load factor** of 0.75.
 
->[!aside|show-title right]+ RESULT:
-> {Inting=25, Keane=23, Radleigh=24}
+>[!aside|show-title right]- RESULT:
+> ```
+> [52=Mars, 50=Hello, 51=World]
+> [52, 50, 51]
+> [Mars, Hello, World]
 > 
-> \[Inting, Keane, Radleigh]
-> \[25, 23, 24]
+> Hello
 > 
-> person.get("Keane"): 23
+> containsKey(52): true
+> containsValue("Mars"): true
+> size: 3
 > 
-> key = Inting    values: 25
-> key = Keane     values: 23
-> key = Radleigh  values: 24
-> 
-> key = Inting    values: 25
-> key = Keane     values: 23
-> key = Radleigh  values: 24
+> 52: Mars 50: Hello 51: World 
+> 52: Mars 50: Hello 51: World 
+> 52: Mars 50: Hello 51: World
+> ```
 
 ```java
-/**
- * HashMap example
- */
+import java.util.*;
 
-import java.util.HashMap;
-import java.util.Map;
-
-class Main {
+public class Solution {
     public static void main(String[] args) {
+        Map<Integer, String> map = new HashMap<>();
 
-        HashMap<String, Integer> person = new HashMap<>();
-        person.put("Keane", 23);
-        person.put("Radleigh", 24);
-        person.put("Inting", 25);
+        map.putAll(Map.of(50, "Hello",
+                51, "World",
+                52, "Mars"));
 
-        // print all
-        System.out.println(person);
-
-        System.out.println();
-
-        // print all keys
-        System.out.println(person.keySet());
-        // print all values
-        System.out.println(person.values());
+        System.out.println(map.entrySet()); // same as `map
+        System.out.println(map.keySet());
+        System.out.println(map.values());
 
         System.out.println();
-
-        // print single value
-        System.out.println("person.get(\"Keane\"): " + person.get("Keane"));
-
+        System.out.println(map.get(50));
         System.out.println();
 
-        // using for-each
-        for (String i : person.keySet()) {
-            System.out.println("key = " + i
-                    + "\tvalues: " + person.get(i));
+        System.out.println("containsKey(52): " + map.containsKey(52));
+        System.out.println("containsValue(\"Mars\"): " + map.containsValue("Mars"));
+        System.out.println("size: " + map.size());
+        System.out.println();
+
+        for (Map.Entry m : map.entrySet()) {
+            System.out.print(m.getKey() + ": " + m.getValue() + " ");
         }
 
         System.out.println();
 
-        // using Map
-        for (Map.Entry m : person.entrySet()) {
-            System.out.println("key = " + m.getKey()
-                    + "\tvalues: " + m.getValue());
+        // iterator
+        Set s = map.entrySet();
+        Iterator it = s.iterator();
+        while (it.hasNext()) {
+            Map.Entry m = (Map.Entry) it.next(); // typecasting involved
+            System.out.print(m.getKey() + ": " + m.getValue() + " ");
         }
 
+        System.out.println();
+
+        // object type
+        for (Object m : map.keySet()) {
+            System.out.print(m + ": " + map.get(m) + " ");
+        }
     }
-
 }
 ```
 

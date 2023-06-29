@@ -5,7 +5,7 @@ tags:
 - Java
 - 
 ---
-**[[JavaGenericsTypes|BACK]]**
+**[[JavaGenericsTypesClass|BACK]]**
 
 ---
 >[!aside|right show-title]+ RESULT:

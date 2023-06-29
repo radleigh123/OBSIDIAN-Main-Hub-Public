@@ -7,12 +7,17 @@
 **UC**: ucb-20200937 - 1Lhlanders!
 **UC-PORTAL**: keaneradleigh123\@gmail.com - NANOLESs123
 
+`Work
+**LINKEDLN**: keaneradleigh123\@gmail.com
+
 `Code`
 **GITHUB**: radleigh123 - 1Lhlanders!
 **SCRATCH**: Swimming_Woods or keaneradleighinting\@gmail.com - Lhlanders1234
 **REDDIT**: keanekiller - NANOLESS1234
 **MICROSOFT**: keaneradleigh123\@gmail.com - Lhlanders1234
 **NOTION**: keaneradleigh\@gmail.com - 
+**LEETCODE**: radleigh123 keaneradleighinting\@gmail.com - NANOLESS1234
+**HACKERRANK**: keaneradleigh\@gmail.com
 
 `Art`
 **PIXIV**: keaneradleigh123\@gmail.com - Lhlanders123

@@ -135,15 +135,23 @@ tags:
 > You can find more collections in the **java.util.concurrent** package, but those will be reviewed in [[UpdateJava#Digging Deeper into ConCurrent Execution|ConCurrent Execution]] after you become familiar with the concept of [[UpdateJava#Introduction to Multi-Threading|multi-threading]]. Together, the collection classes and interfaces located in **java.util** and **java.util.concurrent** are often called the *Java Collection Framework*.
 
 - [[JavaArraysRevisited|Arrays Revisited]]
-- [[JavaArrayListVector|ArrayList & Vector]]
 - [[JavaCollectionInterfaces|Collection Interfaces]]
-- [[JavaSet|Set & HashSet]]
-- [[JavaMapInterfaces|Map Interfaces]]
-- [[JavaHashtableHashMap|Hashtable & HashMap]]
-	- [[JavaProperties|Properties]]
-- [[JavaIterator&Enumeration|Iterator]]
+	- [[JavaCollectionInterfacesMethods|Common methods in Interfaces]]
+	- [[JavaCollectionInterfacesVsCollection|Collection vs Collections]]
+- [[JavaArrayListVector|ArrayList & Vector Classes]]
 - [[JavaLinkedList|LinkedList Class]]
+- [[JavaSet|Set Interface]]
+	- [[JavaSetHashSet|HashSet]]
+	- [[JavaSetLinkedHashSet|LinkedHashSet]]
+- [[JavaQueue|Queue Interface]]
+	- [[JavaQueuePriorityQueue|PriorityQueue]]
+- [[JavaMapInterfaces|Map Interfaces]]
+	- [[JavaHashtableHashMap|Hashtable & HashMap]]
+		- [[JavaProperties|Properties]]
+- [[JavaIterator&Enumeration|Iterator]]
 - [[JavaBitSet|BitSet Class]]
+- [[JavaComparator|Comparator Interface]]
+	- [[JavaComparable|Comparable Interface]]
 
 #### Generics
 >[!DONE|collapse alt-co]- Introduction
