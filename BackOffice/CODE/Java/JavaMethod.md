@@ -13,6 +13,7 @@ tags:
 # Methods
 a block of code that is executed when it is called upon.
 
+![[JavaMethod.png|center]]
 ![[JavaMethod.excalidraw.svg|center]]
 
 **e.g.**

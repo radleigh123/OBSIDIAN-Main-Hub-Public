@@ -15,6 +15,7 @@ tags:
 > ▪ The Java programming language was originally created in 1995 by **James Gosling** from Sun Microsystems (currently a subsidiary of Oracle Corporation).
 > ▪ The goal was to provide a simpler and platform-independence alternative to [[C++]]
 > ▪ The Java Language is object-oriented (OO), which allows you to easily relate program constructs to objects from the real world.
+- [[JavaTerminologies|Terminologies]]
 - [[JavaLifeCycle|The Life Cycle of a Java Program]]
 - [[JavaJDK&JRE|JDK and JRE]]
 - [[JavaSE&EE|Java SE and EE]]
@@ -138,8 +139,10 @@ tags:
 - [[JavaCollectionInterfaces|Collection Interfaces]]
 	- [[JavaCollectionInterfacesMethods|Common methods in Interfaces]]
 	- [[JavaCollectionInterfacesVsCollection|Collection vs Collections]]
-- [[JavaArrayListVector|ArrayList & Vector Classes]]
-- [[JavaLinkedList|LinkedList Class]]
+- **List Interface**
+	- [[JavaArrayListVector|ArrayList & Vector Classes]]
+	- [[JavaListStack|Stack Class]]
+	- [[JavaLinkedList|LinkedList Class]]
 - [[JavaSet|Set Interface]]
 	- [[JavaSetHashSet|HashSet]]
 	- [[JavaSetLinkedHashSet|LinkedHashSet]]
@@ -151,7 +154,7 @@ tags:
 - [[JavaIterator&Enumeration|Iterator]]
 - [[JavaBitSet|BitSet Class]]
 - [[JavaComparator|Comparator Interface]]
-	- [[JavaComparable|Comparable Interface]]
+- [[JavaComparable|Comparable Interface]]
 
 #### Generics
 >[!DONE|collapse alt-co]- Introduction
@@ -166,7 +169,12 @@ tags:
 - [[JavaGenericsTypesMethod|Generic Methods]]
 - [[JavaGenericsNext|What to Read Next]]
 
-#### Working with Streams
+#### Java 8 Stream API
+- [[JavaStreamDiffer|Differences of streams]]
+- [[JavaClassAnonymous|Anonymous Classes]]
+- [[JavaLambda|Lambda Expressions]]
+
+#### I/O Stream
 >[!DONE|collapse alt-co]- Introduction
 > $\quad$Most programs work with some kind of data, which could be stored in a local database, on a remote computer, or in a file located on your disk. Java has a concept of working with streams of data. You can say that a Java program reads sequences of bytes from an input stream (or writes into an output stream): byte after byte, character after character, primitive after primitive. Accordingly, Java defines various types of classes supporting streams, for example `InputStream` or `OutputStream`. There are classes specifically meant for reading character streams such as `Reader` and `Writer`. `DataInputStream` and `DataOutputStream` can read and write Java primitives, and to work with fi les you may consider such classes as `FileInputStream` and `FileReader`.
 > &nbsp;

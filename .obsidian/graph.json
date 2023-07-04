@@ -5,18 +5,26 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Java",
+      "color": {
+        "a": 1,
+        "rgb": 1672770
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.7,
   "nodeSizeMultiplier": 1.04643835616438,
   "lineSizeMultiplier": 0.923698630136986,
-  "collapse-forces": true,
-  "centerStrength": 0.530635118306351,
-  "repelStrength": 8.70112079701121,
+  "collapse-forces": false,
+  "centerStrength": 0.833333333333333,
+  "repelStrength": 16.1458333333333,
   "linkStrength": 1,
-  "linkDistance": 103,
-  "scale": 0.030182895067324272,
+  "linkDistance": 125,
+  "scale": 0.11660891579457348,
   "close": true
 }

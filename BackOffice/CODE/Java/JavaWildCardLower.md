@@ -9,6 +9,8 @@ tags:
 
 ---
 ## Lower Bounded Wildcard
+> <u>`super` is modifiable</u>, meaning `list.add(number)` is OK
+
 It is expressed using the _super_ keyword and it specifies the lower class in the hierarchy that can be used as a generic type.
 
 Example:
