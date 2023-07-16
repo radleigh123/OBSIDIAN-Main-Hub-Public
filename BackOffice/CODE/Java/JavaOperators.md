@@ -6,7 +6,7 @@ tags:
 - Java
 - Java/Operators
 ---
-**[[Java|HOME [Java]]]**
+**[[UpdateJava#Java Basics|HOME [Java]]]**
 
 ---
 # Operators

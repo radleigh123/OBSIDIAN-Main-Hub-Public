@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Streams/DataInputStream
 ---
-**[[JavaStreamsData|BACK]]**
+**[[JavaDataStreams|BACK]]**
 
 ---
 ## `DataInputStream` Class

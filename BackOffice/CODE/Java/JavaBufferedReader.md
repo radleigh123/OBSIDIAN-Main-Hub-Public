@@ -5,7 +5,7 @@ tags:
 - Java
 - 
 ---
-**[[JavaStreamsBuffered|BACK]]**
+**[[JavaBufferedStreams|BACK]]**
 
 ---
 ## `BufferedReader` Class

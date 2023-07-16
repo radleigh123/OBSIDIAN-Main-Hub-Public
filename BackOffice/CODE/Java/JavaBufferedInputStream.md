@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Streams/Byte
 ---
-**[[JavaStreamsBuffered|BACK]]**
+**[[JavaBufferedStreams|BACK]]**
 
 ---
 ## `BufferedInputStream` Class

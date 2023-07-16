@@ -21,12 +21,12 @@ $\quad$▪ **Combine**- After the elements are processed, they are again combine
 The ByteStream classes are divided into two types of classes, i.e., InputStream and OutputStream. These classes are abstract and the super classes of all the Input/Output stream classes.
 >[!column|collapse ttl-c no-t] ByteStream Classes
 >>[!INFO|clean no-i] InputStream
->> ▪ [[JavaStreamsByteFileInputStream|FileInputStream]]
->> ▪ [[JavaStreamsBufferedInputStream|BufferedInputStream]]
+>> ▪ [[JavaFileInputStream|FileInputStream]]
+>> ▪ [[JavaBufferedInputStream|BufferedInputStream]]
 >
 >>[!INFO|clean no-i] OutputStream
->>▪ [[JavaStreamsByteFileOutputStream|FileOutputStream]]
->>▪ [[JavaStreamsBufferedOutputStream|BufferedOutputStream]]
+>>▪ [[JavaFileOutputStream|FileOutputStream]]
+>>▪ [[JavaBufferedOutputStream|BufferedOutputStream]]
 
 <br>
 

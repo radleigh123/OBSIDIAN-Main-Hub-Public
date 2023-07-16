@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Streams/Byte/BufferedInputStream
 ---
-**[[JavaStreamsBufferedInputStream|BACK]]**
+**[[JavaBufferedInputStream|BACK]]**
 
 ---
 >[!INFO|bg-gray no-i collapse ttl-c] RESULT:

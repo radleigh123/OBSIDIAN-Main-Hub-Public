@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Streams/Byte/BufferedOutputStream
 ---
-**[[JavaStreamsBuffered|BACK]]**
+**[[JavaBufferedStreams|BACK]]**
 
 ---
 ### `flush()` Method

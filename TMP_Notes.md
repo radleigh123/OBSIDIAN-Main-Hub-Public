@@ -1,3 +1,6 @@
+**PasteBin**
+**Github Gist**
+
 From just starting main focus to use is:
 - Cloud computing (*IaaS*, *PaaS*, *SaaS*)
 - Backend Programming ➡ Backend Framework (*ExpressJS*, *django*, *Java Spring*)

@@ -11,7 +11,7 @@ tags:
 
 ---
 # Character Streams
-The java.io package provides Character Stream classes to overcome the limitations of [[JavaStreamsByte|Byte Stream classes]], which can only handle the 8-bit bytes and is not compatible to work directly with the Unicode characters. Character Stream classes are used to work with **16-bit Unicode characters**. They can perform operations on characters, char arrays and Strings.
+The java.io package provides Character Stream classes to overcome the limitations of [[JavaByteStreams|Byte Stream classes]], which can only handle the 8-bit bytes and is not compatible to work directly with the Unicode characters. Character Stream classes are used to work with **16-bit Unicode characters**. They can perform operations on characters, char arrays and Strings.
 > are mainly used to read characters from the source and write them to the destination.
 
 ```java

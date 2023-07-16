@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Streams/DataOutputStream
 ---
-**[[JavaStreamsData|BACK]]**
+**[[JavaDataStreams|BACK]]**
 
 ---
 ## `DataOutputStream` Class

@@ -14,7 +14,7 @@ In `unbuffered I/O`, each read or writes request is handled directly by the unde
 To reduce this kind of overhead, the Java platform implements *<u>buffered I/O streams</u>*. Buffered input streams read data from a memory area known as a **buffer**; the native input API is called only when the buffer is empty. Similarly, buffered output streams write data to a buffer, and the native output API is called only when the buffer is full.
 
 There are four buffered stream classes used to wrap unbuffered streams:
-$\quad$▪ [[JavaStreamsBufferedInputStream|BufferedInputStream]]
-$\quad$▪ [[JavaStreamsBufferedOutputStream|BufferedOutputStream]]
-$\quad$▪ [[JavaStreamsBufferedReader|BufferedReader]]
-$\quad$▪ [[JavaStreamsBufferedWriter|BufferedWriter]]
+$\quad$▪ [[JavaBufferedInputStream|BufferedInputStream]]
+$\quad$▪ [[JavaBufferedOutputStream|BufferedOutputStream]]
+$\quad$▪ [[JavaBufferedReader|BufferedReader]]
+$\quad$▪ [[JavaBufferedWriter|BufferedWriter]]

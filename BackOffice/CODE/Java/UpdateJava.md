@@ -59,6 +59,8 @@ tags:
 - [[JavaFlowControl#^217312|Loops]]
 - [[JavaDebugging|Debugging Java Programs]]
 - [[JavaCommandLine|Command-Line Arguments]]
+- [[JavaOperators|Operators]]
+	- [[JavaOperatorsbitwise|Bitwise & Bit Shift]]
 
 #### Packages, Interfaces, and Encapsulation
 - [[JavaPackages|Java Packages]]
@@ -129,6 +131,10 @@ tags:
 - [[JavaExceptionHandlingSample|Creating Your Own Exceptions]]
 - [[JavaExceptionHandlingSummary|Summary]]
 
+#### Unit Testing
+- [[UpdateJavaJUnit|What is JUnit]]
+- Test-drive development
+
 #### Collections
 >[!DONE|collapse alt-co]- Introduction
 > $\quad$<u>[[JavaArrays|Java arrays]]</u>, which are good for storage, <u>but fall short when you need to dynamically add or remove data</u>, or to sort or traverse your collection. There are a number of classes and interfaces in the package **java.util** that are quite handy when multiple instances of some objects have to be co-located in memory.
@@ -172,7 +178,11 @@ tags:
 #### Java 8 Stream API
 - [[JavaStreamDiffer|Differences of streams]]
 - [[JavaClassAnonymous|Anonymous Classes]]
+- [[JavaDefault|Default methods]]
+- [[Javastatic|Static methods]]
 - [[JavaLambda|Lambda Expressions]]
+	- [[JavaLambdaFunctionalInterfaces|Pre-Defined Functional Interfaces]]
+- [[JavaStreams|Streams]]
 
 #### I/O Stream
 >[!DONE|collapse alt-co]- Introduction
@@ -186,10 +196,10 @@ tags:
 > $\quad$ 3\. Close the stream
 
 - [[JavaStreamsTerminologies|Terminologies]]
-- [[JavaStreamsByte|Byte Streams]]
-	- [[JavaStreamsBuffered|Buffered Streams]]
-- [[JavaStreamsCharacter|Characters Streams]]
-- [[JavaStreamsData|Data Streams]]
+- [[JavaByteStreams|Byte Streams]]
+	- [[JavaBufferedStreams|Buffered Streams]]
+- [[JavaCharacterStreams|Characters Streams]]
+- [[JavaDataStreams|Data Streams]]
 - [[JavaFileClass|The Class File]]
 
 #### Java Serialization

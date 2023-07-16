@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaClassAnonymous.md",
+                "file": "UpdateJavaJUnit.md",
                 "mode": "preview",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaClassAnonymous.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaClassAnonymous.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaClassAnonymous.md",
+                "file": "BackOffice/CODE/Java/UpdateJava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaClassAnonymous.md"
+                "file": "BackOffice/CODE/Java/UpdateJava.md"
               }
             }
           },
@@ -262,36 +262,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24b24a765d577cb1",
+  "active": "c6dab81bc89fdde0",
   "lastOpenFiles": [
-    "BackOffice/CODE/Java/JavaLambda.md",
+    "UpdateJavaJUnit.md",
+    "TMP_Notes.md",
     "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CODE/Java/JavaComparator.md",
-    "Backlinks/attachments/JavaLambda.png",
-    "BackOffice/CODE/Java/JavaClassAnonymous.md",
-    "BackOffice/CODE/Java/JavaBitSet.md",
-    "BackOffice/CODE/Java/JavaMethod.md",
-    "Excalidraw/JavaMethod.excalidraw.svg",
-    "Excalidraw/JavaMethod.excalidraw.md",
-    "Backlinks/attachments/JavaMethod.png",
-    "BackOffice/CODE/Java/JavaTerminologies.md",
+    "Untitled.md",
+    "BackOffice/CODE/Java/JavaDefault.md",
+    "BackOffice/CODE/Java/JavaLambda.md",
+    "TMP_Sem1Grades.md",
+    "BackOffice/CODE/Java/JavaLambdaFunctionalInterfacesFunction.md",
+    "BackOffice/CODE/Java/JavaLambdaFunctionalInterfaces.md",
+    "BackOffice/CODE/Java/JavaStreams.md",
+    "BackOffice/CODE/Java/JavaOperatorsbitwise.md",
+    "BackOffice/CODE/Java/JavaOperators.md",
     "BackOffice/CODE/Java/Java.md",
-    "BackOffice/CODE/Java/JavaPackages.md",
-    "BackOffice/CODE/Java/JavaClosures.md",
-    "BackOffice/CODE/Java/JavaStreamDiffer.md",
-    "BackOffice/CODE/Java/JavaStreamsTerminologies.md",
-    "BackOffice/CODE/Java/JavaStreamsByte.md",
-    "BackOffice/CODE/Java/JavaSerialization.md",
-    "BackOffice/CODE/Java/JavaObjectInputStream.md",
-    "BackOffice/CODE/Java/JavaStreamsData.md",
-    "BackOffice/CODE/Java/JavaStreamsDataInputStream.md",
-    "BackOffice/CODE/Java/JavaStreamsCharacter.md",
-    "BackOffice/CODE/Java/JavaQueuePriorityQueue.md",
-    "BackOffice/CODE/Java/JavaLinkedList.md",
-    "BackOffice/CODE/Java/JavaLinkedListSample.md",
-    "BackOffice/CODE/Java/JavaQueue.md",
-    "BackOffice/CODE/Java/JavaCollectionInterfaces.md",
-    "BackOffice/CODE/Java/JavaGenericsTypesMethod.md",
+    "BackOffice/MAINCODE.md",
+    "BackOffice/CODE/Java/JavaStreamsmap.md",
+    "BackOffice/CODE/Java/JavaStreamsfilter.md",
+    "BackOffice/CODE/Java/JavaFileClass.md",
+    "BackOffice/CODE/Java/JavaFileClassFileWriter.md",
+    "BackOffice/CODE/Java/JavaDataStreams.md",
+    "BackOffice/CODE/Java/JavaCharacterStreams.md",
+    "BackOffice/CODE/Java/JavaBufferedStreams.md",
+    "BackOffice/CODE/Java/JavaBufferedOutputStream.md",
+    "BackOffice/CODE/Java/JavaByteStreams.md",
+    "BackOffice/CODE/Java/JavaFileOutputStream.md",
+    "BackOffice/CODE/Java/JavaBufferedWriter.md",
+    "BackOffice/CODE/Java/JavaBufferedReader.md",
+    "Backlinks/attachments/JavaLambda.png",
+    "Excalidraw/JavaMethod.excalidraw.svg",
+    "Backlinks/attachments/JavaMethod.png",
     "Backlinks/attachments/Pasted image 20230630105028.png",
     "Backlinks/attachments/Pasted image 20230627100227.png"
   ]

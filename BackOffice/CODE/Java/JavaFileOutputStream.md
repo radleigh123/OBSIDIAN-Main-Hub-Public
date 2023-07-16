@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Streams/Byte/FileOutputStream
 ---
-**[[JavaStreamsByte|BACK]]**
+**[[JavaByteStreams|BACK]]**
 
 ---
 ## FileOutputStream

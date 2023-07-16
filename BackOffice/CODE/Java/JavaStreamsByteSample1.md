@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Streams/Byte
 ---
-**[[JavaStreamsByte|BACK]]**
+**[[JavaByteStreams|BACK]]**
 
 ---
 >[!INFO|collapse no-i ttl-c] RESULT:
