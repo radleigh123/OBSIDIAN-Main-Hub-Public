@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UpdateJavaJUnit.md",
+                "file": "20230717_0350.md",
                 "mode": "preview",
                 "source": true
               }
@@ -60,14 +60,6 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a6fc02fe3a7d936a",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
               "state": {}
             }
           }
@@ -104,10 +96,10 @@
             }
           },
           {
-            "id": "a5e793d9a66a5563",
+            "id": "a6fc02fe3a7d936a",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -115,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137,
-    "collapsed": true
+    "width": 260.99999809265137
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -133,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/Java/UpdateJava.md",
+                "file": "20230717_0350.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/Java/UpdateJava.md",
+                "file": "20230717_0350.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/Java/UpdateJava.md",
+                "file": "20230717_0350.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/Java/UpdateJava.md"
+                "file": "20230717_0350.md"
               }
             }
           },
@@ -262,18 +253,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6dab81bc89fdde0",
+  "active": "418b325d10b77296",
   "lastOpenFiles": [
+    "BackOffice/CODE/Java/JavaHashtableHashMap.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CODE/Java/JavaStreams.md",
+    "BackOffice/CREDS.md",
+    "20230717_0350.md",
+    "BackOffice/CODE/Java/JavaComparator.md",
     "UpdateJavaJUnit.md",
     "TMP_Notes.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
     "Untitled.md",
     "BackOffice/CODE/Java/JavaDefault.md",
     "BackOffice/CODE/Java/JavaLambda.md",
     "TMP_Sem1Grades.md",
     "BackOffice/CODE/Java/JavaLambdaFunctionalInterfacesFunction.md",
     "BackOffice/CODE/Java/JavaLambdaFunctionalInterfaces.md",
-    "BackOffice/CODE/Java/JavaStreams.md",
     "BackOffice/CODE/Java/JavaOperatorsbitwise.md",
     "BackOffice/CODE/Java/JavaOperators.md",
     "BackOffice/CODE/Java/Java.md",
@@ -286,10 +281,6 @@
     "BackOffice/CODE/Java/JavaCharacterStreams.md",
     "BackOffice/CODE/Java/JavaBufferedStreams.md",
     "BackOffice/CODE/Java/JavaBufferedOutputStream.md",
-    "BackOffice/CODE/Java/JavaByteStreams.md",
-    "BackOffice/CODE/Java/JavaFileOutputStream.md",
-    "BackOffice/CODE/Java/JavaBufferedWriter.md",
-    "BackOffice/CODE/Java/JavaBufferedReader.md",
     "Backlinks/attachments/JavaLambda.png",
     "Excalidraw/JavaMethod.excalidraw.svg",
     "Backlinks/attachments/JavaMethod.png",
