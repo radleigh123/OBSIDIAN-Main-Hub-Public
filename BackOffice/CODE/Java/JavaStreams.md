@@ -36,10 +36,18 @@ List names = Arrays.asList("Reflection","Collection","Stream");
 List result = names.stream().sorted().collect(Collectors.toList());
 ```
 
+[[JavaStreamsflatMap|flatMap]]: The combination of a map and a flat operation.
+```java
+List<String> extraList = Arrays.asList("5.6", "7.4", "4", "1", "2.3");
+extraList.stream()
+		.flatMap(Stream::of) // num -> Stream.of(num)
+		.forEach(System.out::println);
+```
+
 <br>
 
 **Terminal operations**
-`collect`: The collect method is used to return the result of the intermediate operations performed on the stream.
+[[JavaStreamscollect|collect]]: The collect method is used to return the result of the intermediate operations performed on the stream.
 ```java
 List number = Arrays.asList(2,3,4,5,3);  
 Set square = number.stream().map(x -> x * x).collect(Collectors.toSet());
@@ -51,10 +59,53 @@ List number = Arrays.asList(2,3,4,5);
 number.stream().map(x -> x * x).forEach(y->System.out.println(y));
 ```
 
-`reduce`: The reduce method is used to reduce the elements of a stream to a single value. The reduce method takes a [[JavaBinaryOperator|BinaryOperator]] as a parameter.
+[[JavaStreamsreduce|reduce]]: The reduce method is used to reduce the elements of a stream to a single value. The reduce method takes a [[JavaBinaryOperator|BinaryOperator]] as a parameter.
 ```java
 List number = Arrays.asList(2,3,4,5);
-int even = number.stream().filter(x -> x % 2 == 0).reduce(0,(ans,i)-> ans+i);
+int even = number.stream()
+		.filter(x -> x % 2 == 0)
+		.reduce(0,(ans,i)-> ans+i);
+```
+
+<br>
+
+**Different ways to output the results** *(subject to change)*
+>[!aside|right]-
+> ```
+> 1
+> 2
+> 3
+> 4
+> 5
+> 
+> 1
+> 2
+> 3
+> 4
+> 5
+> ------------
+> 1 2 3 4 5
+> 1 2 3 4 5
+> ```
+
+```java
+List<Integer> list = new ArrayList<>();  
+list.addAll(Arrays.asList(1, 2, 3, 4, 5));
+
+// list.stream().forEach(i -> System.out.println(i));  
+list.stream()
+	.forEach(System.out::println);  
+Stream.of(list.toArray())
+	.forEach(System.out::println); // directly streaming  
+  
+System.out.println("------------");
+  
+System.out.println(list.stream()
+				   .map(Object::toString)  
+				   .collect(Collectors.joining(" ")));  
+System.out.println(Stream.of(list.toArray())  
+				   .map(Object::toString)  
+				   .collect(Collectors.joining(" ")));
 ```
 
 <br>

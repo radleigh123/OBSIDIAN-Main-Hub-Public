@@ -12,9 +12,14 @@ tags:
 
 ---
 ## Access Modifiers
+1. **Private**: The access level of a private modifier is only within the class. It cannot be accessed from outside the class.
+2. **Default**: The access level of a default modifier is only within the package. It cannot be accessed from outside the package. If you do not specify any access level, it will be the default.
+3. **Protected**: The access level of a protected modifier is within the package and outside the package through child class. If you do not make the child class, it cannot be accessed from outside the package.
+4. **Public**: The access level of a public modifier is everywhere. It can be accessed from within the class, outside the class, within the package and outside the package.
+
 Access level modifiers determine whether other classes can use a particular field or invoke a particular method. There are two levels of access control:
--   At the top level—`public`, or _package-private_ (no explicit modifier)
--   At the member level—`public`, `private`, `protected`, or _package-private_ (no explicit modifier)
+$\quad$ ▪ At the top level—`public`, or _package-private_ (no explicit modifier)
+$\quad$ ▪  At the member level—`public`, `private`, `protected`, or _package-private_ (no explicit modifier)
 
 **main**
 ```java

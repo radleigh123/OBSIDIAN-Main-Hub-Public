@@ -3,7 +3,7 @@ cssclass:
 aliases:
 tags:
 - Java
-- 
+- Java/Streams/stream/filter
 ---
 **[[JavaStreams|BACK]]**
 

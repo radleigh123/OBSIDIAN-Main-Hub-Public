@@ -3,12 +3,12 @@ cssclass:
 aliases:
 tags:
 - Java
-- 
+- Java/Streams/stream/map
 ---
 **[[JavaStreams|BACK]]**
 
 ---
-## `map()` Operation
+## Stream.`map()`
 >[!aside|right]-
 > ```
 > [BUS, CAR, BICYCLE, FLIGHT, TRAIN]
@@ -40,4 +40,5 @@ public class Solution {
 
 # 
 ---
-- 
+- See also:
+	- [[JavaStreamsflatMap|Stream.flatMap()]]

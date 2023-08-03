@@ -15,6 +15,9 @@ One issue with anonymous classes is that if the implementation of your anonymous
 
 Although this is often more concise than a named class, for classes with only one method, even an anonymous class seems a bit excessive and cumbersome. Lambda expressions let you **express instances of single-method classes more compactly**.
 
+>[!DONE|ttl-c] REMEMBER
+> The behavior of functions that handle elements in a Java stream, **cannot change the values of variables outside of the function**. This is because, during a method call, there is no access to any variables outside of the method. However, **the values of variables outside the function can be read**, as long as those values do not change in the program.
+
 Syntax:
 ```
 parameter -> expression

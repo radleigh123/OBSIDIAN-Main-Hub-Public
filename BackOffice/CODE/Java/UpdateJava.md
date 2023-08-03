@@ -20,6 +20,7 @@ tags:
 - [[JavaJDK&JRE|JDK and JRE]]
 - [[JavaSE&EE|Java SE and EE]]
 - [[JavaHelloWorld|Hello World Program]]
+- [[JavaSOLID|SOLID Principles]]
 
 #### Java Memory Management
 - [[JavaMemoryManagementIntro|Introduction]]
