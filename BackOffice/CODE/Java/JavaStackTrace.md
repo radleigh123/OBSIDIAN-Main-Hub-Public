@@ -10,7 +10,7 @@ tags:
 
 ---
 ## Stack Trace
-also called a *stack backtrace* or even just a backtrace, is a list of stack frames. These frames represent a moment during an application’s execution. A stack frame is information about a method or function that your code called. So the Java stack trace is a list of frames that starts at the current method and extends to when the program started.
+also called a ***stack backtrace*** or even just a ***backtrace***, is a list of stack frames. These frames represent a moment during an application’s execution. A stack frame is information about a method or function that your code called. So the Java stack trace is a list of frames that starts at the current method and extends to when the program started.
 ```java
 /**
  * Example stack trace divide by zero
@@ -30,14 +30,15 @@ public class Main {
     }
 }
 ```
-**Result:**
->[!INFO|alt-co clean no-t collapse]
+>[!INFO|alt-co clean no-i collapse] Result:
+> ```
 > Exception in thread "main" java.lang.ArithmeticException: / by zero
-> $\qquad$at Main.divideByZero(Main.java:**9**) 
-> $\qquad$at Main.\<init>(Main.java:**4**)
-> $\qquad$at Main.main(Main.java:**14**)
+> 	at Main.divideByZero(Main.java:9) 
+> 	at Main.\<init>(Main.java:4)
+> 	at Main.main(Main.java:14)
+> ```
 
-It shows that the program was executing the methods `main()`, `init()`, and `divideByZero()`. The line numbers **14**, **4**, and **9**, respectively, indicate where in the program these methods were called. After that the `ArithmeticException` was thrown — the code in line **9** tried to divide by zero.
+It shows that the program was executing the methods `main()`, `<init>` (instance initialization method), and `divideByZero()`. The line numbers **14**, **4**, and **9**, respectively, indicate where in the program these methods were called. After that the `ArithmeticException` was thrown — the code in line **9** tried to divide by zero.
 
 Executing any Java program means running [[JavaMultithreading|multiple threads]], and the stack trace output reflects what was happening in the main thread of the sample *TestStackTrace program*.
 
@@ -46,3 +47,4 @@ Executing any Java program means running [[JavaMultithreading|multiple threads]]
 # 
 ---
 - https://www.sentinelone.com/blog/java-stack-trace-understanding/
+- **\<init>** - [initialization - What is an <init> method in Java? Can it be overridden? - Stack Overflow](https://stackoverflow.com/questions/20407026/what-is-an-init-method-in-java-can-it-be-overridden)

@@ -9,7 +9,7 @@ tags:
 - Java/Iterator
 - Java/Enumeration
 ---
-**[[UpdateJava#Introduction to Collections|HOME [Java]]]**
+**[[UpdateJava#Collections|HOME [Java]]]**
 
 ---
 # Iterator
@@ -42,7 +42,7 @@ public class Proto {
 <br>
 
 ### Enumeration (legacy interface)
-> somewhat different to the Java keyword [[Javaenum|enum]]
+>[!WARNING] different to the Java [[Javaenum|enum]] keyword
 
 Creating Enumeration object:
 >[!aside|show-title right]+ RESULT:

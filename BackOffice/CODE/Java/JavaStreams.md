@@ -17,57 +17,112 @@ This functionality – `java.util.stream` – supports functional-style operatio
 collections.
 
 ### Different operations on Streams
-**Intermediate operations**
+[[JavaStreamsIntermediate|Intermediate operations]]
 [[JavaStreamsmap|map]]: The map method is used to return a stream consisting of the results of applying the given function to the elements of this stream.
 ```java
 List number = Arrays.asList(2,3,4,5);
-List square = number.stream().map(x -> x * x).collect(Collectors.toList());
+List square = number.stream()
+	.map(x -> x * x)
+	.collect(Collectors.toList());
 ```
 
 [[JavaStreamsfilter|filter]]: The filter method is used to select elements as per the Predicate passed as an argument.
 ```java
 List names = Arrays.asList("Reflection","Collection","Stream");
-List result = names.stream().filter(s -> s.startsWith("S")).collect(Collectors.toList());
+List result = names.stream()
+	.filter(s -> s.startsWith("S"))
+	.collect(Collectors.toList());
 ```
 
 [[JavaStreamssorted|sorted]]: The sorted method is used to sort the stream.
 ```java
 List names = Arrays.asList("Reflection","Collection","Stream");  
-List result = names.stream().sorted().collect(Collectors.toList());
+List result = names.stream()
+	.sorted() // sorted(Comparator.reverseOrder())
+	.collect(Collectors.toList());
 ```
 
 [[JavaStreamsflatMap|flatMap]]: The combination of a map and a flat operation.
 ```java
 List<String> extraList = Arrays.asList("5.6", "7.4", "4", "1", "2.3");
 extraList.stream()
-		.flatMap(Stream::of) // num -> Stream.of(num)
-		.forEach(System.out::println);
+	.flatMap(Stream::of) // num -> Stream.of(num)
+	.forEach(System.out::println);
+```
+
+[[JavaStreamsminmax|min/max]]: By using the [[JavaComparator|Comparator]], returns the minimum/maximum element.
+```java
+List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 2, 3);
+list.stream()
+	.min(Integer::compareTo) // min((i, j) -> i.compareTo(j))
+	.ifPresent(i -> System.out.println("min: " + i));
 ```
 
 <br>
 
-**Terminal operations**
+[[JavaStreamsTerminal|Terminal operations]]
 [[JavaStreamscollect|collect]]: The collect method is used to return the result of the intermediate operations performed on the stream.
 ```java
 List number = Arrays.asList(2,3,4,5,3);  
-Set square = number.stream().map(x -> x * x).collect(Collectors.toSet());
+Set square = number.stream()
+	.map(x -> x * x)
+	.collect(Collectors.toSet());
 ```
 
 `forEach`: The forEach method is used to iterate through every element of the stream.
 ```java
 List number = Arrays.asList(2,3,4,5);
-number.stream().map(x -> x * x).forEach(y->System.out.println(y));
+number.stream()
+	.map(x -> x * x)
+	.forEach(y->System.out.println(y));
 ```
 
 [[JavaStreamsreduce|reduce]]: The reduce method is used to reduce the elements of a stream to a single value. The reduce method takes a [[JavaBinaryOperator|BinaryOperator]] as a parameter.
 ```java
 List number = Arrays.asList(2,3,4,5);
 int even = number.stream()
-		.filter(x -> x % 2 == 0)
-		.reduce(0,(ans,i)-> ans+i);
+	.filter(x -> x % 2 == 0)
+	.reduce(0,(ans,i)-> ans+i);
+```
+
+[[JavaStreamsanyMatch|anyMatch]]: returns `true`, if any elements on the stream match the provided [[JavaLambdaFunctionalInterfacesPredicate|predicate]].
+```java
+Set<String> fruits = new HashSet<>();
+fruits.add("one banana");
+fruits.add("one mango");
+fruits.add("two apple");
+
+fruits.stream().anyMatch(i -> i.startsWith("two")) // true
+```
+[[JavaStreamsallMatch|allMatch]]: returns `true`, if all elements on the stream match the provided predicate.
+```java
+fruits.stream().allMatch(i -> i.startsWith("two")) // false
+```
+[[JavaStreamsnoneMatch|noneMatch]]: returns `true`, if no elements on the stream match the provided predicate.
+```java
+fruits.stream().noneMatch(i -> i.startsWith("two")) // false
+```
+`findAny()`, `findFirst()`: 
+```java
+List<Integer> list = Arrays.asList(1, 2, 3, 4, 5);
+
+stringList.stream().findAny().get(); // 1
+stringList.stream().findFirst().get() // 1
 ```
 
 <br>
+
+**Concatenating streams:** `concat()`
+>[!aside|right]-
+> ```
+> 1 2 3 4 5 one two three four
+> ```
+
+```java
+Stream
+	.concat(list.stream(), stringList.stream())
+	.forEach(i -> System.out.print(i + " "));
+```
 
 **Different ways to output the results** *(subject to change)*
 >[!aside|right]-
@@ -93,10 +148,8 @@ List<Integer> list = new ArrayList<>();
 list.addAll(Arrays.asList(1, 2, 3, 4, 5));
 
 // list.stream().forEach(i -> System.out.println(i));  
-list.stream()
-	.forEach(System.out::println);  
-Stream.of(list.toArray())
-	.forEach(System.out::println); // directly streaming  
+list.stream().forEach(System.out::println);  
+Stream.of(list.toArray()).forEach(System.out::println); // directly streaming  
   
 System.out.println("------------");
   

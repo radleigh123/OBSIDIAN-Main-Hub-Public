@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Lecture
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[UpdateJava#Java Basics|HOME [Java]]]**
 
 ---
 ## Debugging Java Programs
@@ -13,7 +13,7 @@ tags:
 
 >[!CITE|alt-co ttl-c] To **debug** a program is to identify and fix the run-time errors in code.
 
-Java also comes with a logging **[[JavaAPI|API]]** (**application program interface**) that allows you to log the run-time values in a file or other destination. You can find `Logger` and other supporting classes in the Java package `java.util.logging`.
+Java also comes with a logging **[[JavaAPI|API]]** that allows you to log the run-time values in a file or other destination. You can find `Logger` and other supporting classes in the Java package `java.util.logging`.
 
 <br>
 

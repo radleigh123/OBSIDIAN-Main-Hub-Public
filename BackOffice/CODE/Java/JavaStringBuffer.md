@@ -13,6 +13,7 @@ a peer class of **[[JavaString|String]]** that provides much of the functional
 **e.g.**
 ```java
 StringBuffer sb = new StringBuffer();
+
 sb.append("Hello");
 sb.append(" ");
 sb.append("World");

@@ -7,7 +7,7 @@ tags:
 - Java/Lecture
 - Java/ControlFlow
 ---
-**[[Java|HOME [Java]]]**
+**[[UpdateJava#Java Basics|HOME [Java]]]**
 
 ---
 # Control Flow

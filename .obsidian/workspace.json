@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "febbb71b14201c61",
+        "id": "895f3529fa680604",
         "type": "tabs",
-        "dimension": 24.871794871794872,
+        "dimension": 23.653846153846153,
         "children": [
           {
-            "id": "c6dab81bc89fdde0",
+            "id": "42ba199d3eb14d2d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,17 +25,17 @@
         ]
       },
       {
-        "id": "30a521461ce31eed",
+        "id": "19bdb7d03f7b9d9c",
         "type": "tabs",
-        "dimension": 75.12820512820512,
+        "dimension": 76.34615384615384,
         "children": [
           {
-            "id": "418b325d10b77296",
+            "id": "03b691ed1df35ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaSOLID.md",
+                "file": "Untitled.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "API",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaSOLID.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaSOLID.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaSOLID.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaSOLID.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -234,8 +234,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -254,38 +253,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "418b325d10b77296",
+  "active": "03b691ed1df35ffb",
   "lastOpenFiles": [
-    "20230717_0350.md",
-    "BackOffice/CODE/Java/JavaSOLID.md",
-    "BackOffice/CODE/Java/JavaStreamsflatMap.md",
-    "BackOffice/CODE/Java/JavaStreams.md",
-    "BackOffice/CODE/Java/JavaStreamsmap.md",
-    "BackOffice/CODE/Java/JavaStreamsreduce.md",
-    "BackOffice/CODE/Java/JavaStreamsfilter.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CODE/Java/JavaLambdaFunctionalInterfaces.md",
-    "BackOffice/CODE/Java/JavaLambda.md",
-    "BackOffice/CODE/Java/JavaStreamDiffer.md",
-    "BackOffice/CODE/Java/JavaPolymorphism.md",
-    "BackOffice/CODE/Java/JavaInterface.md",
-    "BackOffice/CODE/Java/JavaFAQInterfaceVSAbstractELI5.md",
-    "BackOffice/CODE/Java/JavaFAQInterfaceVSAbstract.md",
-    "BackOffice/CODE/Java/JavaAccessModifiers.md",
-    "BackOffice/CODE/Java/JavaHashtableHashMap.md",
-    "BackOffice/CREDS.md",
-    "BackOffice/CODE/Java/JavaComparator.md",
-    "UpdateJavaJUnit.md",
     "TMP_Notes.md",
-    "Untitled.md",
-    "BackOffice/CODE/Java/JavaDefault.md",
+    "TMP_RevisedWorkout.md",
     "TMP_Sem1Grades.md",
-    "BackOffice/CODE/Java/JavaLambdaFunctionalInterfacesFunction.md",
-    "BackOffice/CODE/Java/JavaOperatorsbitwise.md",
+    "Untitled.md",
+    "BackOffice/CODE/Java/JavaAPI.md",
+    "20230717_0350.md",
+    "BackOffice/CODE/Java/JavaHashtableHashMap.md",
+    "BackOffice/CODE/Java/UpdateJava.md",
+    "BackOffice/CREDS.md",
+    "BackOffice/CODE/Java/JavaGenericsTypesMethod.md",
+    "BackOffice/CODE/Java/JavaGenericsSample.md",
+    "BackOffice/CODE/Java/JavaGenerics.md",
+    "BackOffice/CODE/Java/JavaTypeErasure.md",
+    "BackOffice/CODE/Java/JavaWildCardLower.md",
+    "BackOffice/CODE/Java/JavaWildCard.md",
+    "BackOffice/CODE/Java/JavaWildCardUpper.md",
+    "BackOffice/CODE/Java/JavaGenericsSample1.md",
+    "BackOffice/CODE/Java/JavaGenericsSample3.md",
+    "BackOffice/CODE/Java/JavaWildCardUnbounded.md",
+    "BackOffice/CODE/Java/JavaExceptionHandling.md",
+    "BackOffice/CODE/Java/JavaStackTrace.md",
+    "BackOffice/CODE/Java/JavaMethodReference.md",
+    "BackOffice/CODE/Java/Javastatic.md",
+    "BackOffice/CODE/Java/JavaStreamDiffer.md",
+    "BackOffice/CODE/Java/JavaLambdaFunctionalInterfacesPredicate.md",
+    "BackOffice/CODE/Java/JavaLambdaFunctionalInterfaces.md",
+    "Backlinks/attachments/Pasted image 20230809164424.png",
+    "Backlinks/attachments/Pasted image 20230809163557.png",
+    "Backlinks/attachments/Pasted image 20230809163225.png",
+    "Backlinks/attachments/Pasted image 20230809162944.png",
+    "Backlinks/attachments/Pasted image 20230809155735.png",
+    "Backlinks/attachments/JavaAPI.png",
     "Backlinks/attachments/JavaLambda.png",
     "Excalidraw/JavaMethod.excalidraw.svg",
     "Backlinks/attachments/JavaMethod.png",
-    "Backlinks/attachments/Pasted image 20230630105028.png",
-    "Backlinks/attachments/Pasted image 20230627100227.png"
+    "Backlinks/attachments/Pasted image 20230630105028.png"
   ]
 }

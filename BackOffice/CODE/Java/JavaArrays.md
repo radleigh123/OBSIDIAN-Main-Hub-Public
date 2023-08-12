@@ -7,7 +7,7 @@ tags:
 - Java/Lecture
 - Java/Arrays
 ---
-**[[Java|HOME [Java]]]**
+**[[UpdateJava#Java Basics|HOME [Java]]]**
 
 ---
 # Arrays

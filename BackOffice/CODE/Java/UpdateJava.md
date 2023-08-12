@@ -21,6 +21,19 @@ tags:
 - [[JavaSE&EE|Java SE and EE]]
 - [[JavaHelloWorld|Hello World Program]]
 - [[JavaSOLID|SOLID Principles]]
+- [[JavaUML|Unified Modeling Language (UML)]]
+
+#### Java Basics
+- [[JavaArrays|Arrays]]
+- [[JavaFlowControl#^217312|Loops]]
+- [[JavaDebugging|Debugging Java Programs]]
+- [[JavaCommandLine|Command-Line Arguments]]
+- [[JavaOperators|Operators]]
+	- [[JavaOperatorsbitwise|Bitwise & Bit Shift]]
+- [[JavaString|Strings]]
+	- [[JavaStringBuilder|StringBuilder class]]
+- [[JavaRegex|Regular Expressions]]
+- [[Javaenum|Enumerated type]]
 
 #### Java Memory Management
 - [[JavaMemoryManagementIntro|Introduction]]
@@ -54,14 +67,6 @@ tags:
 - [[JavaObjectsPassing|Passing by Value or by Reference]]
 - [[JavaClass&ObjectVariableScope|Variable Scopes]]
 - [[Javastatic|static Keyword]]
-
-#### Java Basics
-- [[JavaArrays|Arrays]]
-- [[JavaFlowControl#^217312|Loops]]
-- [[JavaDebugging|Debugging Java Programs]]
-- [[JavaCommandLine|Command-Line Arguments]]
-- [[JavaOperators|Operators]]
-	- [[JavaOperatorsbitwise|Bitwise & Bit Shift]]
 
 #### Packages, Interfaces, and Encapsulation
 - [[JavaPackages|Java Packages]]
@@ -171,9 +176,10 @@ tags:
 
 - [[JavaGenerics|Java Generics]]
 - [[JavaGenericsTypesClass|Generics Classes]]
+- [[JavaGenericsTypesMethod|Generic Methods]]
 - [[JavaGenericsDefining|Defining Generics]]
 - [[JavaWildCard|Wildcards]] ^406387
-- [[JavaGenericsTypesMethod|Generic Methods]]
+- [[JavaTypeErasure|Type Erasure]]
 - [[JavaGenericsNext|What to Read Next]]
 
 #### Java 8 Stream API
@@ -184,6 +190,7 @@ tags:
 - [[JavaLambda|Lambda Expressions]]
 	- [[JavaLambdaFunctionalInterfaces|Pre-Defined Functional Interfaces]]
 - [[JavaStreams|Streams]]
+- [[JavaMethodReference|Method Reference Operator]]
 
 #### I/O Stream
 >[!DONE|collapse alt-co]- Introduction

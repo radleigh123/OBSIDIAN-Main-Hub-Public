@@ -1,13 +1,14 @@
 `Social Media`
 **FACEBOOK**: keaneradleigh123\@gmail.com - 1Lhlanders!
-**TWITTER** - keane_radleigh
-**INSTAGRAM**: keane.radleigh
+**TWITTER** - keaneradleigh
+**INSTAGRAM**: keaneradleigh
+**SPOTIFY**: 90x7200b20h5c2afaoara3run (keaneradleigh123\@gmail.com) - NANOLESS1234
 
 `School`
 **UC**: ucb-20200937 - 1Lhlanders!
 **UC-PORTAL**: keaneradleigh123\@gmail.com - NANOLESs123
 
-`Work
+`Work`
 **LINKEDLN**: keaneradleigh123\@gmail.com
 
 `Code`

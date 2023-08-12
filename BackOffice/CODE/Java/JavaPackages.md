@@ -6,7 +6,7 @@ tags:
 - Java/Lecture
 - Java/Packages
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[UpdateJava#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
 
 ---
 ## Java Packages
@@ -62,4 +62,5 @@ public class Proto {
 
 # 
 ---
-- 
+- [Java Packages (w3schools.com)](https://www.w3schools.com/java/java_packages.asp)
+- [Java Package - javatpoint](https://www.javatpoint.com/package)

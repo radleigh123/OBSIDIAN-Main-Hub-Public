@@ -6,7 +6,7 @@ tags:
 - Java
 - Java/Lecture
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[UpdateJava#Java Basics|HOME [Java]]]**
 
 ---
 ## Command-Line Arguments

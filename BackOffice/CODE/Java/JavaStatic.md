@@ -11,10 +11,9 @@ tags:
 
 ---
 # `static` keyword
-> it means that the [[JavaMethod|method]] belongs to the class, rather than to a specific instance of the class. This means that the method can be called without creating an [[JavaClass&Object|object]] of the class.
+is used to declare class-level members.
 
-means that the particular member belongs to a type itself, rather than to an instance of that type.
-**e.g.**
+it means that the member(variable or method) belongs to the class, rather than to a specific instance of the class. This means that the method can be called without creating an [[JavaClass&Object|object]] of the class.
 >[!aside|right show-title]+ RESULT:
 > 3 of total
 

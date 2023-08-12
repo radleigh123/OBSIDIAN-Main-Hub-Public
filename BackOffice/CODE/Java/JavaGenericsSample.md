@@ -31,3 +31,10 @@ public class Proto {
     }
 }
 ```
+
+<br>
+
+# 
+---
+- See also:
+	- [[JavaTypeErasure|Type Erasure]]

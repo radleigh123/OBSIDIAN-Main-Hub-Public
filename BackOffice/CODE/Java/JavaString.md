@@ -21,7 +21,7 @@ tags:
 ---
 # String class
 are constant; their values cannot be changed after they are created.
-**[[JavaStringBuffers|String buffers]]** support mutable strings. Because String objects are immutable they can be shared.
+**[[JavaStringBuffer|String buffers]]** support mutable strings. Because String objects are immutable they can be shared.
 **Comparing strings**
 ```java
 String name = "Keane";
