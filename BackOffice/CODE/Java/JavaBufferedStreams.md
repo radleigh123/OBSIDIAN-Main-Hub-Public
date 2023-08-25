@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Streams/Byte
 ---
-**[[UpdateJava#Working with Streams|HOME [Java]]]**
+**[[Java#Working with Streams|HOME [Java]]]**
 
 ---
 ## Buffered Streams

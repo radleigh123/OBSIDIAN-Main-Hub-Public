@@ -7,7 +7,7 @@ tags:
 - Java
 - Java/enum
 ---
-**[[UpdateJava#Java Basics|HOME[Java]]]**
+**[[Java#Java Basics|HOME[Java]]]**
 
 ---
 # Enumerated type: `enum`

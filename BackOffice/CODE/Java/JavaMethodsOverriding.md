@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Methods/Overriding
 - Java/Override
 - Java/Class

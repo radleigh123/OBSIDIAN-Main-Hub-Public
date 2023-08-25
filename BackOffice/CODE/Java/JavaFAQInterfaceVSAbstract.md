@@ -3,11 +3,10 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/Abstract
 - Java/Interface
 ---
-**[[UpdateJava#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
+**[[Java#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
 
 ---
 ## Interfaces vs Abstract Classes

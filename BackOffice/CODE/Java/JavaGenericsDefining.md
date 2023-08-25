@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Generics
 ---
-**[[UpdateJava#Generics|HOME [Java]]]**
+**[[Java#Generics|HOME [Java]]]**
 
 ---
 ## Defining Generics

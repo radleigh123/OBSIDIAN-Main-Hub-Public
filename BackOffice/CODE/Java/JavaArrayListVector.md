@@ -2,13 +2,12 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Arrays
 - Java/Vector
 - Java/ArrayList
 - Java/WrapperClass
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 <center>package: <strong>java.util.Collections</strong></center>
@@ -23,4 +22,4 @@ In both Vector and `ArrayList` you can store only objects — only [[JavaVariabl
 <br>
 
 >[!WARNING|ttl-c alt-co]+
-> `ArrayList` is a little slower than the array as it needs to do internal array copying to change the collection’s size, and `Vector` is even slower because it supports [[UpdateJava#Digging Deeper into ConCurrent Execution|thread synchronization]]. `Vector` became less popular, after the introduction of more efficient concurrent collections, you can achieve its synchronized functionality by using the method `Collections.synchronizedList()` on an `ArrayList` object.
+> `ArrayList` is a little slower than the array as it needs to do internal array copying to change the collection’s size, and `Vector` is even slower because it supports [[Java#Digging Deeper into ConCurrent Execution|thread synchronization]]. `Vector` became less popular, after the introduction of more efficient concurrent collections, you can achieve its synchronized functionality by using the method `Collections.synchronizedList()` on an `ArrayList` object.

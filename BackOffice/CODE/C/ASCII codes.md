@@ -2,7 +2,7 @@
 aliases:
 ---
 **tags:** #C #HTML 
-**[[MAINCODE]]** | **[[C]]** | **[[HTML]]**
+**[[MAIN-CODE]]** | **[[C]]** | **[[HTML]]**
 
 ---
 ## ASCII Character Set

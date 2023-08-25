@@ -3,7 +3,7 @@ aliases:
 tags:
 - Java
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Introduction|HOME [Java]]]**
 
 ---
 ## `_` Digit seperator

@@ -6,7 +6,7 @@ aliases: [hypertext, markup]
 tags:
 - HTML
 ---
-**[[MAINCODE]]**
+**[[MAIN-CODE]]**
 
 ---
 >[!CHECK]- # <u>HTML</u> (Hypertext Markup Language)

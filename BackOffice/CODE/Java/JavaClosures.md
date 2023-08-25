@@ -7,7 +7,7 @@ tags:
 - Java/Class/Closure
 - Java/Lambda
 ---
-**[[UpdateJava#Event Handling in UI|HOME [Java]]]**
+**[[Java#Event Handling in UI|HOME [Java]]]**
 
 ---
 ## Closures

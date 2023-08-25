@@ -4,9 +4,8 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 ---
-**[[UpdateJava#Introduction|HOME [Java]]]**
+**[[Java#Introduction|HOME [Java]]]**
 
 ---
 ## The Life Cycle of a Java Program

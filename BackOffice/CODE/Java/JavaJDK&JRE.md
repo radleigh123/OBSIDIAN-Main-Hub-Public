@@ -3,12 +3,11 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/JDK
 - Java/JRE
 - Java/JVM
 ---
-**[[UpdateJava#Introduction|HOME [Java]]]**
+**[[Java#Introduction|HOME [Java]]]**
 
 ---
 ## Java <u>JDK</u>, <u>JRE</u>, & <u>JVM</u>

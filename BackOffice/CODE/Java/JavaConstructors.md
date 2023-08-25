@@ -4,11 +4,10 @@ creation-date: 2023-02-10
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/Constructor
 - Java/this
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java#Object-Oriented Programming|HOME [Java]]]**
 
 ---
 # Constructors

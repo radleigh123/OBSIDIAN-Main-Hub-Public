@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Exceptions
 ---
-**[[UpdateJava#Error Handling|HOME [Java]]]**
+**[[Java#Error Handling|HOME [Java]]]**
 
 ---
 ## Creating your own Exceptions

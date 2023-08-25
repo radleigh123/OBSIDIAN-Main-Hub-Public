@@ -7,7 +7,7 @@ tags:
 - Java
 - Java/TypeErasure
 ---
-**[[UpdateJava#Generics|HOME [Java]]]**
+**[[Java#Generics|HOME [Java]]]**
 
 ---
 # Type Erasure

@@ -4,7 +4,7 @@ tags:
 - Java
 - Java/System.err
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Introduction|HOME [Java]]]**
 
 ---
 ## System Error

@@ -4,7 +4,6 @@ creation-date: 2023-02-05
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/String/StringBuffer
 - Java/String/equals
 - Java/String/length
@@ -16,12 +15,22 @@ tags:
 - Java/toUpperCase
 - Java/toLowerCase
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 # String class
-are constant; their values cannot be changed after they are created.
-**[[JavaStringBuffer|String buffers]]** support mutable strings. Because String objects are immutable they can be shared.
+are constant; their values cannot be changed after they are created. **[[JavaStringBuffer|String buffers]]** support mutable strings. Because String objects are immutable they can be shared.
+> ```java
+> // String text block
+> String input = """
+> 			123
+> 			Hello World
+> 			Keane 123 Rhizome
+> 			""";
+> ```
+
+<br>
+
 **Comparing strings**
 ```java
 String name = "Keane";

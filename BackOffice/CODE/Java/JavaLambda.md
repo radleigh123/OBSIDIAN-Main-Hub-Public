@@ -7,7 +7,7 @@ tags:
 - Java
 - Java/Lambda 
 ---
-**[[UpdateJava#Java 8 Stream API|HOME [Java]]]**
+**[[Java#Java 8 Stream API|HOME [Java]]]**
 
 ---
 # *Java 8*: Lambda Expressions

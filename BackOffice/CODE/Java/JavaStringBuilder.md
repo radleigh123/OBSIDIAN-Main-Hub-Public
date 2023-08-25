@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/String 
 ---
-**[[UpdateJava#Java Basics|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 ## StringBuilder Class

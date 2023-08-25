@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/printf
 ---
 **[[Javaprintf|BACK]]**

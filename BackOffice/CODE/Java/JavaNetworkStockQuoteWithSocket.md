@@ -5,7 +5,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava#Network Programming|HOME [Java]]]**
+**[[Java#Network Programming|HOME [Java]]]**
 
 ---
 ## The Stock Quote Server w/ Sockets

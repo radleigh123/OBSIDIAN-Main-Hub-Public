@@ -3,14 +3,13 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/javax.swing
 - Java/java.awt
 - Java/JFrame
 - Java/ImageIcon/getImage
 - Java/Graphics
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Introduction Graphical User Interface (GUI)|HOME [Java]]]**
 
 ---
 ## 2D Graphics

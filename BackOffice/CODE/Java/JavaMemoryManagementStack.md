@@ -5,7 +5,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava#Java Memory Management|HOME [Java]]]**
+**[[Java#Java Memory Management|HOME [Java]]]**
 
 ---
 ## The Stack and the Heap: How Scoping Works

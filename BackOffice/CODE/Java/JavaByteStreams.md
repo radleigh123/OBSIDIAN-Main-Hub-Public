@@ -7,7 +7,7 @@ tags:
 - Java
 - Java/Streams
 ---
-**[[UpdateJava#Working with Streams|HOME [Java]]]**
+**[[Java#Working with Streams|HOME [Java]]]**
 
 ---
 # Byte Streams

@@ -5,10 +5,9 @@ creation-date: 2023-03-04
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java#Object-Oriented Programming|HOME [Java]]]**
 
 ---
 # Classes and Objects

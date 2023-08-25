@@ -8,7 +8,7 @@ tags:
 - Java/Interface 
 - Java/Runnable
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 # `Runnable` Interface
@@ -59,4 +59,4 @@ Note that I’ve declared the variable port2 in Listing 20-6 to be not of type `
 ```java
 (new Thread(new MarketNews2("Market News"))).start();
 ```
-The `Runnable` interface provides a more flexible way to use threads, because it allows a class to be inherited from any other class, while having all the features of a thread. For example, a Swing [[UpdateJava#Java Applets (deprecated)|applet]] must be a subclass of a `javax.swing.JApplet`, and, because Java doesn’t support multiple inheritance, it should implement `Runnable` to support multithreading. 
+The `Runnable` interface provides a more flexible way to use threads, because it allows a class to be inherited from any other class, while having all the features of a thread. For example, a Swing [[Java#Java Applets (deprecated)|applet]] must be a subclass of a `javax.swing.JApplet`, and, because Java doesn’t support multiple inheritance, it should implement `Runnable` to support multithreading. 

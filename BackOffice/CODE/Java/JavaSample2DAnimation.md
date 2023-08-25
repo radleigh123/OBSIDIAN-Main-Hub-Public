@@ -3,7 +3,6 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/javax.swing
 - Java/java.awt
 - Java/java.awt.event
@@ -11,7 +10,7 @@ tags:
 - Java/Image
 - Java/Timer
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Introduction Graphical User Interface (GUI)|HOME [Java]]]**
 
 ---
 ## 2D Animations

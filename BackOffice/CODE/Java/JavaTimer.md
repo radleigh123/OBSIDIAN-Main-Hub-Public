@@ -9,7 +9,7 @@ tags:
 - Java/Timer
 - Java/TimerTask
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Introduction to Multi-Threading|HOME [Java]]]**
 
 ---
 # `Timer` class

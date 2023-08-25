@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/ControlFlow/for
 - Java/ControlFlow/for-each
 - Java/java.util/ArrayList

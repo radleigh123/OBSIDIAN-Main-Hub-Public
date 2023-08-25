@@ -7,7 +7,7 @@ tags:
 - Java
 - Java/Streams/Character
 ---
-**[[UpdateJava#Working with Streams|HOME [Java]]]**
+**[[Java#Working with Streams|HOME [Java]]]**
 
 ---
 # Character Streams

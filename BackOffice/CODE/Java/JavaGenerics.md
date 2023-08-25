@@ -8,7 +8,7 @@ tags:
 - Java/Generics
 - Java/WrapperClass
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Generics|HOME [Java]]]**
 
 ---
 # Generics

@@ -4,11 +4,10 @@ creation-date: 2023-02-17
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/Polymorphism
 - Java/LateBinding
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
 
 ---
 # Polymorphism

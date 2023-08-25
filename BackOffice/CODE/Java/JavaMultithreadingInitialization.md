@@ -6,7 +6,7 @@ tags:
 - Java/Thread
 - Java/Multithreading
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 **Creating a `Thread` object**

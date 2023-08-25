@@ -9,7 +9,7 @@ tags:
 - Java/Iterator
 - Java/Enumeration
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 # Iterator

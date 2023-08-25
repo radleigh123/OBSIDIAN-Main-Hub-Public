@@ -4,7 +4,7 @@ aliases:
 tags:
 - Java
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 ## Comparable Interface

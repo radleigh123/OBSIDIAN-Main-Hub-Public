@@ -5,7 +5,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava#Processing E-mail w/ Java|HOME [Java]]]**
+**[[Java#Processing E-mail w/ Java|HOME [Java]]]**
 
 ---
 ## Open Source Components

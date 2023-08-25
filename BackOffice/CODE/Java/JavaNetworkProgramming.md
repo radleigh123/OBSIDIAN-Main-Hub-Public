@@ -6,7 +6,7 @@ aliases:
 tags:
 - Java
 ---
-**[[UpdateJava#Network Programming|HOME [Java]]]**
+**[[Java#Network Programming|HOME [Java]]]**
 
 ---
 # Network Programming
@@ -27,4 +27,4 @@ Finding a resource online is somewhat similar to finding a person by his or her 
 
 <center>A <strong>port</strong> is simply a unique number assigned to a server program running on the machine.</center>
 
-Multiple Java technologies exist for providing data exchange among computers in a network. Java provides classes for network programming in the package **java.net**. This chapter shows you how to read data from the Internet using the class URL as well as *direct socket-to-socket programming*. [[UpdateJava#Processing E-mail w/ Java|Lesson 19]] is about sending e-mails with `JavaMail API`. [[UpdateJava#Java EE 6 Overview|Lessons 26]] through [[UpdateJava#Bringing JavaFX to the Mix|Lesson 37]] introduce you to other technologies that you can use over the network: **Java Servlets**, **RMI**, **EJB**, and **JMS**.
+Multiple Java technologies exist for providing data exchange among computers in a network. Java provides classes for network programming in the package **java.net**. This chapter shows you how to read data from the Internet using the class URL as well as *direct socket-to-socket programming*. [[Java#Processing E-mail w/ Java|Lesson 19]] is about sending e-mails with `JavaMail API`. [[Java#Java EE 6 Overview|Lessons 26]] through [[Java#Bringing JavaFX to the Mix|Lesson 37]] introduce you to other technologies that you can use over the network: **Java Servlets**, **RMI**, **EJB**, and **JMS**.

@@ -33,6 +33,25 @@ From just starting main focus to use is:
 <br>
 
 ---
+**Git Commands**
+Commands I use 9/10 times (all this is from memory so I may have made a mistake or two on the ordering of arguments if there are multiple):
+1. `git add .` (Adds all files to the stage)
+2. `git commit -m "blah blah blah"` (Adds files in the stage to a checkpoint that you can revert back to, with a message of blah blah blah to remind you what you did)
+3. `git push` (Sends your commits to github or whatever service you are using)
+4. `git pull` (Retrieves any new commits that you don't have locally from github or whatever service you are using)
+5. `git pull fromBranch toBranch` (Pulls commits that are different from one branch into another branch so that merging two branches together is easy)
+6. `git clone` (Just copy the command from the service you are using if you clone a repo, it's way easier)
+7. `git rm filepath` (Removes a file from the stage when you add it by accident, example is if you add your file with passwords)
+8. `git checkout -b branchName` (Creates a new branch for you to work on so your work on one feature doesn't interfere with another)
+9. `git checkout branchName` (Changes to another branch you have created)
+10. `git stash` (Puts all your changes in a temporary vault so you can retrieve them later, but I pretty much always use it to revert changes so I can checkout to another branch)
+11. `git init` (Don't do this, it's way easier to create a repo in whatever service you are using and then clone it than deal with connecting a repo to the service you want to use)
+12. `git status` (Checks what files are on the stage)
+13. `git pop` (Takes the last stashed object and applies the changes)
+
+Git is a way of creating a tree of code checkpoints so if you make mistakes you can revert back to a previous version that you know works and it makes working on a codebase with multiple people way easier. Github, Bitbucket, Gitlab are all services that use git to provide cloud storage so you can store your code somewhere else to make sharing easy and so that you will never lose your code completely. If you want to merge two branches of the tree together, it's best to use the service's GUI to do it. Always pull from the branch you want to merge your branch into to fix conflicts ahead of time. Try to keep branches small and focused on a single feature to make resolving merge conflicts easy. If you have to do anything other than what I listed in git, then you are in an awful place, and may whatever god you worship have mercy on your soul. Use stack overflow liberally in these situations.
+source: [Is using Git difficult or am I just plain stupid? : learnprogramming (reddit.com)](https://www.reddit.com/r/learnprogramming/comments/x55c6q/is_using_git_difficult_or_am_i_just_plain_stupid/)
+
 **BASH VS GIT**
 `Bash` (**B**ourne-**A**gain-**SH**ell) - is a <mark class="hltr-lightgreen">Unix shell and command-line interpreter</mark> that provides an environment for executing commands and scripts.
 `Git` - is a v<mark class="hltr-lightgreen">ersion control system</mark> that allows developers to keep track of changes to their code and collaborate with other developers on a project. It can be used from within a *bash shell* or from any other environment that supports *Git*.

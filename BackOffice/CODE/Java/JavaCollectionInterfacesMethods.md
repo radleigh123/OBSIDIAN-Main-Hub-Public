@@ -5,7 +5,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 ## Common methods in the Collection interface

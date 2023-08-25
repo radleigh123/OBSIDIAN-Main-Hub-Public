@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/java.awt.event.ActionListener
 - Java/java.awt.event.ActionEvent
 - Java/java.awt.Image

@@ -9,11 +9,11 @@ tags:
 - Java/java.net
 - Java/URL
 ---
-**[[UpdateJava#Network Programming|HOME [Java]]]**
+**[[Java#Network Programming|HOME [Java]]]**
 
 ---
 # Reading Data from the Internet
-You learned in [[UpdateJava#Working with Streams|Lesson 16]] that to read local file streams, a program has to specify the file’s location, such as `c:\practice\training.html`. The same holds true for reading remote files — the only difference is that you open the stream over the network. Java has a class, `java.net.URL`, that will help you to connect to a remote computer on the Internet and get access to a resource there, provided that it’s not protected from the public.
+You learned in [[Java#Working with Streams|Lesson 16]] that to read local file streams, a program has to specify the file’s location, such as `c:\practice\training.html`. The same holds true for reading remote files — the only difference is that you open the stream over the network. Java has a class, `java.net.URL`, that will help you to connect to a remote computer on the Internet and get access to a resource there, provided that it’s not protected from the public.
 
 Creation of the `URL` object does not establish a connection with the remote machine; you’ll still need to open a stream and read it. Perform the following steps to read a file from the Internet:
 1. Create an instance of the class `URL`. 
@@ -31,7 +31,7 @@ URL url = new URL(“http://www.google.com”);
 InputStream in = url.getInputStream();
 Buff= new BufferedReader(new InputStreamReader(in));
 ```
-The reason you may consider using the `URLConnection` class is that it could give you some additional control over the I/O process. For example, by calling its method `setDoOutput(true)` you specify that this Java program is intended to write to the remote URL too. In the case of HTTP connections, this will also implicitly set the type of request to **POST** ([[UpdateJava#Programming w/ Servlets|see Lesson 27]]). The method `useCaches()` of `URLConnection` also allows you to specify whether the protocol can use a cached object or should always request a fresh copy. In general, if you are planning to write Java programs that will work using HTTP protocol, use the class `HttpURLConnection`, which supports HTTP-specific features, such as processing header fields, getting HTTP response codes, setting request properties, and so on.
+The reason you may consider using the `URLConnection` class is that it could give you some additional control over the I/O process. For example, by calling its method `setDoOutput(true)` you specify that this Java program is intended to write to the remote URL too. In the case of HTTP connections, this will also implicitly set the type of request to **POST** ([[Java#Programming w/ Servlets|see Lesson 27]]). The method `useCaches()` of `URLConnection` also allows you to specify whether the protocol can use a cached object or should always request a fresh copy. In general, if you are planning to write Java programs that will work using HTTP protocol, use the class `HttpURLConnection`, which supports HTTP-specific features, such as processing header fields, getting HTTP response codes, setting request properties, and so on.
 
 <br>
 

@@ -2,10 +2,9 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Exceptions
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Error Handling|HOME [Java]]]**
 
 ---
 ## Exception Handling

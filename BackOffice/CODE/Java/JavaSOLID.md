@@ -7,7 +7,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 # SOLID Principles

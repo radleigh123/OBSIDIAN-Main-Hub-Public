@@ -18,4 +18,4 @@ banner_icon: 🇵🇭
 
 # 
 ---
-**[[MAINBSIT]]**
+**[[MAIN-BSIT]]**

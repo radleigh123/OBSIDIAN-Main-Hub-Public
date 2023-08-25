@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/javax.swing.JFrame
 - Java/JFrame/setVisible
 - Java/JFrame/setSize

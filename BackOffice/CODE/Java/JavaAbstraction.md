@@ -4,12 +4,11 @@ creation-date: 2023-02-12
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/Constructor
 - Java/Class/Inheritance
 - Java/Class/Abstract
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
 
 ---
 ## `abstract` Keyword

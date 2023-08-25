@@ -8,7 +8,7 @@ tags:
 - Java/java.util
 - Java/Properties
 ---
-**[[UpdateJava#Introduction to Collections|HOME [Java]]]**
+**[[Java#Introduction to Collections|HOME [Java]]]**
 
 ---
 # `Properties` class

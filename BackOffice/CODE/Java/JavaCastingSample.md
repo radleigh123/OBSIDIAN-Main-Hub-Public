@@ -3,7 +3,6 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/typecasting
 ---
 **[[JavaCasting|BACK]]**

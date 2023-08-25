@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Map
 ---
-**[[UpdateJava#Introduction to Collections|HOMe [Java]]]**
+**[[Java#Introduction to Collections|HOMe [Java]]]**
 
 ---
 ## Map Interfaces

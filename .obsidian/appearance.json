@@ -23,7 +23,11 @@
     "ITS Callouts",
     "ITS Embed Adjustment",
     "ITS Image Adjustment",
-    "ITS Theme Encoded Icons"
+    "ITS Theme Encoded Icons",
+    "ITS Dataview Cards",
+    "ITS Encoded Fonts",
+    "ITS Encoded Icons",
+    "ITS Folder Styles Rewritten"
   ],
   "accentColor": "",
   "showViewHeader": true

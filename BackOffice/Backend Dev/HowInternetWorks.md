@@ -9,7 +9,7 @@ tags:
 - Backend
 - Backend/Lecture
 ---
-**[[MAINCODE|HOME]]**
+**[[MAIN-CODE|HOME]]**
 
 ---
 # How Does the Internet Work?

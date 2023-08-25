@@ -9,7 +9,7 @@ tags:
 - Java/java.awt.event
 - Java/ActionListener
 ---
-**[[UpdateJava#Event Handling in UI|HOME [Java]]]**
+**[[Java#Event Handling in UI|HOME [Java]]]**
 
 ---
 # Event Listeners

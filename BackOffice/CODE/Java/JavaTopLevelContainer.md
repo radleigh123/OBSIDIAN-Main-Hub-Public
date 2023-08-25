@@ -4,7 +4,7 @@ aliases:
 tags:
 - Java
 ---
-**[[UpdateJava#Introduction Graphical User Interface (GUI)|HOME [Java]]]**
+**[[Java#Introduction Graphical User Interface (GUI)|HOME [Java]]]**
 
 ---
 ## Top-Level Containers & Containment Hierarchies

@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Collection/Set/HashSet
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 ## `HashSet` class

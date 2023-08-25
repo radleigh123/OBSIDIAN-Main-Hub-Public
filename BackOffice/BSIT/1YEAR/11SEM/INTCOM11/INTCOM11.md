@@ -101,7 +101,7 @@ banner_icon: 🖥️
 <br>
 
 ---
-**[MAIN HUB](MAINBSIT.md)**
+**[MAIN HUB](MAIN-BSIT.md)**
 
 **Sources:**
 - **MIDTERM: Software** - [Computer Applications Technology Grade 12 Table of Contents | Siyavula](https://intl.siyavula.com/read/cat/grade-12-cat)

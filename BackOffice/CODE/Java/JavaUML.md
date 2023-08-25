@@ -7,7 +7,7 @@ tags:
 - Java
 - Java/UML
 ---
-**[[UpdateJava#Java Basics|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 # Unified Modeling Language - UML

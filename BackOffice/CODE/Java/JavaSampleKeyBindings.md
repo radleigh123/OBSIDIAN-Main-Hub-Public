@@ -3,7 +3,6 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/javax.swing
 - Java/java.awt
 - Java/java.awt.event

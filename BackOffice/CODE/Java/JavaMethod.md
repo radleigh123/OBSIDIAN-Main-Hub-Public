@@ -4,10 +4,9 @@ creation-date: 2023-02-09
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Methods
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java#Class Methods|HOME [Java]]]**
 
 ---
 # Methods

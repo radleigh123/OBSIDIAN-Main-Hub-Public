@@ -7,10 +7,10 @@ title: JavaVariables
 creation-date: 2023-02-03
 aliases:
 tags:
-- Java/Lecture
+- Java
 - Java/String
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Object-Oriented Programming|HOME [Java]]]**
 
 ---
 # Variables

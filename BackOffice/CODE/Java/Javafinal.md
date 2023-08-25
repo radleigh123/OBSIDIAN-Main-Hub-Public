@@ -4,11 +4,10 @@ creation-date: 2023-02-10
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/final
 - Java/static
 ---
-**[[UpdateJava#^07e044|HOME [Java]]]**
+**[[Java#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
 
 ---
 # `final` Keyword

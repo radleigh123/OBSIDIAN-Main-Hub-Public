@@ -9,7 +9,7 @@ tags:
 - Java/Serialization
 - Java/Serializable/Externalizable
 ---
-**[[UpdateJava#Java Serialization|HOME [Java]]]**
+**[[Java#Java Serialization|HOME [Java]]]**
 
 ---
 # Externalizable Interface

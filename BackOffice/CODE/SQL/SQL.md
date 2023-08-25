@@ -5,7 +5,7 @@ aliases:
 tags:
 - SQL
 ---
-**[[MAINCODE]]**
+**[[MAIN-CODE]]**
 
 ---
 # SQL

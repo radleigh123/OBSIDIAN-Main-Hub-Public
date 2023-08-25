@@ -1,4 +1,4 @@
-**[[NOTES#Education|BACK]]**
+**[[MAIN-NOTE#Education|BACK]]**
 
 ---
 ## Luhmann Zettelkasten

@@ -1,25 +1,25 @@
 ---
 aliases:
 tags:
-- Java/Lecture
+- Java
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 ## Program Comments
 >[!CITE|alt-co] Be nice and make their job easier.
 >> **TIP:** Write comments first and only then code.
 
-**Singe line comment**
+**End-of-line comment**
 ```java
 // This is a comment
 ```
 
-**Multi-line comments**
+**Block comment**
 ```java
 /*
-* This is very long line of comment explaining
-	a really long description of said code
+This is very long line of comment explaining
+a really long description of said code
 */
 ```
 

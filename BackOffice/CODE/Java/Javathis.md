@@ -6,7 +6,7 @@ tags:
 - Java/Class/Constructor
 - Java/this
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 ## `this` Keyword

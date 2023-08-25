@@ -4,10 +4,14 @@ banner_y: 0.36
 banner_icon: 🪦
 cssclass: t-c, t-w
 ---
-# HEADQUARTERS BSIT *(Bachelor of Science in Information Technology)*
+# Bachelor of Science in Information Technology (BSIT)
 
 #### 2nd year
 >[!recite|clean no-i] 1nd Semester S.Y. 2023-2024
+
+| Subject                   | EDP Code | Schedule |
+| ------------------------- | -------- | -------- |
+| **<center>LINK</center>** | CODE     | TIME     | 
 
 #### 1st year
 >[!recite|clean no-i] 2nd Semester S.Y. 2022-2023
@@ -41,4 +45,4 @@ cssclass: t-c, t-w
 <br>
 
 ---
-**[[0HEADQUARTERS]]**
+**[[HEADQUARTERS]]**

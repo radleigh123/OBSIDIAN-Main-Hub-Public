@@ -4,10 +4,9 @@ creation-date: 2023-02-05
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/ControlFlow
 ---
-**[[UpdateJava#Java Basics|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 # Control Flow

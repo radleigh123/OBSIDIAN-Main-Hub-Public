@@ -2,10 +2,9 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/Constructor/Overloading
 ---
-**[[Java|HOME [Java]]]**
+**[[JavaConstructors|BACK]]**
 
 ---
 ## Constructors Overloaded

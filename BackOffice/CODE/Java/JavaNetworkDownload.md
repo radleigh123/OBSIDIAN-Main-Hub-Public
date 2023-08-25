@@ -5,7 +5,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava#Network Programming|HOME [Java]]]**
+**[[Java#Network Programming|HOME [Java]]]**
 
 ---
 ## How to Download Files from the Internet

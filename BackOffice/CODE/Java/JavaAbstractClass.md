@@ -3,10 +3,9 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/Abstract
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 ## Abstract Class

@@ -2,10 +2,9 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/Polymorphism/Dynamic
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
 
 ---
 ## Dynamic Polymorphism

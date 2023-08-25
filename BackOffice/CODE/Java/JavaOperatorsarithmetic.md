@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Operators/Arithmetic
 ---
 **[[JavaOperators|BACK]]**

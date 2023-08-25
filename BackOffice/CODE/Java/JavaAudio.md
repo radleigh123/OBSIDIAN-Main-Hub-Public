@@ -4,7 +4,6 @@ creation-date: 2023-02-21
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/javax.sound.sampled
 - Java/java.io.File
 - Java/AudioInputStream
@@ -15,7 +14,7 @@ tags:
 - Java/Clip/stop
 - Java/toUpperCase
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#I/O Stream|HOME [Java]]]**
 
 ---
 # Audio

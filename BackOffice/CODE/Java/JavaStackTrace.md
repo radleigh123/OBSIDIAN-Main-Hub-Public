@@ -6,7 +6,7 @@ tags:
 - Java/Exceptions
 - Java/StackTrace
 ---
-**[[UpdateJava#Error Handling|HOME [Java]]]**
+**[[Java#Error Handling|HOME [Java]]]**
 
 ---
 ## Stack Trace

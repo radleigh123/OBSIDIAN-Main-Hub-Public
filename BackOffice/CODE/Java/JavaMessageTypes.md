@@ -1,8 +1,7 @@
 ---
 aliases:
 tags:
-- Java
-- Java/Lecture
+- Java\
 ---
 **[[Java|HOME [Java]]]**
 

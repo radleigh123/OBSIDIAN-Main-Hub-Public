@@ -3,10 +3,9 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Packages
 ---
-**[[UpdateJava#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
+**[[Java#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
 
 ---
 ## Java Packages

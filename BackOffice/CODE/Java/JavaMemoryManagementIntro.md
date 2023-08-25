@@ -6,7 +6,7 @@ aliases:
 tags:
 - Java
 ---
-**[[UpdateJava#Java Memory Management|HOME [Java]]]**
+**[[Java#Java Memory Management|HOME [Java]]]**
 
 ---
 >[!DONE|ttl-c] Java Memory - Universal Rules

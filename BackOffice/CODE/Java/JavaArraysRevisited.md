@@ -6,7 +6,7 @@ tags:
 - Java/Arrays
 - Java/ControlFlow/for-each
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 ## Arrays Revisited

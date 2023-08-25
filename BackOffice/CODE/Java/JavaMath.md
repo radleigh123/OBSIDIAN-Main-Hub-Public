@@ -4,13 +4,12 @@ creation-date: 2023-02-05
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Math/max
 - Java/Math/round
 - Java/Math/ceil
 - Java/Math/floor
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 # Math class

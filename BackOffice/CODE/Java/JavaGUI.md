@@ -4,10 +4,9 @@ creation-date: 2023-02-03
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/GUI
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Introduction Graphical User Interface (GUI)|HOME [Java]]]**
 
 ---
 # GUI (Graphical User Interface)

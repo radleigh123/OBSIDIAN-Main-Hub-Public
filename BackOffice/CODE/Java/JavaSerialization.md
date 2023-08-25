@@ -11,7 +11,7 @@ tags:
 - Java/Deserialization
 - Java/serialVersionUID
 ---
-**[[UpdateJava#Java Serialization|HOME [Java]]]**
+**[[Java#Java Serialization|HOME [Java]]]**
 
 ---
 ### Serialization

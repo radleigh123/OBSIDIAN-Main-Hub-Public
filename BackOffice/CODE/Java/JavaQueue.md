@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Collection/Queue
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 ## Queue Interface

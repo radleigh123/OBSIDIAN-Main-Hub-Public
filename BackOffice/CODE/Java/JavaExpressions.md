@@ -4,7 +4,6 @@ creation-date: 2023-02-03
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Expressions
 - Java/Conversion
 ---

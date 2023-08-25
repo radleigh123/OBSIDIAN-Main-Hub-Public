@@ -9,7 +9,7 @@ tags:
 - Java
 - Java/MethodReference
 ---
-**[[UpdateJava#Java 8 Stream API|HOME [Java]]]**
+**[[Java#Java 8 Stream API|HOME [Java]]]**
 
 ---
 # Method Reference (`double colon` operator)

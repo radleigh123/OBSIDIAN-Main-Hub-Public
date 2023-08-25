@@ -7,7 +7,7 @@ tags:
 - Java/final
 - Java/Interface
 ---
-**[[UpdateJava#^e6542d|HOME [Java]]]**
+**[[Java#^e6542d|HOME [Java]]]**
 
 ---
 ## Marker Interfaces

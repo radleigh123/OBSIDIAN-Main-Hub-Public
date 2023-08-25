@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/javax.swing.JButton
 - Java/java.awt.event.ActionListener
 - Java/java.awt.event.ActionEvent

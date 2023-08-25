@@ -4,7 +4,7 @@ aliases:
 tags:
 - Java
 ---
-**[[UpdateJava#Java Memory Management|HOME [Java]]]**
+**[[Java#Java Memory Management|HOME [Java]]]**
 
 ---
 The Java HotSpot VM includes three different types of collectors, each with different performance characteristics.

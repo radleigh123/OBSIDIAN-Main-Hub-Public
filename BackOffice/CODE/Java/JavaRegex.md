@@ -9,7 +9,7 @@ tags:
 - Java
 - Java/java.util/regex
 ---
-**[[UpdateJava#Java Basics|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 # Regular Expression
@@ -23,6 +23,13 @@ The **Regex API** provides 1 interface and 3 classes in `java.util.regex` pack
 4. `PatternSyntaxException` class
 
 <br>
+
+**Capturing groups**
+Capturing groups are numbered by counting their opening parentheses from the left to the right. In the expression ((A)(B(C))), for example, there are four such groups −
+- `((A)(B(C)))`
+- `(A)`
+- `(B(C))`
+- `(C)`
 
 **Regular Expression Patterns**
 Brackets are used to find a range of characters:

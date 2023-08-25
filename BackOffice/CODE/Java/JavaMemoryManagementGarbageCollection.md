@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/finalize
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 ## Garbage Collection Eligibility

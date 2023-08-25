@@ -6,7 +6,7 @@ tags:
 - Java/Generics
 - Java/Methods
 ---
-**[[UpdateJava#Generics|HOME [Java]]]**
+**[[Java#Generics|HOME [Java]]]**
 
 ---
 ## Generic Methods

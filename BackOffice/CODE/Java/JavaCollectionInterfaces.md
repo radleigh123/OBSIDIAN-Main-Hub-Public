@@ -8,7 +8,7 @@ tags:
 - Java/Collections
 - Java/Interface
 ---
-**[[UpdateJava#Introduction to Collections|HOME [Java]]]**
+**[[Java#Introduction to Collections|HOME [Java]]]**
 
 ---
 ## Collection Interfaces

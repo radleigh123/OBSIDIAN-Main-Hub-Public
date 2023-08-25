@@ -6,7 +6,7 @@ tags:
 - Java/Lambda 
 - Java/Interface 
 ---
-**[[UpdateJava#Java 8 Stream API|HOME [Java]]]**
+**[[Java#Java 8 Stream API|HOME [Java]]]**
 
 ---
 ## Predefined-Functional Interfaces

@@ -12,7 +12,7 @@ tags:
 - Java/JTextField
 - Java/JFrame
 ---
-**[[UpdateJava#Introduction Graphical User Interface (GUI)|HOME [Java]]]**
+**[[Java#Introduction Graphical User Interface (GUI)|HOME [Java]]]**
 
 ---
 ## Combining Layout Managers

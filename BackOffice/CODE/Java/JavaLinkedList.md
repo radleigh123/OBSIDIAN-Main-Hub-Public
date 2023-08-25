@@ -10,7 +10,7 @@ tags:
 - Java/LinkedList
 - Java/LinkedIterator
 ---
-**[[UpdateJava#Introduction to Collections|HOME [Java]]]**
+**[[Java#Introduction to Collections|HOME [Java]]]**
 
 ---
 # `LinkedList` class

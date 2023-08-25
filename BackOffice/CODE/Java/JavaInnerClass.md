@@ -6,7 +6,7 @@ tags:
 - Java/Class
 - Java/Class/Inner
 ---
-**[[UpdateJava#Event Handling in UI|HOME [Java]]]**
+**[[Java#Event Handling in UI|HOME [Java]]]**
 
 ---
 ## Nested Class

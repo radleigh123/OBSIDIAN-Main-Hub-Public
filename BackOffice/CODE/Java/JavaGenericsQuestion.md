@@ -1,5 +1,5 @@
 **Q13. When Would You Choose to Use a Lower Bounded Type vs. an Upper Bounded Type?**
-When dealing with [[UpdateJava#Collections|collections]], a common rule for selecting between upper or lower bounded wildcards is PECS (**producer extends, consumer super**).This can be easily demonstrated through the use of some standard Java interfaces and classes. 
+When dealing with [[Java#Collections|collections]], a common rule for selecting between upper or lower bounded wildcards is PECS (**producer extends, consumer super**).This can be easily demonstrated through the use of some standard Java interfaces and classes. 
 
 $\quad$__Producer extends__ just means that if you are creating a producer of a generic type, then use the _extends_ keyword. Let's try applying this principle to a collection, to see why it makes sense:
 ```java

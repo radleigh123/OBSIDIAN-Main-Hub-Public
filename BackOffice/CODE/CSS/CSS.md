@@ -6,7 +6,7 @@ aliases:
 tags:
 - CSS
 ---
-**[[MAINCODE]]**
+**[[MAIN-CODE]]**
 
 ---
 # CSS (Cascade Stylesheeting)

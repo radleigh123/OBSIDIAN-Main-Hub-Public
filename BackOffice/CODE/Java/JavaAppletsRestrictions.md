@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Applets
 ---
-**[[UpdateJava#Java Applets (deprecated)|HOME [Java]]]**
+**[[Java#Java Applets (deprecated)|HOME [Java]]]**
 
 ---
 ## Restrictions of Java Applets

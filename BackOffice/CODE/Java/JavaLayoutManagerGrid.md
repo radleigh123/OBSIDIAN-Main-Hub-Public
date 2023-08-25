@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/java.awt
 - Java/GridLayout
 - Java/javax.swing

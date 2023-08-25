@@ -5,7 +5,7 @@ creation-date: 2023-04-18
 aliases:
 tags:
 ---
-**[[MAINCODE]]**
+**[[MAIN-CODE]]**
 
 ---
 # Internet

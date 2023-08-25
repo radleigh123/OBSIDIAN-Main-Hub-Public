@@ -7,7 +7,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava#Java 8 Streams API|HOME [Java]]]**
+**[[Java#Java 8 Streams API|HOME [Java]]]**
 
 ---
 There are two kinds of streams in Java - I/O streams, and Java 8 streams:

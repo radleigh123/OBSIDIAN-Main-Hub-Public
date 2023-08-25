@@ -4,7 +4,6 @@ creation-date: 2023-02-28
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/java.awt
 - Java/java.awt.event
 - Java/KeyListener

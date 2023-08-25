@@ -2,12 +2,11 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/super
 - Java/Class/Constructor
 - Java/Methods/Overriding
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Class Methods|HOME [Java]]]**
 
 ---
 ## `super` keyword

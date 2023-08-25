@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Collection/Set/LinkedHashSet
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 ## LinkedHashSet class

@@ -1,10 +1,10 @@
 ---
 banner_icon: 😼
 banner: "![[Cut-burger2.jpg]]"
-banner_y: 0.588
+banner_y: 0.608
 ---
 # MAIN CODE
->[!column|no-t]
+>[!column|no-t flex]
 >>[!INFO|clean no-t]
 >>- ### **[[C]]**
 >>- ### **[[C++]]**
@@ -16,6 +16,12 @@ banner_y: 0.588
 >>- ### **[[HTML]]**
 >>- ### **[[CSS]]**
 >>- ### **[[JavaScript]]**
+>
+>>[!INFO|clean no-t]
+>>- ### **[[Git]]**
+>
+>>[!INFO|clean no-t]
+>>- ### **[[DSA]]**
 
 <br>
 
@@ -25,6 +31,7 @@ banner_y: 0.588
 ---
 - **[[CS50]]**
 - **[[ASCII codes]]**
+- [[ProgrammingTips|Programming Tips]]
 
 # 
 
@@ -32,4 +39,4 @@ banner_y: 0.588
 
 ---
 
-**[[0HEADQUARTERS]]**
+**[[HEADQUARTERS]]**

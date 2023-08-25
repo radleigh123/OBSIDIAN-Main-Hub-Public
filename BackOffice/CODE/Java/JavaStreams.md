@@ -7,7 +7,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava#Java 8 Stream API|HOME [Java]]]**
+**[[Java#Java 8 Stream API|HOME [Java]]]**
 
 ---
 # Streams API

@@ -8,7 +8,7 @@ tags:
 - Java/java.net
 - Java/Proxy
 ---
-**[[UpdateJava#Network Programming|HOME [Java]]]**
+**[[Java#Network Programming|HOME [Java]]]**
 
 ---
 ## Connecting through HTTP Proxy Servers

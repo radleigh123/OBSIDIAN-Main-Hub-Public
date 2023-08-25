@@ -8,7 +8,7 @@ tags:
 - Java/Serializable
 - Java/serialVersionUID
 ---
-**[[UpdateJava#Java Serialization|HOME [Java]]]**
+**[[Java#Java Serialization|HOME [Java]]]**
 
 ---
 ## Class Versioning

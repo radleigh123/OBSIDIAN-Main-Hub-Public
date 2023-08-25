@@ -6,7 +6,7 @@ tags:
 - Java/java.awt
 - Java/javax.swing
 ---
-**[[UpdateJava#Introduction Graphical User Interface (GUI)|HOME [Java]]]**
+**[[Java#Introduction Graphical User Interface (GUI)|HOME [Java]]]**
 
 ---
 ## Containers with Absolute Layout

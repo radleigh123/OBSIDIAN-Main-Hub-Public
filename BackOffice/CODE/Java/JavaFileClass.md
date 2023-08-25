@@ -4,13 +4,12 @@ creation-date: 2023-02-17
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/java.io/File
 - Java/File/getPath
 - Java/File/getAbsolutePath
 - Java/File/isFile
 ---
-**[[UpdateJava#Working with Streams|HOME [Java]]]**
+**[[Java#I/O Stream|HOME [Java]]]**
 
 ---
 <center><strong>package:</strong> java.io.File</center>

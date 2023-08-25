@@ -6,7 +6,7 @@ tags:
 - Java
 - Java/Applets
 ---
-**[[UpdateJava#Java Applets (deprecated)|HOME [Java]]]**
+**[[Java#Java Applets (deprecated)|HOME [Java]]]**
 
 ---
 ## An Unofficial History of Java Applets

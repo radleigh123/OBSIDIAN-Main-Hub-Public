@@ -10,7 +10,7 @@ tags:
 - Java/HashMap
 - Java/typecasting 
 ---
-**[[UpdateJava#Introduction to Collections|HOME [Java]]]**
+**[[Java#Introduction to Collections|HOME [Java]]]**
 
 ---
 # `Hashtable` & `HashMap` Classes

@@ -6,7 +6,7 @@ tags:
 - Java/Multithreading
 - Java/Thread
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 **Creating an object implementing the `Runnable` interface**

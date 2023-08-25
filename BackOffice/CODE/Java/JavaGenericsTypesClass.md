@@ -7,7 +7,7 @@ tags:
 - Java/Class
 - Java/ArrayList
 ---
-**[[UpdateJava#Generics|HOME [Java]]]**
+**[[Java#Generics|HOME [Java]]]**
 
 ---
 ## Generic Classes

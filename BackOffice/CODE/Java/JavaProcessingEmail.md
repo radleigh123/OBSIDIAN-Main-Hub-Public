@@ -5,7 +5,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava#Processing E-mail w/ Java|HOME [Java]]]**
+**[[Java#Processing E-mail w/ Java|HOME [Java]]]**
 
 ---
 People send and receive e-mails using e-mail client programs such as Microsoft Outlook and Gmail. Can you write your own program to send and receive e-mails? The chances are slim that you’ll need to develop a client to compete with Gmail, but enterprise Java applications often need the ability to send or receive e-mails in certain conditions.

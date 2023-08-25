@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Serialization
 ---
-**[[UpdateJava#Java Serialization|HOME [Java]]]**
+**[[Java#Java Serialization|HOME [Java]]]**
 
 ---
 ## Serializing into Byte Arrays

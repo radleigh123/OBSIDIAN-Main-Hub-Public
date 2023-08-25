@@ -1,9 +1,22 @@
+---
+cssclass:
+aliases:
+tags:
+- DSA
+- Java
+---
+**[[DSA|HOME [DSA]]]**
+
+---
 ```java
+/** 
+* The program below is meant for testing the search algorithms you'll write
+*/
+
 import java.util.*;
 
 public class Searching {
     public static void main(String[] args) {
-        // The program below is meant for testing the search algorithms you'll write
         Scanner scanner = new Scanner(System.in);
         ArrayList<Book> books = new ArrayList<>();
         System.out.println("How many books to create?");

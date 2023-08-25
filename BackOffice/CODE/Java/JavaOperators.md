@@ -6,7 +6,7 @@ tags:
 - Java
 - Java/Operators
 ---
-**[[UpdateJava#Java Basics|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 # Operators
@@ -22,7 +22,7 @@ tags:
 >>- [[JavaOperatorstypecomparison|Type Comparison]]
 >
 >>[!INFO|clean no-t]
->>- [[JavaOperatorsbitwise|Bitwise & Bit Shift]]
+>>- [[JavaOperatorsShift|Bitwise & Bit Shift]]
 
 **<center>Precedence</center>** ![[JavaOperatorsimage0.png|center]]
 

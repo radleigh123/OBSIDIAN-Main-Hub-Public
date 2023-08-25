@@ -3,10 +3,9 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Thread
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Introduction to Multi-Threading|HOME [Java]]]**
 
 ---
 >[!DONE|ttl-c]- Introduction

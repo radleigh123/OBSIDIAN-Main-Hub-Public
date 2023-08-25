@@ -5,7 +5,7 @@ creation-date: 2022-10-25
 tags:
 - C
 ---
-**[[MAINCODE]]**
+**[[MAIN-CODE]]**
 
 # C
 | <center>📚 Library</center> |                                                 |                                               |

@@ -8,7 +8,7 @@ tags:
 - Java/Socket
 - Java/ServerSocket
 ---
-**[[UpdateJava#Network Programming|HOME [Java]]]**
+**[[Java#Network Programming|HOME [Java]]]**
 
 ---
 # Socket Programming

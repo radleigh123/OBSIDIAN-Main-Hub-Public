@@ -4,9 +4,8 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 ---
-**[[UpdateJava#Java Basics|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 ## Command-Line Arguments

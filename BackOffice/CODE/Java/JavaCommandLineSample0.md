@@ -3,7 +3,6 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/String
 - Java/WrapperClass/Double/parseDouble
 - Java/WrapperClass/Integer/parseInt

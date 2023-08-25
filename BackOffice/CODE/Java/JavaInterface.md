@@ -4,11 +4,10 @@ creation-date: 2023-02-16
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class
 - Java/Interface
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
 
 ---
 # Interface

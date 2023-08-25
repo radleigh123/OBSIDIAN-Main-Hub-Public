@@ -4,10 +4,9 @@ creation-date: 2023-02-12
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/static
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Class Methods|HOME [Java]]]**
 
 ---
 # `static` keyword

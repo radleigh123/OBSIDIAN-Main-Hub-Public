@@ -3,9 +3,8 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Introduction|HOME [Java]]]**
 
 ---
 ## Executable (.jar)

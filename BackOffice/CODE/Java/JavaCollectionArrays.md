@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/java.util/List
 - Java/java.util/Collections
 - Java/java.util/ArrayList

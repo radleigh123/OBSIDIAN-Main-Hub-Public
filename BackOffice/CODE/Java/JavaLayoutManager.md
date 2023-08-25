@@ -8,7 +8,7 @@ tags:
 - Java/java.awt
 - Java/javax.swing
 ---
-**[[UpdateJava#Introduction Graphical User Interface (GUI)|MAINHUB]]**
+**[[Java#Introduction Graphical User Interface (GUI)|MAINHUB]]**
 
 ---
 # Layout Manager

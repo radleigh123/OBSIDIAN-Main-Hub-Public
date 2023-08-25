@@ -7,7 +7,7 @@ tags:
 - Java
 - Java/Thread
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Introduction to Multi-Threading|HOME [Java]]]**
 
 ---
 # `Thread` class

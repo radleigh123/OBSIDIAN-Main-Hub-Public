@@ -10,7 +10,7 @@ tags:
 - Java/JApplet
 - Java/Applets
 ---
-**[[UpdateJava#Java Applets (deprecated)|HOME [Java]]]**
+**[[Java#Java Applets (deprecated)|HOME [Java]]]**
 
 ---
 # Java Applets

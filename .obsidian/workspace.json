@@ -4,38 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "895f3529fa680604",
+        "id": "732798d45995a9f0",
         "type": "tabs",
-        "dimension": 23.653846153846153,
         "children": [
           {
-            "id": "42ba199d3eb14d2d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackOffice/CODE/Java/UpdateJava.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "19bdb7d03f7b9d9c",
-        "type": "tabs",
-        "dimension": 76.34615384615384,
-        "children": [
-          {
-            "id": "03b691ed1df35ffb",
+            "id": "0c3eea240baa1caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "API",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.99999809265137,
-    "collapsed": true
+    "width": 260.99999809265137
   },
   "right": {
     "id": "e7ea3a4c0956803b",
@@ -125,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +140,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2588386562181629,
+                  "scale": 0.06699744995282425,
                   "close": true
                 }
               }
@@ -182,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md"
               }
             }
           },
@@ -238,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 194.2244415283203,
-    "collapsed": true
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,34 +229,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03b691ed1df35ffb",
+  "active": "0c3eea240baa1caa",
   "lastOpenFiles": [
-    "TMP_Notes.md",
-    "TMP_RevisedWorkout.md",
-    "TMP_Sem1Grades.md",
-    "Untitled.md",
-    "BackOffice/CODE/Java/JavaAPI.md",
-    "20230717_0350.md",
-    "BackOffice/CODE/Java/JavaHashtableHashMap.md",
-    "BackOffice/CODE/Java/UpdateJava.md",
-    "BackOffice/CREDS.md",
-    "BackOffice/CODE/Java/JavaGenericsTypesMethod.md",
-    "BackOffice/CODE/Java/JavaGenericsSample.md",
-    "BackOffice/CODE/Java/JavaGenerics.md",
-    "BackOffice/CODE/Java/JavaTypeErasure.md",
-    "BackOffice/CODE/Java/JavaWildCardLower.md",
-    "BackOffice/CODE/Java/JavaWildCard.md",
-    "BackOffice/CODE/Java/JavaWildCardUpper.md",
-    "BackOffice/CODE/Java/JavaGenericsSample1.md",
-    "BackOffice/CODE/Java/JavaGenericsSample3.md",
-    "BackOffice/CODE/Java/JavaWildCardUnbounded.md",
-    "BackOffice/CODE/Java/JavaExceptionHandling.md",
-    "BackOffice/CODE/Java/JavaStackTrace.md",
-    "BackOffice/CODE/Java/JavaMethodReference.md",
+    "BackOffice/CODE/Java/Java.md",
+    "BackOffice/CODE/Java/JavaWrapperClass.md",
+    "BackOffice/CODE/Java/JavaVariablesScope.md",
+    "BackOffice/CODE/Java/JavaVariables.md",
+    "BackOffice/CODE/Java/JavatoString.md",
+    "BackOffice/CODE/Java/Javathissample0.md",
+    "BackOffice/CODE/Java/JavaSwingJOptionPaneshowOptionDialogsample1.md",
+    "BackOffice/CODE/Java/JavaSwingJOptionPaneshowOptionDialogsample0.md",
+    "BackOffice/CODE/Java/JavaSwingJOptionPaneshowOptionDialog.md",
+    "BackOffice/CODE/Java/JavaSwingJOptionPaneshowMessageDialog.md",
+    "BackOffice/CODE/Java/JavaSwingJOptionPaneshowConfirmDialog.md",
+    "BackOffice/CODE/Java/JavaSwingJOptionPane.md",
+    "BackOffice/CODE/Java/JavaSwing.md",
+    "BackOffice/CODE/Java/Javasuper.md",
+    "BackOffice/CODE/Java/JavaStringBuffer.md",
+    "BackOffice/CODE/Java/JavaString.md",
+    "BackOffice/CODE/Java/JavastaticSample0.md",
     "BackOffice/CODE/Java/Javastatic.md",
-    "BackOffice/CODE/Java/JavaStreamDiffer.md",
-    "BackOffice/CODE/Java/JavaLambdaFunctionalInterfacesPredicate.md",
-    "BackOffice/CODE/Java/JavaLambdaFunctionalInterfaces.md",
+    "BackOffice/CODE/Java/JavaSE&EE.md",
+    "BackOffice/CODE/Java/JavaScanner.md",
+    "BackOffice/CODE/Java/JavaSampleLaunchingPage.md",
+    "BackOffice/CODE/Java/JavaSampleKeyBindings.md",
+    "BackOffice/CODE/Java/JavaSampleDrag&DropImages.md",
+    "BackOffice/CODE/Java/JavaSample2DGraphics.md",
+    "BackOffice/CODE/Java/JavaSample2DAnimation.md",
+    "BackOffice/CODE/Java/JavaRandom.md",
+    "BackOffice/CODE/DSA",
+    "Canvas/MAINROAD.canvas",
     "Backlinks/attachments/Pasted image 20230809164424.png",
     "Backlinks/attachments/Pasted image 20230809163557.png",
     "Backlinks/attachments/Pasted image 20230809163225.png",

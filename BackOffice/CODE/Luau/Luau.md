@@ -7,7 +7,7 @@ tags:
 - Luau
 - 
 ---
-**[[MAINCODE]]**
+**[[MAIN-CODE]]**
 
 ---
 # Luau

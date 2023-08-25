@@ -4,7 +4,7 @@ aliases:
 tags:
 - Java
 ---
-**[[UpdateJava#Java Memory Management|HOME [Java]]]**
+**[[Java#Java Memory Management|HOME [Java]]]**
 
 ---
 ## Memory Leak

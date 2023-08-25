@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Collection/List/Stack
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 ## Stack Class

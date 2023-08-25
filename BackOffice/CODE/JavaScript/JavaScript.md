@@ -5,7 +5,7 @@ aliases:
 tags:
 - JavaScript
 ---
-**[[MAINCODE]]**
+**[[MAIN-CODE]]**
 
 ---
 # JavaScript

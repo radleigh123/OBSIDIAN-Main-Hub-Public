@@ -4,12 +4,11 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class
 - Java/Methods
 - Java/this
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Object-Oriented Programming|HOME [Java]]]**
 
 ---
 ## Object Passing

@@ -4,9 +4,8 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 ## Hello World Program

@@ -14,4 +14,4 @@ banner_y: 0.704
 ## Final
 
 ---
-**[[MAINBSIT|MAINHUB]]**
+**[[MAIN-BSIT|MAINHUB]]**

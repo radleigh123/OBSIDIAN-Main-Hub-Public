@@ -7,7 +7,7 @@ tags:
 - Java
 - Java/Wildcards
 ---
-**[[UpdateJava#^406387|HOME [Java]]]**
+**[[Java#^406387|HOME [Java]]]**
 
 ---
 # Wildcards

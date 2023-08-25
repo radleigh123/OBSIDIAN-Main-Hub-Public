@@ -4,7 +4,7 @@ aliases:
 tags:
 - Java
 ---
-**[[UpdateJava#Generics|HOME [Java]]]**
+**[[Java#Generics|HOME [Java]]]**
 
 ---
 ## What To Read Next

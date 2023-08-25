@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Collection/Queue/PriorityQueue
 ---
-**[[UpdateJava#Collections|HOME [Java]]]**
+**[[Java#Collections|HOME [Java]]]**
 
 ---
 ## PriorityQueue class

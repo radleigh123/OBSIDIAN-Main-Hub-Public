@@ -4,7 +4,6 @@ creation-date: 2023-02-10
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/toString
 - Java/toHexString
 - Java/Class

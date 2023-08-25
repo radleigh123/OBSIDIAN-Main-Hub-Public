@@ -36,4 +36,4 @@ banner_y: 0.62
 - [[HIST101FINAL_EXAM|Final Exam]]
 
 ---
-**[[MAINBSIT|MAINHUB]]**
+**[[MAIN-BSIT|MAINHUB]]**

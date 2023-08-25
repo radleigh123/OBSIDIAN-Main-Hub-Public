@@ -3,10 +3,9 @@ cssclass:
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 ## [[JavaClass&Object|Class]]: Variable Scope

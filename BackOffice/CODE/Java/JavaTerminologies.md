@@ -5,7 +5,7 @@ tags:
 - Java
 - 
 ---
-**[[UpdateJava#Introduction|HOME [Java]]]**
+**[[Java#Introduction|HOME [Java]]]**
 
 ---
 ## Terminologies

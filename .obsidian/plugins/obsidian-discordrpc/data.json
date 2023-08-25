@@ -2,7 +2,7 @@
   "showVaultName": true,
   "showCurrentFileName": false,
   "showPopups": true,
-  "customVaultName": "Vault",
+  "customVaultName": "Main",
   "showFileExtension": true,
   "useLoadedTime": true,
   "connectOnStart": true,

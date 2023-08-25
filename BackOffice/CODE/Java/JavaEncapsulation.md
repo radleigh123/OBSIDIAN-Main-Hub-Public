@@ -2,14 +2,13 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/AccessModifier
 - Java/Class/Constructor
 - Java/Class/Inheritance
 - Java/Class/getter
 - Java/Class/setter
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Packages, Interfaces, and Encapsulation|HOME [Java]]]**
 
 ---
 ## Encapsulation

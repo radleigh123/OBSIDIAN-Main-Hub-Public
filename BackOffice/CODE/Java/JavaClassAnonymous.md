@@ -5,7 +5,7 @@ tags:
 - Java
 - Java/Class/Anonymous
 ---
-**[[UpdateJava#Java 8 Stream API|HOME [Java]]]**
+**[[Java#Java 8 Stream API|HOME [Java]]]**
 
 ---
 ## Anonymous Class

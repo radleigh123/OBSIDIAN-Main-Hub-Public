@@ -8,7 +8,7 @@ tags:
 - Java/java.util
 - Java/Set/HashSet
 ---
-**[[UpdateJava#Introduction to Collections|HOME [Java]]]**
+**[[Java#Introduction to Collections|HOME [Java]]]**
 
 ---
 # `Set` interface

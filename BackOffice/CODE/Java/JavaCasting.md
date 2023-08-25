@@ -5,11 +5,10 @@ creation-date: 2023-03-14
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Object
 - Java/typecasting
 ---
-**[[UpdateJava|HOME [Java]]]**
+**[[Java|HOME [Java]]]**
 
 ---
 # Casting

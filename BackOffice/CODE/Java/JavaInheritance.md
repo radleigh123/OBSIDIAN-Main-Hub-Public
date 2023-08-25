@@ -4,11 +4,10 @@ creation-date: 2023-02-12
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/Class/Inheritance
 - Java/Methods
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Object-Oriented Programming|HOME [Java]]]**
 
 ---
 # Inheritance

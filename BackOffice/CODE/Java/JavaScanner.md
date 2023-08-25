@@ -3,10 +3,10 @@ title: Javauserinput
 creation-date: 2023-02-03
 aliases:
 tags:
-- Java/Lecture
+- Java
 - Java/java.util/Scanner
 ---
-**[[Java|HOME [Java]]]**
+**[[Java#Java Basics|HOME [Java]]]**
 
 ---
 <center>package: <strong>java.util.Scanner</strong></center>

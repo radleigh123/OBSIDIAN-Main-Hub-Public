@@ -2,7 +2,6 @@
 aliases:
 tags:
 - Java
-- Java/Lecture
 - Java/ControlFlow/break
 - Java/ControlFlow/continue
 - Java/ControlFlow/return
