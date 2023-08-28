@@ -6,6 +6,7 @@
 
 `School`
 **UC**: ucb-20200937 - 1Lhlanders!
+**UC-Canvas**: ucb-20200937 - 1Lhlanders!
 **UC-PORTAL**: keaneradleigh123\@gmail.com - NANOLESs123
 
 `Work`

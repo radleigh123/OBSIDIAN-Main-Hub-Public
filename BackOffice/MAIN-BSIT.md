@@ -9,9 +9,18 @@ cssclass: t-c, t-w
 #### 2nd year
 >[!recite|clean no-i] 1nd Semester S.Y. 2023-2024
 
-| Subject                   | EDP Code | Schedule |
-| ------------------------- | -------- | -------- |
-| **<center>LINK</center>** | CODE     | TIME     | 
+| Subject                                            | EDP Code | Schedule      |
+| -------------------------------------------------- | -------- | ------------- |
+| **<center>[CC-DIGILOG21 LEC](DIGILOG21.md)</center>** | 80964    | 12:30-1:30PM  |
+| <center>DIGILOG21 LAB</center>                     | 80973    | 12:00:1:30PM  |
+| **<center>[CC-DASTRUC21 LEC](DASTRUC21.md)</center>** | 80904    | 1:30-2:30PM   |
+| <center>DASTRUC21 LAB</center>                     | 80920    | 10:30-12:00PM |
+| **<center>[IT-OOPROG21 LEC](OOPROG21.md)</center>**   | 94545    | 9:30-10:30AM  |
+| <center>OOPROG21 LAB</center>                      | 94528    | 7:30-9:00AM   |
+| **<center>[CC-ACCTG21](ACCTG21.md)</center>**         | 94556    | 9:30-10:30AM  |
+| **<center>[CC-TWRITE21](TWRITE21.md)</center>**       | 80794    | 10:30-11:30AM |
+| **<center>[STS101](STS101.md)</center>**              | 81252    | 8:30-9:30AM   |
+| **<center>[PHILO101](PHILO101.md)</center>**          | 70862    | 7:30-8:30AM   |
 
 #### 1st year
 >[!recite|clean no-i] 2nd Semester S.Y. 2022-2023

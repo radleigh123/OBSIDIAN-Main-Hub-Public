@@ -66,9 +66,9 @@ Quantifiers define quantities:
 | ------------------------- | ----------------------------------------------------- |
 | <center>`N+`</center>     | `N` occurs once or more times                         |
 | <center>`N*`</center>     | `N` occurs zero or more times                         |
-| <center>`N?`</center>     | `N` occurs once or not at all                         |
+| <center>`N?`</center>     | `N` occurs zero or once                               | 
 | <center>`N{x}`</center>   | `N` occurs `x` times only                             |
-| <center>`N{x,y}`</center> | `N` occurs at least `x` times but less than `y` times | 
+| <center>`N{x,y}`</center> | `N` occurs at least `x` times but less than `y` times |
 | <center>`N{x,}`</center>  | `N` occurs `x` or more times                          |
 
 **Examples:**

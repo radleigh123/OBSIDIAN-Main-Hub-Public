@@ -20,20 +20,21 @@ By shifting the bits of its first operand right or left, a shift operator perfor
 
 ## Bitwise Operators
 The bitwise **&** operator performs a bitwise AND operation.
-The bitwise **^** operator performs a bitwise exclusive OR operation.
-The bitwise **|** operator performs a bitwise inclusive OR operation.
+The bitwise **^** operator performs a bitwise exclusive OR (`XOR`) operation.
+The bitwise **|** operator performs a bitwise inclusive OR (`OR`) operation.
 The bitwise **~** operator performs a bitwise NOT operation.
 
-The following program, BitDemo, uses the bitwise `AND`(`&`) operator to print the number **2** to standard output.
+The following program, uses the bitwise `AND`(`&`) operator to print the number **2** to standard output.
 ```java
-class BitDemo {
-    public static void main(String[] args) {
-        int bitmask = 0x000F;
-        int val = 0x2222;
-        
-        System.out.println(val & bitmask); // prints 2
-    }
-}
+int bitmask = 0x000F; // 15
+int val = 0x2222; // 8738
+
+  0010 0010 0010 0010
+& 0000 0000 0000 1111
+---------------------
+  0000 0000 0000 0010
+
+System.out.println(val & bitmask); // prints 2
 ```
 
 <br>

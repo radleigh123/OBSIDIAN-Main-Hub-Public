@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "732798d45995a9f0",
+        "id": "85f6d6f023e0d69c",
         "type": "tabs",
         "children": [
           {
-            "id": "0c3eea240baa1caa",
+            "id": "03daa12aa3ed5b14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md",
+                "file": "BackOffice/MAIN-BSIT.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "11d63ecf5df871ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BackOffice/CODE/Java/JavaStringTokenizer.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md",
+                "file": "BackOffice/CODE/Java/JavaStringTokenizer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,8 +172,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md",
-                "collapseAll": false,
+                "file": "BackOffice/CODE/Java/JavaStringTokenizer.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -176,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md",
+                "file": "BackOffice/CODE/Java/JavaStringTokenizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/Java/JavaOperatorsShift.md"
+                "file": "BackOffice/CODE/Java/JavaStringTokenizer.md"
               }
             }
           },
@@ -229,45 +242,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c3eea240baa1caa",
+  "active": "11d63ecf5df871ac",
   "lastOpenFiles": [
+    "BackOffice/MAIN-BSIT.md",
+    "BackOffice/CODE/Java/JavaStringTokenizer.md",
+    "BackOffice/CODE/Java/JavaRegex.md",
     "BackOffice/CODE/Java/Java.md",
+    "BackOffice/CODE/Java/JavaOperatorsShift.md",
+    "BackOffice/CODE/Java/JavaOperatorsShiftRightUnsigned.md",
+    "BackOffice/CODE/Java/JavaOperatorsShiftRight.md",
+    "BackOffice/CODE/Java/JavaOperatorsShiftLeft.md",
+    "Backlinks/attachments/Pasted image 20230827092924.png",
+    "BackOffice/CODE/Java/JavaOperators.md",
+    "Backlinks/attachments/JavaStringTokenizer.png",
+    "BackOffice/BSIT/2YEAR/21SEM/ACCTG21.md",
+    "BackOffice/BSIT/2YEAR/21SEM/TWRITE21.md",
+    "BackOffice/BSIT/2YEAR/21SEM/DASTRUC21.md",
+    "BackOffice/BSIT/2YEAR/21SEM/DIGILOG21.md",
+    "BackOffice/BSIT/2YEAR/21SEM/OOPROG21.md",
+    "Backlinks/attachments/ACCTG.jpg",
+    "BackOffice/BSIT/2YEAR/21SEM/PHILO101.md",
+    "BackOffice/BSIT/2YEAR/21SEM/STS101.md",
+    "Backlinks/attachments/DIGILOG.jpg",
+    "Backlinks/attachments/DASTRUC.png",
+    "Backlinks/attachments/OOPROG.jpg",
+    "Backlinks/attachments/TWRITE.png",
+    "Backlinks/attachments/STS.jpg",
+    "Backlinks/attachments/PHILO.png",
+    "BackOffice/BSIT/1YEAR/12SEM/DISCRET12/DISCRET12.md",
+    "BackOffice/BSIT/1YEAR/12SEM/COMPROG12/COMPROG12LEC.md",
+    "BackOffice/MAIN-CREDS.md",
+    "README.md",
+    "BackOffice/BSIT/2YEAR/22SEM",
+    "BackOffice/BSIT/2YEAR/21SEM",
+    "BackOffice/BSIT/2YEAR",
     "BackOffice/CODE/Java/JavaWrapperClass.md",
     "BackOffice/CODE/Java/JavaVariablesScope.md",
     "BackOffice/CODE/Java/JavaVariables.md",
     "BackOffice/CODE/Java/JavatoString.md",
     "BackOffice/CODE/Java/Javathissample0.md",
     "BackOffice/CODE/Java/JavaSwingJOptionPaneshowOptionDialogsample1.md",
-    "BackOffice/CODE/Java/JavaSwingJOptionPaneshowOptionDialogsample0.md",
-    "BackOffice/CODE/Java/JavaSwingJOptionPaneshowOptionDialog.md",
-    "BackOffice/CODE/Java/JavaSwingJOptionPaneshowMessageDialog.md",
-    "BackOffice/CODE/Java/JavaSwingJOptionPaneshowConfirmDialog.md",
-    "BackOffice/CODE/Java/JavaSwingJOptionPane.md",
-    "BackOffice/CODE/Java/JavaSwing.md",
-    "BackOffice/CODE/Java/Javasuper.md",
-    "BackOffice/CODE/Java/JavaStringBuffer.md",
-    "BackOffice/CODE/Java/JavaString.md",
-    "BackOffice/CODE/Java/JavastaticSample0.md",
-    "BackOffice/CODE/Java/Javastatic.md",
-    "BackOffice/CODE/Java/JavaSE&EE.md",
-    "BackOffice/CODE/Java/JavaScanner.md",
-    "BackOffice/CODE/Java/JavaSampleLaunchingPage.md",
-    "BackOffice/CODE/Java/JavaSampleKeyBindings.md",
-    "BackOffice/CODE/Java/JavaSampleDrag&DropImages.md",
-    "BackOffice/CODE/Java/JavaSample2DGraphics.md",
-    "BackOffice/CODE/Java/JavaSample2DAnimation.md",
-    "BackOffice/CODE/Java/JavaRandom.md",
     "BackOffice/CODE/DSA",
     "Canvas/MAINROAD.canvas",
-    "Backlinks/attachments/Pasted image 20230809164424.png",
-    "Backlinks/attachments/Pasted image 20230809163557.png",
-    "Backlinks/attachments/Pasted image 20230809163225.png",
-    "Backlinks/attachments/Pasted image 20230809162944.png",
-    "Backlinks/attachments/Pasted image 20230809155735.png",
-    "Backlinks/attachments/JavaAPI.png",
-    "Backlinks/attachments/JavaLambda.png",
-    "Excalidraw/JavaMethod.excalidraw.svg",
-    "Backlinks/attachments/JavaMethod.png",
-    "Backlinks/attachments/Pasted image 20230630105028.png"
+    "Backlinks/attachments/Pasted image 20230809164424.png"
   ]
 }

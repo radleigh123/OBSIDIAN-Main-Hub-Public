@@ -42,6 +42,7 @@ tags:
 - [[JavaString|Strings]]
 	- [[JavaStringBuilder|StringBuilder class]]
 - [[JavaRegex|Regular Expressions]]
+	- [[JavaStringTokenizer|StringTokenizer Class]]
 - [[Javaenum|Enumerated type]]
 - [[JavaRandom|Random class]]
 
