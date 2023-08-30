@@ -73,6 +73,11 @@ git branch <branch_name>
 git branch -D <branch_name>
 ```
 
+**Alias**
+```bash
+git config --global alias.<alias_name> <command>
+```
+
 <br>
 
 # 
