@@ -45,6 +45,7 @@ tags:
 	- [[JavaStringTokenizer|StringTokenizer Class]]
 - [[Javaenum|Enumerated type]]
 - [[JavaRandom|Random class]]
+- [[JavaBigInteger|BigInteger class]]
 
 #### Java Memory Management
 - [[JavaMemoryManagementIntro|Introduction]]

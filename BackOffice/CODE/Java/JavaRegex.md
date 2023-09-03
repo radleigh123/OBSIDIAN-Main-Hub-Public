@@ -75,6 +75,15 @@ Quantifiers define quantities:
 - [[JavaRegexExample0|The use of `.` (dot) example]]
 - [[JavaRegexExample1|Using the String class]]
 
+**regex examples:**
+```java
+// pattern for HTML/XML contents (<h1>Heading 1</h1>)
+Pattern.compile("<([^<>/]+)>([^<>]+)</(\\1)>");
+
+// patter for IP address (255.255.255.255)
+Pattern.compile("^(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.){3}([01]?\\d\\d?|2[0-4]\\d|25[0-5])$");
+```
+
 <br>
 
 # 

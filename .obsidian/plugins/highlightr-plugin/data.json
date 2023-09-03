@@ -1,5 +1,5 @@
 {
-  "highlighterStyle": "lowlight",
+  "highlighterStyle": "realistic",
   "highlighterMethods": "css-classes",
   "highlighters": {
     "Pink": "#FFB8EBA6",
@@ -13,7 +13,7 @@
     "Grey": "#CACFD9A6",
     "lightRed": "#FF00002E",
     "lightGreen": "#00FF2229",
-    "lightBlue": "#1F4BA42B"
+    "lightBlue": "#C7D8FAA6"
   },
   "highlighterOrder": [
     "lightBlue",
