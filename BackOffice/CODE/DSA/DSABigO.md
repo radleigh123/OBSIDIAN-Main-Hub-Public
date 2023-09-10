@@ -72,7 +72,7 @@ Since it gives the worst-case running time of an algorithm, it is widely used to
 	}
 	```
 - **O(n log n)**: <mark class="hltr-lightgreen">quasilinear runtime</mark>,
-	- used with [[DSAMergeSort|Merge Sort]]
+	- used with [[DSAAlgorithmSortingMerge|Merge Sort]]
 - **O(n²)**: <mark class="hltr-lightgreen">quadratic time</mark>,
 	- similar with multidimensional loops
 	- when you have nested loops within your algorithm, meaning a loop in a loop

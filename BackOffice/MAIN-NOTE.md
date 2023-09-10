@@ -50,6 +50,7 @@
 - girl baggy clothes pure good high IQ - boy nerdy clothes devil average IQ
 - ever wonder why changing the past is always not the answer, because God's future is absolute
 - In reality, we're just kids that grew up turning blind
+- Having different names each day in a week
 
 #### Priorities
 - Electric fan
@@ -59,7 +60,7 @@
 
 >[!ABSTRACT|alt-co ttl-c] Needed
 >- **P4500.00** - [[Razer_Tartarus_V2.png|Razer Tartarus V2]]
->- **P240,500.00** - [[Alienwarex17_R2.png|Alienware x17 R2 Gaming Laptop]]
+>- **P240,500.00** - [[Alienwarex17_R2.png|Alienware x17 R2 Gaming Laptop]] (<mark class="hltr-lightred">Ongoing issue Alienwares are slow</mark>)
 >- **P400,000.00** - [[MacBookPro_16inch.png|MacBook Pro 16-inch]]
 
 #### Education

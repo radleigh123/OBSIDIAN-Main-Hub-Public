@@ -9,10 +9,11 @@
   "pdfExportSettings": {
     "pageSize": "Tabloid",
     "landscape": false,
-    "margin": "0",
+    "margin": "2",
     "downscalePercent": 100
   },
   "livePreview": false,
   "showInlineTitle": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "propertiesInDocument": "hidden"
 }

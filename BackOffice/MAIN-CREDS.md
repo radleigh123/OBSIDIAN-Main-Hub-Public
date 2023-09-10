@@ -3,6 +3,7 @@
 **TWITTER** - keaneradleigh
 **INSTAGRAM**: keaneradleigh
 **SPOTIFY**: 90x7200b20h5c2afaoara3run (keaneradleigh123\@gmail.com) - NANOLESS1234
+**NEWGROUNDS**: keaneradleighinting\@gmail.com - Lhlanders123
 
 `School`
 **UC**: ucb-20200937 - 1Lhlanders!

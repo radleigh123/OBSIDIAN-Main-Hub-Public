@@ -38,5 +38,6 @@
   "ITS@@chkbx-strike": false,
   "checkbox@@check-bg": false,
   "checkbox@@check-text": false,
-  "ITS@@minimalist-workspace": false
+  "ITS@@minimalist-workspace": false,
+  "folder-styles@@file-explorer-flat": true
 }

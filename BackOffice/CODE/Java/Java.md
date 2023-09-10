@@ -34,6 +34,7 @@ tags:
 - [[JavaMath|Math class]]
 - [[JavaArrays|Arrays]]
 - [[JavaFlowControl|Control Flow]]
+	- [[JavaPrintingPatterns|Printing Patterns]]
 - [[JavaWrapperClass|Wrappers, AutoBoxing, & Unboxing]]
 - [[JavaDebugging|Debugging Java Programs]]
 - [[JavaCommandLine|Command-Line Arguments]]
