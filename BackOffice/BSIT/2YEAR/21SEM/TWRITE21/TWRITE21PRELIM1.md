@@ -7,45 +7,55 @@ tags: []
 **[[TWRITE21|HOME]]**
 
 ---
-## The Communication Process
-refers to a series of actions or steps taken in order to successfully communicate. It involves several components such as:
->[!column|flex no-t collapse]
->>[!NOTE|clean no-t]
->>- **Sender**: This is the person that is delivering a message to a recipient.
->>- **Message**: This refers to the information that the sender is relaying to the receiver.
->>- **Channel of communication**: This is the transmission or method of delivering the message.
->
->>[!NOTE|clean no-t]
->>- **Decoding**: This is the interpretation of the message. Decoding is performed by the <mark class="hltr-lightgreen">receiver</mark>.
->>- **Receiver**: The receiver is the person who is getting or receiving the message.
->>- **Feedback**: In some instances, the receiver might have feedback or a response for the sender. This starts an interaction.
+## Communication
+is the process of transmitting information and common understanding from one person to another. With this, it includes the communication process, barriers to communication, and improving communication effectiveness.
+> can be defined as *the process of transmitting  information and common understanding from one person to another* (Keyton, 2011).
 
-**Steps of the communication process**
-1. **Idea formation** - The communication process begins when the <mark class="hltr-lightgreen">sender has an idea</mark> to be communicated.  The idea will be influenced by complex factors surrounding the sender.  The sender must begin by clarifying the idea and purpose.
-2. **Message encoding** - The idea must be encoded into words, symbols, and gestures that will convey meaning.  Because no two people interpret information in the exact same way, the sender must be careful to choose words, symbols and gestures that are commonly understood to reduce the chances of misunderstanding.  Therefore, a <mark class="hltr-lightgreen">sender must be aware of the receiver’s communication skills</mark> and etc. to ensure clear communication.
-3. **Message transmission** - Messages can be transmitted in a <mark class="hltr-lightgreen">verbal</mark>, <mark class="hltr-lightgreen">written</mark>, or <mark class="hltr-lightgreen">visual manner</mark>.  For clear communication to occur, the medium and message must match.
->[!caption|center]
-> ![[TWRITE21PRELIM1.png]]
-> *Message Transmission Mediums*
+-   The study of communication is important, because every function and  activity involves some form of direct or indirect communication.  
+- This implies that every person’s communication skills affect both personal  and organizational effectiveness.
+- It seems reasonable to conclude that one of the most inhibiting forces to  organizational effectiveness is a lack of effective communication
+- Good communication skills are very important to ones success as a  student and a professional in general.
+- A recent study indicated that recruiters rated communication skills as  the most important characteristic of an ideal job candidate.
+- The word communication is derived from the Latin word, <mark class="hltr-lightgreen">communis</mark>, which means common.
+- The definition underscores the fact that unless a common understanding results from the exchange of information, there is no communication.
 
-4. **Decoding** - When the message reaches the receiver, the message must be <mark class="hltr-lightgreen">decoded into its intended meaning</mark>. Successful decoding is more likely when the receiver creates a receptive environment and ignores distractions. Alert receivers strive to understand both verbal and nonverbal cues, avoid prejudging the message, and expect to learn from the communication.
-5. **Feedback** - feedback occurs the sender and receiver <mark class="hltr-lightgreen">check to ensure the message was understood</mark> as intended.  Feedback is a shared responsibility between the sender and the receiver and can be verbal or non-verbal.
+### Communication Process
+Two common elements in every communication exchange are the sender and the receiver.
+- The **sender** initiates the communication. In a school, the sender is a person who has a need or desire to convey an idea or concept to others.  
+- The **receiver** is the individual to whom the message is sent.  
+- The sender encodes the idea by selecting words, symbols, or gestures with which to compose a **message**.  
+- The message is the outcome of the encoding, which takes the form of verbal, nonverbal, or written language. The message is sent through a **medium** or **channel**, which is the carrier of the communication.
+- The medium can be a face-to-face conversation, telephone call, e- mail, or written report.
+- The receiver **decodes** the received message into meaningful information. Noise is anything that distorts the message.  
+- Different perceptions of the message, language barriers, interruptions, emotions, and attitudes are examples of noise.  
+- Finally, **feedback** occurs when the receiver responds to the sender's message and returns the message to the sender. Feedback allows the sender to determine whether the message has been received and understood.
 
-<br>
+### Barriers to Effective Communication
+**Process Barriers**
+Every step in the communication process is necessary for effective and good communication. Blocked steps become barriers. Consider the following situations:
+- *Sender barrier*. A new administrator with an innovative idea fails to speak up at a meeting, chaired by the superintendent, for fear of criticism.
+- *Encoding barrier*. A Spanish-speaking staff member cannot get an English speaking administrator to understand a grievance about working conditions.
+- *Medium barrier*. A very upset staff member sends an emotionally charged letter to the leader instead of transmitting her feelings face-to-face.
+- *Decoding barrier*. An older principal is not sure what a young department head means when he refers to a teacher as "spaced out."
+- *Receiver barrier*. A school administrator who is preoccupied with the preparation of the annual budget asks a staff member to repeat a statement, because she was not listening attentively to the conversation.  
+- *Feedback barrier*. During a meeting, the failure of school administrators to ask any questions causes the superintendent to wonder if any real understanding has taken place.
 
->[!CHECK|dim-hvr]- Tips for improving the communication process
->- **Simplify your message:** In order to ensure your message is properly understood, you should keep your language simple and to the point.
->- **Know your audience:** It's also important to consider the audience that will receive your message as well as their needs and interests.
->- **Be a good listener:** As a communicator, it's important to actively listen to what those around you are saying. This will ensure that you're sending the right message.
->- **Ask questions:** It's also important to ask good questions to keep the communication flowing. Make sure your questions are insightful and engaging.
->- **Take the time to respond:** When communicating, it's important to consider how you might reply to a person to ensure you know what you want to say.
->- **Consider your body language:** If you're communicating through a different medium, it's important to be mindful of your body language. In addition, be aware of the body language of the person you're communicating with, as well.
->- **Maintain eye contact:** It's also important to make contact with the person or group you're communicating with. This will show that you're actively listening to who you're communicating with.
->- **Clarify your message if needed:** If the recipient of your message is unclear about what you're trying to say, it's important to clarify your message. This will help them to better understand you.
+> Because communication is a complex, give-and-take process, breakdowns anywhere in the cycle can block the transfer of understanding.
 
-<br>
+**Physical Barriers**
+Any number of physical distractions can interfere with the effectiveness of communication, including a telephone call, drop-in visitors, distances between people, walls, and static on the radio. People often take physical barriers for granted, but sometimes they can be removed.
 
-# 
----
-$-$ [The Communication Process](https://pressbooks.senecacollege.ca/buscomm/chapter/1-3-the-communication-process/#:~:text=The%20communication%20process%20has%20five,step%20of%20the%20communication%20process.)
-$-$ [Steps and Components of the Communication Process](https://www.indeed.com/career-advice/career-development/communication-process)
+For example, an inconveniently positioned wall can be removed. Interruptions such as telephone calls and drop-in visitors can be removed by issuing instructions to a secretary. An appropriate choice of media can overcome distance barriers between people.
+
+**Semantic Barriers**
+The words we choose, how we use them, and the meaning we attach to them cause many communication barriers. The problem is semantic, or the meaning of the words we use. The same word may mean different things to different people.
+
+Technology also plays a part in semantic barriers to communication. Today's complex school systems are highly specialized. Schools have staff and technical experts developing and using specialized terminology—**jargon** that only other similar staff and technical experts can understand. And if people don't understand the words, they cannot understand the message.
+
+**Psychosocial Barriers**
+Three important concepts are associated with psychological and social barriers:
+- **Fields of experience** include people's backgrounds, perceptions, values, biases, needs, and expectations.
+- **Filtering** means that more often than not we see and hear what we are emotionally tuned in to see and hear. Filtering is caused by our own needs and interests, which guide our listening.
+- **Psychosocial barriers** often involve a psychological distance between
+people that is similar to actual **physical distance**.
+	- E.g., the school administrator talks down to a staff member, who resents this attitude, and this resentment separates them, thereby blocking opportunity for effective communication

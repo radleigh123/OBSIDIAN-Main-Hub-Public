@@ -23,6 +23,7 @@ tags:
 >
 >>[!INFO|clean no-t]
 >>- [[JavaOperatorsShift|Bitwise & Bit Shift]]
+>>- [[JavaOperatorsTernary|Ternary Operator]]
 
 **<center>Precedence</center>** ![[JavaOperatorsimage0.png|center]]
 

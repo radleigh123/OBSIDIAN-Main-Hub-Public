@@ -16,9 +16,10 @@ banner_y: 0.312
 > This course deals with the importance of technical writing and its similarities and differences with other types of writing. Emphasis is on planning, preparing and creating documents; and collecting, evaluating and documenting sources of information. Topics include technical research; writing process; brief correspondence; document design and graphics; writing for the web; informative and investigative reports; employment communication; presentations; proposals, technical reading; and typesetting.
 
 ### PRELIM - 
+- [[TWRITE21PRELIM1|Communication]]
+- [[TWRITE21PRELIM2|What is Technical Writing?]]
+- [[TWRITE21PRELIM3|Audience & Purpose]]
 
-<mark class="hltr-lightgreen">Communication</mark> at its core, the aim of communication is to transmit information from one person to another so that the **sender** and **receiver** understand the <mark class="hltr-lightgreen">message</mark> in the same way. The responsibility for clear communication usually falls on the sender. But the receiver is also responsible to confirm a clear understanding of the message. *Communication is a dynamic and cyclical process*.
-- [[TWRITE21PRELIM1|The Communication Process]]
 ### MIDTERM - 
 ### SEMIFINAL - 
 ### FINAL - 

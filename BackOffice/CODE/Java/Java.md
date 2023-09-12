@@ -98,17 +98,18 @@ tags:
 
 #### Introduction Graphical User Interface (GUI)
 >[!DONE|collapse alt-co]- Introduction
-> $\quad$These days people are accustomed to working with applications that have rich user interfaces. If you develop rich Internet applications, **[[JavaJavaFX|JavaFX]]** is the newest platform for development offered by Oracle. But Java itself offers a library of components called **Swing**, which is used for building graphic user interfaces (GUIs) for desktop applications, as well as a web program called **applets**.
+> $\quad$These days people are accustomed to working with applications that have rich user interfaces. If you develop rich Internet applications, **[[JavaFX|JavaFX]]** is the newest platform for development offered by Oracle. But Java itself offers a library of components called **Swing**, which is used for building graphic user interfaces (GUIs) for desktop applications, as well as a web program called **applets**.
 
 - [[JavaGUI|GUI]]
+- [[JavaFX]]
 - [[JavaSwing|Swing]]
-- [[JavaLayoutManager|Layout Managers]]
-	- [[JavaTopLevelContainer|Top-Level Containers]]
-	- [[JavaLayoutManagerCombiningAll|Combining Layout Managers]]
-	- [[JavaAbsoluteLayout|Containers with Absolute Layout]]
-- Swing GUI Builders
-- **[[JavaSample2DGraphics|2D graphics]]**
-	- **[[JavaSample2DAnimation|2D Animations]]**
+	- [[JavaLayoutManager|Layout Managers]]
+		- [[JavaTopLevelContainer|Top-Level Containers]]
+		- [[JavaLayoutManagerCombiningAll|Combining Layout Managers]]
+		- [[JavaAbsoluteLayout|Containers with Absolute Layout]]
+	- Swing GUI Builders
+	- **[[JavaSample2DGraphics|2D graphics]]**
+		- **[[JavaSample2DAnimation|2D Animations]]**
 
 #### Event Handling in UI
 >[!DONE|collapse alt-co]- Introduction

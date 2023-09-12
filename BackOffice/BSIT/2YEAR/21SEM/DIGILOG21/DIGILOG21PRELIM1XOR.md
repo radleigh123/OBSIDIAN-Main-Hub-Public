@@ -9,13 +9,13 @@ tags: []
 **[[DIGILOG21PRELIM1|BACK]]**
 
 ---
-## `AND` Gate
-If 0 is called "false" and 1 is called "true," the gate acts in the same way as the logical "and" operator. The following illustration and table show the circuit symbol and logic combinations for an AND gate. (In the symbol, the input terminals are at left and the output terminal is at right.) The output is "true" when both inputs are "true." Otherwise, the output is "false." In other words, the output is 1 only when both inputs one AND two are 1.
+## `XOR` Gate
+acts in the same way as the logical "either/or." The output is "true" if either, but not both, of the inputs are "true." The output is "false" if both inputs are "false" or if both inputs are "true." Another way of looking at this circuit is to observe that the output is 1 if the inputs are different, but 0 if the inputs are the same.
 
-**Boolean notation: ** $\mathbf{A}\ \cdot\ \mathbf{B}$
-![[DIGILOG21PRELIM11.png|center]]
+**Boolean notation: ** $\mathbf{A}\ \oplus\ \mathbf{B}\quad$ **or** $\quad(\mathbf{A}\ \cdot\ \overline{\mathbf{B}}) + (\overline{\mathbf{A}}\ \cdot\ \mathbf{B})$
+![[DIGILOG21PRELIM13.png|center]]
 
-![[Pasted image 20230909165432.png]]
+![[Pasted image 20230911174048.png]]
 
 | Pin Number          | Description                                              |
 | ------------------- | -------------------------------------------------------- |
