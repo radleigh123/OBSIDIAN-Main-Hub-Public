@@ -99,7 +99,3 @@ refers to emotional overtones—the way the words make a person feel. It describ
 >[!DONE|no-i collapse ttl-c] NOTE
 > Technical writing differs from academic writing in its presentation, approach to subject matter, and audience and from imaginative writing in its “*one-meaning-and-one-meaning-only*” presentation.
 
-**TO DO:**
-Examine the information found on a box or can of your favorite packaged food or beverage. In particular, notice the nutrition information.
-Write an explanation of why the information on the package is considered technical communication.
-It is considered technical communication because it conveys specific data to a specific audience. The information is presented in a structured and standardized format, including measurements like grams and percentages, so making it technical. Furthermore, it aims to inform consumers about essential data to help them make informed decisions about their dietary choices.

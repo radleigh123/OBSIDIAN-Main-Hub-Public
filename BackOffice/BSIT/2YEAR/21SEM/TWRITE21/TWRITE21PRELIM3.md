@@ -136,7 +136,3 @@ the conglomeration of memories and incidents in an individual’s entire life sp
 >- Is my reader analytical, quiet, or outgoing?
 >- Does my reader prefer having details or seeing the big picture?
 
-**TO DO:**
-- Look through the comic section of the Sunday newspaper. Which comic strips appeal to which audiences? How do you know? For each comic strip, list the target audience and features that help you identify the audience
-- Write your assignment in a short bond paper.
-

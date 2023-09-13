@@ -8,7 +8,7 @@ banner_y: 0.312
 # Tech, Writing, & Presentation Skills in IT
 #subjectHUB 
 
-**Instructor:**
+**Instructor:** Mrs. Miriam Flores
 **EDP Code:** 80794
 **Room:** 216
 

@@ -16,6 +16,7 @@ banner_y: 0.88
 ### PRELIM - 
 - [[ACCTG21PRELIM1|Credit & Debit]]
 - [[ACCTG21PRELIM2|Types of Accounts]]
+	- [[ACCTG21PRELIM2a|Example of transactions]]
 ### MIDTERM - 
 ### SEMIFINAL - 
 ### FINAL - 
