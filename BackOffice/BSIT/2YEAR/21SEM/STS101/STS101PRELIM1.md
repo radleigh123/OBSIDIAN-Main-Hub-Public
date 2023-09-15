@@ -18,9 +18,10 @@ $\quad$ ◾ an INTELLECTUAL ACTIVITY
 $\quad$ ◾ as a BODY OF KNOWLEDGE
 $\quad$ ◾ as a PERSONAL and SOCIAL ACTIVITY
 
->[!ABSTRACT|background-color-purple] Scientific Revolution
+>[!ABSTRACT|background-color-purple]- Scientific Revolution
 > It is the series of events that altered our conception of ourselves, and our place in the universe.
-> ![[STS101PRELIM11.png]]
+> 
+> ![[STS101PRELIM11.png|center]]
 
 ![[STS101PRELIM12.png|center wm-sm]]
 

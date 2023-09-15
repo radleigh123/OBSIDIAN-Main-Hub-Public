@@ -8,7 +8,7 @@ banner_y: 0.88
 # Accounting For IT
 #subjectHUB 
 
-**Instructor:**
+**Instructor:** Ms. Mirasol Orcine
 **EDP Code:** 94556
 **Room:** 214
 

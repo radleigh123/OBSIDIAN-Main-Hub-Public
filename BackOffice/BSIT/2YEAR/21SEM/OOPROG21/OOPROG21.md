@@ -8,7 +8,7 @@ banner_y: 0.084
 # Object Oriented Programming
 #subjectHUB 
 
-**Instructor:**
+**Instructor:** Ms. Jess Cordero
 **EDP Code:**
 LEC 94545 **|** ROOM 214
 LAB 94528 **|** ROOM 203

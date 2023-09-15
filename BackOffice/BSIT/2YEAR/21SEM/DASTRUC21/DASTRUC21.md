@@ -8,7 +8,7 @@ banner_y: 0.308
 # Data Structures & Algorithms
 #subjectHUB 
 
-**Instructor:**
+**Instructor:** Mr. Jon-Kashmir Colipapa
 **EDP Code:**
 LEC 80904 **|** ROOM 215
 LAB 80920 **|** ROOM 802

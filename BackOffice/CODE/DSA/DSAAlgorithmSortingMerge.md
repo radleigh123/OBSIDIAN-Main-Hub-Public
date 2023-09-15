@@ -10,7 +10,6 @@ tags:
 ---
 ## Merge Sort
 works by dividing an array into smaller subarrays, sorting each subarray, and then merging the sorted subarrays back together to form the final sorted array.
-
 >[!aside|right]-
 > ```
 > 5 6 7 11 12 13 
@@ -93,35 +92,6 @@ void sort(int arr[], int l, int r)
 
 **Alternative**
 ```java
-static void mergeSort(int[] arr)
-{
-	int n = arr.length;
-
-	if (n <= 1) {
-		return;
-	}
-
-	int mid = n / 2;
-	int[] leftArr = new int[mid];
-	int[] rightArr = new int[n - mid];
-
-	int i = 0;
-	int j = 0;
-
-	for (; i < n; i++) {
-		if (i < mid) {
-			leftArr[i] = arr[i];
-		} else {
-			rightArr[j] = arr[i];
-			j++;
-		}
-	}
-
-	mergeSort(leftArr);
-	mergeSort(rightArr);
-	merge(leftArr, rightArr, arr);
-}
-
 static void merge(int[] leftArr, int[] rightArr, int[] arr)
 {
 	int leftSize = arr.length / 2;
@@ -154,6 +124,35 @@ static void merge(int[] leftArr, int[] rightArr, int[] arr)
 		i++;
 		r++;
 	}
+}
+
+static void mergeSort(int[] arr)
+{
+	int n = arr.length;
+
+	if (n <= 1) {
+		return;
+	}
+
+	int mid = n / 2;
+	int[] leftArr = new int[mid];
+	int[] rightArr = new int[n - mid];
+
+	int i = 0;
+	int j = 0;
+
+	for (; i < n; i++) {
+		if (i < mid) {
+			leftArr[i] = arr[i];
+		} else {
+			rightArr[j] = arr[i];
+			j++;
+		}
+	}
+
+	mergeSort(leftArr);
+	mergeSort(rightArr);
+	merge(leftArr, rightArr, arr);
 }
 ```
 

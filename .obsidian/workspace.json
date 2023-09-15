@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae6db18056f7a30",
+        "id": "920dce39dba2900a",
         "type": "tabs",
         "children": [
           {
-            "id": "0639c0e226be4b71",
+            "id": "327ee3606caf76c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21.md",
+                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
                 "mode": "preview",
                 "source": true
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "EventLis",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21.md",
+                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21.md",
+                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21.md",
+                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21.md"
+                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md"
               }
             }
           },
@@ -230,43 +230,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0639c0e226be4b71",
+  "active": "327ee3606caf76c0",
   "lastOpenFiles": [
-    "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21PRELIM3.md",
-    "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21.md",
-    "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21PRELIM1.md",
-    "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21PRELIM2.md",
-    "20230912_0555.md",
-    "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21PRELIM2a.md",
+    "TESTCREDS.md",
+    "BackOffice/MAIN-CREDS.md",
+    "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
+    "BackOffice/CODE/DSA/DSAAlgorithmSorting.md",
+    "BackOffice/CODE/DSA/DSAAlgorithmSortingMerge.md",
+    "Backlinks/attachments/DSAAlgorithmSortingMerge.png",
+    "BackOffice/CODE/DSA/DSAAlgorithm.md",
+    "BackOffice/CODE/DSA/DSA.md",
+    "BackOffice/BSIT/2YEAR/21SEM/STS101/STS101PRELIM11.md",
+    "Backlinks/somnambulism.md",
+    "Backlinks/clergy.md",
+    "Backlinks/concubines.md",
+    "Backlinks/attachments/STS101PRELIM112.png",
+    "Backlinks/attachments/STS101PRELIM111.png",
     "BackOffice/BSIT/2YEAR/21SEM/STS101/STS101.md",
     "BackOffice/BSIT/2YEAR/21SEM/STS101/STS101PRELIM1.md",
+    "BackOffice/MAIN-BSIT.md",
+    "BackOffice/BSIT/2YEAR/21SEM/DIGILOG21/DIGILOG21.md",
+    "20230912_0555.md",
+    "BackOffice/BSIT/2YEAR/21SEM/PHILO101/PHILO101.md",
+    "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21.md",
+    "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21PRELIM22.md",
+    "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21PRELIM2a.md",
+    "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21PRELIM2.md",
+    "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21PRELIM23.md",
+    "BackOffice/BSIT/2YEAR/21SEM/DASTRUC21/DASTRUC21.md",
+    "BackOffice/BSIT/2YEAR/21SEM/OOPROG21/OOPROG21.md",
+    "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21.md",
+    "Backlinks/attachments/Pasted Image 20230915082954_846.jpg",
+    "Excalidraw/Drawing_0.excalidraw.md",
+    "Excalidraw/Drawing_0.excalidraw.svg",
     "Backlinks/attachments/STS101PRELIM16.png",
     "Backlinks/attachments/STS101PRELIM15.png",
     "Backlinks/attachments/STS101PRELIM14.png",
     "Backlinks/attachments/STS101PRELIM13.png",
     "Backlinks/attachments/STS101PRELIM12.png",
-    "Backlinks/attachments/STS101PRELIM11.png",
-    "Backlinks/attachments/Pasted image 20230913182151.png",
-    "BackOffice/BSIT/1YEAR/11SEM/ST101/ST101.md",
-    "BackOffice/MAIN-BSIT.md",
-    "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21.md",
-    "Excalidraw/Drawing_0.excalidraw.md",
-    "Excalidraw/Drawing_0.excalidraw.svg",
-    "Backlinks/attachments/Pasted Image 20230913180058_567.jpg",
-    "BackOffice/BSIT/2YEAR/21SEM/PHILO101/PHILO101.md",
-    "BackOffice/BSIT/2YEAR/21SEM/PHILO101/PHILO101PRELIM1.md",
-    "Backlinks/attachments/PHILO101PRELIM1.png",
-    "BackOffice/CODE/Java/JavaFX.md",
-    "BackOffice/CODE/Java/JavaFXHelloWorld.md",
-    "20230911_0932.md",
-    "BackOffice/CODE/Java/JavaFXApplication.md",
-    "BackOffice/CODE/Java/Java.md",
-    "BackOffice/CODE/Java/JavaGUI.md",
-    "BackOffice/CODE/DSA/DSA.md",
-    "BackOffice/CODE/DSA/DSAAlgorithm.md",
-    "BackOffice/CODE/DSA/DSAAlgorithmSorting.md",
-    "BackOffice/CODE/DSA/DSAAlgorithmSortingShellSort.md",
-    "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
     "BackOffice/BSIT/2YEAR/21SEM/TWRITE21",
     "BackOffice/BSIT/2YEAR/21SEM/STS101",
     "BackOffice/BSIT/2YEAR/21SEM/PHILO101",

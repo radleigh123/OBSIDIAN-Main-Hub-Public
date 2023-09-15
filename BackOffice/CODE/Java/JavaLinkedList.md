@@ -20,9 +20,11 @@ that stores elements so that each contains a reference to the next (aka ***node*
 
 You can navigate through the list using the class `ListIterator`, which supports going through the list in both directions via its methods `next()` and `previous()`. An example, in which a standby passenger list is created at the boarding gate of some airline company:
 >[!aside|show-title right]+ RESULT
+> Rhiz
 > Alex Smith
-> Mary Lou
-> Sim Monk
+> Mary Lou  
+> Sim Monk  
+> Caballero
 
 ```java
 import java.util.*;
@@ -37,7 +39,7 @@ public class Proto {
         list.add("Sim Monk");
 
 		list.addFirst("Rhiz"); // add in the first node
-		list.addLAst("Caballero"); // add in the last node
+		list.addLast("Caballero"); // add in the last node
 		
 		/*
 		 * getFirst() - get first node

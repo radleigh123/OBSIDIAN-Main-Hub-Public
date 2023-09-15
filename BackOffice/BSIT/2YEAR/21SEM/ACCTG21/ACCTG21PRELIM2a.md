@@ -23,18 +23,19 @@ $\quad\;$ **29** $\ \;$Received a promissory note for services rendered.
 $\quad\;$ **30** $\ \;$Rendered professional service for cash.
 $\quad\;$ **31** $\ \;$Billed a customer for professional service rendered.
 
-|                         | **<center>Debit</center>** | **<center>Effect</center>** | **<center>Credit</center>** | **<center>Effect</center>** |
-| ----------------------- | -------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| **<center>1</center>**  | Cash                       | Increase in Assets          | Pingoy, Capital             | Increase in Capital/OE      |
-| **<center>5</center>**  | AR                         | Increase in Assets          | Service Income              | Increase in Income          |
-| **<center>9</center>**  | Cash                       | Increase in Assets          | AR                          | Decrease in Assets          |
-| **<center>14</center>** | Pingoy, Withdrawal/Drawing | Increase in Withdrawal      | Cash                        | Decrease in Assets          |
-|                         |                            | Decrease in OE              |                             |                             |
-| **<center>20</center>** | Rent Expense               | Increase in Expenses        | Cash                        | Decrease in Assets          |
-| **<center>23</center>** | Salary Expense             | Increase in Expenses        | Cash                        | Decrease in Assets          |
-| **<center>25</center>** | AP                         | Decrease in Liabilities     | Cash                        | Decrease in Assets          |
-| **<center>27</center>** | Furniture - cabinet        | Increase in Assets          | AP                          | Increase in Liabilities     |
-| **<center>29</center>** | AR                         | Increase in Assets          | Service Income              | Increase in Income          |
-| **<center>30</center>** |                            |                             |                             |                             |
-| **<center>31</center>** | AR                         | Increase in Assets          | Service Income              | Increase in Income          |
+|                         | **<center>Debit</center>**     | **<center>Effect</center>** | **<center>Credit</center>** | **<center>Effect</center>** |
+| ----------------------- | ------------------------------ | --------------------------- | --------------------------- | --------------------------- |
+| **<center>1</center>**  | Cash                           | Increase in Assets          | Pingoy, Capital             | Increase in Capital/OE      |
+| **<center>5</center>**  | AR                             | Increase in Assets          | Service Income              | Increase in Income          |
+| **<center>9</center>**  | Cash                           | Increase in Assets          | AR                          | Decrease in Assets          |
+| **<center>14</center>** | Pingoy, Withdrawal/Drawing     | Increase in Withdrawal      | Cash                        | Decrease in Assets          |
+|                         |                                | Decrease in OE              |                             |                             |
+| **<center>19</center>** | Transportation Equipment - Car | Increase in Assets          | AP                          | Increase in Liabilities     | 
+| **<center>20</center>** | Rent Expense                   | Increase in Expenses        | Cash                        | Decrease in Assets          |
+| **<center>23</center>** | Salary Expense                 | Increase in Expenses        | Cash                        | Decrease in Assets          |
+| **<center>25</center>** | AP                             | Decrease in Liabilities     | Cash                        | Decrease in Assets          |
+| **<center>27</center>** | Furniture - cabinet            | Increase in Assets          | AP                          | Increase in Liabilities     |
+| **<center>29</center>** | AR                             | Increase in Assets          | Service Income              | Increase in Income          |
+| **<center>30</center>** |                                |                             |                             |                             |
+| **<center>31</center>** | AR                             | Increase in Assets          | Service Income              | Increase in Income          |
 
