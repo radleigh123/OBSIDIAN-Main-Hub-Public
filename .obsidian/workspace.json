@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
+                "file": "20230912_0555.md",
                 "mode": "preview",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
+                "file": "20230912_0555.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
+                "file": "20230912_0555.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
+                "file": "20230912_0555.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md"
+                "file": "20230912_0555.md"
               }
             }
           },
@@ -232,9 +232,12 @@
   },
   "active": "327ee3606caf76c0",
   "lastOpenFiles": [
-    "BackOffice/MAIN-CREDS.md",
-    "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
+    "README.md",
+    "20230912_0555.md",
     "TESTCREDS.md",
+    "TMP_Notes.md",
+    "BackOffice/CODE/DSA/DSAAlgorithmSortingQuickSort.md",
+    "BackOffice/MAIN-CREDS.md",
     "BackOffice/CODE/DSA/DSAAlgorithmSorting.md",
     "BackOffice/CODE/DSA/DSAAlgorithmSortingMerge.md",
     "Backlinks/attachments/DSAAlgorithmSortingMerge.png",
@@ -250,7 +253,6 @@
     "BackOffice/BSIT/2YEAR/21SEM/STS101/STS101PRELIM1.md",
     "BackOffice/MAIN-BSIT.md",
     "BackOffice/BSIT/2YEAR/21SEM/DIGILOG21/DIGILOG21.md",
-    "20230912_0555.md",
     "BackOffice/BSIT/2YEAR/21SEM/PHILO101/PHILO101.md",
     "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21.md",
     "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21PRELIM22.md",
@@ -259,9 +261,7 @@
     "BackOffice/BSIT/2YEAR/21SEM/ACCTG21/ACCTG21PRELIM23.md",
     "BackOffice/BSIT/2YEAR/21SEM/DASTRUC21/DASTRUC21.md",
     "BackOffice/BSIT/2YEAR/21SEM/OOPROG21/OOPROG21.md",
-    "BackOffice/BSIT/2YEAR/21SEM/TWRITE21/TWRITE21.md",
     "Backlinks/attachments/Pasted Image 20230915082954_846.jpg",
-    "Excalidraw/Drawing_0.excalidraw.md",
     "Excalidraw/Drawing_0.excalidraw.svg",
     "Backlinks/attachments/STS101PRELIM16.png",
     "Backlinks/attachments/STS101PRELIM15.png",
